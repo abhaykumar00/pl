@@ -79,12 +79,12 @@ const start = async (requests) => {
  catch(e){
     console.log("this is error");
  }
-   for(let j=0;j<1000;j++){
+   for(let j=0;j<94;j++){
     for (let i = 0; i < REQUESTS; i++) {
         await run();
         await new Promise((resolve) => setTimeout(resolve, INTERVAL));
       }
-       latitude -=0.5 
+       latitude +=0.5 
       await fs.writeFile("latitude.txt",(latitude).toString());
       
       longitude=-180;
