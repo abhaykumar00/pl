@@ -1,0 +1,143 @@
+[
+  {
+    "access": 1,
+    "address": "kuchle plant 401chanel GR infraprojects Ltd GR infraprojects Ltd, Porbandar, Gujarat 360579, India",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 594240,
+    "latitude": 21.691619693262947,
+    "longitude": 69.58476338535547,
+    "name": "Unique Resort",
+    "stations": [
+      {
+        "id": 1546092,
+        "network_id": 1393,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3473634,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1546093,
+        "network_id": 1393,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3473635,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1546094,
+        "network_id": 1393,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3473636,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/594240"
+  },
+  {
+    "access": 1,
+    "address": "2306, Rajiv Gandhi Rd, Kamlabagh, Saukem, Porbandar, Gujarat 360576, India",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 365027,
+    "latitude": 21.635126,
+    "longitude": 69.622988,
+    "name": "Maruti Auto Porbandar Bolt Wall Charger",
+    "stations": [
+      {
+        "id": 872468,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2405406,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/365027"
+  },
+  {
+    "access": 1,
+    "address": "Chopati Rd, near CIRCUIT HOUSE, GEB Colony, Porbandar, Gujarat 360575",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 555193,
+    "latitude": 21.661329334770368,
+    "longitude": 69.63204175624999,
+    "name": "Hotel Lords Inn",
+    "stations": [
+      {
+        "id": 1437801,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3299755,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/555193"
+  },
+  {
+    "access": 1,
+    "address": "Chopati Rd, near CIRCUIT HOUSE, GEB Colony, Porbandar, Gujarat 360575",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 546393,
+    "latitude": 21.631401767728455,
+    "longitude": 69.60916854832324,
+    "name": "AmpVolts - Hotel Lords Inn Porbandar",
+    "stations": [
+      {
+        "id": 1413740,
+        "network_id": 1602,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3256819,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1413741,
+        "network_id": 1602,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3256820,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/546393"
+  }
+]

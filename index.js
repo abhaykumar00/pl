@@ -2,42 +2,19 @@ const axios = require("axios");
 const fs = require("fs").promises;
 const path = require("path");
 
-const readCounter = async () => {
-  try {
-    const counterData = await fs.readFile(
-      path.join(__dirname, "longitude.txt"),
-      "utf-8"
-    );
-    return parseInt(counterData.split("=")[1], 10);
-  } catch (error) {
-    console.error("Error reading counter file:");
-    return 0;
-  }
-};
 
-const updateCounter = async (counter) => {
-  try {
-    await fs.writeFile(
-      path.join(__dirname, "longitude.txt"),
-      `counter=${counter}`
-    );
-    console.log(`Counter successfully updated to ${counter}.`);
-  } catch (error) {
-    console.error("Error updating counter file:", error);
-  }
-};
 
 const fetchData = async (latitude, longitude) => {
   const url = "https://api.plugshare.com/v3/locations/region";
   const params = {
     access: 1,
-    count: 500,
+    count: 10000,
     latitude: latitude,
     longitude: longitude,
     minimal: 0,
     outlets: Array.from({ length: 31 }, (_, i) => ({ connector: i, power: 0 })),
-    spanLat: 0.13487949876746086,
-    spanLng: 0.2121734619140625,
+     spanLat:0.5, //0.13487949876746086,
+    spanLng: 0.5,
   };
   const headers = {
     Accept: "*/*",
@@ -54,7 +31,7 @@ const fetchData = async (latitude, longitude) => {
 
     let existingData = [];
     try {
-      const data = await fs.readFile("c.json", "utf-8");
+      const data = await fs.readFile(`${parseInt(latitude)}.json`, "utf-8");
       existingData = JSON.parse(data);
     } catch (error) {
       if (error.code !== "ENOENT") {
@@ -64,7 +41,7 @@ const fetchData = async (latitude, longitude) => {
 
     existingData.push(...response.data);
 
-    await fs.writeFile("c.json", JSON.stringify(existingData, null, 2));
+    await fs.writeFile(`${parseInt(latitude)}.json`, JSON.stringify(existingData, null, 2));
 
     console.log(
       `Data saved for latitude: ${latitude}, longitude: ${longitude}`
@@ -76,12 +53,12 @@ const fetchData = async (latitude, longitude) => {
 const aaaa = [];
 const run = async () => {
   try {
-    const latitude = parseFloat(await fs.readFile("latitude.txt", "utf8"));
+    let latitude = parseFloat(await fs.readFile("latitude.txt", "utf8"));
     let longitude = parseFloat(await fs.readFile("longitude.txt", "utf8"));
 
     await fetchData(latitude, longitude);
 
-    longitude += 0.2121734619140625;
+    longitude += 0.5;
     await fs.writeFile("longitude.txt", longitude.toString());
 
     console.log(`Updated longitude: ${longitude}`);
@@ -92,30 +69,30 @@ const run = async () => {
 };
 
 const INTERVAL = 0;
-const REQUESTS = 1696;
+const REQUESTS = 720;
 
 const start = async (requests) => {
-  for (let i = 0; i < requests; i++) {
-    await run();
-    await new Promise((resolve) => setTimeout(resolve, INTERVAL));
-  }
+    let latitude;
+ try{
+    latitude = parseFloat(await fs.readFile("latitude.txt", "utf8"));
+ }
+ catch(e){
+    console.log("this is error");
+ }
+   for(let j=0;j<1000;j++){
+    for (let i = 0; i < REQUESTS; i++) {
+        await run();
+        await new Promise((resolve) => setTimeout(resolve, INTERVAL));
+      }
+       latitude -=0.5 
+      await fs.writeFile("latitude.txt",(latitude).toString());
+      
+      longitude=-180;
+      await fs.writeFile("longitude.txt", longitude.toString());
+    }
 };
 
-const bulkDataDownload = async () => {
-  try {
-    let currentCounter = await readCounter();
-    const reqArr = [];
-    for (let i = 0; i < 1696; i++) {
-      reqArr.push(run());
-      currentCounter += 0.2121734619140625;
-    }
-    await Promise.all(reqArr);
-    await updateCounter(currentCounter);
-    console.log("FETCHED NEXT 500 IN THE BULK DATA");
-  } catch (error) {
-    console.log("Error in bulkDataDownload:", error);
-  }
-};
+
 
 // Start the loop with the specified number of requests
 start(REQUESTS);

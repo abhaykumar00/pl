@@ -1,0 +1,209 @@
+[
+  {
+    "access": 1,
+    "address": "AT. VARVALA, HS25, BETWEEN DWARKA & OKHA, DIST, Varvala, Gujarat 361335, India",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 523771,
+    "latitude": 22.292283943595542,
+    "longitude": 68.96558281034231,
+    "name": "Vachhraj Petroleum - BPCL 29kW",
+    "stations": [
+      {
+        "id": 1350779,
+        "network_id": 1567,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3140913,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/523771"
+  },
+  {
+    "access": 1,
+    "address": ": 11, KM From Reliance Oil Refinery Gate, Opp. Nayara Refinery Gate, Jamnagar City: Jamnagar",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 558696,
+    "latitude": 22.31700741850929,
+    "longitude": 69.74819001832864,
+    "name": "Hotel Twiz Park",
+    "stations": [
+      {
+        "id": 1447700,
+        "network_id": 1602,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3315112,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558696"
+  },
+  {
+    "access": 1,
+    "address": "Nageshwar Road, Dwarka, Gujarat 361335, India",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 475108,
+    "latitude": 22.24627975571419,
+    "longitude": 68.97128853946924,
+    "name": "JC Mart- EV Cosmos(30kw)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1215389,
+        "network_id": 1417,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2926456,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1215390,
+        "network_id": 1417,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2926457,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/475108"
+  },
+  {
+    "access": 1,
+    "address": "349X+5RW, NH51, Kuranga, Chowkdi Dwarka Porbandar Highway.Gujarat 361315, India",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 589631,
+    "latitude": 22.067875035946738,
+    "longitude": 69.1494120284915,
+    "name": "Radheshyam Petroleum - Bpcl Ro",
+    "stations": [
+      {
+        "id": 1532978,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3452413,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589631"
+  },
+  {
+    "access": 1,
+    "address": "Ginger, Dwarka ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 571740,
+    "latitude": 22.209808264264677,
+    "longitude": 69.01093426431673,
+    "name": "Ginger, Dwarka",
+    "stations": [
+      {
+        "id": 1481693,
+        "network_id": 1012,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3370012,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1481694,
+        "network_id": 1012,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3370013,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571740"
+  },
+  {
+    "access": 1,
+    "address": "37WC+5C3, Bhatiya, Gujarat 361315, India",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 365026,
+    "latitude": 22.095263,
+    "longitude": 69.270807,
+    "name": "PRS Highschool Bhatiya Bolt Wall Charger",
+    "stations": [
+      {
+        "id": 872466,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2405404,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/365026"
+  },
+  {
+    "access": 1,
+    "address": "X7J2+97J, Bhogat, Gujarat 361315, India",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 523770,
+    "latitude": 21.980598508940712,
+    "longitude": 69.25105802714825,
+    "name": "Madhavand Petroleum - BPCL 29kW",
+    "stations": [
+      {
+        "id": 1350778,
+        "network_id": 1567,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3140912,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/523770"
+  }
+]
