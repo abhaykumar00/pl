@@ -1,0 +1,4775 @@
+[
+  {
+    "access": 1,
+    "address": "Calle 1 9-19–9-99, Popayán, Cauca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 182313,
+    "latitude": 2.445706,
+    "longitude": -76.608,
+    "name": "Taller",
+    "stations": [
+      {
+        "id": 377142,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 671925,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/182313"
+  },
+  {
+    "access": 1,
+    "address": "Éxito Panamericana ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 571584,
+    "latitude": 2.4520763944448722,
+    "longitude": -76.60720584408544,
+    "name": "Éxito panamericana",
+    "stations": [
+      {
+        "id": 1481365,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3369178,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1481366,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3369179,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571584"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 51 Nte. #11 170, Popayán, Cauca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 345366,
+    "latitude": 2.478683,
+    "longitude": -76.581448,
+    "name": "El Tablazo Norte",
+    "stations": [
+      {
+        "id": 819841,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2324436,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/345366"
+  },
+  {
+    "access": 1,
+    "address": "calle 5 #6-70",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 313292,
+    "latitude": 2.449603,
+    "longitude": -75.773962,
+    "name": "hotel Borbón Colombia",
+    "stations": [
+      {
+        "id": 729934,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2193809,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/313292"
+  },
+  {
+    "access": 1,
+    "address": "Lot 183 &184 Jalan Pantai, Morib, 42700 Banting, Selangor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 587272,
+    "latitude": 2.7434366418429383,
+    "longitude": 101.44792791455984,
+    "name": "Gentari @ Villea Morib",
+    "stations": [
+      {
+        "id": 1526645,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3442413,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1526646,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3442414,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/587272"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Banting Sepang, 42700 Morib, Selangor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 266615,
+    "latitude": 2.715207,
+    "longitude": 101.460155,
+    "name": "chargEV - Gold Coast Morib Resort (3.7 kW AC)",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 585944,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1618486,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/266615"
+  },
+  {
+    "access": 1,
+    "address": " KLIA2 Arrival Lane, 43900, Selangor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 609348,
+    "latitude": 2.7460585073301678,
+    "longitude": 101.68569836765528,
+    "name": "Gentari @ KLIA 2",
+    "stations": [
+      {
+        "id": 1598362,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549255,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598363,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549256,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598364,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549257,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598365,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549258,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598366,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549259,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598367,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549260,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598368,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549261,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598369,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549262,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598370,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549263,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598371,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549264,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598372,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549265,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598373,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549266,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609348"
+  },
+  {
+    "access": 1,
+    "address": "Sepang 43900, Selangor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 144904,
+    "latitude": 2.744796,
+    "longitude": 101.684765,
+    "name": "chargEV KLIA 2 - Parking Blocks A & B (22 kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 276309,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 583367,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 276310,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 545123,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 276311,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 545124,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 350428,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 637450,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 350429,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 637451,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 350430,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 637452,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1240089,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2966882,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/144904"
+  },
+  {
+    "access": 1,
+    "address": "71960 Jimah, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 286544,
+    "latitude": 2.663323,
+    "longitude": 101.825956,
+    "name": "KUALITI ALAM",
+    "stations": [
+      {
+        "id": 625671,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1832438,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 625672,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1832439,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 625673,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1832440,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/286544"
+  },
+  {
+    "access": 1,
+    "address": "71150 Titian Bintangor, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 192758,
+    "latitude": 2.466629,
+    "longitude": 102.1199,
+    "name": "Gentari @ Petronas Pedas Linggi Layby Northbound",
+    "score": 8.4,
+    "stations": [
+      {
+        "id": 1103661,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2768744,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2768745,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/192758"
+  },
+  {
+    "access": 1,
+    "address": "Senawang Lay-by North Bound, 70300 Rantau, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 608934,
+    "latitude": 2.630176618241675,
+    "longitude": 101.99849121272564,
+    "name": "Senawang NB Layby",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1596928,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3547077,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3547141,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1596930,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3547079,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3547142,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608934"
+  },
+  {
+    "access": 1,
+    "address": "11a, Jalan Kemus / Sempang Ampat, 78000 Alor Gajah, Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 566636,
+    "latitude": 2.4452320552876223,
+    "longitude": 102.20654832443552,
+    "name": "Jalan Kemus / Sempang Ampat",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1468690,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3348357,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491327,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3387020,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491328,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3387021,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491329,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3387022,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/566636"
+  },
+  {
+    "access": 1,
+    "address": "Mydin Senawang Hypermarket 70450, Negeri Sembilan, Seremban",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585265,
+    "latitude": 2.7009803,
+    "longitude": 101.9798861,
+    "name": "ChargeSini Station MYDIN Senawang (60kW DC)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1521699,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3434554,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3434555,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585265"
+  },
+  {
+    "access": 1,
+    "address": "Lot 36770, 9.5 KM Jalan Seremban NSDK, Kuala Pilah, 70400 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 619700,
+    "latitude": 2.715647663354497,
+    "longitude": 102.01569691300392,
+    "name": "Petron Pekan Paroi by CarputZap (47kW DC)",
+    "stations": [
+      {
+        "id": 1626486,
+        "network_id": 1443,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3606781,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1626487,
+        "network_id": 1443,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3606782,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/619700"
+  },
+  {
+    "access": 1,
+    "address": "Lebuhraya Utara-Selatan, 78000 Alor Gajah, Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 463971,
+    "latitude": 2.363986,
+    "longitude": 102.245456,
+    "name": "TNB Electron Ayer Keroh R&R Northbound",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1180470,
+        "network_id": 1373,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2875037,
+            "kilowatts": 90,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1199909,
+        "network_id": 1373,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2905229,
+            "kilowatts": 90,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/463971"
+  },
+  {
+    "access": 1,
+    "address": "Parking Mydin Pulau Sebang, Tampin Tampin, 78000 Alor Gajah, Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 582221,
+    "latitude": 2.4630602201450693,
+    "longitude": 102.23114132881165,
+    "name": "ChargeSini Station Mydin Pulau Sebang Hypermarket (60kW DC)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1512852,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3420724,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3420725,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1518149,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3429072,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3429073,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582221"
+  },
+  {
+    "access": 1,
+    "address": "1, Jalan Pusat Dagangan Sendayan 1, Bandar Sri Sendayan, 71950 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 494567,
+    "latitude": 2.6744991,
+    "longitude": 101.8635314,
+    "name": "chargEV - D’Tempat Country Club (22 kW AC)",
+    "score": 1.7,
+    "stations": [
+      {
+        "id": 1275376,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3018537,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/494567"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Rasah, 70300 Pekan Mambau, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 190221,
+    "latitude": 2.680492019682466,
+    "longitude": 101.92747490674593,
+    "name": "Petronas Rasah",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1037927,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2664179,
+            "kilowatts": 17,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2664180,
+            "kilowatts": 17,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/190221"
+  },
+  {
+    "access": 1,
+    "address": "Pejabat Pos Seremban, Bandar Seremban, 70300 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 533948,
+    "latitude": 2.719309784955704,
+    "longitude": 101.94142553955317,
+    "name": "chargEV - Pejabat Pos Besar Seremban",
+    "score": 7.5,
+    "stations": [
+      {
+        "id": 1379938,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3185740,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3185741,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533948"
+  },
+  {
+    "access": 1,
+    "address": "544, Jalan Pantai, 71050 Port Dickson, Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 587273,
+    "latitude": 2.412792548674816,
+    "longitude": 101.85580909252167,
+    "name": "Gentari @ Villea Port Dickson",
+    "stations": [
+      {
+        "id": 1526647,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3442415,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1526648,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3442416,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1526649,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3442417,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/587273"
+  },
+  {
+    "access": 1,
+    "address": "3689, Jalan Rasah Jaya Utama 2, Taman Rasah Jaya, 70300, Seremban",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567147,
+    "latitude": 2.6828643855066368,
+    "longitude": 101.94613621039493,
+    "name": "V Boutique Hotel",
+    "stations": [
+      {
+        "id": 1470028,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3350626,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1470029,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3350627,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567147"
+  },
+  {
+    "access": 1,
+    "address": "8C-G, Groung Floor Car Park, Off, Jalan Sungai Ujong, 70200 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 512375,
+    "latitude": 2.71675348577494,
+    "longitude": 101.9200534387891,
+    "name": "ChargeSini Station Seremban Gateway (22 kW AC; 40 kW DC)",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1320831,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3598272,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3598273,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1320832,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3598274,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1320833,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3598275,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/512375"
+  },
+  {
+    "access": 1,
+    "address": "No.50 &51G, Jalan Rasah, 70300 Seremban, Negeri Sembilan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478656,
+    "latitude": 2.7046013915094975,
+    "longitude": 101.9403198188532,
+    "name": "ChargeSini Rhadium & Raytech Seremban (22 kW AC)",
+    "stations": [
+      {
+        "id": 1226039,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943599,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226040,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943600,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478656"
+  },
+  {
+    "access": 1,
+    "address": "219, Lorong Bunga Raya 4, Taman Purba, 70400 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584451,
+    "latitude": 2.7199443141501085,
+    "longitude": 101.95982590203427,
+    "name": "abdrahman.my",
+    "stations": [
+      {
+        "id": 1519540,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3431288,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 9,
+            "id": 3431289,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584451"
+  },
+  {
+    "access": 1,
+    "address": "34, Jalan PB 1, Taman Padang Balang, 75350 Batu Berendam Melaka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 428733,
+    "latitude": 2.251936,
+    "longitude": 102.245077,
+    "name": "The Age, Coffee Co. (Previous OneZo) (11 kW AC)",
+    "stations": [
+      {
+        "id": 1041995,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2670277,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/428733"
+  },
+  {
+    "access": 1,
+    "address": "70000 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 193277,
+    "latitude": 2.721191,
+    "longitude": 101.945305,
+    "name": "Royale Chulan Seremban (3 pin)",
+    "stations": [
+      {
+        "id": 406251,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 712473,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 406252,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 712474,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 406253,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 712475,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 406254,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 712476,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 406255,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 712477,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 406256,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 712478,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 406257,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 712479,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 406258,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 712480,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/193277"
+  },
+  {
+    "access": 1,
+    "address": "1288-G, Persiaran Suriaman, Bandar Sri Sendayan, 71950 SEREMBAN, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 363279,
+    "latitude": 2.69943,
+    "longitude": 101.85993,
+    "name": "CEE4EV - Coffee Bear 143 Cafe",
+    "stations": [
+      {
+        "id": 868196,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2399518,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 868197,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2399519,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/363279"
+  },
+  {
+    "access": 1,
+    "address": "Terminal One Shopping Centre, UG14, Terminal One Shopping Centre, Jalan Lintang, 70200, Bandar Seremban, 70000 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 499376,
+    "latitude": 2.722869416778936,
+    "longitude": 101.9370924308896,
+    "name": "ChargeSini Station Terminal 1 Shopping Centre (22 kW AC)",
+    "stations": [
+      {
+        "id": 1287753,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3036873,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1287754,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3036874,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/499376"
+  },
+  {
+    "access": 1,
+    "address": "269, Jalan Haruan 1, Oakland Commercial Centre, 70300 Seremban, Negeri Sembilan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601651,
+    "latitude": 2.704196,
+    "longitude": 101.916876,
+    "name": "LSK Auto Services (22kW AC)",
+    "stations": [
+      {
+        "id": 1570082,
+        "network_id": 1443,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3509659,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1570083,
+        "network_id": 1443,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3509660,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601651"
+  },
+  {
+    "access": 1,
+    "address": "Lot 50800 Persiaran Utama S2-3, Jalan S2 D22, Seremban 2, 70300 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 544496,
+    "latitude": 2.6922710259329024,
+    "longitude": 101.90706535440569,
+    "name": "chargEV - Starbucks Seremban 2 (60 kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1408834,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3244805,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3244806,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/544496"
+  },
+  {
+    "access": 1,
+    "address": "Mydin Mall Seremban 2 70300, Negeri Sembilan, Seremban",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585272,
+    "latitude": 2.6955783,
+    "longitude": 101.9037389,
+    "name": "ChargeSini Station Mydin Seremban 2 (60kW DC)",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1521714,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3434580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3434581,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585272"
+  },
+  {
+    "access": 1,
+    "address": "Palm Mall, Jalan Sungai Ujong, Kemayan Square, 70200 Seremban, Negeri Sembilan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 542105,
+    "latitude": 2.7198558,
+    "longitude": 101.9229003,
+    "name": "ParkEasy @ Palm Mall Seremban (11kW AC)",
+    "stations": [
+      {
+        "id": 1402222,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3229244,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1402223,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3229245,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1402224,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3229246,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542105"
+  },
+  {
+    "access": 1,
+    "address": "596, Lebuhraya Utara-Selatan, 78000 Alor Gajah, Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 250076,
+    "latitude": 2.394928,
+    "longitude": 102.223696,
+    "name": "Caltex Ayer Keroh Southbound",
+    "score": 9.3,
+    "stations": [
+      {
+        "id": 547182,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1498680,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1498681,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1498682,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/250076"
+  },
+  {
+    "access": 1,
+    "address": "Regina Mall 71000, Negeri Sembilan, Port Dickson",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 567614,
+    "latitude": 2.524345,
+    "longitude": 101.801705,
+    "name": "ChargeSini Station Regina Mall (60kW DC)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1471154,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3352411,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3352412,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567614"
+  },
+  {
+    "access": 1,
+    "address": "PD waterfront, Persiaran Waterfront, 71000 Port Dickson, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 544312,
+    "latitude": 2.5207997930874035,
+    "longitude": 101.80035475641489,
+    "name": "chargEV - Starbucks Port Dickson Waterfront (80kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1408397,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3243629,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3244757,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/544312"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tanpa Nama, Port Dickson, 71050, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 432148,
+    "latitude": 2.418562,
+    "longitude": 101.874587,
+    "name": "Lexis Hibiscus (3 pin)",
+    "stations": [
+      {
+        "id": 1051842,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2685619,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1051843,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2685620,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1051844,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2685621,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1051845,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2685622,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/432148"
+  },
+  {
+    "access": 1,
+    "address": "c/o Sports Complex Batu Berendam PT 13671, Mukim, 75350 Batu Berendam, Malacca, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 540413,
+    "latitude": 2.2509886689988523,
+    "longitude": 102.24745720624924,
+    "name": "Kompleks Sukan Batu Berendam (11 kW AC)",
+    "stations": [
+      {
+        "id": 1397693,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3218620,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/540413"
+  },
+  {
+    "access": 1,
+    "address": "Lebuhraya Utara Selatan, 78000 Gadek, Malacca, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 289319,
+    "latitude": 2.398296,
+    "longitude": 102.219614,
+    "name": "Caltex Ayer Keroh Northbound (22 kW AC; 50 kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 633055,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1920559,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1920560,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1920561,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/289319"
+  },
+  {
+    "access": 1,
+    "address": "R&R Ayer Keroh Jejantas (S), Lebuhraya Utara Selatan Alor Gajah, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 456974,
+    "latitude": 2.398355,
+    "longitude": 102.221754,
+    "name": "Ayer Keroh OBR Southbound",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1104757,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2770216,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2770217,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2770219,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456974"
+  },
+  {
+    "access": 1,
+    "address": "1, Jalan Toman 2, Kemayan Square, 70200 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 604175,
+    "latitude": 2.717809456606266,
+    "longitude": 101.92147443239345,
+    "name": "KPJ Seremban - 22KW AC(Coming Soon)",
+    "stations": [
+      {
+        "id": 1579829,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3527634,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1585075,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3530221,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1585076,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3530222,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604175"
+  },
+  {
+    "access": 1,
+    "address": "Persiaran Waterfront PD Waterfront, Kampung Bahasa Kapor, 71000 Port Dickson, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 250165,
+    "latitude": 2.521943,
+    "longitude": 101.799411,
+    "name": "chargEV - D'Wharf Hotel & Serviced Residence (22 kW AC)",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 547364,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1499777,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 547365,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1499778,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 547366,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1499779,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/250165"
+  },
+  {
+    "access": 1,
+    "address": "596, Lebuhraya Utara-Selatan, 78000 Alor Gajah, Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 155237,
+    "latitude": 2.394527,
+    "longitude": 102.223984,
+    "name": "Petronas Ayer Keroh Southbound (22 kW AC)",
+    "score": 3.8,
+    "stations": [
+      {
+        "id": 299469,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 571726,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/155237"
+  },
+  {
+    "access": 1,
+    "address": "Lebuhraya Utara Selatan, 78000 Melaka Pindah, Malacca, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 158317,
+    "latitude": 2.364181,
+    "longitude": 102.245165,
+    "name": "Petronas Ayer Keroh North Bound (22 kW AC)",
+    "score": 6.2,
+    "stations": [
+      {
+        "id": 310987,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 588043,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/158317"
+  },
+  {
+    "access": 1,
+    "address": "1, Jalan S2 A6, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 358158,
+    "latitude": 2.70489131008917,
+    "longitude": 101.91078867763281,
+    "name": "ChargEV - BMW Millennium Welt Seremban 2",
+    "score": 8.6,
+    "stations": [
+      {
+        "id": 854366,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2666371,
+            "kilowatts": 30,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/358158"
+  },
+  {
+    "access": 1,
+    "address": "No 2, Jalan S2 A6, 70300 Seremban, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 602488,
+    "latitude": 2.7048394001883405,
+    "longitude": 101.91050168126822,
+    "name": "Autel BMW Seremban 2 (120kW DC)",
+    "stations": [
+      {
+        "id": 1573326,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3514110,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3514111,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602488"
+  },
+  {
+    "access": 1,
+    "address": "CV9F+9Q Si Rusa, Negeri Sembilan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 582472,
+    "latitude": 2.418385868788895,
+    "longitude": 101.87442453484381,
+    "name": "Lexis Hibiscus Hotel Parking",
+    "stations": [
+      {
+        "id": 1513581,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3421939,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513582,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3421940,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513583,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3421941,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513584,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3421942,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513585,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3421943,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582472"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tanpa Nama, 77200 Bemban, Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 581334,
+    "latitude": 2.2796755916483957,
+    "longitude": 102.39092856645584,
+    "name": "ChargeSini Station Mydin Bandar Jasin (60kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1510360,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3416934,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3416935,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581334"
+  },
+  {
+    "access": 1,
+    "address": "Mydin MITC 75450, Malacca, Ayer Keroh",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585264,
+    "latitude": 2.2706949,
+    "longitude": 102.2926471,
+    "name": "ChargeSini Station MYDIN MITC Ayer Keroh (60kW DC)",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 1521698,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3434552,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3434553,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585264"
+  },
+  {
+    "access": 1,
+    "address": "99, Jalan SW 33, 75450 Ayer Keroh, Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 595230,
+    "latitude": 2.2722202424924083,
+    "longitude": 102.26724285632372,
+    "name": "Taman Sutera Wangi, Batu Berendam",
+    "stations": [
+      {
+        "id": 1548921,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3478114,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3478116,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595230"
+  },
+  {
+    "access": 1,
+    "address": "Jln PKAK2, Pusat Komersil Ayer Keroh, 75450 Melaka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 496535,
+    "latitude": 2.2759969416245536,
+    "longitude": 102.29341136150477,
+    "name": "AMES Hotel (11 kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1280077,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3025790,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1280087,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3025800,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/496535"
+  },
+  {
+    "access": 1,
+    "address": "Kompleks Seri Negeri, Hang Tuah Jaya, 75450‎ Ayer Keroh,‎ Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 80264,
+    "latitude": 2.268866,
+    "longitude": 102.300461,
+    "name": "Kompleks Seri Negeri (Blue CEE socket; T1 AC)",
+    "stations": [
+      {
+        "id": 116918,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2395804,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/80264"
+  },
+  {
+    "access": 1,
+    "address": "Taman Sulir, 85000 Segamat, Johor",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 454307,
+    "latitude": 2.537643,
+    "longitude": 102.816697,
+    "name": "Kebun Haus Recreational and Cafe",
+    "stations": [
+      {
+        "id": 1097112,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2759880,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1097113,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2759881,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/454307"
+  },
+  {
+    "access": 1,
+    "address": "Jln Kolam Air, Kampung Gubah, 85000 Segamat District, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 580996,
+    "latitude": 2.509043270802582,
+    "longitude": 102.81199682503939,
+    "name": "Segamat Central Mall",
+    "stations": [
+      {
+        "id": 1509428,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3581577,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/580996"
+  },
+  {
+    "access": 1,
+    "address": "Jeti Penumpang Mersing, Jalan Abu Bakar, Mersing Kechil, 86800 Mersing, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 531722,
+    "latitude": 2.4345465106544526,
+    "longitude": 103.8392845770621,
+    "name": "Mersing Jetty",
+    "stations": [
+      {
+        "id": 1373242,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3175441,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/531722"
+  },
+  {
+    "access": 1,
+    "address": "GC9G+FJ Daro, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 518400,
+    "latitude": 2.5187350838936116,
+    "longitude": 111.42661679096943,
+    "name": "Petros Station Daro",
+    "stations": [
+      {
+        "id": 1336008,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3117503,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/518400"
+  },
+  {
+    "access": 1,
+    "address": "Sarawak Energy Regional Office, Jln Deshon Timur, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 545328,
+    "latitude": 2.3080974719967733,
+    "longitude": 111.86204376962841,
+    "name": "ChargEV - Sarawak Energy Sibu",
+    "stations": [
+      {
+        "id": 1410953,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3249830,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/545328"
+  },
+  {
+    "access": 1,
+    "address": "Setiausaha Majlis Daerah Luar Bandar Sibu Tingkat 18, Wisma Sanyan Jalan Sanyan, 96008, Sibu, Sarawak, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 518556,
+    "latitude": 2.2908559478871307,
+    "longitude": 111.82570900667216,
+    "name": "chargEV - Wisma Sanyan",
+    "stations": [
+      {
+        "id": 1355168,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3147714,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/518556"
+  },
+  {
+    "access": 1,
+    "address": "Vía Principal El Bordo, El Bordo, Patía, Cauca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 103313,
+    "latitude": 2.117885,
+    "longitude": -76.983264,
+    "name": "Taller de soldadura",
+    "stations": [
+      {
+        "id": 174650,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 397895,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/103313"
+  },
+  {
+    "access": 1,
+    "address": "Balneario Patacore",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330071,
+    "latitude": 2.134648,
+    "longitude": -76.964874,
+    "name": "Enel X - Balneario Patacore",
+    "stations": [
+      {
+        "id": 776241,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268061,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 776242,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268062,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330071"
+  },
+  {
+    "access": 1,
+    "address": "Hotel Balneario Patacore, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330428,
+    "latitude": 2.134648,
+    "longitude": -76.964874,
+    "name": "Enel X - Hotel Balneario Patacore - 10 kW",
+    "stations": [
+      {
+        "id": 777034,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269196,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 777035,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269197,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330428"
+  },
+  {
+    "access": 1,
+    "address": "2, Jln KSB 1, Taman Kota Syahbandar, 75200 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 476731,
+    "latitude": 2.193756195118603,
+    "longitude": 102.23743513226509,
+    "name": "ChargeSini Station Swan Garden Hotel ( 40 kW DC , 22 kW AC  ) - Chargesini",
+    "score": 8.8,
+    "stations": [
+      {
+        "id": 1220308,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2935580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1220309,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2935581,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1220310,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2935582,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1235738,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2956798,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476731"
+  },
+  {
+    "access": 1,
+    "address": "Bangunan Starbucks Coffee, Taman Limbongan Indah, 75200 Malacca, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 533556,
+    "latitude": 2.2023664516061525,
+    "longitude": 102.22279731184244,
+    "name": "chargEV - Starbucks Kota Laksamana DT (60kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1380944,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3187225,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3187226,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533556"
+  },
+  {
+    "access": 1,
+    "address": "10, Jalan Gajah Berang, Kampung Enam, 75200 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 484002,
+    "latitude": 2.2085874432035397,
+    "longitude": 102.24292878374014,
+    "name": "EVPower Charging Melaka (60 kW DC, 22 kW AC)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1242037,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2969592,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2969593,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1242038,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2969589,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1242039,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2969590,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1552257,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3483781,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1552258,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3483782,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1552259,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3483783,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1552260,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3483784,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1552261,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3483785,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1552262,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3483786,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484002"
+  },
+  {
+    "access": 1,
+    "address": "Pusat Perubatan, Klebang, 75200 Melaka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478657,
+    "latitude": 2.2081300851983197,
+    "longitude": 102.21430998642013,
+    "name": "ChargeSini Station Oriental Melaka Straits Medical Centre (11kW AC)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1226041,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943601,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226042,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943602,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226043,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943603,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226044,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943604,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226045,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943605,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478657"
+  },
+  {
+    "access": 1,
+    "address": "Lot 2610, Mukim, 75400, Malacca",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 468898,
+    "latitude": 2.238441,
+    "longitude": 102.234187,
+    "name": "chargEV - Starbucks Malim Jaya DT (22 kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1198242,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2902998,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/468898"
+  },
+  {
+    "access": 1,
+    "address": "15, Jalan KLJ 1, Taman Kota Laksamana, 75200 Kota Laksamana, Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 570488,
+    "latitude": 2.197416812725422,
+    "longitude": 102.23326005484306,
+    "name": "JomCharge @ Marvelux Hotel (11kW AC , 50kW DC)",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 1478429,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3364014,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3364015,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1478430,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3364016,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1478431,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3364017,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/570488"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Pantai Klebang, 75200, Malacca, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 195071,
+    "latitude": 2.216312,
+    "longitude": 102.194403,
+    "name": "Dead",
+    "score": 6,
+    "stations": [
+      {
+        "id": 411366,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 718814,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/195071"
+  },
+  {
+    "access": 1,
+    "address": "168, Taman Melaka Raya Off Bandar Hilir, 75000, Melaka, Melaka, Jln Merdeka, Bandar Hilir, 75000 Malacca, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 366056,
+    "latitude": 2.190622,
+    "longitude": 102.24801,
+    "name": "Menara Taming Sari Open Car Park (DEAD)",
+    "score": 4.4,
+    "stations": [
+      {
+        "id": 875587,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2409470,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 875588,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2409471,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 879221,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2414518,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 9,
+            "id": 2414519,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/366056"
+  },
+  {
+    "access": 1,
+    "address": "24, Jalan Kota Laksamana 3/14, Taman Mahajaya, 75200 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 517630,
+    "latitude": 2.195884379042477,
+    "longitude": 102.23543419140168,
+    "name": "Project 703 Cafe (22kW AC)",
+    "stations": [
+      {
+        "id": 1334293,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3114378,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/517630"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Syed Abd Aziz, 75000 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 171058,
+    "latitude": 2.187175,
+    "longitude": 102.247636,
+    "name": "Holiday Inn Hotel Melaka (22 kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 347752,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 634081,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 978042,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2570764,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1478494,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3364156,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1478495,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3364157,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1478496,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3364158,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/171058"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tun Perak, Kampung Enam, 75300 Malacca, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 195074,
+    "latitude": 2.20969,
+    "longitude": 102.243607,
+    "name": "chargEV - KINGS GREEN HOTEL CITY CENTRE MELAKA (3.7 kW AC)",
+    "score": 8,
+    "stations": [
+      {
+        "id": 411369,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3573548,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 411370,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3573549,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 850553,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3573550,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 850554,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3573551,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/195074"
+  },
+  {
+    "access": 1,
+    "address": "1, Jln Merdeka, Taman Costa Mahkota, 75000 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589043,
+    "latitude": 2.1890523608986423,
+    "longitude": 102.24994897842407,
+    "name": "ParkEasy @ Mahkota Parade (22kW AC)",
+    "stations": [
+      {
+        "id": 1531101,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3449555,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1531102,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3449556,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1531103,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3449557,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589043"
+  },
+  {
+    "access": 1,
+    "address": "Holiday Inn Melaka, an IHG Hotel 75000, Malacca, Melaka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 570849,
+    "latitude": 2.1874203,
+    "longitude": 102.2476355,
+    "name": "ChargeSini Station Holiday Inn Melaka (22kW AC)",
+    "stations": [
+      {
+        "id": 1479389,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3365541,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1479390,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3365542,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1479391,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3365543,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/570849"
+  },
+  {
+    "access": 1,
+    "address": "79, Jalan Sisi, Pekan Muar, 84000 Muar, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 590990,
+    "latitude": 2.0442600043712784,
+    "longitude": 102.56703939288855,
+    "name": "ChargeSini Station Remington Hotel Muar (47kW DC)",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 1536914,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3458938,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3458939,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590990"
+  },
+  {
+    "access": 1,
+    "address": "84900, AH2, 84900 Tangkak, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 312302,
+    "latitude": 2.235767,
+    "longitude": 102.570843,
+    "name": "Tangkak Shell Southbound",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1218086,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2931872,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3284504,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/312302"
+  },
+  {
+    "access": 1,
+    "address": "Parit Pinang Seribu Jalan Abdul Rahman 84000 Muar Johore",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 525530,
+    "latitude": 1.9744610757628582,
+    "longitude": 102.61467958983685,
+    "name": "Faizuls",
+    "stations": [
+      {
+        "id": 1355373,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3148024,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/525530"
+  },
+  {
+    "access": 1,
+    "address": "No 19, Jalan PPBK, Pusat Perniagaan Bukit Katil, 75450, Bukit Katil, Melaka",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 405753,
+    "latitude": 2.230003,
+    "longitude": 102.298949,
+    "name": "Tahap Puncak Sdn Bhd (22 kW AC; 60 kW DC)",
+    "score": 8.4,
+    "stations": [
+      {
+        "id": 978075,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2570799,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2571486,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2571487,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/405753"
+  },
+  {
+    "access": 1,
+    "address": "No. 6, Jalan Tun Abdul Razak-Ayer Keroh Taman Delima Raya Bandar Bukit Baru Seksyen III, Hang Tuah Jaya, 75150, Melaka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 524168,
+    "latitude": 2.2302543179689702,
+    "longitude": 102.27561730059432,
+    "name": "Mondrian Restaurant Cafe",
+    "stations": [
+      {
+        "id": 1351937,
+        "network_id": 1609,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3142660,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1351938,
+        "network_id": 1609,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3142661,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/524168"
+  },
+  {
+    "access": 1,
+    "address": "g39, Jalan Tun Abdul Razak, 75450 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585819,
+    "latitude": 2.234057795869231,
+    "longitude": 102.282490208745,
+    "name": "[UNAVAILABLE] Aeon Melaka Shopping Centre",
+    "score": 1.4,
+    "stations": [
+      {
+        "id": 1523233,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3436939,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3438694,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1523234,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3436940,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3436941,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585819"
+  },
+  {
+    "access": 1,
+    "address": "1-A, Jalan Melaka Raya 2, Taman Melaka Raya, 75000 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 606702,
+    "latitude": 2.1880689276059084,
+    "longitude": 102.25429505955505,
+    "name": "Noble Resort Hotel Melaka (Coming Soon)",
+    "stations": [
+      {
+        "id": 1589120,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3535750,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/606702"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Semabok, 75050‎ Ujong Pasir‎ Malakka, Maleisië",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 125697,
+    "latitude": 2.195797,
+    "longitude": 102.268403,
+    "name": "chargEV - Seong Hoe Premium Motors (22 kW AC; 30 kW DC)",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 224934,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 473252,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 898565,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2439988,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/125697"
+  },
+  {
+    "access": 1,
+    "address": "Ibu Pejabat Pos Malaysia, Taman Malinja, 75150 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 533933,
+    "latitude": 2.2145074987137723,
+    "longitude": 102.26506020873785,
+    "name": "chargEV - Pejabat Pos Besar Melaka",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1380964,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3187264,
+            "kilowatts": 40,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3187265,
+            "kilowatts": 40,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533933"
+  },
+  {
+    "access": 1,
+    "address": "Wetex Parade, Level 3-05 - 07, Jalan Ali, Johor, Pekan Muar, 84000 Muar, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 264154,
+    "latitude": 2.044522,
+    "longitude": 102.566234,
+    "name": "Wetex Parade (22 kW AC)",
+    "score": 7.5,
+    "stations": [
+      {
+        "id": 579684,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1595814,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 579685,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1595815,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/264154"
+  },
+  {
+    "access": 1,
+    "address": "8, Jalan Abdul Rahman, Kampung Dato Bentara Dalam, 84000 Muar, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 566415,
+    "latitude": 2.037258600661591,
+    "longitude": 102.56296941772158,
+    "name": "MUO Resort",
+    "score": 8.6,
+    "stations": [
+      {
+        "id": 1468125,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3347391,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1468853,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3348642,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1468854,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3348643,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1468855,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3348644,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/566415"
+  },
+  {
+    "access": 1,
+    "address": "43, Jalan Temenggong, Bandar Hilir, 75100 Melaka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 432177,
+    "latitude": 2.196079,
+    "longitude": 102.25223,
+    "name": "Sterling Boutique Hotel Melaka (11 kW AC)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1051926,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2685740,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 9,
+            "id": 2685741,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/432177"
+  },
+  {
+    "access": 1,
+    "address": "1 Jalan Melaka Raya 9, Taman Melaka Raya, 75000 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 553417,
+    "latitude": 2.187313832138256,
+    "longitude": 102.25551090836564,
+    "name": "Eco Tree Hotel (22 kW AC)",
+    "stations": [
+      {
+        "id": 1432678,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3291956,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1432679,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3291957,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1432680,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3291958,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1432681,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3291959,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/553417"
+  },
+  {
+    "access": 1,
+    "address": "33, Jalan Tun Sri Lanang, 75100 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 367883,
+    "latitude": 2.204644,
+    "longitude": 102.252048,
+    "name": "THE PINES MELAKA HOTEL (3 pin)",
+    "stations": [
+      {
+        "id": 880446,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2416129,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 977061,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2569540,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 977062,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2569541,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 977063,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2569542,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 977064,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2569543,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 977065,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2569544,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 977066,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2569545,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 977067,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2569546,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 977068,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2569547,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/367883"
+  },
+  {
+    "access": 1,
+    "address": "33, Jalan Tun Sri Lanang, 75100 Melaka",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 581799,
+    "latitude": 2.20465531724706,
+    "longitude": 102.25248695386507,
+    "name": "The Pines Melaka by DC Handal [100 kW Dynamic DC]",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1511775,
+        "network_id": 1780,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3419036,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1511889,
+        "network_id": 1780,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3419216,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581799"
+  },
+  {
+    "access": 1,
+    "address": "31, Jalan Taming Sari, 75400 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 469410,
+    "latitude": 2.209137,
+    "longitude": 102.254354,
+    "name": "ChargeSini Raytech Melaka (22 kW AC; 60kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1199783,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2905049,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1199784,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2905050,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1199785,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2905051,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/469410"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Syed Abdul Aziz, 75000 Melaka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578889,
+    "latitude": 2.186384164159934,
+    "longitude": 102.25031903142036,
+    "name": "Costa Mahkota (22kW AC)",
+    "stations": [
+      {
+        "id": 1502712,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3405332,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1502713,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3405333,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578889"
+  },
+  {
+    "access": 1,
+    "address": "16, Jalan Tun Sri Lanang, Pengkalan Rama Tengah, 75100 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 531190,
+    "latitude": 2.2034790371037207,
+    "longitude": 102.25301280823085,
+    "name": "Volvo Melaka (Coming Soon)",
+    "stations": [
+      {
+        "id": 1371587,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3173110,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3173111,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/531190"
+  },
+  {
+    "access": 1,
+    "address": "Jalan, Lorong Haji Bachee, Kampung Bukit China, 75100 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 544760,
+    "latitude": 2.2032988355420864,
+    "longitude": 102.254325337708,
+    "name": "Courtyard by Marriott Melaka (22 kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1409435,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3246160,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1409436,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3246161,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/544760"
+  },
+  {
+    "access": 1,
+    "address": "4MXX+C7 Kampung Jawa, Panchor, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 365873,
+    "latitude": 2.148541,
+    "longitude": 102.69824,
+    "name": "R&R Pagoh Northbound",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 874980,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2408597,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2672457,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/365873"
+  },
+  {
+    "access": 1,
+    "address": "33, Jalan Tun Sri Lanang, 75100 Melaka, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 544180,
+    "latitude": 2.2047206947932922,
+    "longitude": 102.25199349224567,
+    "name": "The Pines Melaka (22 kW AC)",
+    "stations": [
+      {
+        "id": 1408177,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243284,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408178,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243285,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408179,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243286,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408180,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3243287,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/544180"
+  },
+  {
+    "access": 1,
+    "address": "57GM+VJ Malacca, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 612977,
+    "latitude": 2.177176848911873,
+    "longitude": 102.28403717771116,
+    "name": "Andy (Coming Soon)",
+    "stations": [
+      {
+        "id": 1608239,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3566305,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/612977"
+  },
+  {
+    "access": 1,
+    "address": "Target Supermarket Cawangan Yong Peng 83700, Johor, Yong Peng",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 578280,
+    "latitude": 2.0060349,
+    "longitude": 103.0480051,
+    "name": "Target Supermarket Yong Peng 大吉超市永平 (47kW DC)",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 1500778,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3402624,
+            "kilowatts": 47,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3474385,
+            "kilowatts": 47,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578280"
+  },
+  {
+    "access": 1,
+    "address": "Lot PTD Jalan Batu Pahat, 86100 Ayer Hitam, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 471796,
+    "latitude": 1.9325733879193696,
+    "longitude": 103.18763789611323,
+    "name": "Gentari @ Petronas Bandar Baru Ayer Hitam (180kW x4, 50kW x1)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1206723,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2914475,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1217661,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2931046,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2931047,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1217662,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2931048,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2931049,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1217663,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2931050,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1217664,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2931051,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471796"
+  },
+  {
+    "access": 1,
+    "address": "2 Jalan Siswa Jaya 1, off Jalan Parit Sempadan, 86400 Parit Raja, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 114799,
+    "latitude": 1.856752,
+    "longitude": 103.098636,
+    "name": "Hotel Pintar Parit Raja",
+    "stations": [
+      {
+        "id": 197640,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 430026,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/114799"
+  },
+  {
+    "access": 1,
+    "address": "Lebuhraya Utara Selatan, 84600 Jorak, Johore, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 266255,
+    "latitude": 2.120934,
+    "longitude": 102.794131,
+    "name": "chargEV - Pagoh R&R Southbound (22 kW AC)",
+    "score": 5.5,
+    "stations": [
+      {
+        "id": 585057,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1615824,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 585058,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1615825,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/266255"
+  },
+  {
+    "access": 1,
+    "address": "NO 28-D, Jalan Tanjong Laboh, Kampung Bahagia, 83000 Batu Pahat, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 431608,
+    "latitude": 1.845344,
+    "longitude": 102.940552,
+    "name": "chargEV - BMW Millenium Batu Pahat (30 kW DC)",
+    "score": 6.7,
+    "stations": [
+      {
+        "id": 1049715,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2682647,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1049716,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2682648,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/431608"
+  },
+  {
+    "access": 1,
+    "address": "The Summit Batu Pahat, Lot E, PB1, 1st Floor, No.88, Jalan Bakau Condong, Johor, Kampung Pegawai, 83000 Batu Pahat, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 548991,
+    "latitude": 1.8574742651368117,
+    "longitude": 102.93429715648413,
+    "name": "ChargeSini Station The Summit Batu Pahat (22kW AC, 20kW-40kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1420997,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3271513,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3271514,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1424658,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3279363,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1424659,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3279364,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/548991"
+  },
+  {
+    "access": 1,
+    "address": "1005, Jln Kluang, 83000 Batu Pahat, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 479766,
+    "latitude": 1.8513756,
+    "longitude": 102.9424956,
+    "name": "VOLVO Batu Pahat 3S (7.4 KW AC)",
+    "stations": [
+      {
+        "id": 1229535,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2967994,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/479766"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Batu Pahat, Taman Bersatu, 86000 Kluang, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 376859,
+    "latitude": 2.020951,
+    "longitude": 103.30992,
+    "name": "Petron Jalan Kluang 2",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 904681,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2450952,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2450953,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2450954,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/376859"
+  },
+  {
+    "access": 1,
+    "address": "Target Grand Supermarket (Taman Kluang Perdana) Sdn Bhd 86000, Johor, Kluang",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583269,
+    "latitude": 2.0023783,
+    "longitude": 103.2910907,
+    "name": "ChargeSini Station Target Grand Supermarket (22kW AC)",
+    "stations": [
+      {
+        "id": 1515879,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3425422,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1515880,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3425423,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583269"
+  },
+  {
+    "access": 1,
+    "address": "Kluang Parade, No. 2 Jalan Sentol, 86000 Kluang, Johor",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 511245,
+    "latitude": 2.0361957,
+    "longitude": 103.3208092,
+    "name": "ChargeSini Station Kluang Parade (11kW AC, 40kW DC)",
+    "score": 8.3,
+    "stations": [
+      {
+        "id": 1317546,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087376,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1317547,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087377,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1394024,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3211015,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511245"
+  },
+  {
+    "access": 1,
+    "address": "20, Jalan Bakawali, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 593159,
+    "latitude": 2.0349023447406602,
+    "longitude": 103.32320172339678,
+    "name": "ChargeSini Station Prime City Hotel",
+    "stations": [
+      {
+        "id": 1543081,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3469080,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1543082,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3469081,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/593159"
+  },
+  {
+    "access": 1,
+    "address": "RPHX+56 Sematan, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 545323,
+    "latitude": 1.8278832,
+    "longitude": 109.7480366,
+    "name": "chargEV - Sematan Roxy Hotel",
+    "stations": [
+      {
+        "id": 1410943,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3249814,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/545323"
+  },
+  {
+    "access": 1,
+    "address": "Teluk Penyuk Santubong Santubong, 93762 Kuching, Sarawak",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 513859,
+    "latitude": 1.7529145174835632,
+    "longitude": 110.3161035105586,
+    "name": "chargEV - Damai Lagoon",
+    "stations": [
+      {
+        "id": 1324448,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098023,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513859"
+  }
+]

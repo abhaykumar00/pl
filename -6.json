@@ -1,0 +1,7001 @@
+[
+  {
+    "access": 1,
+    "address": "escritório ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601412,
+    "latitude": -6.06911090668855,
+    "longitude": -50.06816511047079,
+    "name": "Núcleo Carajás prédio ferrosos",
+    "stations": [
+      {
+        "id": 1569466,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3508717,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 3508718,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601412"
+  },
+  {
+    "access": 1,
+    "address": "escritório ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601414,
+    "latitude": -6.069291157029953,
+    "longitude": -50.068430435541686,
+    "name": "prédio ferrosos",
+    "stations": [
+      {
+        "id": 1569468,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3508720,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601414"
+  },
+  {
+    "access": 1,
+    "address": "BR-343, 365, Água Branca - PI, 64460-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478890,
+    "latitude": -5.892157,
+    "longitude": -42.645669,
+    "name": "Lanchonete O Sales",
+    "stations": [
+      {
+        "id": 1227204,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2951049,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478890"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia BR 316 km 84, Piauí ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 557363,
+    "latitude": -5.76321280083441,
+    "longitude": -42.612503949684616,
+    "name": "BR Super Carga - Lili Doces Estaca Zero",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1444124,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3451166,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1532133,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3451098,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1532167,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3451167,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/557363"
+  },
+  {
+    "access": 1,
+    "address": "BR-316, KM 159 - Várzea Alegre, Elesbão Veloso - PI, 64325-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 501405,
+    "latitude": -6.188305199999999,
+    "longitude": -42.1204301,
+    "name": "Posto Santa Lúcia",
+    "stations": [
+      {
+        "id": 1293335,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3046106,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/501405"
+  },
+  {
+    "access": 1,
+    "address": "Rua Antonio Aurilio Mota de Moraes, 790 - Planalto Nelandia - Tauá -CE",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 592203,
+    "latitude": -5.989018358763457,
+    "longitude": -40.29645741663705,
+    "name": "Planeta Charge - DC - 40Kw - Estacionamento Planeta Net Telecom",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1540410,
+        "network_id": 1842,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3464810,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/592203"
+  },
+  {
+    "access": 1,
+    "address": "BR-405, Pau dos Ferros - RN, 59900-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 595227,
+    "latitude": -6.152019983925588,
+    "longitude": -38.20580497384071,
+    "name": "Auto Posto 405 - Ipiranga",
+    "stations": [
+      {
+        "id": 1548917,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3478206,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595227"
+  },
+  {
+    "access": 1,
+    "address": "Rua Rota do Sol Dr. Nilton Figueiredo, 64 - Chico Cajá, Pau dos Ferros - RN, 59900-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 483363,
+    "latitude": -6.151910342555403,
+    "longitude": -38.20584200892368,
+    "name": "Auto Posto 405 - Ipiranga",
+    "stations": [
+      {
+        "id": 1240446,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2967421,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2967422,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/483363"
+  },
+  {
+    "access": 1,
+    "address": "R. Lauro Maia, 246, Olho d'Água do Borges - RN, 59730-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 564318,
+    "latitude": -5.95730197982684,
+    "longitude": -37.70343685407017,
+    "name": "Hospital de olho d’água",
+    "stations": [
+      {
+        "id": 1462815,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3339221,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/564318"
+  },
+  {
+    "access": 1,
+    "address": "Av. Piloto Pereira Tim, s/n - Cajupiranga, Parnamirim - RN, 59156-410",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 341799,
+    "latitude": -5.94935,
+    "longitude": -35.264728,
+    "name": "Posto Dislub (Corredor Verde Neoenergia)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 808206,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2309627,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2309628,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2309629,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341799"
+  },
+  {
+    "access": 1,
+    "address": "Praia Das Minas ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 534362,
+    "latitude": -6.249122837028377,
+    "longitude": -35.03884022683304,
+    "name": "Filha da Lua Eco Lodge",
+    "stations": [
+      {
+        "id": 1380022,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3185878,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/534362"
+  },
+  {
+    "access": 1,
+    "address": "Rua Matoso / Beira Mar , Nísia Floresta - RN, 59164-000, Brasilien",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 598860,
+    "latitude": -6.004376351638534,
+    "longitude": -35.10984979569912,
+    "name": "Pousada Cocoa",
+    "stations": [
+      {
+        "id": 1560606,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3496002,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/598860"
+  },
+  {
+    "access": 1,
+    "address": "R. Natal Sul, 11 - Capim Macio, Natal - RN, 59080-005, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585086,
+    "latitude": -5.851832927057186,
+    "longitude": -35.20942846085584,
+    "name": "Audi Center Natal",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1521276,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3433909,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3433910,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585086"
+  },
+  {
+    "access": 1,
+    "address": "BR 101, nº 910 - Emaús, Parnamirim/RN",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 529176,
+    "latitude": -5.89049665223872,
+    "longitude": -35.248304176452294,
+    "name": "Duducar Veículos",
+    "stations": [
+      {
+        "id": 1365284,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3443835,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/529176"
+  },
+  {
+    "access": 1,
+    "address": "Av. Rio Branco, 184 - Cidade Alta, Natal - RN, 59012-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 334998,
+    "latitude": -5.77912,
+    "longitude": -35.204261,
+    "name": "Pg Prime Natal",
+    "stations": [
+      {
+        "id": 789157,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2285099,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334998"
+  },
+  {
+    "access": 1,
+    "address": "Av. Capitão-Mor Gouveia, 1597 - Nossa Sra. de Nazaré, Natal - RN, 59060-971",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 569388,
+    "latitude": -5.819395979137353,
+    "longitude": -35.234841136486054,
+    "name": "Rodoviária de Natal",
+    "stations": [
+      {
+        "id": 1475280,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3359043,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/569388"
+  },
+  {
+    "access": 1,
+    "address": "Via Costeira Sen. Dinarte Medeiros Mariz, 7829 - Ponta Negra, Natal - RN, 59014-002, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 308522,
+    "latitude": -5.860248,
+    "longitude": -35.181214,
+    "name": "Ocean Palace Beach Resort & Bungalows",
+    "stations": [
+      {
+        "id": 716990,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2152653,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 719789,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2159256,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/308522"
+  },
+  {
+    "access": 1,
+    "address": "Av. das Alagoas, 358 - Neópolis, Natal - RN, 59086-200, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 488548,
+    "latitude": -5.86342454084819,
+    "longitude": -35.21220691502094,
+    "name": "Posto Monte Belo",
+    "score": 2.8,
+    "stations": [
+      {
+        "id": 1254306,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2989067,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/488548"
+  },
+  {
+    "access": 1,
+    "address": "R. Cel. Auris Coelho, 245 - Lagoa Nova, Natal - RN, 59075-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 591534,
+    "latitude": -5.8244116033297795,
+    "longitude": -35.206735582975966,
+    "name": "HC PLAZA",
+    "stations": [
+      {
+        "id": 1538608,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461769,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591534"
+  },
+  {
+    "access": 1,
+    "address": "R. do Concris - Praia da Pipa, Tibau do Sul - RN, 59178-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 534365,
+    "latitude": -6.239844989899084,
+    "longitude": -35.040045200006624,
+    "name": "Sempre Vivo Hotel",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1380027,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3185861,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/534365"
+  },
+  {
+    "access": 1,
+    "address": "Rua dos Cajueiros, 45 - Pipa - Tibau do Sul - RN",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578011,
+    "latitude": -6.233261643876694,
+    "longitude": -35.04612677855339,
+    "name": "Pousada Xamã - Awaken Your Senses",
+    "stations": [
+      {
+        "id": 1499957,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3401574,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578011"
+  },
+  {
+    "access": 1,
+    "address": "Natal Shopping - Estacionamento D2A",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 317798,
+    "latitude": -5.842204,
+    "longitude": -35.211274,
+    "name": "Natal Shopping",
+    "score": 6.1,
+    "stations": [
+      {
+        "id": 741789,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2222430,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1537986,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3460746,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1537987,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3460747,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1537988,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3460748,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/317798"
+  },
+  {
+    "access": 1,
+    "address": "Av. Ayrton Senna, 2646 - Neópolis, Parnamirim - RN, 59153-150, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 342692,
+    "latitude": -5.896377,
+    "longitude": -35.198054,
+    "name": "Shopping Cidade Verde",
+    "score": 1.9,
+    "stations": [
+      {
+        "id": 810678,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3175449,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/342692"
+  },
+  {
+    "access": 1,
+    "address": "Av. Ayrton Senna, 2109 - Capim Macio, Parnamirim - RN, 59153-150, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 542160,
+    "latitude": -5.8890796597333095,
+    "longitude": -35.19950363495292,
+    "name": "Posto Ayrton Senna",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1402317,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3229425,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542160"
+  },
+  {
+    "access": 1,
+    "address": "Av. Hermes da Fonseca, 755 - Tirol, Natal - RN, 59014-495, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 465033,
+    "latitude": -5.791502,
+    "longitude": -35.197026,
+    "name": "Posto Monte Belo Hermes",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1183470,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2903170,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/465033"
+  },
+  {
+    "access": 1,
+    "address": "R. Potengi - Petrópolis, Natal - RN, 59020-030, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 481738,
+    "latitude": -5.7841695,
+    "longitude": -35.1999708,
+    "name": "Residência (Coming Soon)",
+    "stations": [
+      {
+        "id": 1235623,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 2956653,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/481738"
+  },
+  {
+    "access": 1,
+    "address": "Av. Engenheiro Roberto Freire, 1011 - Capim Macio, Natal - RN, 59078-600",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 557384,
+    "latitude": -5.853293875910508,
+    "longitude": -35.200226606085565,
+    "name": "COMJOL",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1444173,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3309518,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1444174,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3309519,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/557384"
+  },
+  {
+    "access": 1,
+    "address": "Av. Bernardo Vieira, 3755 - Tirol, Natal - RN, 59015-450, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 306144,
+    "latitude": -5.811294,
+    "longitude": -35.206235,
+    "name": "Midway Mall",
+    "score": 8.4,
+    "stations": [
+      {
+        "id": 1547139,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3475205,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547140,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3475206,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547141,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3475207,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547142,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3475208,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547143,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3475209,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547144,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3475210,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547145,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3475211,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547146,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3475212,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/306144"
+  },
+  {
+    "access": 1,
+    "address": "Senador Salgado Filho 1718",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 609340,
+    "latitude": -5.807994608108483,
+    "longitude": -35.203657027192094,
+    "name": "Tirol Way Office",
+    "stations": [
+      {
+        "id": 1598333,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549196,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598334,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549200,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598335,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549204,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598336,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549208,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609340"
+  },
+  {
+    "access": 1,
+    "address": "R. Manoel Messías Soares, 18 - Capim Macio, Natal - RN, 59082-323, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581773,
+    "latitude": -5.869009362068686,
+    "longitude": -35.18699008304528,
+    "name": "Lavajato 7 Club",
+    "stations": [
+      {
+        "id": 1511685,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3418846,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581773"
+  },
+  {
+    "access": 1,
+    "address": "Av. Eng. Roberto Freire, 340, Capim Macio, Natal/RN",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 357446,
+    "latitude": -5.851127099999999,
+    "longitude": -35.2055217,
+    "name": "Zletric - Shopping Cidade Jardim",
+    "score": 10,
+    "stations": [
+      {
+        "id": 852339,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2376831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 852340,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2376832,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357446"
+  },
+  {
+    "access": 1,
+    "address": "Av. Prudente de Morais, 2399, Barro Vermelho, Natal/RN",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 613792,
+    "latitude": -5.8040112,
+    "longitude": -35.2071387,
+    "name": "BYD Carmais",
+    "stations": [
+      {
+        "id": 1610865,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3571908,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3571909,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/613792"
+  },
+  {
+    "access": 1,
+    "address": "Av. Prudente de Morais, 2005 - Tirol, Natal - RN, 59022-550",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 616696,
+    "latitude": -5.80068579036179,
+    "longitude": -35.20594226737369,
+    "name": "E-SOLAR",
+    "stations": [
+      {
+        "id": 1617759,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3588207,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/616696"
+  },
+  {
+    "access": 1,
+    "address": "Av. Engenheiro Roberto Freire, 1646 - Capim Macio, Natal - RN, 59082-400, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 597274,
+    "latitude": -5.85841735199334,
+    "longitude": -35.19634231925011,
+    "name": "Assaí - Atacadista",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 1555246,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3488293,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1555247,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3488294,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/597274"
+  },
+  {
+    "access": 1,
+    "address": "Av. Lima e Silva, 1337 - Lagoa Nova, Natal - RN, 59054-630, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 558454,
+    "latitude": -5.822870828259091,
+    "longitude": -35.215711159793116,
+    "name": "Trauma Center",
+    "stations": [
+      {
+        "id": 1446904,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3313968,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3313969,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558454"
+  },
+  {
+    "access": 1,
+    "address": "Av. Prudente de Morais, 5050 - Lagoa Nova, Natal - RN, 59063-200, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 538964,
+    "latitude": -5.825456436781481,
+    "longitude": -35.21595999598503,
+    "name": "Posto 30 Setembro",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1393580,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3210291,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538964"
+  },
+  {
+    "access": 1,
+    "address": "Av. Engenheiro Roberto Freire, 142 - Capim Macio, Natal - RN, 59078-600",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 586583,
+    "latitude": -5.850407199999999,
+    "longitude": -35.2072215,
+    "name": "Ferreira Costa",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 1524930,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3439658,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3515807,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586583"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Dão Silveira, 3712 - Candelária - Natal/RN - CEP: 59.066-180",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 452828,
+    "latitude": -5.852617,
+    "longitude": -35.211132,
+    "name": "PG Prime Jaguar Land Rover",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1091154,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2752210,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1091155,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2752211,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/452828"
+  },
+  {
+    "access": 1,
+    "address": "Av. dao Silveira, 3740 - Candelária, Natal - RN, 59066-800, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 479779,
+    "latitude": -5.851957601816257,
+    "longitude": -35.210735723376274,
+    "name": "Lampadinha",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1229564,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2948501,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1560647,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3496054,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1560648,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3496055,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/479779"
+  },
+  {
+    "access": 1,
+    "address": "Av. Sen. Salgado Filho, 3661 - Candelária, Natal - RN, 59086-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 326520,
+    "latitude": -5.851607,
+    "longitude": -35.209405,
+    "name": "PG Prime Volvo",
+    "stations": [
+      {
+        "id": 766107,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2254720,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/326520"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Silvio Pedroza, 27 - Areia Preta, Natal - RN, 59014-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577899,
+    "latitude": -5.784377,
+    "longitude": -35.1908545,
+    "name": "Conveniência da Praia 24H",
+    "stations": [
+      {
+        "id": 1499618,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3565875,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 3565876,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577899"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road, Kendwa, Tanzania",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 355464,
+    "latitude": -5.752338,
+    "longitude": 39.287877,
+    "name": "Kendwa Rocks",
+    "stations": [
+      {
+        "id": 847103,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2370033,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/355464"
+  },
+  {
+    "access": 1,
+    "address": "R5G6+G24, Sukajaya, Curug, Serang City, Banten 42171, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 519735,
+    "latitude": -6.173813159278208,
+    "longitude": 106.16004513692421,
+    "name": "SPKLU KP3b serang banten",
+    "stations": [
+      {
+        "id": 1339260,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3122684,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3122685,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3122686,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3122687,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1339261,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3122688,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/519735"
+  },
+  {
+    "access": 1,
+    "address": "3272+M2X, Merak, Mekarsari, Pulomerak, Cilegon, Banten 42438",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542427,
+    "latitude": -5.935727978069214,
+    "longitude": 105.99991977801582,
+    "name": "SPKLU Pelabuhan Merak Executive",
+    "stations": [
+      {
+        "id": 1403244,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3231419,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3231420,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3231421,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542427"
+  },
+  {
+    "access": 1,
+    "address": "Blok A, Jl. Perintis Kemerdekaan No.27, RT.001/RW.005, Babakan, Tangerang, Kota Tangerang, Banten 15111, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 223105,
+    "latitude": -6.193145,
+    "longitude": 106.633694,
+    "name": "SPKLU (TangCity)",
+    "stations": [
+      {
+        "id": 487417,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1176397,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1176398,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 487418,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1176399,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1176400,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/223105"
+  },
+  {
+    "access": 1,
+    "address": "R8GQ+222, Julang, Cikande, Serang Regency, Banten, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542567,
+    "latitude": -6.174918691394045,
+    "longitude": 106.33761837420595,
+    "name": "SPKLU PLN ULP Cikande",
+    "stations": [
+      {
+        "id": 1403598,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3232151,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232152,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542567"
+  },
+  {
+    "access": 1,
+    "address": "Jl. MH. Thamrin No.17, RT.004/RW.002, Pakualam, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15143, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 605779,
+    "latitude": -6.229210457726194,
+    "longitude": 106.6410218551755,
+    "name": "Collins BSD",
+    "stations": [
+      {
+        "id": 1585534,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 3532468,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605779"
+  },
+  {
+    "access": 1,
+    "address": "XM2V+6XQ, Salembaran, Kosambi, Tangerang Regency, Banten, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 560959,
+    "latitude": -6.049427460189131,
+    "longitude": 106.69495638459921,
+    "name": "Spklu Pln Centre Point Pik2",
+    "stations": [
+      {
+        "id": 1453761,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3324702,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1453762,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3324703,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/560959"
+  },
+  {
+    "access": 1,
+    "address": "VMPJ+868, Jl. Perimeter Utara, RT.006/RW.007, Benda, Kec. Benda, Kota Tangerang, Banten 15126, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 464312,
+    "latitude": -6.114268,
+    "longitude": 106.680635,
+    "name": "SPKLU Pertamina Bandara Soekarno-Hatta",
+    "stations": [
+      {
+        "id": 1181285,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2876152,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2876153,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1181286,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2876154,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/464312"
+  },
+  {
+    "access": 1,
+    "address": "Blok G, Jl. Pantai Indah Selatan No.1, RT.3/RW.3, Kamal Muara, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14470, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 464075,
+    "latitude": -6.124106,
+    "longitude": 106.739785,
+    "name": "Starvo Starbucks PIK Elang Laut",
+    "stations": [
+      {
+        "id": 1180755,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2875425,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2875426,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2875427,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1180756,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2875428,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1180757,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2875429,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/464075"
+  },
+  {
+    "access": 1,
+    "address": "QP8Q+7C8, Jl. HOS Cokroaminoto, RT.001/RW.002, Kreo, Kec. Larangan, Kota Tangerang, Banten 15155, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 466251,
+    "latitude": -6.234422,
+    "longitude": 106.738483,
+    "name": "SPKLU PLN UID3 Kebon Jeruk",
+    "stations": [
+      {
+        "id": 1187188,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2884292,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2884293,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2884294,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/466251"
+  },
+  {
+    "access": 1,
+    "address": "Pujasera Km 13.5 Rest Area Pinang Kunciran, RT.001/RW.007, Pinang, Kec. Pinang, Kota Tangerang, Banten 15145, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 489288,
+    "latitude": -6.21371603012085,
+    "longitude": 106.68309783935547,
+    "name": "SPKLU Rest Area KM 13.5",
+    "stations": [
+      {
+        "id": 1262597,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2999842,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2999843,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/489288"
+  },
+  {
+    "access": 1,
+    "address": "1Kawasan Ciputra International, Jl. Lkr. Luar Barat No.1, Rawa Buaya, Cengkareng, Jakarta Barat",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521857,
+    "latitude": -6.173071799542292,
+    "longitude": 106.73088029007371,
+    "name": "Casion - Ciputra Int. Puri Amsterdam Apartment",
+    "stations": [
+      {
+        "id": 1345162,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132332,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521857"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Puri Indah Raya Blok U 1, RT.3/RW.2, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 609413,
+    "latitude": -6.1877379772755186,
+    "longitude": 106.73877417973773,
+    "name": "Electric Car Charging Station by Hyundai",
+    "stations": [
+      {
+        "id": 1598642,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3549692,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3549693,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598643,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549694,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609413"
+  },
+  {
+    "access": 1,
+    "address": "Jl. MH. Thamrin No.17, RT.004/RW.002, Pakualam, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15143, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 608715,
+    "latitude": -6.229195745104212,
+    "longitude": 106.64090232198433,
+    "name": "collins marketing gallery",
+    "stations": [
+      {
+        "id": 1596201,
+        "network_id": 1762,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3545944,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608715"
+  },
+  {
+    "access": 1,
+    "address": "Alam Sutera, Tangerang Selatan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533621,
+    "latitude": -6.2436071604620444,
+    "longitude": 106.65502933810787,
+    "name": "Living World",
+    "stations": [
+      {
+        "id": 1378326,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3183135,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533621"
+  },
+  {
+    "access": 1,
+    "address": "Jalur Sutera Tim., Kunciran, Kec. Pinang, Kota Tangerang, Banten 15144",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521876,
+    "latitude": -6.223498118513711,
+    "longitude": 106.66415759311525,
+    "name": "Casion - The Smith",
+    "stations": [
+      {
+        "id": 1345187,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132364,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521876"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Jenderal Sudirman No. 1, Babakan, Sukasari, Tangerang, Banten",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 462217,
+    "latitude": -6.184265,
+    "longitude": 106.64269,
+    "name": "SPKLU PLN UID Banten",
+    "stations": [
+      {
+        "id": 1151340,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2822191,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2822192,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2822193,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462217"
+  },
+  {
+    "access": 1,
+    "address": "VMJC+XC, Pajang, Benda, Tangerang City, Banten, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 498699,
+    "latitude": -6.117958845280261,
+    "longitude": 106.67107775150765,
+    "name": "SPKLU Soekarno-Hatta Terminal 3 Domestic (Coming Soon)",
+    "stations": [
+      {
+        "id": 1285724,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3034217,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3034218,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1285725,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3034219,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/498699"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tanpa Nama, RT.001/RW.006, Benda, Kec. Benda, Kota Tangerang, Banten 15125, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 586685,
+    "latitude": -6.112841137953711,
+    "longitude": 106.68947529047728,
+    "name": "Starvo 101 jakarta Airport Hotel Cbc",
+    "stations": [
+      {
+        "id": 1525212,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3440032,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1525213,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3440033,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586685"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Puri Agung No.1, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589782,
+    "latitude": -6.1890746,
+    "longitude": 106.7334914,
+    "name": "Puri indah mall",
+    "stations": [
+      {
+        "id": 1533556,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3453290,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3453291,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1533557,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3453292,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3453293,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589782"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Puri Agung No.1, RW.2, Kembangan Sel., Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 539954,
+    "latitude": -6.187473445518645,
+    "longitude": 106.7344222831942,
+    "name": "Self Drive Valet EV Charger - Puri Indah Mall",
+    "stations": [
+      {
+        "id": 1396558,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3216016,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1396559,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3216017,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1396560,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3216018,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1396561,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3216019,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/539954"
+  },
+  {
+    "access": 1,
+    "address": "Ruko Elang Laut Blok B2 no.21, Kamal Muara, Kec. Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585981,
+    "latitude": -6.124184257810476,
+    "longitude": 106.73803433775902,
+    "name": "Dayagreen Ruko Elang Laut C/7 Pik",
+    "stations": [
+      {
+        "id": 1523548,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437448,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585981"
+  },
+  {
+    "access": 1,
+    "address": "1Kawasan Ciputra International, Jl. Lkr. Luar Barat No.1, Rawa Buaya, Cengkareng, Jakarta Barat",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521859,
+    "latitude": -6.172733977846235,
+    "longitude": 106.73151017430945,
+    "name": "Casion - Ciputra Int. Puri San Francisco Apartment",
+    "stations": [
+      {
+        "id": 1345165,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132336,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521859"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Lkr. Luar Barat No.101, Rw. Buaya, Cengkareng, Jakarta Barat 11740",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521860,
+    "latitude": -6.172856333535755,
+    "longitude": 106.7302266509262,
+    "name": "Casion - Ciputra Int. Tokopedia Care Offices",
+    "stations": [
+      {
+        "id": 1345166,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132337,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521860"
+  },
+  {
+    "access": 1,
+    "address": "Aeon JGC Cakung East Jakarta",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 461006,
+    "latitude": -6.17234,
+    "longitude": 106.953572,
+    "name": "SPKLU PLN",
+    "stations": [
+      {
+        "id": 1146855,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2815099,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2815101,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2932877,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/461006"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Bulevar Ahmad Yani No.129, RT.006/RW.002, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17142, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 580267,
+    "latitude": -6.226058795795905,
+    "longitude": 107.0016535744071,
+    "name": "Voltron Summarecon Mall Bekasi",
+    "stations": [
+      {
+        "id": 1506976,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3411617,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/580267"
+  },
+  {
+    "access": 1,
+    "address": "Jl. MI Ridwan Rais No. 1, Jakarta Pusat",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 350696,
+    "latitude": -6.180539,
+    "longitude": 106.832618,
+    "name": "SPKLU PLN Gambir",
+    "stations": [
+      {
+        "id": 834757,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2353781,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2353782,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2353783,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2353784,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 834758,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2353785,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2353786,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2353787,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2353788,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 834759,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2353789,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2353790,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2353791,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2353792,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 834760,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2353793,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2353794,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2353795,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2353796,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/350696"
+  },
+  {
+    "access": 1,
+    "address": "18, Jl. Boulevard Artha Gading No.6, RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 462226,
+    "latitude": -6.147288,
+    "longitude": 106.897356,
+    "name": "SPKLU KFC Artha Gading",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1151352,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2822224,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2822225,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1151353,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2822226,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462226"
+  },
+  {
+    "access": 1,
+    "address": "Pintu Air BKT",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 129826,
+    "latitude": -6.228313,
+    "longitude": 106.928589,
+    "name": "SPLU PLN",
+    "stations": [
+      {
+        "id": 235442,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 489122,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 235443,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 489123,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 235444,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 489124,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 235445,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 489125,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/129826"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pluit Sel. No.6, RT.9/RW.10, Penjaringan, Kec. Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14440, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 567424,
+    "latitude": -6.125582610097395,
+    "longitude": 106.79828870874373,
+    "name": "Shell Recharge Spbu Pluit",
+    "stations": [
+      {
+        "id": 1470709,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3351707,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3351708,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3351709,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3351710,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567424"
+  },
+  {
+    "access": 1,
+    "address": "Spbu Pertamina 31.128.02, RW.5, Tebet Bar., Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12810, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 353885,
+    "latitude": -6.242243,
+    "longitude": 106.852412,
+    "name": "SPKLU Pertamina MT Haryono",
+    "stations": [
+      {
+        "id": 843131,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2364689,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2364690,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2364691,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/353885"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Daan Mogot I, Tj. Duren Utara, Grogol petamburan, Jakarta Barat 11470",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521862,
+    "latitude": -6.168583068891456,
+    "longitude": 106.78643443809815,
+    "name": "Casion - Ciputra Mal Grogol",
+    "stations": [
+      {
+        "id": 1345171,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132342,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521862"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pramuka no.137",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521328,
+    "latitude": -6.192146650098427,
+    "longitude": 106.8669068082934,
+    "name": "Hyundai Pramuka",
+    "stations": [
+      {
+        "id": 1343228,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3129306,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1343229,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3129307,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521328"
+  },
+  {
+    "access": 1,
+    "address": "Apartmen Bassura Alamanda 11 BJ, Jl. Jend. Basuki Rachmat No.RT.8, RT.8/RW.10, Cipinang Besar Sel., Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13410, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 598478,
+    "latitude": -6.224532084988927,
+    "longitude": 106.87815465290605,
+    "name": "Voltron - Mall@Bassura",
+    "stations": [
+      {
+        "id": 1559032,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3493973,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1559033,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3493974,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/598478"
+  },
+  {
+    "access": 1,
+    "address": "RWMF+QPG, RT.1/RW.9, West Cakung, Cakung, East Jakarta City, Jakarta, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 542438,
+    "latitude": -6.1652112932099605,
+    "longitude": 106.92456239139584,
+    "name": "Starvo Old Shanghai",
+    "stations": [
+      {
+        "id": 1403282,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3231470,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542438"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Musyawarah No.1-29, RT.6/RW.2, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 470537,
+    "latitude": -6.200993537902832,
+    "longitude": 106.76944732666016,
+    "name": "KFC/Taco Bell Jalan Panjang",
+    "stations": [
+      {
+        "id": 1421006,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3271529,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470537"
+  },
+  {
+    "access": 1,
+    "address": "12, Jl. Angkasa No.17b, RT.12/RW.6, Gn. Sahari Sel., Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10610, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 472995,
+    "latitude": -6.159704251555806,
+    "longitude": 106.8483362734274,
+    "name": "SPKLU Pool Damri Kemayoran",
+    "stations": [
+      {
+        "id": 1209925,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2918954,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2918955,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/472995"
+  },
+  {
+    "access": 1,
+    "address": "Jl HR Rasuna Said",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 348451,
+    "latitude": -6.224333,
+    "longitude": 106.833359,
+    "name": "SPKLU Westin Hotel",
+    "stations": [
+      {
+        "id": 827938,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3105220,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/348451"
+  },
+  {
+    "access": 1,
+    "address": "Wang Plaza",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 543370,
+    "latitude": -6.172755670022394,
+    "longitude": 106.76589560300671,
+    "name": "Wang Plaza Hyundai 7kW EV Charger",
+    "stations": [
+      {
+        "id": 1405927,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3238199,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3238200,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/543370"
+  },
+  {
+    "access": 1,
+    "address": "Jl Sisingamangaraja, Kebayoran Baru, Jakarta Selatan",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 348450,
+    "latitude": -6.239448,
+    "longitude": 106.798148,
+    "name": "SPKLU PLN Bulungan",
+    "stations": [
+      {
+        "id": 827937,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2344425,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2344426,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2344427,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2344428,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/348450"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Tulodong Atas Sudirman Jakarta",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 462045,
+    "latitude": -6.228815,
+    "longitude": 106.810709,
+    "name": "Hyundai Driving Experience - SCBD",
+    "stations": [
+      {
+        "id": 1150982,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2821723,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2821724,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1151328,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2822175,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462045"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pintu Air V No.53, RT.5/RW.8, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585983,
+    "latitude": -6.163070598702372,
+    "longitude": 106.83229990303516,
+    "name": "Dayagreen Yuan Garden Pasar Baru Resto",
+    "stations": [
+      {
+        "id": 1523550,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437451,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585983"
+  },
+  {
+    "access": 1,
+    "address": "The City Tower Level 12 Unit 1N, JL MH Thamrin, No. 81, Jakarta Pusat, 10310, RT.9/RW.5, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 501666,
+    "latitude": -6.192918561599848,
+    "longitude": 106.82261394043577,
+    "name": "SPKLU Hyundai - Plaza Indonesia",
+    "stations": [
+      {
+        "id": 1293890,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3047002,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3047003,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/501666"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Setiabudi Utara Raya. 5, Jakarta Selatan 12910",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521875,
+    "latitude": -6.207618123613953,
+    "longitude": 106.82731872389543,
+    "name": "Casion - Oakwood Suites Kuningan",
+    "stations": [
+      {
+        "id": 1345186,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132363,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521875"
+  },
+  {
+    "access": 1,
+    "address": "Pluit Village Mall, 42, Jl. Pluit Indah, Penjaringan Lahan Parkir Barat B.07, Dekat B Quik, RT.9/RW.4, Pluit, Kec. Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 614532,
+    "latitude": -6.116391455669475,
+    "longitude": 106.78695631547367,
+    "name": "Hyundai Charging Station - Pluit Village",
+    "stations": [
+      {
+        "id": 1612681,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3576887,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1612682,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3576888,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3576889,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614532"
+  },
+  {
+    "access": 1,
+    "address": "1, Jl. Tinju No.3, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 353886,
+    "latitude": -6.225461,
+    "longitude": 106.800312,
+    "name": "Charging Point Mitsubishi",
+    "stations": [
+      {
+        "id": 843132,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2364692,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2364693,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2364694,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/353886"
+  },
+  {
+    "access": 1,
+    "address": "Rooftop Floor Senayan Park, Jl. Gerbang Pemuda No.3, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 469787,
+    "latitude": -6.212612,
+    "longitude": 106.804735,
+    "name": "Hyundai EV Charging Station - Senayan Park",
+    "stations": [
+      {
+        "id": 1200799,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2906339,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2906340,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1200800,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2906341,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/469787"
+  },
+  {
+    "access": 1,
+    "address": "VRHV+5GP, Jl. Pantai Indah, RW.10, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567898,
+    "latitude": -6.122014062180569,
+    "longitude": 106.84402082115412,
+    "name": "Resto AYAM TEPI LAUT",
+    "stations": [
+      {
+        "id": 1471829,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3353461,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567898"
+  },
+  {
+    "access": 1,
+    "address": "1, Jl. Pakubuwono VI No.68, Gunung, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12120, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 559422,
+    "latitude": -6.237292837566479,
+    "longitude": 106.78664803504944,
+    "name": "The Pakubuwono Residence",
+    "stations": [
+      {
+        "id": 1449696,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3318132,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1449697,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3318133,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/559422"
+  },
+  {
+    "access": 1,
+    "address": "QR2V+HQV, RT.7/RW.9, Pancoran, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12780, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 569837,
+    "latitude": -6.248384326190592,
+    "longitude": 106.84459447860718,
+    "name": "Spklu Pln L'Avenue",
+    "stations": [
+      {
+        "id": 1476613,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3361300,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/569837"
+  },
+  {
+    "access": 1,
+    "address": "Blok Bg No.69, RT.11/RW.14, Duri Kepa, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11510, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585985,
+    "latitude": -6.171694991811848,
+    "longitude": 106.77564661949873,
+    "name": "Greendaya Minikopi Greenville",
+    "stations": [
+      {
+        "id": 1523552,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437453,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585985"
+  },
+  {
+    "access": 1,
+    "address": "Cbd Pluit, RT.23, RW.8, Penjaringan, Kec. Penjaringan, Jkt Utara, Daerah Khusus Ibukota Jakarta, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585977,
+    "latitude": -6.127195181287358,
+    "longitude": 106.78920350968838,
+    "name": "Dayagreen CBD Pluit",
+    "stations": [
+      {
+        "id": 1523544,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437444,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1524116,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3438342,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1524117,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3438343,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1524118,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3438344,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1524119,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3438345,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585977"
+  },
+  {
+    "access": 1,
+    "address": "Graha Mitra Lantai 1 Kav 21, Jl. Gatot Subroto, RT.2/RW.2, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12930, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584915,
+    "latitude": -6.229185107664196,
+    "longitude": 106.81964327460601,
+    "name": "STROOM - Centennial Tower",
+    "stations": [
+      {
+        "id": 1520462,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3432834,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3432835,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1520463,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432836,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584915"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Bendungan Walahar No.14, RT.14/RW.1, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 591303,
+    "latitude": -6.216868673636229,
+    "longitude": 106.81314088404179,
+    "name": "SPKLU Brilian 1",
+    "stations": [
+      {
+        "id": 1537875,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3460557,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1537876,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3460558,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1537877,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3460559,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591303"
+  },
+  {
+    "access": 1,
+    "address": "Menara Bank Danamon",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 557960,
+    "latitude": -6.216352018389228,
+    "longitude": 106.83157591614882,
+    "name": "Menara Bank Danamon B2",
+    "stations": [
+      {
+        "id": 1445609,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3311691,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1445610,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3311692,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/557960"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Boulevard Barat Raya No. 1 Kelapa Gading, Mall Of Indonesia Lt. GF E10-11, RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581911,
+    "latitude": -6.151058281893729,
+    "longitude": 106.8909977003932,
+    "name": "Shell Recharge In MOI (ON PROGRESS)",
+    "stations": [
+      {
+        "id": 1512062,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3419468,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581911"
+  },
+  {
+    "access": 1,
+    "address": "UOB Plaza Lantai Lobby, Jl. MH Thamrin No.10, RT.14/RW.20, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 591111,
+    "latitude": -6.199073250458829,
+    "longitude": 106.82251822203398,
+    "name": "Thamrin Nine - UOB Plaza",
+    "stations": [
+      {
+        "id": 1537243,
+        "network_id": 1045,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3459488,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591111"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Puri Casablanca No.4, RT.4/RW.12, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12960, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 462199,
+    "latitude": -6.223124,
+    "longitude": 106.838134,
+    "name": "home Jakarta",
+    "stations": [
+      {
+        "id": 1151283,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 2822116,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462199"
+  },
+  {
+    "access": 1,
+    "address": "Kota Kasablanka, Menteng Dalam, Kec. Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 559420,
+    "latitude": -6.2240353362089245,
+    "longitude": 106.84259790927172,
+    "name": "Kota Kasablanka",
+    "stations": [
+      {
+        "id": 1449688,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3318122,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1449689,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3318123,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/559420"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Jkt No.16, RT.1/RW.9, Pela Mampang, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12720, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521677,
+    "latitude": -6.2469544,
+    "longitude": 106.8143069,
+    "name": "Casion - Marbella Kemang Residence",
+    "stations": [
+      {
+        "id": 1343916,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3130536,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521677"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Senopati No.24, RT.8/RW.5, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 470540,
+    "latitude": -6.229843054255871,
+    "longitude": 106.80702142417431,
+    "name": "Otopods Ashta District 8",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1203141,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2909446,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2909447,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1203142,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2909448,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470540"
+  },
+  {
+    "access": 1,
+    "address": "VV3V+WVP, Jl. Bulevard Artha Gading, RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585979,
+    "latitude": -6.145126358642897,
+    "longitude": 106.89465053379536,
+    "name": "Dayagreen Black Owl Kelapa Gading",
+    "stations": [
+      {
+        "id": 1523546,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437446,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585979"
+  },
+  {
+    "access": 1,
+    "address": "SCBD, Jalan Jend Sudirman, Jakarta",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 571677,
+    "latitude": -6.22471379413732,
+    "longitude": 106.80978069104385,
+    "name": "Pacific Place Mall",
+    "stations": [
+      {
+        "id": 1481565,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3369677,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3369678,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3369679,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3369680,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571677"
+  },
+  {
+    "access": 1,
+    "address": "AIA Central Jakarta",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589027,
+    "latitude": -6.2180734,
+    "longitude": 106.8170007,
+    "name": "AIA basement parking",
+    "stations": [
+      {
+        "id": 1530894,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3449276,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589027"
+  },
+  {
+    "access": 1,
+    "address": "Pasar Festival, Jalan Rasuna Said",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 573502,
+    "latitude": -6.2210778,
+    "longitude": 106.8324111,
+    "name": "Pasar Festival",
+    "stations": [
+      {
+        "id": 1487008,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3379417,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3436011,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573502"
+  },
+  {
+    "access": 1,
+    "address": "FX Lifestyle Centre Fl. 02, Jl. Jenderal Sudirman Jl. Pintu Satu Senayan, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 486464,
+    "latitude": -6.2246691,
+    "longitude": 106.8039106,
+    "name": "EVCuzz - FX Sudirman",
+    "stations": [
+      {
+        "id": 1248179,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2979021,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1248180,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2979022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/486464"
+  },
+  {
+    "access": 1,
+    "address": "VR6J+MQQ, RT.11/RW.6, Ancol, Pademangan, North Jakarta City, Jakarta 14430, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574894,
+    "latitude": -6.138239311137706,
+    "longitude": 106.83199748396873,
+    "name": "Starvo Mangga DUA square",
+    "stations": [
+      {
+        "id": 1490614,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3385467,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1490615,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3385468,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1490616,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3385469,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1490617,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3385470,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1490618,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3385471,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574894"
+  },
+  {
+    "access": 1,
+    "address": "Komplek Agung Sedayu, Blok Harco Mangga Dua, VR6H+GHJ, Jl. Mangga Dua Raya, RT.17/RW.11, Mangga Dua Sel., Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10730, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585982,
+    "latitude": -6.138643335938433,
+    "longitude": 106.82889953255653,
+    "name": "Dayagreen Secure Parking HQ MANGGA DUA",
+    "stations": [
+      {
+        "id": 1523549,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437450,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585982"
+  },
+  {
+    "access": 1,
+    "address": "Mall pacific place, SCBD Jakarta",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 346193,
+    "latitude": -6.224666,
+    "longitude": 106.809817,
+    "name": "Pacific Place Charging Station",
+    "stations": [
+      {
+        "id": 822063,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2327599,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2327600,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/346193"
+  },
+  {
+    "access": 1,
+    "address": "VVM4+6P, Ancol, Pademangan, North Jakarta City, Jakarta, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567894,
+    "latitude": -6.117082918232767,
+    "longitude": 106.85675393790007,
+    "name": "Resto OMBAK laut",
+    "stations": [
+      {
+        "id": 1471824,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3353456,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567894"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tanpa Nama, Ancol, Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14430, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567896,
+    "latitude": -6.116735549562819,
+    "longitude": 106.85907404869795,
+    "name": "Resto Walking DRUM",
+    "stations": [
+      {
+        "id": 1471826,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3353458,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567896"
+  },
+  {
+    "access": 1,
+    "address": "Ciputra World 2, Jl. Prof. DR. Satrio No.Kav. 11, RT.3/RW.3, Karet Semanggi, Setiabudi, Jakarta Selatan 12930",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521873,
+    "latitude": -6.221962098456899,
+    "longitude": 106.81952426627042,
+    "name": "Casion - Ciputra World 2 Orchard Apartment",
+    "stations": [
+      {
+        "id": 1345184,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132361,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521873"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Senopati No.8 8, RT.8/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585980,
+    "latitude": -6.228874827961773,
+    "longitude": 106.80570546537638,
+    "name": "Dayagreen Residence 8 At Sinopati",
+    "stations": [
+      {
+        "id": 1523547,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437447,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585980"
+  },
+  {
+    "access": 1,
+    "address": "Equity Tower Jakarta, QRF5+CVR, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584913,
+    "latitude": -6.226313278818729,
+    "longitude": 106.80970581633986,
+    "name": "STROOM - SCBD Park",
+    "stations": [
+      {
+        "id": 1520458,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3432829,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3432830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1520459,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584913"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Prof. DR. Satrio No.Kav.3, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521867,
+    "latitude": -6.224192499176778,
+    "longitude": 106.82337742047861,
+    "name": "Casion - Ciputra World 1 [DBS Tower Offices]",
+    "stations": [
+      {
+        "id": 1345176,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132351,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521867"
+  },
+  {
+    "access": 1,
+    "address": "Ciputra World, Jl. Prof. DR. Satrio No.1, RT.18/RW.4, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521865,
+    "latitude": -6.225013460245722,
+    "longitude": 106.82416498689237,
+    "name": "Casion - Ciputra World 1 [Ascott Residence]",
+    "stations": [
+      {
+        "id": 1345174,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132347,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521865"
+  },
+  {
+    "access": 1,
+    "address": "Tokopedia Tower Ciputra World 2, Jl. Prof. DR. Satrio No.3, Karet Semanggi, Setiabudi, Jakarta Selatan 12950",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521874,
+    "latitude": -6.221023991472893,
+    "longitude": 106.81939142698366,
+    "name": "Casion - Ciputra World 2 Tokopedia Tower Offices",
+    "stations": [
+      {
+        "id": 1345185,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132362,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521874"
+  },
+  {
+    "access": 1,
+    "address": "SCBD, Jl. Jenderal Sudirman No.53, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533440,
+    "latitude": -6.2284259868764895,
+    "longitude": 106.81011531063474,
+    "name": "Hyundai Wall Charger",
+    "stations": [
+      {
+        "id": 1377946,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3182530,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533440"
+  },
+  {
+    "access": 1,
+    "address": "Level 17, Sequis Tower, Jl. Jenderal Sudirman No.71, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 484358,
+    "latitude": -6.225619174782662,
+    "longitude": 106.80709719657898,
+    "name": "Sequis Tower (EVCUZZ)",
+    "stations": [
+      {
+        "id": 1243363,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2971348,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1243364,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2971349,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484358"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Karet Sawah No.219, Karet Semanggi, Setiabudi, Jakarta Selatan 12930",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521872,
+    "latitude": -6.221041961589541,
+    "longitude": 106.8186954036355,
+    "name": "Casion - Ciputra World 2 [Newton Apartment]",
+    "stations": [
+      {
+        "id": 1345183,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132359,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521872"
+  },
+  {
+    "access": 1,
+    "address": "Ciputra World, Jl. Prof. DR. Satrio No.Kav 3 – 5, Karet Kuningan, Kecamatan Setiabudi, Daerah Khusus Ibukota Jakarta 12940",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521871,
+    "latitude": -6.223636471983737,
+    "longitude": 106.82367759206544,
+    "name": "Casion - Ciputra World 1 [Raffles Residence]",
+    "stations": [
+      {
+        "id": 1345182,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132358,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521871"
+  },
+  {
+    "access": 1,
+    "address": "one satrio",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 527658,
+    "latitude": -6.2257029,
+    "longitude": 106.8265637,
+    "name": "One Satrio Starvo",
+    "stations": [
+      {
+        "id": 1360970,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3156962,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1360971,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3156963,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/527658"
+  },
+  {
+    "access": 1,
+    "address": "Menara Rajawali, 7th Fl, Unit 1, Mega Kuningan, RT.5/RW.2, Kuningan, Kuningan Tim., Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478710,
+    "latitude": -6.226278119180356,
+    "longitude": 106.82681230126279,
+    "name": "Starvo - One Satrio",
+    "stations": [
+      {
+        "id": 1226200,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943793,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226201,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943794,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478710"
+  },
+  {
+    "access": 1,
+    "address": "QRF2+R95, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 516672,
+    "latitude": -6.2254937776239645,
+    "longitude": 106.80073721434792,
+    "name": "Starvo Plaza Senayan",
+    "stations": [
+      {
+        "id": 1331972,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3110687,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1331973,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3110688,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1331974,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3110689,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1331975,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3110690,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1331976,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3110691,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/516672"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Prof. DR. Satrio No.Kav 3-5, Kuningan, Karet Kuningan, Setiabudi, Jakarta Selatan 12940",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521868,
+    "latitude": -6.224375648985304,
+    "longitude": 106.82304171170883,
+    "name": "Casion - Ciputra World 1 [Lotte Shopping Avenue]",
+    "stations": [
+      {
+        "id": 1345177,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132352,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1360693,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3156428,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1360694,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3156429,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521868"
+  },
+  {
+    "access": 1,
+    "address": "BR 010, Km 132, Estreito MA ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 602477,
+    "latitude": -6.541622772824397,
+    "longitude": -47.41919722801937,
+    "name": "Xirú Bar e Restaurante",
+    "stations": [
+      {
+        "id": 1573289,
+        "network_id": 1815,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3514065,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602477"
+  },
+  {
+    "access": 1,
+    "address": "R. da Matriz, 12, Aiuaba - CE, 63575-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478236,
+    "latitude": -6.5723431866863855,
+    "longitude": -40.12335629762021,
+    "name": "Posto de Coleta Estrela",
+    "stations": [
+      {
+        "id": 1224835,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2941830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478236"
+  },
+  {
+    "access": 1,
+    "address": "CE-060, N° 350 - Cajazeiras, Iguatu - CE, 63503-790",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 583702,
+    "latitude": -6.3840331,
+    "longitude": -39.2664011,
+    "name": "BR Super Carga - ELLO HOTEL",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1517271,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3427580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583702"
+  },
+  {
+    "access": 1,
+    "address": "Rua Paraíba C, 1000, Conjunto Gama, Icó, 63430-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 464014,
+    "latitude": -6.401195,
+    "longitude": -38.876646,
+    "name": "Hotel Ribeira dos Icós",
+    "stations": [
+      {
+        "id": 1180629,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2875254,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/464014"
+  },
+  {
+    "access": 1,
+    "address": "H4W5+MR Icó, CE, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535365,
+    "latitude": -6.403296564381199,
+    "longitude": -38.89047013868791,
+    "name": "Auto Posto e Pousada O Barateiro",
+    "stations": [
+      {
+        "id": 1383388,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3190625,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1383389,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3190626,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535365"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Coronel Martiniano, 2059",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 611157,
+    "latitude": -6.469873742664682,
+    "longitude": -37.086659720307324,
+    "name": "Solenergy Energia Solar",
+    "stations": [
+      {
+        "id": 1603702,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3557842,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611157"
+  },
+  {
+    "access": 1,
+    "address": "Rua Doutor Medeiros, 6 - Centro",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 598195,
+    "latitude": -6.586534937441757,
+    "longitude": -36.77669572984991,
+    "name": "Wallbox Green Solaris (Coming Soon)",
+    "stations": [
+      {
+        "id": 1558050,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3492545,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/598195"
+  },
+  {
+    "access": 1,
+    "address": "RN-086, 1515 - SÍTIO ALMAS, Parelhas - RN, 59360-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 471622,
+    "latitude": -6.6822684931398415,
+    "longitude": -36.667277573414395,
+    "name": "JW Solaris",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1206266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2913889,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471622"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dr. Sílvio Bezerra de Melo, 1685 - Bairro Antonio Rafael, Currais Novos - RN, 59380-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 587735,
+    "latitude": -6.267989079411394,
+    "longitude": -36.52195908129215,
+    "name": "Crediautos",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1527949,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3444398,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/587735"
+  },
+  {
+    "access": 1,
+    "address": "Rua Dulce Leda Bordadeira, 113, Doutor Silvio Bezerra de Melo, Currais Novos RN ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583463,
+    "latitude": -6.274125455295767,
+    "longitude": -36.51910560093266,
+    "name": "Kaio César (Residencial)",
+    "stations": [
+      {
+        "id": 1516460,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3426395,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583463"
+  },
+  {
+    "access": 1,
+    "address": "R. Jucelino Kubitscheck, 45-7, Nova Palmeira - PB, 58184-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589619,
+    "latitude": -6.679416648690193,
+    "longitude": -36.41998417675495,
+    "name": "SolarX Engenharia",
+    "stations": [
+      {
+        "id": 1532960,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3452385,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589619"
+  },
+  {
+    "access": 1,
+    "address": "309, R. Nossa Sra. dos Prazeres, 273 - Centro, Goianinha - RN, 59173-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 590658,
+    "latitude": -6.269857328109608,
+    "longitude": -35.20846987366023,
+    "name": "Posto União",
+    "stations": [
+      {
+        "id": 1535957,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3457288,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590658"
+  },
+  {
+    "access": 1,
+    "address": "Aeon Mall BSD City, Legok, Banten 15820, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 224605,
+    "latitude": -6.304094,
+    "longitude": 106.64348,
+    "name": "SPKLU AEON BSD",
+    "stations": [
+      {
+        "id": 490653,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1195950,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 490654,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1195951,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 490655,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1195952,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1195953,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/224605"
+  },
+  {
+    "access": 1,
+    "address": "PP37+WWM, Jl. Rest Area KM VII, Jombang, Kec. Ciputat, Kota Tangerang Selatan, Banten 15414, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 572525,
+    "latitude": -6.2950861499999995,
+    "longitude": 106.71478681666666,
+    "name": "SPKLU HVT Rest Area Tol Serpong KM 7",
+    "stations": [
+      {
+        "id": 1484161,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3587068,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3587069,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/572525"
+  },
+  {
+    "access": 1,
+    "address": "One Bez, Jl. Gading Serpong Boulevard No.Kav.1, Curug Sangereng, Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 471787,
+    "latitude": -6.257521571163245,
+    "longitude": 106.62099111825228,
+    "name": "EvCuzz Bez Walk",
+    "stations": [
+      {
+        "id": 1206685,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2914433,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1206686,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2914434,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471787"
+  },
+  {
+    "access": 1,
+    "address": "Lulu Hypermarket, Lantai Dasar QBIG BSD City, PJ8P+QCH, Jl. BSD Raya Utama, Lengkong Kulon, Kec. Pagedangan, Kabupaten Tangerang, Banten 15331, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 464224,
+    "latitude": -6.283113,
+    "longitude": 106.636265,
+    "name": "OtoPods QBig BSD",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1181078,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2875889,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2875890,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/464224"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Lkr. Jaya No.306, Pd. Jaya, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15224, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 487855,
+    "latitude": -6.286278614603103,
+    "longitude": 106.72793565529535,
+    "name": "Voltron - Bintaro Xchange",
+    "stations": [
+      {
+        "id": 1252168,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2985821,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1252169,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2985822,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/487855"
+  },
+  {
+    "access": 1,
+    "address": "PPFC+4GF, Pondok Jaya, Pondok Aren, South Tangerang City, Banten 15220, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 609077,
+    "latitude": -6.2772282494844625,
+    "longitude": 106.72139552493647,
+    "name": "Hyundai Charge - Hotel Santika Premier",
+    "stations": [
+      {
+        "id": 1597645,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3548106,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609077"
+  },
+  {
+    "access": 1,
+    "address": "MMX3+G65, Sampora, Cisauk, Tangerang Regency, Banten 15345, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 484336,
+    "latitude": -6.301469496179847,
+    "longitude": 106.65325943380594,
+    "name": "Otopods The Breeze BSD",
+    "stations": [
+      {
+        "id": 1243228,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2971171,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2971342,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484336"
+  },
+  {
+    "access": 1,
+    "address": "Jl. BSD Grand Boulevard, Pagedangan, Kec. Pagedangan, Kabupaten Tangerang, Banten 15339",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 538280,
+    "latitude": -6.300241629852204,
+    "longitude": 106.63499250869519,
+    "name": "On Space BSD Grand Boulevard",
+    "stations": [
+      {
+        "id": 1391834,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3207032,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538280"
+  },
+  {
+    "access": 1,
+    "address": "FREJA CHIC A8/3 BSD CITY",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 610755,
+    "latitude": -6.310539293245026,
+    "longitude": 106.64240187354416,
+    "name": "Public Charging Freja A8/3 (Fee Required)",
+    "stations": [
+      {
+        "id": 1602405,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3555834,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610755"
+  },
+  {
+    "access": 1,
+    "address": "Kav. Commercial Foresta Business Loft Lot. L1, PJ5R+MM7, Jl. BSD Raya Utama, Lengkong Kulon, Kec. Pagedangan, Kabupaten Tangerang, Banten 15331, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 471786,
+    "latitude": -6.287500116507233,
+    "longitude": 106.6396090015769,
+    "name": "EvCuzz BCA Foresta",
+    "stations": [
+      {
+        "id": 1206683,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2914431,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1206684,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2914432,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471786"
+  },
+  {
+    "access": 1,
+    "address": "Kav Commercial Park Barat Lot I. 11 Gedung Daihatsu ABC, Lengkong Kulon, Kec. Pagedangan, Kabupaten Tangerang, Banten 15331, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 528807,
+    "latitude": -6.287634753286603,
+    "longitude": 106.63870174437761,
+    "name": "ASTRA Otopower",
+    "stations": [
+      {
+        "id": 1364020,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3162005,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/528807"
+  },
+  {
+    "access": 1,
+    "address": "CBD Bintaro Jaya, Jl. Prof. DR. Satrio No.A3-01 Blok B7, Pd. Jaya, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15224, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 609078,
+    "latitude": -6.277257354158056,
+    "longitude": 106.72128467855792,
+    "name": "Hyundai Charge Station @ Hotel Santika Bintaro",
+    "stations": [
+      {
+        "id": 1597646,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3548107,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609078"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Arteri Pd. Indah No.9, RT.8/RW.1, Kby. Lama Sel., Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 605762,
+    "latitude": -6.25355320823072,
+    "longitude": 106.78133759647608,
+    "name": "Wuling Center Pondok Indah",
+    "stations": [
+      {
+        "id": 1585497,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 3532469,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605762"
+  },
+  {
+    "access": 1,
+    "address": "P589+J8H, Jl. Ki Hajar Dewantara, Simpangan, Kec. Cikarang Utara, Kabupaten Bekasi, Jawa Barat 17530, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 493623,
+    "latitude": -6.2834613010705045,
+    "longitude": 107.16836586665538,
+    "name": "SPKLU PLN UP Lemah Abang",
+    "stations": [
+      {
+        "id": 1273110,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3015166,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493623"
+  },
+  {
+    "access": 1,
+    "address": "Jl Pangeran Antasari",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 346192,
+    "latitude": -6.256211,
+    "longitude": 106.808189,
+    "name": "Shell Antasari 1",
+    "stations": [
+      {
+        "id": 822062,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2327595,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2327596,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2327597,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2327598,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/346192"
+  },
+  {
+    "access": 1,
+    "address": "72Q6+573, Jl. Raya Puncak - Gadog No.54, Ciloto, Kec. Cipanas, Kabupaten Cianjur, Jawa Barat 43253, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585975,
+    "latitude": -6.712318980948451,
+    "longitude": 107.01043244451284,
+    "name": "DayaGreen Grand Aston Puncak",
+    "stations": [
+      {
+        "id": 1523542,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437442,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585975"
+  },
+  {
+    "access": 1,
+    "address": "J5XV+9JJ, Jl. Ganesha Boulevard, Hegarmukti, Kec. Cikarang Pusat, Kabupaten Bekasi, Jawa Barat 17530, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 614711,
+    "latitude": -6.351425090511817,
+    "longitude": 107.19411107779615,
+    "name": "SPKLU AEON Delta Mas - Charge+",
+    "stations": [
+      {
+        "id": 1613149,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3577813,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3577814,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613150,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3577815,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3577816,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613151,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3577817,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3577818,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613152,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3577819,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3577820,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614711"
+  },
+  {
+    "access": 1,
+    "address": "Jl Raya Jonggol Desa sukamaju #6 Rt 04 Rw 01 Jonggol 16830, bogor, Sukamaju, Kec. Jonggol, Kabupaten Bogor, Jawa Barat 16830, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578986,
+    "latitude": -6.462128436261263,
+    "longitude": 107.05921545624733,
+    "name": "Spklu Pln Up Jonggol",
+    "stations": [
+      {
+        "id": 1502929,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3405715,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578986"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Raya Pajajaran No. 233, Bantarjati, Bogor Utara, RT.03/RW.05, Bantarjati, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 537860,
+    "latitude": -6.572524215218076,
+    "longitude": 106.80865723639727,
+    "name": "PLN UP3 Bogor",
+    "stations": [
+      {
+        "id": 1390459,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3204028,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232155,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1390460,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3204029,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3237599,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537860"
+  },
+  {
+    "access": 1,
+    "address": "Rest Area KM.19 Tol Jakarta-Cikampek, Lambangsari, Kec. Tambun Sel., Kabupaten Bekasi, Jawa Barat 17510, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 616091,
+    "latitude": -6.269038307172137,
+    "longitude": 107.03613877397257,
+    "name": "SPKLU Rest Area KM 19A",
+    "stations": [
+      {
+        "id": 1616292,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3585213,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3585214,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/616091"
+  },
+  {
+    "access": 1,
+    "address": "Rest Area Km. 21, Jagorawi Toll Rd, Bojong Nangka, Gunung Putri, Bogor Regency, West Java 16963, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 423063,
+    "latitude": -6.435049,
+    "longitude": 106.893315,
+    "name": "SHELL JAGORAWI TOLL KM21 BGR",
+    "stations": [
+      {
+        "id": 1019502,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2639696,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1479933,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3366510,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/423063"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tol Jakarta - Bekasi Timur, Jatibening Baru, Pondokgede, Kota Bekasi, Jawa Barat",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 462221,
+    "latitude": -6.259123,
+    "longitude": 106.928405,
+    "name": "SPKLU Rest Area KM 6 Jakarta-Cikampek",
+    "stations": [
+      {
+        "id": 1151345,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2822200,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2822201,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1151346,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2822202,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2822203,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1151347,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2822204,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462221"
+  },
+  {
+    "access": 1,
+    "address": "JX2G+933, Cileungsi Kidul, Kec. Cileungsi, Kabupaten Bogor, Jawa Barat 16820, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578987,
+    "latitude": -6.399081648821159,
+    "longitude": 106.97513926774263,
+    "name": "Voltron Metropolitan Mall Cibubur",
+    "stations": [
+      {
+        "id": 1502930,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3405716,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1502931,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3405717,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578987"
+  },
+  {
+    "access": 1,
+    "address": "8RRF+CG Kertamaya, Bogor City, West Java, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584916,
+    "latitude": -6.658961848512188,
+    "longitude": 106.82376501845476,
+    "name": "STROOM - R Hotel Rancamaya",
+    "stations": [
+      {
+        "id": 1520464,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3432837,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3432838,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1520465,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432839,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1520466,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432840,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584916"
+  },
+  {
+    "access": 1,
+    "address": "Grand Depok City, Jl. Boulevard Grand Depok City No.1, Kotakembang, Tirtajaya, Kec. Sukmajaya, Kota Depok, Jawa Barat 16412, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 546045,
+    "latitude": -6.4182918650065695,
+    "longitude": 106.82674270123243,
+    "name": "Spklu PLN UP3 Depok,Grand Depok City",
+    "stations": [
+      {
+        "id": 1412659,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3254332,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/546045"
+  },
+  {
+    "access": 1,
+    "address": "7, Jl. Tol Jagorawi Jl. Rest Area KM X No.5, RW.1, Cipayung, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13840, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 487568,
+    "latitude": -6.339939163883347,
+    "longitude": 106.88949164003134,
+    "name": "SPKLU Rest Area Km 10 Jagorawi",
+    "stations": [
+      {
+        "id": 1251293,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2984487,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1251294,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2984488,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/487568"
+  },
+  {
+    "access": 1,
+    "address": "MQ4Q+P8M, Jl. Komp. Pln, Gandul, Kec. Cinere, Kota Depok, Jawa Barat 16514, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 471261,
+    "latitude": -6.3437462728610745,
+    "longitude": 106.78841677796504,
+    "name": "PLN UIP JBB Cinere",
+    "stations": [
+      {
+        "id": 1205317,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2912471,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2912472,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2912473,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471261"
+  },
+  {
+    "access": 1,
+    "address": "12, RW.4, West Tanjung, Jagakarsa, South Jakarta City, Jakarta, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 471260,
+    "latitude": -6.3054234165438325,
+    "longitude": 106.84051290645728,
+    "name": "SPKLU AEON Mall Tanjung Barat",
+    "stations": [
+      {
+        "id": 1205316,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2912468,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2912469,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2912470,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471260"
+  },
+  {
+    "access": 1,
+    "address": "9R7V+6FH, Pandansari, Ciawi, Bogor Regency, West Java 16720, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585330,
+    "latitude": -6.636927947624976,
+    "longitude": 106.84370029717684,
+    "name": "SPKLU Jagorawi Rest Area Km 45A",
+    "stations": [
+      {
+        "id": 1521821,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3434763,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3434764,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585330"
+  },
+  {
+    "access": 1,
+    "address": "7, RT.7/RW.1, Duren Tiga, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12760, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 575239,
+    "latitude": -6.254250765096682,
+    "longitude": 106.83473870158195,
+    "name": "Spklu Pln Pulitbang Duren Tiga",
+    "stations": [
+      {
+        "id": 1491730,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3388088,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491731,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3388089,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491732,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3388090,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575239"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Sentosa Raya No.4, RT.11/RW.7, Mekar Jaya, Kec. Sukmajaya, Kota Depok, Jawa Barat 16411, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 546047,
+    "latitude": -6.395820401533217,
+    "longitude": 106.83680132031441,
+    "name": "Spklu Pln Ulp Depok Kota",
+    "stations": [
+      {
+        "id": 1412662,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3254419,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/546047"
+  },
+  {
+    "access": 1,
+    "address": "Kantor Pos Barat, PQ4V+5V5, Jl. RS. Fatmawati Raya, RT.1/RW.4, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 413616,
+    "latitude": -6.29461,
+    "longitude": 106.794819,
+    "name": "SPKLU Kantor Pos Fatmawati",
+    "stations": [
+      {
+        "id": 998924,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2603092,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 998925,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2603093,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2603094,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/413616"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Rancamaya Utama No.1, Rancamaya Golf Estate, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16720, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 595867,
+    "latitude": -6.6623541627126235,
+    "longitude": 106.84407850650625,
+    "name": "STROOM - Rancamaya Marketing Gallery",
+    "stations": [
+      {
+        "id": 1550986,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3481733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3481734,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1550987,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3481735,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1550988,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3481736,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595867"
+  },
+  {
+    "access": 1,
+    "address": "Jl Fatmawati Raya",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 348448,
+    "latitude": -6.272195,
+    "longitude": 106.798008,
+    "name": "SPKLU Pertamina Fatmawati",
+    "stations": [
+      {
+        "id": 827932,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2344417,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2344418,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2344419,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2344420,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/348448"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Adhyaksa 9 No.1, RT.4/RW.4, Lb. Bulus, Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 582464,
+    "latitude": -6.297640558735519,
+    "longitude": 106.77680325244626,
+    "name": "Starbucks Adhyaksa - Hyundai DC Charger",
+    "stations": [
+      {
+        "id": 1513563,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3421797,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3421798,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582464"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Metro Pondok Indah No 16 Kel Pondok Pinang, Kec Kebayoran Baru, Jaksel Pondok Indah Mall 3 Lt3 No 301-302, RT.1/RW.16, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12310, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 493882,
+    "latitude": -6.263427928997766,
+    "longitude": 106.78275794020806,
+    "name": "Pondok Indah Mall 3 - Self Valet Charging Station - East Lobby LG",
+    "stations": [
+      {
+        "id": 1273890,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3016239,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1273891,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3016240,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1273892,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3016241,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1273893,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3016242,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1273894,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3016243,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1273895,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3016244,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493882"
+  },
+  {
+    "access": 1,
+    "address": "ITS Tower, Nifarro Park, Jl. Raya Pasar Minggu No.18, RT.1/RW.1, Pejaten Timur, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584911,
+    "latitude": -6.263505121792213,
+    "longitude": 106.84387499325408,
+    "name": "STROOM - Nifarro Park",
+    "stations": [
+      {
+        "id": 1520453,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3432823,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3432824,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1520454,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432825,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1520455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432826,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1520456,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432827,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584911"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Raya Hanjawar No.19 Ciloto, Palasari, Kec. Cipanas, Kabupaten Cianjur, Jawa Barat 43253, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601410,
+    "latitude": -6.708649251124185,
+    "longitude": 107.02282716421185,
+    "name": "SPKLU PLN Hotel Le Eminance",
+    "stations": [
+      {
+        "id": 1569459,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3508706,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601410"
+  },
+  {
+    "access": 1,
+    "address": "Jl. TB Simatupang No.23, RT.3/RW.1, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 547647,
+    "latitude": -6.291328586375687,
+    "longitude": 106.80368073284626,
+    "name": "Casion TALAVERA OFFICE PARK",
+    "stations": [
+      {
+        "id": 1417753,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3264735,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/547647"
+  },
+  {
+    "access": 1,
+    "address": "Jl. TB Simatupang No.17, RW.9, Cilandak Bar., Kec. Cilandak, Jakarta Selatan 12430",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521674,
+    "latitude": -6.2916842,
+    "longitude": 106.798556,
+    "name": "Casion - Cilandak Townsquare",
+    "stations": [
+      {
+        "id": 1343913,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3130532,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1600779,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3553304,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1600780,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3553305,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521674"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Darmawangsa-X No.86, RT.7/RW.8, Cipete Utara, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 574026,
+    "latitude": -6.2578897084973235,
+    "longitude": 106.80519551788906,
+    "name": "STROOM - Essence Daramawangsa",
+    "stations": [
+      {
+        "id": 1488182,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3381326,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1488183,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3381327,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1488184,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3381328,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1488185,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3381329,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574026"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Tol Purbaleunyi No.KM 88A, Sukajaya, Kec. Sukatani, Kabupaten Purwakarta, Jawa Barat 41167, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 517882,
+    "latitude": -6.601588946274523,
+    "longitude": 107.42713909596205,
+    "name": "SPKLU Rest Area 88A",
+    "stations": [
+      {
+        "id": 1334831,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3115455,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3115456,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1334832,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3115457,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/517882"
+  },
+  {
+    "access": 1,
+    "address": "FPR9+79Q, Batusari, Dawuan, Subang Regency, West Java 41271, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 525466,
+    "latitude": -6.509220496752106,
+    "longitude": 107.71829194906968,
+    "name": "SPKLU Rest Area Km 101 B (Arah Jakarta)",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 1355200,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3147761,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1355201,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3147762,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3147763,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/525466"
+  },
+  {
+    "access": 1,
+    "address": "Rest Area KM 72 B Cipularang",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 613511,
+    "latitude": -6.467919020093519,
+    "longitude": 107.44455058333138,
+    "name": "SPKLU PLN Rest Area Km 72.B Cipularang",
+    "stations": [
+      {
+        "id": 1610239,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3578933,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3578934,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/613511"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Tol Purbaleunyi No.KM. 97B, Sadarkarya, Kec. Darangdan, Kabupaten Purwakarta, Jawa Barat 41163, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 615558,
+    "latitude": -6.675248094998365,
+    "longitude": 107.43921047064808,
+    "name": "SPKLU PLN Rest Area KM 97 B Cipularang",
+    "stations": [
+      {
+        "id": 1614965,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3581825,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3581826,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/615558"
+  },
+  {
+    "access": 1,
+    "address": "J96V+FW2, Jl. Tol Jakarta - Cikampek, Mekarjaya, Kec. Purwasari, Karawang, Jawa Barat 41373, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 523166,
+    "latitude": -6.388805050921894,
+    "longitude": 107.39476650953293,
+    "name": "SPKLU Rest Area Km 62 B (Arah Jakarta)",
+    "stations": [
+      {
+        "id": 1348674,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3138010,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3147766,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1348675,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3138011,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/523166"
+  },
+  {
+    "access": 1,
+    "address": "Kamojing, Jl. Tol Jakarta - Cikampek, Gintungkerta, Kec. Klari, Karawang, Jawa Barat, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 525469,
+    "latitude": -6.3681059,
+    "longitude": 107.3603665,
+    "name": "SPKLU Rest Area KM 57 A (Arah Timur)",
+    "stations": [
+      {
+        "id": 1355212,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3147776,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1355213,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3147777,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3147778,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/525469"
+  },
+  {
+    "access": 1,
+    "address": "9CWF+HCQ, Sukajaya, Sukatani, Purwakarta Regency, West Java 41167, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542549,
+    "latitude": -6.604159605201038,
+    "longitude": 107.42353895906662,
+    "name": "SPKLU PLN Rest Area Travoy 88B Cipularang (Arah Jakarta)",
+    "stations": [
+      {
+        "id": 1403572,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3232105,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232106,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1403573,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3232107,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542549"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Rest Area KM LXXII No.72a, Cigelam, Kec. Babakancikao, Kabupaten Purwakarta, Jawa Barat 41151, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 614980,
+    "latitude": -6.466625165527738,
+    "longitude": 107.44445049285063,
+    "name": "Rest Area KM 72 A",
+    "stations": [
+      {
+        "id": 1613731,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3578939,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3578940,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3578941,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3578942,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614980"
+  },
+  {
+    "access": 1,
+    "address": "76PR+WQR, Surawangi, Jatiwangi, Majalengka Regency, West Java 45454, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 609070,
+    "latitude": -6.712692402176367,
+    "longitude": 108.24206412561858,
+    "name": "SPKLU PLN KM166A - temporary",
+    "stations": [
+      {
+        "id": 1597624,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3548073,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3548074,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1597625,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3548075,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609070"
+  },
+  {
+    "access": 1,
+    "address": "CXF6+M54, Sanca, Gantar, Indramayu Regency, West Java 45264, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 515493,
+    "latitude": -6.575835279054837,
+    "longitude": 107.96033944934607,
+    "name": "SPKLU Rest Area KM 130 A (Arah Timur)",
+    "score": 6,
+    "stations": [
+      {
+        "id": 1329004,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3105428,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232159,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1329006,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3105430,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515493"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Yos Sudarso No.16, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 545157,
+    "latitude": -6.72145267352242,
+    "longitude": 108.57196809564041,
+    "name": "SPKLU PLN CIREBON KOTA",
+    "stations": [
+      {
+        "id": 1410558,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3248781,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/545157"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Tuparev No.71, RT.04/RW.01, Kertawinangun, Kec. Kedawung, Kota Cirebon, Jawa Barat 45153, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 517619,
+    "latitude": -6.711330478399387,
+    "longitude": 108.54330615618076,
+    "name": "SPKLU PLN UP3 Cirebon",
+    "stations": [
+      {
+        "id": 1334273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3114351,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/517619"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Brigjen Darsono, 7GHQ+3Q7, Tuk, Kedawung, Kertawinangun, Kec. Kedawung, Kabupaten Cirebon, Jawa Barat 45153, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535398,
+    "latitude": -6.721958640400012,
+    "longitude": 108.53988597554277,
+    "name": "Hyundai EV Charger Aston Hotel Cirebon",
+    "stations": [
+      {
+        "id": 1383457,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3190740,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535398"
+  }
+]

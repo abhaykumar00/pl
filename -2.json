@@ -1,0 +1,1280 @@
+[
+  {
+    "access": 1,
+    "address": "65CG3275+C8",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 547033,
+    "latitude": -1.9364074726267726,
+    "longitude": -109.99163555712641,
+    "name": "kumar",
+    "stations": [
+      {
+        "id": 1415768,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 3261010,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/547033"
+  },
+  {
+    "access": 1,
+    "address": "E15, Simón Bolívar, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 452526,
+    "latitude": -1.856385,
+    "longitude": -80.743698,
+    "name": "Megaacero Solís S.A.",
+    "stations": [
+      {
+        "id": 1089199,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2750036,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/452526"
+  },
+  {
+    "access": 1,
+    "address": "R355+6JG, Portete de Tarqui, Guayaquil 090616, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574257,
+    "latitude": -2.1919252528573105,
+    "longitude": -79.94099266827106,
+    "name": "Automotores Zhong Xing",
+    "stations": [
+      {
+        "id": 1488767,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3384913,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574257"
+  },
+  {
+    "access": 1,
+    "address": "Autopista Terminal Terrestre - Pascuales, Guayaquil 090502, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 215681,
+    "latitude": -2.102246,
+    "longitude": -79.889579,
+    "name": "Electrolinera \"Samanes\"",
+    "stations": [
+      {
+        "id": 464960,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1015582,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/215681"
+  },
+  {
+    "access": 1,
+    "address": "Supermaxi Vía a la Costa",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335950,
+    "latitude": -2.182592,
+    "longitude": -79.985537,
+    "name": "Supermaxi Vía a la Costa",
+    "stations": [
+      {
+        "id": 792137,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2288709,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 792138,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2288710,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 792139,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2288711,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 792140,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2288712,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335950"
+  },
+  {
+    "access": 1,
+    "address": "E490, Samborondón 092301, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 211559,
+    "latitude": -2.071781,
+    "longitude": -79.872005,
+    "name": "Plaza Batan",
+    "stations": [
+      {
+        "id": 454149,
+        "network_id": 71,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 919509,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 454193,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 919511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/211559"
+  },
+  {
+    "access": 1,
+    "address": "C. Primera 315, Guayaquil 090613, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 387235,
+    "latitude": -2.15796,
+    "longitude": -79.926209,
+    "name": "Taller Mecánico Servicentenario",
+    "stations": [
+      {
+        "id": 932063,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3101344,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/387235"
+  },
+  {
+    "access": 1,
+    "address": "V45P+V5G, Samborondón 092301, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 493231,
+    "latitude": -2.140260607102412,
+    "longitude": -79.86446656286715,
+    "name": "Village Plaza",
+    "stations": [
+      {
+        "id": 1272021,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3013751,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493231"
+  },
+  {
+    "access": 1,
+    "address": "Av Benjamín Carrión Mora 1y, Guayaquil 090501, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 453797,
+    "latitude": -2.141477,
+    "longitude": -79.909412,
+    "name": "City Mall",
+    "stations": [
+      {
+        "id": 1095739,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2757898,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/453797"
+  },
+  {
+    "access": 1,
+    "address": "Av. De las Américas e Isidro Ayora",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537837,
+    "latitude": -2.145224637732385,
+    "longitude": -79.88413711392973,
+    "name": "Induauto Américas - Chevrolet",
+    "stations": [
+      {
+        "id": 1390410,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3203950,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537837"
+  },
+  {
+    "access": 1,
+    "address": "Av. Francisco de Orellana, Guayaquil 090512, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 137955,
+    "latitude": -2.169398,
+    "longitude": -79.898103,
+    "name": "San Marino Shopping Center",
+    "stations": [
+      {
+        "id": 256581,
+        "network_id": 71,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 520957,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/137955"
+  },
+  {
+    "access": 1,
+    "address": "Av. Carlos Julio Arosemena Km 4 1/2 vía Daule",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537834,
+    "latitude": -2.165122519873333,
+    "longitude": -79.92349231576718,
+    "name": "Induauto Matriz - Chevrolet",
+    "stations": [
+      {
+        "id": 1390407,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3203946,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537834"
+  },
+  {
+    "access": 1,
+    "address": "Av. Francisco de Orellana, Guayaquil 090512, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 137956,
+    "latitude": -2.157099,
+    "longitude": -79.897666,
+    "name": "Kia Motor",
+    "stations": [
+      {
+        "id": 256583,
+        "network_id": 71,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 520959,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/137956"
+  },
+  {
+    "access": 1,
+    "address": "Vía Guaranda Babahoyo, San Pablo, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 318637,
+    "latitude": -1.816098,
+    "longitude": -79.074663,
+    "name": "Gasolinera Los Arrayanes",
+    "stations": [
+      {
+        "id": 744010,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2225494,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/318637"
+  },
+  {
+    "access": 1,
+    "address": "X2RG+P46, Pallatanga, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604894,
+    "latitude": -2.0082912879910717,
+    "longitude": -78.97526934742928,
+    "name": "Lavadora Y Lubricadora",
+    "stations": [
+      {
+        "id": 1582690,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3526908,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604894"
+  },
+  {
+    "access": 1,
+    "address": "Vía Guaranda Babahoyo, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 406337,
+    "latitude": -1.798648,
+    "longitude": -79.062113,
+    "name": "Gasolinera Los Arrayanes",
+    "stations": [
+      {
+        "id": 979596,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2572805,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/406337"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Urubui, Presidente Figueiredo ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 587653,
+    "latitude": -2.043286529338791,
+    "longitude": -60.02821347537264,
+    "name": "Presidente Figueiredo - Urubui",
+    "stations": [
+      {
+        "id": 1527799,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3444157,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3444158,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/587653"
+  },
+  {
+    "access": 1,
+    "address": "Parque - Urubuí, Pres. Figueiredo - AM, 69735-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 589109,
+    "latitude": -2.0432950233700935,
+    "longitude": -60.027430728077896,
+    "name": "Restaurante Gaúcha (Coming Soon)",
+    "stations": [
+      {
+        "id": 1531401,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3449932,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1531402,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3449933,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589109"
+  },
+  {
+    "access": 1,
+    "address": "Av comandante Pedro Vinagre ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 597618,
+    "latitude": -1.9624825546305396,
+    "longitude": -48.1977940365705,
+    "name": "Speednet Acará",
+    "stations": [
+      {
+        "id": 1556252,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3489916,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/597618"
+  },
+  {
+    "access": 1,
+    "address": "MA 106, Centro, Governador Nunes Freire - MA ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 602505,
+    "latitude": -2.134633189655808,
+    "longitude": -45.88480616419613,
+    "name": "Amazônia Plug - Posto Santa Maria",
+    "stations": [
+      {
+        "id": 1579002,
+        "network_id": 1815,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3521769,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602505"
+  },
+  {
+    "access": 1,
+    "address": "Plot G10, Special Economic Zone, Kigali, Rwanda",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 250509,
+    "latitude": -1.955612,
+    "longitude": 30.159962,
+    "name": "Volkswagen Rwanda ",
+    "stations": [
+      {
+        "id": 548320,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1503663,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 754791,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2239591,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 755598,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2240624,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 755599,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2240625,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 755600,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2240626,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/250509"
+  },
+  {
+    "access": 1,
+    "address": "XVH3+3H Musambira",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 511267,
+    "latitude": -2.0223125,
+    "longitude": 29.8539375,
+    "name": "Kabisa @Stafford Muhanga",
+    "stations": [
+      {
+        "id": 1317804,
+        "network_id": 1575,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087685,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511267"
+  },
+  {
+    "access": 1,
+    "address": "KG 644 St, Kigali, Rwanda",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 322567,
+    "latitude": -1.956204,
+    "longitude": 30.091969,
+    "name": "Volkswagen Radison Blu Kigali",
+    "stations": [
+      {
+        "id": 754788,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2239588,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 754789,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2239589,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 754790,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2239590,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/322567"
+  },
+  {
+    "access": 1,
+    "address": "23JQ+428 Kigali",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 511273,
+    "latitude": -1.9697125,
+    "longitude": 30.0875781,
+    "name": "Kabisa @Mundi Center Kigali (Coming Soon)",
+    "stations": [
+      {
+        "id": 1317813,
+        "network_id": 1575,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087697,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511273"
+  },
+  {
+    "access": 1,
+    "address": "23XM+GRQ Kigali",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 511275,
+    "latitude": -1.9511625,
+    "longitude": 30.0846094,
+    "name": "Kabisa @Rubia Cafe Kigali (Coming Soon)",
+    "stations": [
+      {
+        "id": 1317817,
+        "network_id": 1575,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087703,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511275"
+  },
+  {
+    "access": 1,
+    "address": "23X5+FQR Kigali",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 511268,
+    "latitude": -1.9512625,
+    "longitude": 30.0593906,
+    "name": "Kabisa @Norrsken Kigali",
+    "stations": [
+      {
+        "id": 1317805,
+        "network_id": 1575,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087686,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1317806,
+        "network_id": 1575,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087687,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1317807,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3087688,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1317808,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3087689,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511268"
+  },
+  {
+    "access": 1,
+    "address": "4F4C+H23, Kayonza, Rwanda",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 497421,
+    "latitude": -1.8937088000907965,
+    "longitude": 30.47015977495344,
+    "name": "Kabisa @Imigongo Art Center",
+    "stations": [
+      {
+        "id": 1282187,
+        "network_id": 1575,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028912,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/497421"
+  },
+  {
+    "access": 1,
+    "address": "QWRF+X45, Langkai, Jekan Raya, Palangka Raya City, Central Kalimantan 74874, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 515526,
+    "latitude": -2.207611648067846,
+    "longitude": 113.92250820994377,
+    "name": "SPKLU PLN UP3 Palangkaraya",
+    "stations": [
+      {
+        "id": 1329074,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3105544,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3105545,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3105546,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515526"
+  },
+  {
+    "access": 1,
+    "address": "Luis Cordero Crespo ( Azogues)",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268966,
+    "latitude": -2.741789,
+    "longitude": -78.847685,
+    "name": "Cargador Colegio Luis Rogerio González",
+    "stations": [
+      {
+        "id": 592554,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 1640109,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 592555,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1640110,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 592556,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1640111,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268966"
+  },
+  {
+    "access": 1,
+    "address": "Av. Avicencia, 1 - Calhau, São Luís - MA, 65071-415, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 353901,
+    "latitude": -2.495507,
+    "longitude": -44.261853,
+    "name": "Parque Do Rangedor",
+    "score": 5.8,
+    "stations": [
+      {
+        "id": 843158,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3084308,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 843159,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2364727,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/353901"
+  },
+  {
+    "access": 1,
+    "address": "Av. Daniel de La Touche, 987 - Cohama, São Luís - MA, 65074-115, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 536600,
+    "latitude": -2.5274137322808796,
+    "longitude": -44.25530478358269,
+    "name": "Shopping Da Ilha",
+    "score": 5.5,
+    "stations": [
+      {
+        "id": 1386838,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3196669,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1386839,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3196670,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/536600"
+  },
+  {
+    "access": 1,
+    "address": "Av dos Holandeses, s/n Quadra Área C - Calhau, São Luís - MA, 65071-380, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537550,
+    "latitude": -2.4925265501691922,
+    "longitude": -44.26284346729517,
+    "name": "Volvo Original",
+    "score": 5.6,
+    "stations": [
+      {
+        "id": 1389744,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3202619,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537550"
+  },
+  {
+    "access": 1,
+    "address": "Av. Prof. Carlos Cunha, 1000 - Jaracaty, São Luís - MA, 65076-820, Brasil",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 613888,
+    "latitude": -2.5121348990810417,
+    "longitude": -44.28575087338686,
+    "name": "Equatorial Energia - São Luís Shopping (Coming Soon)",
+    "stations": [
+      {
+        "id": 1611110,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3572634,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3572635,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3572636,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/613888"
+  },
+  {
+    "access": 1,
+    "address": "rua das garoupas 43 calhau, São Luís ma ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 595929,
+    "latitude": -2.4922163399874226,
+    "longitude": -44.27559157409551,
+    "name": "DrhomeBr - Grupomaishome",
+    "stations": [
+      {
+        "id": 1551150,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3481982,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595929"
+  },
+  {
+    "access": 1,
+    "address": "Av deputado Luis Eduardo Magalhães",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 542520,
+    "latitude": -2.4954444685437034,
+    "longitude": -44.2618080247539,
+    "name": "CARREGADOR PARQUE DO RANGEDOR",
+    "score": 1.7,
+    "stations": [
+      {
+        "id": 1403521,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3231997,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542520"
+  },
+  {
+    "access": 1,
+    "address": "av litoranea 09 cep 65071377",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 619843,
+    "latitude": -2.4837395986648407,
+    "longitude": -44.24987869894539,
+    "name": "Dr Energia Br",
+    "stations": [
+      {
+        "id": 1626923,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3607927,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3607928,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/619843"
+  },
+  {
+    "access": 1,
+    "address": "Posto Rota das Dunas, Santo Amaro ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 602473,
+    "latitude": -2.5239579894613953,
+    "longitude": -43.264815298373065,
+    "name": "Em manutenção - Amazônia Plug - DC Santo Amaro",
+    "stations": [
+      {
+        "id": 1573272,
+        "network_id": 1815,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3514044,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602473"
+  },
+  {
+    "access": 1,
+    "address": "MA 320, Santo Amaro, Maranhão. ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 595190,
+    "latitude": -2.523771179133047,
+    "longitude": -43.26497815983671,
+    "name": "Amazônia Plug - Posto Rota das Dunas",
+    "stations": [
+      {
+        "id": 1548837,
+        "network_id": 1815,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3477980,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595190"
+  },
+  {
+    "access": 1,
+    "address": "R. Boa Vista, 100, Barreirinhas - MA, 65590-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 617025,
+    "latitude": -2.7471080556520704,
+    "longitude": -42.80523419380188,
+    "name": "Pousada do Rancho",
+    "stations": [
+      {
+        "id": 1618895,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3590112,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617025"
+  },
+  {
+    "access": 1,
+    "address": "JQJG+5R7, Nyanza, Rwanda",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 511270,
+    "latitude": -2.369566060675792,
+    "longitude": 29.77771208783569,
+    "name": "Kabisa @Stafford Nyanza (Coming Soon)",
+    "stations": [
+      {
+        "id": 1317810,
+        "network_id": 1575,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087691,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511270"
+  }
+]

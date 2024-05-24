@@ -1,0 +1,1742 @@
+[
+  {
+    "access": 1,
+    "address": "Av. Argentina 3120, Cercado de Lima 15081, Perú",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 173749,
+    "latitude": -12.045644,
+    "longitude": -77.080829,
+    "name": "ABB Perú",
+    "stations": [
+      {
+        "id": 354740,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 642935,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 642936,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 643246,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/173749"
+  },
+  {
+    "access": 1,
+    "address": "Tarma Rd 16, Distrito de Lima 15498, Peru",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 337271,
+    "latitude": -12.031572,
+    "longitude": -76.939982,
+    "name": "Coxim",
+    "stations": [
+      {
+        "id": 795381,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2292971,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/337271"
+  },
+  {
+    "access": 1,
+    "address": "Listo - Avenida Javier Prado Oeste, San Isidro 15076, Peru",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 473074,
+    "latitude": -12.0948317391967,
+    "longitude": -77.04998692620403,
+    "name": "Primax - Castaños",
+    "stations": [
+      {
+        "id": 1210126,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2919222,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2919223,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/473074"
+  },
+  {
+    "access": 1,
+    "address": "Jockey Plaza Curitiba",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 348192,
+    "latitude": -12.086003,
+    "longitude": -76.976425,
+    "name": "Jockey Plaza",
+    "stations": [
+      {
+        "id": 827068,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2334643,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2334644,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/348192"
+  },
+  {
+    "access": 1,
+    "address": "Real Plaza (centro Comercial)",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 328294,
+    "latitude": -12.056789,
+    "longitude": -77.037417,
+    "name": "Real Plaza Centro Cívico",
+    "stations": [
+      {
+        "id": 771240,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261564,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328294"
+  },
+  {
+    "access": 1,
+    "address": "Calle Teniente Cesar Lopez Rojas 155, San Miguel 15088, Peru",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 328255,
+    "latitude": -12.077211,
+    "longitude": -77.090531,
+    "name": "Enel Perú",
+    "stations": [
+      {
+        "id": 771072,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2261333,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2261334,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771073,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2261335,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771074,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2261336,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328255"
+  },
+  {
+    "access": 1,
+    "address": "A1, San Isidro 15047, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335167,
+    "latitude": -12.098602,
+    "longitude": -77.020387,
+    "name": "Engie HQ",
+    "stations": [
+      {
+        "id": 789750,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2285799,
+            "kilowatts": 9.6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335167"
+  },
+  {
+    "access": 1,
+    "address": "Av. la Paz 1099, Miraflores 15074, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335170,
+    "latitude": -12.1289,
+    "longitude": -77.026436,
+    "name": "Hilton Lima Miraflores",
+    "stations": [
+      {
+        "id": 789753,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2285803,
+            "kilowatts": 9.6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335170"
+  },
+  {
+    "access": 1,
+    "address": "UN_SUPPORT Avenida República de Panamá 3490, San Isidro, 15047, PER",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 451595,
+    "latitude": -12.098849,
+    "longitude": -77.020193,
+    "name": "EVBox B.V.",
+    "stations": [
+      {
+        "id": 1085750,
+        "network_id": 1264,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2745664,
+            "kilowatts": 3,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/451595"
+  },
+  {
+    "access": 1,
+    "address": "R. Colonizador Ênio Pipino, 4717 - St. Industrial Sul, Sinop - MT, 78550-528, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 354804,
+    "latitude": -11.846975,
+    "longitude": -55.492309,
+    "name": "Concessionária Nissan",
+    "stations": [
+      {
+        "id": 845419,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2367891,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 845420,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2367892,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/354804"
+  },
+  {
+    "access": 1,
+    "address": "R. das Nogueiras, 123 - St. Comercial, Sinop - MT, 78550-240, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 543551,
+    "latitude": -11.858294595744912,
+    "longitude": -55.49914978444576,
+    "name": "Energize - C | Eletropostos",
+    "stations": [
+      {
+        "id": 1406331,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3239015,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1519677,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3431499,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/543551"
+  },
+  {
+    "access": 1,
+    "address": "R. Joao Pedro M De Carvalho, 923 - Zona Rural, Sinop - MT, 78551-630, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 595119,
+    "latitude": -11.77872371673584,
+    "longitude": -55.47327423095703,
+    "name": "Posto Trevão",
+    "stations": [
+      {
+        "id": 1548664,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3477681,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1548665,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3477682,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1548666,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3477683,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595119"
+  },
+  {
+    "access": 1,
+    "address": "BR 163",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 391216,
+    "latitude": -11.862167,
+    "longitude": -55.4956,
+    "name": "SAU 18 - Serviço de Atendimento ao Usuário da Rota do Oeste",
+    "stations": [
+      {
+        "id": 944164,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2514119,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/391216"
+  },
+  {
+    "access": 1,
+    "address": "R. dos Cajueiros, 1335 - 2 andar - St. Res. Norte, Sinop - MT, 78550-330",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 534001,
+    "latitude": -11.850121,
+    "longitude": -55.5054887,
+    "name": "Multiseg Distribuidora",
+    "stations": [
+      {
+        "id": 1379269,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3184596,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/534001"
+  },
+  {
+    "access": 1,
+    "address": "Av. Bruno Martini, 550 - Jardim Barcelona, Sinop - MT, 78555-343, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584525,
+    "latitude": -11.851172965969981,
+    "longitude": -55.5304491519928,
+    "name": "Supermercado Machado Aeroporto",
+    "stations": [
+      {
+        "id": 1519711,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3431547,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584525"
+  },
+  {
+    "access": 1,
+    "address": "Av. das Embaúbas, 1100 - St. Industrial Sul, Sinop - MT, 78550-110, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 595116,
+    "latitude": -11.858039973777393,
+    "longitude": -55.505767464637756,
+    "name": "Energize-C Par",
+    "stations": [
+      {
+        "id": 1548657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3477670,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595116"
+  },
+  {
+    "access": 1,
+    "address": "Av. das Itaúbas, 4001 - Centro, Sinop - MT, 78550-170, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584526,
+    "latitude": -11.849843710129534,
+    "longitude": -55.509700924158096,
+    "name": "Supermercado Machado Itaúbas",
+    "stations": [
+      {
+        "id": 1519712,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3431548,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584526"
+  },
+  {
+    "access": 1,
+    "address": "HAMPI PIZZARIA SINOP",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 615514,
+    "latitude": -11.8508852,
+    "longitude": -55.5311281,
+    "name": "HAMPI PIZZARIA",
+    "stations": [
+      {
+        "id": 1614811,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3581323,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3581324,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/615514"
+  },
+  {
+    "access": 1,
+    "address": "R. das Nogueiras, 123 - St. Comercial, Sinop - MT, 78550-240, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 541039,
+    "latitude": -11.858422562881152,
+    "longitude": -55.499185994267464,
+    "name": "Eletroposto Energize - C",
+    "stations": [
+      {
+        "id": 1399565,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3222602,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1548658,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3477672,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/541039"
+  },
+  {
+    "access": 1,
+    "address": "Av. Bruno Martini, 1470, Sinop - MT, 78555-388, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 541038,
+    "latitude": -11.854859147888837,
+    "longitude": -55.53783159703016,
+    "name": "Energize-C | Lavanderia Supreme Piemonte",
+    "stations": [
+      {
+        "id": 1399560,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3222596,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/541038"
+  },
+  {
+    "access": 1,
+    "address": "NOGUEIRA’S 123",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 591313,
+    "latitude": -11.858111435651512,
+    "longitude": -55.49917395340743,
+    "name": "mobilize-c",
+    "stations": [
+      {
+        "id": 1537901,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3460616,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591313"
+  },
+  {
+    "access": 1,
+    "address": "6VPX+4W Gurupi, State of Tocantins, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575911,
+    "latitude": -11.76472430706226,
+    "longitude": -49.100174643516524,
+    "name": "BSO 14 Ecovias do Araguaia",
+    "stations": [
+      {
+        "id": 1493614,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391303,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575911"
+  },
+  {
+    "access": 1,
+    "address": "WR26+F9 Cariri do Tocantins - State of Tocantins, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575913,
+    "latitude": -12.098831487137653,
+    "longitude": -49.18901009867408,
+    "name": "BSO13 - Ecovias do Araguaia",
+    "stations": [
+      {
+        "id": 1493617,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391306,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575913"
+  },
+  {
+    "access": 1,
+    "address": "Rua Glauber Rocha 602 Luís Eduardo Magalhães BA",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 345845,
+    "latitude": -12.09086,
+    "longitude": -45.780942,
+    "name": "Icon Business Mall",
+    "score": 9,
+    "stations": [
+      {
+        "id": 821130,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2350306,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/345845"
+  },
+  {
+    "access": 1,
+    "address": "R. Itamar Augusto Cautiero Franco, 921, Luís Eduardo Magalhães - BA, 47850-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 538116,
+    "latitude": -12.108878877291547,
+    "longitude": -45.77110061881465,
+    "name": "wallbox volvo - emergencia",
+    "stations": [
+      {
+        "id": 1391511,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3206340,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538116"
+  },
+  {
+    "access": 1,
+    "address": "Rua 13 de Maio 661",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 500047,
+    "latitude": -12.09143333653438,
+    "longitude": -45.780601037105434,
+    "name": "OFFICE 661",
+    "stations": [
+      {
+        "id": 1289613,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3039789,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500047"
+  },
+  {
+    "access": 1,
+    "address": "Av. Aylon Macedo, 2000 - Vila Sas, Barreiras - BA, 47810-763, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 354279,
+    "latitude": -12.132139,
+    "longitude": -45.014892,
+    "name": "Hotel Solar das Mangueiras",
+    "stations": [
+      {
+        "id": 844111,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2366033,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/354279"
+  },
+  {
+    "access": 1,
+    "address": "Bairro Parque das Aguas",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589361,
+    "latitude": -12.150667751547044,
+    "longitude": -45.019113910163895,
+    "name": "Parque das Águas",
+    "stations": [
+      {
+        "id": 1532147,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3451124,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589361"
+  },
+  {
+    "access": 1,
+    "address": "RQGP+JR Ibotirama, State of Bahia, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 359172,
+    "latitude": -12.173481,
+    "longitude": -43.212935,
+    "name": "Serra do Rio Hotel Ibotirama",
+    "stations": [
+      {
+        "id": 857108,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2383603,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 873429,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2406643,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/359172"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia BR-242 Km 468, s/n - Ibotirama, BA, 47520-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 620077,
+    "latitude": -12.175912373228499,
+    "longitude": -43.21084205443586,
+    "name": "Volvo - Hotel Serra do Rio",
+    "stations": [
+      {
+        "id": 1627486,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609263,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627487,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609264,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627488,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3609265,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620077"
+  },
+  {
+    "access": 1,
+    "address": "BA-052, KM 85, Centro, Ipirá - BA, 44600-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 541436,
+    "latitude": -12.16262161441467,
+    "longitude": -39.74395102063365,
+    "name": "Posto BR - Ipirá",
+    "stations": [
+      {
+        "id": 1400593,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3225213,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/541436"
+  },
+  {
+    "access": 1,
+    "address": "Av. Artêmia Pires Freitas, 7740 - Sim, Feira de Santana - BA, 44085-370, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 561815,
+    "latitude": -12.24699596376457,
+    "longitude": -38.91725119203329,
+    "name": "Mega Corujão",
+    "stations": [
+      {
+        "id": 1455967,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3328259,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/561815"
+  },
+  {
+    "access": 1,
+    "address": "R. Espírito Santo, 42 - Queimadinha, Feira de Santana - BA, 44050-482, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 620537,
+    "latitude": -12.238893268747304,
+    "longitude": -38.96056571553869,
+    "name": "casa (Coming Soon)",
+    "stations": [
+      {
+        "id": 1628776,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3611971,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620537"
+  },
+  {
+    "access": 1,
+    "address": "AV MARIA QUITÉRIA ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 367148,
+    "latitude": -12.245341,
+    "longitude": -38.954402,
+    "name": "SAFTCARS",
+    "stations": [
+      {
+        "id": 878529,
+        "outlets": [
+          {
+            "connector": 24,
+            "id": 2413483,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/367148"
+  },
+  {
+    "access": 1,
+    "address": "Av. João Durval Carneiro, 3665b - Cel. Jose Pinto, Feira de Santana - BA, 44051-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 337366,
+    "latitude": -12.24136,
+    "longitude": -38.948629,
+    "name": "Boulevard Shopping Feira de Santana",
+    "score": 8.3,
+    "stations": [
+      {
+        "id": 795729,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2293427,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1628934,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3612279,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1628935,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3612280,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1628992,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3612372,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/337366"
+  },
+  {
+    "access": 1,
+    "address": "Av. Maria Quitéria, 2628 - Queimadinha, Feira de Santana - BA, 44050-228, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 573765,
+    "latitude": -12.245215529451785,
+    "longitude": -38.954480923712254,
+    "name": "Safety Car",
+    "stations": [
+      {
+        "id": 1487556,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3380299,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573765"
+  },
+  {
+    "access": 1,
+    "address": "BR-101, 150 - Alagoinhas, BA, 48008-010, Brasil",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 603217,
+    "latitude": -12.166529271840695,
+    "longitude": -38.422398045659065,
+    "name": "Posto Petrobahia (Coming Soon)",
+    "stations": [
+      {
+        "id": 1576346,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3518028,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1576347,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3518029,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598938,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3550093,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/603217"
+  },
+  {
+    "access": 1,
+    "address": "Carr. Panamericana Sur 245, Lurín 15842, Peru",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 335171,
+    "latitude": -12.253064,
+    "longitude": -76.928116,
+    "name": "KIO Service Plaza",
+    "stations": [
+      {
+        "id": 853202,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2378016,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2378017,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335171"
+  },
+  {
+    "access": 1,
+    "address": "BR-163, Vera - MT, 78880, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 273417,
+    "latitude": -12.285695,
+    "longitude": -55.562015,
+    "name": "TEXANO’S",
+    "stations": [
+      {
+        "id": 604043,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3443827,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/273417"
+  },
+  {
+    "access": 1,
+    "address": "BR 163, KM 786",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 338262,
+    "latitude": -12.303028,
+    "longitude": -55.573837,
+    "name": "EFX - SAU.17 Rota do Oeste",
+    "stations": [
+      {
+        "id": 798045,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2296503,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/338262"
+  },
+  {
+    "access": 1,
+    "address": "R. Genésio Roberto Baggio, 1750 - Centro Sul, Sorriso - MT, 78890-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 465469,
+    "latitude": -12.544433,
+    "longitude": -55.710571,
+    "name": "Delmoro Supermercados",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1184820,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2880984,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/465469"
+  },
+  {
+    "access": 1,
+    "address": "BR 242, km271,5 Barreirinho - Seabra, BA, 46900-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 619786,
+    "latitude": -12.41930751486482,
+    "longitude": -41.838793857739795,
+    "name": "Volvo - Auto Posto DDD242",
+    "stations": [
+      {
+        "id": 1626728,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3607293,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1626729,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3607294,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/619786"
+  },
+  {
+    "access": 1,
+    "address": "Av. Sr. dos Passos, 1, Lençóis/BA CEP 46960-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 327101,
+    "latitude": -12.56143,
+    "longitude": -41.388389,
+    "name": "Estação de Carregamento Porsche - Hotel Canto das Águas",
+    "stations": [
+      {
+        "id": 767893,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2257106,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 767894,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2257107,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/327101"
+  },
+  {
+    "access": 1,
+    "address": "R. Lions Clube, 1367, Cruz das Almas - BA, 44380-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581778,
+    "latitude": -12.6635651,
+    "longitude": -39.1172766,
+    "name": "Valparaíso Hotel",
+    "stations": [
+      {
+        "id": 1511700,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3418878,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581778"
+  },
+  {
+    "access": 1,
+    "address": "R. G, 142 - Muchila, Feira de Santana - BA, 44005-352, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 561816,
+    "latitude": -12.26797561280926,
+    "longitude": -38.97311992943287,
+    "name": "Palmas Luz",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1619157,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3590586,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/561816"
+  },
+  {
+    "access": 1,
+    "address": "R. Palmares, 104 - Lagoa Salgada, Feira de Santana - BA, 44085-092, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 609450,
+    "latitude": -12.256741286132295,
+    "longitude": -38.928793743252754,
+    "name": "Posto Gasauto Noide",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1608088,
+        "network_id": 1820,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3566035,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3566036,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609450"
+  },
+  {
+    "access": 1,
+    "address": "Av. Visc. do Rio Branco, 232 - Centro, Feira de Santana - BA, 44002-668, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 573766,
+    "latitude": -12.253035065550575,
+    "longitude": -38.96367687731981,
+    "name": "NeoEnergia Coelba",
+    "stations": [
+      {
+        "id": 1487557,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3380300,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1487558,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3380301,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1487559,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3380302,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573766"
+  },
+  {
+    "access": 1,
+    "address": "Rod. Eng. Vasco Filho, s/n - Distrito Industrial, Candeias - BA, 43850-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 608460,
+    "latitude": -12.633700346742687,
+    "longitude": -38.477840311825275,
+    "name": "Maria Antonia",
+    "stations": [
+      {
+        "id": 1595526,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3544946,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3544947,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608460"
+  },
+  {
+    "access": 1,
+    "address": "BA-531, 6724 - Camaçari, BA, 42800-970, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 618610,
+    "latitude": -12.7120728996918,
+    "longitude": -38.30511033228723,
+    "name": "Boulevard Camaçari",
+    "stations": [
+      {
+        "id": 1623513,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3600435,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3600436,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/618610"
+  },
+  {
+    "access": 1,
+    "address": "12°33'55.5\"S 38°01'04.0\"W",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 290541,
+    "latitude": -12.564538,
+    "longitude": -38.017755,
+    "name": "Corredor Verde Neoenergia",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 808203,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2309616,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2309617,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2309618,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290541"
+  },
+  {
+    "access": 1,
+    "address": "BA-099, Entre Rios - BA, 48180-000 (Água Comprida, Entre Rios - BA)",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 341805,
+    "latitude": -12.301956,
+    "longitude": -37.899738,
+    "name": "Posto Linha Verde PETROBRAS",
+    "score": 10,
+    "stations": [
+      {
+        "id": 808213,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2309646,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2309647,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2309648,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341805"
+  },
+  {
+    "access": 1,
+    "address": "complexo Costa do Sauipe - Brisa",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 614829,
+    "latitude": -12.439392336679312,
+    "longitude": -37.91907141801567,
+    "name": "Estação de Recarga Volvo",
+    "stations": [
+      {
+        "id": 1613424,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3578339,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613425,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3578340,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613426,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3578341,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614829"
+  },
+  {
+    "access": 1,
+    "address": "9W3F+Q8 Monte Gordo, Camaçari - BA, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 370448,
+    "latitude": -12.645518,
+    "longitude": -38.076646,
+    "name": "Hiperideal Guarajuba",
+    "score": 10,
+    "stations": [
+      {
+        "id": 887889,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2426075,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/370448"
+  },
+  {
+    "access": 1,
+    "address": "BA-099, 33 - Guarajuba, Camaçari - BA, 42837-002, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 611534,
+    "latitude": -12.64541900341143,
+    "longitude": -38.07676738330624,
+    "name": "Supermercado Hiper Ideal",
+    "stations": [
+      {
+        "id": 1604641,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3559523,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3559524,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611534"
+  }
+]

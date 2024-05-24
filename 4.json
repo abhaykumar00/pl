@@ -1,0 +1,7410 @@
+[
+  {
+    "access": 1,
+    "address": "La Tebaida-El Caimo, Armenia, Quindío, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 347186,
+    "latitude": 4.469813,
+    "longitude": -75.753953,
+    "name": "Celsia Senior Mall",
+    "score": 7,
+    "stations": [
+      {
+        "id": 825519,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2332566,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2415511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/347186"
+  },
+  {
+    "access": 1,
+    "address": "Vía sin nombre, Montenegro, Quindío, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 354507,
+    "latitude": 4.522527,
+    "longitude": -75.784672,
+    "name": "Hotel Campestre las Camelias",
+    "stations": [
+      {
+        "id": 844695,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2366906,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 844696,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2366907,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/354507"
+  },
+  {
+    "access": 1,
+    "address": "Avenida 30 de Noviembre 73, Quindío, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 270819,
+    "latitude": 4.541532,
+    "longitude": -75.771276,
+    "name": "Frisby Parque Del Café",
+    "stations": [
+      {
+        "id": 597040,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1655072,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 597041,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1655073,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/270819"
+  },
+  {
+    "access": 1,
+    "address": "Vía Aeropuerto El Edén #10, El Eden, La Francia, La Tebaida, Quindío, Colombia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 200835,
+    "latitude": 4.470461,
+    "longitude": -75.764287,
+    "name": "Mall El Paraíso",
+    "stations": [
+      {
+        "id": 426348,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 745339,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 824519,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2331158,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/200835"
+  },
+  {
+    "access": 1,
+    "address": "Variante Ibagué - Armenia, Ibagué, Tolima, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 103302,
+    "latitude": 4.419172,
+    "longitude": -75.25139,
+    "name": "Taller de mecánica",
+    "stations": [
+      {
+        "id": 174623,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 397850,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/103302"
+  },
+  {
+    "access": 1,
+    "address": "Vía a la Tebaida entre calles 41 y 42, Calarcá, Quindío, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 103291,
+    "latitude": 4.529544,
+    "longitude": -75.634437,
+    "name": "Calarca, Quindio, Colombia",
+    "stations": [
+      {
+        "id": 174611,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 397824,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/103291"
+  },
+  {
+    "access": 1,
+    "address": "29, Filandia, Quindío, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 426885,
+    "latitude": 4.688437,
+    "longitude": -75.60696,
+    "name": "Tambo Jardín Filandia",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 1034227,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3616124,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3616125,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3616126,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/426885"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 18 50-1–51-99, Armenia, Quindío, Colombia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 270823,
+    "latitude": 4.518947,
+    "longitude": -75.689292,
+    "name": "Tres Esquinas EDEQ (Coming Soon)",
+    "stations": [
+      {
+        "id": 825517,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2332559,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2332560,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2332561,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/270823"
+  },
+  {
+    "access": 1,
+    "address": "Calarcá-Caicedonia, Calarcá, Quindío, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 367998,
+    "latitude": 4.506463,
+    "longitude": -75.655703,
+    "name": "Terpel La Metro",
+    "score": 9,
+    "stations": [
+      {
+        "id": 880786,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2416564,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2416565,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2416566,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/367998"
+  },
+  {
+    "access": 1,
+    "address": "Centro Comercial Calima, Armenia, Quindío, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 200833,
+    "latitude": 4.540489,
+    "longitude": -75.660559,
+    "name": "Centro Comercial Calima",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 426345,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 745335,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 426346,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 745336,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/200833"
+  },
+  {
+    "access": 1,
+    "address": "CQHV+FP Ibagué, Tolima, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 479475,
+    "latitude": 4.4286312484720805,
+    "longitude": -75.20570163349574,
+    "name": "Subestacion El Papayo",
+    "score": 4.4,
+    "stations": [
+      {
+        "id": 1228585,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2947126,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2947142,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/479475"
+  },
+  {
+    "access": 1,
+    "address": "Vía Bogota 2–30, Ibagué, Tolima, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 176156,
+    "latitude": 4.415989,
+    "longitude": -75.175815,
+    "name": "Mercacentro",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 825516,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2332556,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2332557,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1212871,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2923040,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1212872,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2923041,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/176156"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 19 # 60-180 Centro Comercial La Estación, Ibagué, Tolima, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 205859,
+    "latitude": 4.44558,
+    "longitude": -75.204575,
+    "name": "CC. La ESTACION",
+    "score": 9,
+    "stations": [
+      {
+        "id": 438268,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 804589,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 438269,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 804590,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 438270,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 804591,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/205859"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 5 61-41 Loc. 143, Ibagué, Tolima, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535406,
+    "latitude": 4.436581941634582,
+    "longitude": -75.20100197344888,
+    "name": "centro comercial multicentro",
+    "stations": [
+      {
+        "id": 1383468,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3190760,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535406"
+  },
+  {
+    "access": 1,
+    "address": "Av. Guabinal #3013852005, Ibagué, Tolima, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601234,
+    "latitude": 4.440398834898441,
+    "longitude": -75.20447038114071,
+    "name": "Terpel Voltex CC Acqua Power Center",
+    "stations": [
+      {
+        "id": 1568944,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3507816,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3507817,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601234"
+  },
+  {
+    "access": 1,
+    "address": "40, San Cayetano, Melgar, Tolima, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 334846,
+    "latitude": 4.252944,
+    "longitude": -74.609853,
+    "name": "Terpel Voltex Melgar",
+    "score": 5.9,
+    "stations": [
+      {
+        "id": 825515,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2332553,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2332554,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2332555,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334846"
+  },
+  {
+    "access": 1,
+    "address": "Dg. 4 #5-150, La Mesa, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 476316,
+    "latitude": 4.634480711543729,
+    "longitude": -74.44984596222639,
+    "name": "Terpel Voltex La Mesa",
+    "score": 8.6,
+    "stations": [
+      {
+        "id": 1219084,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2933694,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2933695,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2933696,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476316"
+  },
+  {
+    "access": 1,
+    "address": "40 #26 Sur-783, Soacha, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 340366,
+    "latitude": 4.550337,
+    "longitude": -74.240725,
+    "name": "Terpel Voltex Chusacá",
+    "score": 9.3,
+    "stations": [
+      {
+        "id": 825509,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2332539,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2332540,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2332541,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/340366"
+  },
+  {
+    "access": 1,
+    "address": "Via Ubaque Choachi, Ubaque, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 353112,
+    "latitude": 4.500438,
+    "longitude": -73.909688,
+    "name": "Finca Moralia",
+    "stations": [
+      {
+        "id": 841162,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2361668,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/353112"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 97 - Cra. 11",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 588986,
+    "latitude": 4.679975815248991,
+    "longitude": -74.04441961534027,
+    "name": "Enel Olímpica Chicó Reservado",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 1530823,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3449148,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3449149,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547684,
+        "outlets": [
+          {
+            "connector": 17,
+            "id": 3476065,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3476080,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/588986"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 116 #78b-59, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 351115,
+    "latitude": 4.721803,
+    "longitude": -74.123931,
+    "name": "Éxito Villas De Granada",
+    "score": 1,
+    "stations": [
+      {
+        "id": 836011,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2355411,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/351115"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 75 #23F - 30, Bogotá",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 589138,
+    "latitude": 4.665462499999999,
+    "longitude": -74.120601,
+    "name": "Éxito Modelia",
+    "stations": [
+      {
+        "id": 1531458,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 17,
+            "id": 3479877,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3479878,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547694,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3476084,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3476085,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589138"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 58a Bis #37-28, Teusaquillo, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 589821,
+    "latitude": 4.649573238777249,
+    "longitude": -74.08189368614433,
+    "name": "Nicolás de Federmán",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1533662,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3453440,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3474407,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3506973,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1546596,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3474405,
+            "kilowatts": 30,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3474408,
+            "kilowatts": 30,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1546597,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 17,
+            "id": 3506971,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3506972,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589821"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 71 D # 6-94, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330072,
+    "latitude": 4.618663,
+    "longitude": -74.13519,
+    "name": "Centro Comercial Plaza de las Américas",
+    "score": 10,
+    "stations": [
+      {
+        "id": 776243,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268063,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2287404,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330072"
+  },
+  {
+    "access": 1,
+    "address": "Cll 114a # 45-78",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585412,
+    "latitude": 4.698920347570447,
+    "longitude": -74.05772343277931,
+    "name": "Carulla Alhambra",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1528814,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3445823,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3445824,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3445825,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547720,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3476124,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3476125,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547721,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 17,
+            "id": 3476126,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3476127,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585412"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 7 No. 155 - 99 Bogotá Bogotá Distrito, Usaquén, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 602740,
+    "latitude": 4.7311068625018216,
+    "longitude": -74.02426086366177,
+    "name": "EDS Terpel La Juana",
+    "stations": [
+      {
+        "id": 1574299,
+        "network_id": 1816,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3515419,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602740"
+  },
+  {
+    "access": 1,
+    "address": "a 17a-63, Av. Boyacá #17a-49, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 334845,
+    "latitude": 4.65177,
+    "longitude": -74.126044,
+    "name": "Multiplaza Centro Comercial",
+    "score": 8,
+    "stations": [
+      {
+        "id": 1548978,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3478221,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334845"
+  },
+  {
+    "access": 1,
+    "address": "Calle 127B # 7-15, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 208890,
+    "latitude": 4.70441,
+    "longitude": -74.028966,
+    "name": "Autogermana Cl 127",
+    "stations": [
+      {
+        "id": 447043,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 862308,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 451579,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 898925,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/208890"
+  },
+  {
+    "access": 1,
+    "address": "Cl 127 #32, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 350145,
+    "latitude": 4.712451,
+    "longitude": -74.070887,
+    "name": "Centro Comercial Bulevar Niza",
+    "score": 4.9,
+    "stations": [
+      {
+        "id": 833075,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2351416,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3514839,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/350145"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 32 # 17-09, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330075,
+    "latitude": 4.617619,
+    "longitude": -74.0916,
+    "name": "Pelaez Hermanos",
+    "stations": [
+      {
+        "id": 776247,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268068,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2268069,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330075"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 10 # 26–21",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 208893,
+    "latitude": 4.613783,
+    "longitude": -74.071422,
+    "name": "Parqueadero Hotel Tequendama - Centro Internacional",
+    "stations": [
+      {
+        "id": 447050,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 862319,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 451588,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 898937,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 451589,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 898938,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 451590,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 898939,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 451591,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 898940,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1229304,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2948149,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/208893"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 170 #17a-55, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 618231,
+    "latitude": 4.74822699608448,
+    "longitude": -74.03632678091526,
+    "name": "CTIC",
+    "stations": [
+      {
+        "id": 1622152,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3596732,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1622153,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3596733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/618231"
+  },
+  {
+    "access": 1,
+    "address": "Ak. 7 #11 72, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335002,
+    "latitude": 4.655759,
+    "longitude": -74.055487,
+    "name": "Hilton Bogota",
+    "stations": [
+      {
+        "id": 789167,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2285109,
+            "kilowatts": 9.6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 789168,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2285110,
+            "kilowatts": 9.6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335002"
+  },
+  {
+    "access": 1,
+    "address": "Calle 86a # 69T - 81, Oficina 3 -1502, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 387233,
+    "latitude": 4.693305,
+    "longitude": -74.084577,
+    "name": "Solárium de Pontevedra (Coming Soon)",
+    "stations": [
+      {
+        "id": 932061,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2494661,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/387233"
+  },
+  {
+    "access": 1,
+    "address": "Ak 68 #4947, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 597273,
+    "latitude": 4.659869505255747,
+    "longitude": -74.0993940632473,
+    "name": "compensar",
+    "stations": [
+      {
+        "id": 1555245,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3488292,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/597273"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 146a #58C-56, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 374015,
+    "latitude": 4.733769,
+    "longitude": -74.064625,
+    "name": "Éxito Colina",
+    "score": 1,
+    "stations": [
+      {
+        "id": 899344,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2441079,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 899345,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2441080,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/374015"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 65 #12-50, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 334844,
+    "latitude": 4.631808,
+    "longitude": -74.115983,
+    "name": "C.C Plaza Central",
+    "score": 1,
+    "stations": [
+      {
+        "id": 788739,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2284590,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 788740,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2284591,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334844"
+  },
+  {
+    "access": 1,
+    "address": "cl. 15 # 12-57",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 516012,
+    "latitude": 4.6041681,
+    "longitude": -74.0773913,
+    "name": "Dielco SAS",
+    "stations": [
+      {
+        "id": 1330225,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3107587,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3107588,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/516012"
+  },
+  {
+    "access": 1,
+    "address": "Ak. 7 #6242, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 373891,
+    "latitude": 4.647979,
+    "longitude": -74.060601,
+    "name": "Carulla Calle 63",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 899018,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2440596,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/373891"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 7 #117 -15, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 557463,
+    "latitude": 4.695134700000001,
+    "longitude": -74.03297289999999,
+    "name": "Sótano 1 Parqueadero Fundacion Santafe",
+    "stations": [
+      {
+        "id": 1444356,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3309791,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1444357,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3309792,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/557463"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 110 #9B-80, Usaquén, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 373370,
+    "latitude": 4.691041,
+    "longitude": -74.038297,
+    "name": "Carulla 110",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 1592972,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3544297,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1618455,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3589472,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/373370"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 36 # 7-47",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 311438,
+    "latitude": 4.623705,
+    "longitude": -74.067244,
+    "name": "Banco de Bogotá - Sede principal",
+    "score": 2.8,
+    "stations": [
+      {
+        "id": 724738,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2174513,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 724739,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2174514,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/311438"
+  },
+  {
+    "access": 1,
+    "address": "Ak 68 #No. 90 – 40, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 473491,
+    "latitude": 4.6863174609869676,
+    "longitude": -74.07569322735071,
+    "name": "CC Cafam Floresta",
+    "stations": [
+      {
+        "id": 1211086,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2920569,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1211087,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2920570,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/473491"
+  },
+  {
+    "access": 1,
+    "address": "Ak 68 #7824, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 367988,
+    "latitude": 4.683901,
+    "longitude": -74.080646,
+    "name": "Éxito Calle 80 - Cra 68",
+    "score": 5.3,
+    "stations": [
+      {
+        "id": 880754,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2416490,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1187224,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2884343,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/367988"
+  },
+  {
+    "access": 1,
+    "address": "Cra 16 n° 14-54, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 466316,
+    "latitude": 4.669539,
+    "longitude": -74.117389,
+    "name": "modelia (Coming Soon)",
+    "stations": [
+      {
+        "id": 1187324,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2884491,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2884492,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/466316"
+  },
+  {
+    "access": 1,
+    "address": "Tv. 5 #41-70, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 386497,
+    "latitude": 4.629054,
+    "longitude": -74.063747,
+    "name": "Parqueadero universidad Javeriana",
+    "stations": [
+      {
+        "id": 930077,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2491951,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2491952,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/386497"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 70 #10a2, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372409,
+    "latitude": 4.655275,
+    "longitude": -74.059818,
+    "name": "Carulla Quinta Camacho",
+    "score": 8.4,
+    "stations": [
+      {
+        "id": 895414,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2435571,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372409"
+  },
+  {
+    "access": 1,
+    "address": "Av. El Dorado #53, Bogotá, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 346545,
+    "latitude": 4.659272,
+    "longitude": -74.108305,
+    "name": "Hotel Marriott",
+    "stations": [
+      {
+        "id": 822963,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3361036,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3434453,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/346545"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 68a #24b-10, Fontibón, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 538249,
+    "latitude": 4.651358999999999,
+    "longitude": -74.1065611,
+    "name": "Plaza Claro",
+    "stations": [
+      {
+        "id": 1520237,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3432460,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1542680,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3468447,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538249"
+  },
+  {
+    "access": 1,
+    "address": "Ak. 9 #131a-20, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372778,
+    "latitude": 4.70916,
+    "longitude": -74.031748,
+    "name": "Universidad El Bosque",
+    "stations": [
+      {
+        "id": 896406,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2436946,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 896407,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436947,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372778"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 134 #45a-9, Bogotá, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 353319,
+    "latitude": 4.711985,
+    "longitude": -74.034156,
+    "name": "Éxito Country",
+    "score": 1,
+    "stations": [
+      {
+        "id": 841637,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2362579,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 841638,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2362580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/353319"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 71g No 117 - 67",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585810,
+    "latitude": 4.702709249839236,
+    "longitude": -74.0805613922239,
+    "name": "casa",
+    "stations": [
+      {
+        "id": 1523214,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3436882,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1523215,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3436883,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585810"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 9 # 80, 12 de 702, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 362442,
+    "latitude": 4.663222131290964,
+    "longitude": -74.05222320628518,
+    "map_card_logo_url": "https://assets.plugshare.com/network-images/map_card_logos/blink_map_card.png",
+    "name": "Protactics",
+    "stations": [
+      {
+        "id": 865887,
+        "network_id": 2,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2396304,
+            "kilowatts": 6.48,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1232949,
+        "network_id": 2,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2952961,
+            "kilowatts": 8.64,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "thumbnail_url": "https://assets.plugshare.com/network-images/blink_thumb.png",
+    "url": "http://api.plugshare.com/view/location/362442"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 15 #102-27",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 311443,
+    "latitude": 4.687371,
+    "longitude": -74.047834,
+    "name": "Y&Y Asian Market",
+    "stations": [
+      {
+        "id": 724745,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2174535,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 763048,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2250517,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/311443"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 98 #43, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 209005,
+    "latitude": 4.687324,
+    "longitude": -74.05107,
+    "name": "Carulla Calle 102",
+    "score": 3.2,
+    "stations": [
+      {
+        "id": 447293,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 864827,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 447294,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2437138,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/209005"
+  },
+  {
+    "access": 1,
+    "address": "Calle 81 No. 11-94",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 208888,
+    "latitude": 4.665986,
+    "longitude": -74.054085,
+    "name": "Centro comercial El Retiro",
+    "score": 8.8,
+    "stations": [
+      {
+        "id": 447041,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 862304,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 451585,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 898934,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 451586,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 898935,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 451587,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 898936,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 866492,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2397189,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/208888"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 72 #10-34, Localidad de Chapinero, Bogotá, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 488018,
+    "latitude": 4.656910177090904,
+    "longitude": -74.05776131898165,
+    "name": "Centro Comercial Avenida Chile",
+    "stations": [
+      {
+        "id": 1252501,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2986276,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1252502,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2986277,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/488018"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 121 #149, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335572,
+    "latitude": 4.700682,
+    "longitude": -74.040814,
+    "name": "CC Unicentro para Particulares",
+    "score": 4.4,
+    "stations": [
+      {
+        "id": 822460,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2328127,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 822463,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2328130,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 822464,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2328131,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 822465,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2328132,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 866438,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2397093,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 866439,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2397094,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1150965,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2821700,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1544821,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3471508,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1544822,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3471509,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1544823,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3471510,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1544824,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3471511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335572"
+  },
+  {
+    "access": 1,
+    "address": "Calle 126 # 7-25",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330074,
+    "latitude": 4.700769,
+    "longitude": -74.029184,
+    "name": "Enel X - Pelaez Hermanos Calle 126",
+    "score": 5.1,
+    "stations": [
+      {
+        "id": 776246,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268066,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330074"
+  },
+  {
+    "access": 1,
+    "address": "Calle 127 A No 7-12",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330065,
+    "latitude": 4.702835,
+    "longitude": -74.02893,
+    "name": "Gimnasio Stark",
+    "stations": [
+      {
+        "id": 776230,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268050,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330065"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 24 # 41-53, Bogotá, DC, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 252641,
+    "latitude": 4.642348,
+    "longitude": -74.074297,
+    "name": "CC Galerias",
+    "score": 2.4,
+    "stations": [
+      {
+        "id": 554036,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1525996,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 554037,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1525997,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 800480,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2299676,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 800851,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2300184,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/252641"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 81 #10-60, Localidad de Chapinero, Bogotá, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 514176,
+    "latitude": 4.666590660562804,
+    "longitude": -74.05308488756418,
+    "name": "Centro Comercial Andino",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1325205,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3099159,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1325206,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3099160,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/514176"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Troncal de Occidente # 1-59 Parque Empresarial y Logístico EL PORTAL, Mosquera, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 469482,
+    "latitude": 4.701344,
+    "longitude": -74.231835,
+    "name": "Home Center Mosquera",
+    "stations": [
+      {
+        "id": 1199954,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2905283,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1218168,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2931988,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/469482"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 11 #140-2, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 384286,
+    "latitude": 4.719402,
+    "longitude": -74.035385,
+    "name": "Carulla Calle 140 Sótano",
+    "score": 1,
+    "stations": [
+      {
+        "id": 924032,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2481753,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 924033,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2481754,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/384286"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 336003,
+    "latitude": 4.701468,
+    "longitude": -74.231179,
+    "name": "Homecenter Mosquera",
+    "stations": [
+      {
+        "id": 792301,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2349079,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 831229,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2349080,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/336003"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 9 Sur ##65, Mosquera, Cundinamarca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 338803,
+    "latitude": 4.701113,
+    "longitude": -74.231205,
+    "name": "Cargador Para moto Eléctrica En El Sotano",
+    "stations": [
+      {
+        "id": 799429,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2298353,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 799430,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2298354,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 799431,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2298355,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 799432,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2298356,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/338803"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 68d #24-30, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 339196,
+    "latitude": 4.653516,
+    "longitude": -74.109992,
+    "name": "C.C. Salitre Plaza",
+    "score": 8.4,
+    "stations": [
+      {
+        "id": 800481,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2299677,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1449595,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3317955,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1449596,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3317956,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1449597,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3317957,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/339196"
+  },
+  {
+    "access": 1,
+    "address": "377A05_Aeropuerto Eldorado, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 374017,
+    "latitude": 4.69698,
+    "longitude": -74.140751,
+    "name": "Aeropuerto Internacional El Dorado",
+    "score": 8.6,
+    "stations": [
+      {
+        "id": 899351,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2441088,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/374017"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 68d #No 24A - 51, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 474342,
+    "latitude": 4.655075251131732,
+    "longitude": -74.10935763269663,
+    "name": "Maloka Museo Interactivo",
+    "stations": [
+      {
+        "id": 1213439,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3148428,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3148429,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1355608,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3148411,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 3148430,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/474342"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 68d #No 24A - 51, Bogotá, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 474341,
+    "latitude": 4.655075251131732,
+    "longitude": -74.10935763269663,
+    "name": "Maloka Museo Interactivo",
+    "stations": [
+      {
+        "id": 1213437,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2923853,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/474341"
+  },
+  {
+    "access": 1,
+    "address": "501031, Restrepo, Meta, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 452646,
+    "latitude": 4.263646,
+    "longitude": -73.55616,
+    "name": "Restaurante Paradero La Y",
+    "stations": [
+      {
+        "id": 1089511,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2750448,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/452646"
+  },
+  {
+    "access": 1,
+    "address": ".",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 454108,
+    "latitude": 4.687903360117392,
+    "longitude": 78.07105544954538,
+    "name": ".",
+    "stations": [
+      {
+        "id": 1096611,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2947910,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/454108"
+  },
+  {
+    "access": 1,
+    "address": "7PPR+V4 Ayer Tawar, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 376854,
+    "latitude": 4.28716,
+    "longitude": 100.740342,
+    "name": "Perak",
+    "stations": [
+      {
+        "id": 904657,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 2450906,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/376854"
+  },
+  {
+    "access": 1,
+    "address": "Kompleks Plaza Tol Trong, Hab EV, Lot 4366, 34800 Trong, Perak",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 617290,
+    "latitude": 4.698043036546416,
+    "longitude": 100.72365831693422,
+    "name": "[Coming Soon] WCE E32 Trong Toll Plaza [Dynamic DC]",
+    "stations": [
+      {
+        "id": 1619703,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3591498,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1619706,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3591497,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1623832,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3600928,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1623833,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3600929,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617290"
+  },
+  {
+    "access": 1,
+    "address": "Persiaran Swiss Garden, 32200 Lumut, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 471675,
+    "latitude": 4.2592599162711755,
+    "longitude": 100.59172515851735,
+    "name": "Doubletree Damai Laut Resort 2x7kW by CarputZap",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1206386,
+        "network_id": 1443,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2914027,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1206387,
+        "network_id": 1443,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2914028,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471675"
+  },
+  {
+    "access": 1,
+    "address": "2188, Jalan Timah, Bandar Baru Kampar, 31900 Kampar, Negeri Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 266052,
+    "latitude": 4.327522,
+    "longitude": 101.145324,
+    "name": "CEE4EV - Grand Kampar Hotel (32A 1P CEE sockets)",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 584622,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3071396,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 584623,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3071397,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/266052"
+  },
+  {
+    "access": 1,
+    "address": "A164, 33000 Sayung, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 217207,
+    "latitude": 4.713164,
+    "longitude": 100.945056,
+    "name": "JomCharge & Gentari @ Petronas R&R Sungai Perak Northbound (180kW max)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 472247,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3432869,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3432870,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/217207"
+  },
+  {
+    "access": 1,
+    "address": "Lebuhraya Utara - Selatan, 31600 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 462191,
+    "latitude": 4.496952,
+    "longitude": 101.155656,
+    "name": "Shell Simpang Pulai Northbound",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 1151271,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2822101,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2921853,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462191"
+  },
+  {
+    "access": 1,
+    "address": "275, Jalan Sungai Durian, 31800 Tanjung Tualang, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604966,
+    "latitude": 4.319295183626484,
+    "longitude": 101.03983657013605,
+    "name": "kg baru sg durian",
+    "stations": [
+      {
+        "id": 1582950,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3527276,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604966"
+  },
+  {
+    "access": 1,
+    "address": "Universiti Teknologi PETRONAS, 32610 Seri Iskandar, Perak",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 426728,
+    "latitude": 4.383122,
+    "longitude": 100.970208,
+    "name": "GENTARI @ UTP Kompleks Canselor",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1033659,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2658462,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1033660,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2658463,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/426728"
+  },
+  {
+    "access": 1,
+    "address": "1, Persiaran Meru Raya 1, 31200 Chemor, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 582975,
+    "latitude": 4.671001954705308,
+    "longitude": 101.0745245218277,
+    "name": "ChargeSini Station Mydin Meru (60kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1514905,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3423906,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3423907,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582975"
+  },
+  {
+    "access": 1,
+    "address": "1, Jalan Raja Dr. Nazrin Shah, Taman Song Choon, 31350 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 290467,
+    "latitude": 4.527724,
+    "longitude": 101.131035,
+    "name": "CEE4EV - Kambing Bakar & Nasi Lemak Aroma (7kW AC)",
+    "stations": [
+      {
+        "id": 1426401,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3282197,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290467"
+  },
+  {
+    "access": 1,
+    "address": "no. 42, Regat Tasek Jaya 2 31400, Perak, Ipoh",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 538946,
+    "latitude": 4.650583999999999,
+    "longitude": 101.107333,
+    "name": "ChargeSini Station Tasek Family Homestay (22 kW AC)",
+    "stations": [
+      {
+        "id": 1393523,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3210203,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538946"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Sultan Azlan Shah, Bandar Baru Medan Ipoh, 31400 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 473927,
+    "latitude": 4.6211352956593394,
+    "longitude": 101.11711992342155,
+    "name": "Gentari @ Petronas Jalan Sultan Azlan Shah Ipoh [60kW max]",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1212415,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2922411,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2922412,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/473927"
+  },
+  {
+    "access": 1,
+    "address": "Lot PT138197, 11, Jalan Panglima, Bukit Gantan Wahab, 30000 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 533331,
+    "latitude": 4.5961077977218485,
+    "longitude": 101.07324913144112,
+    "name": "GPO Pos Besar Ipoh",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1377554,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3182022,
+            "kilowatts": 40,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3182023,
+            "kilowatts": 40,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533331"
+  },
+  {
+    "access": 1,
+    "address": "15 - 23 Jalan Pengkalan Barat 35, Taman Pengkalan Jaya, Station 18, 31650 Ipoh, Perak",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 543225,
+    "latitude": 4.547178931960786,
+    "longitude": 101.07164766688015,
+    "name": "M Boutique Station 18 Hotel (22 kW AC)",
+    "stations": [
+      {
+        "id": 1405543,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3237613,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1405544,
+        "network_id": 1657,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3237614,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/543225"
+  },
+  {
+    "access": 1,
+    "address": "M Roof Hotel & Residences,Jalan Dato Lau Pak Khuan, Taman Ipoh,31400, PERAK MALAYSIA",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 618320,
+    "latitude": 4.6121641,
+    "longitude": 101.1051653,
+    "name": "ChargeSini Station M Roof Hotel & Residences (22kW AC)",
+    "stations": [
+      {
+        "id": 1622619,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3598262,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1622620,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3598263,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1622621,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3598264,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1622622,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3598265,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/618320"
+  },
+  {
+    "access": 1,
+    "address": "125, Lorong Pasar, Kampung Sungai Tapah Tambahan, 30020 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 592939,
+    "latitude": 4.623479757231174,
+    "longitude": 101.06888685375452,
+    "name": "Permanent Close",
+    "stations": [
+      {
+        "id": 1542580,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3468324,
+            "kilowatts": 80,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3468325,
+            "kilowatts": 80,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/592939"
+  },
+  {
+    "access": 1,
+    "address": "Usf-hicom (M) Sdn Bhd, 30250 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 366529,
+    "latitude": 4.583314,
+    "longitude": 101.092952,
+    "name": "Volvo Iroll Ipoh",
+    "stations": [
+      {
+        "id": 876697,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2410909,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 876698,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2410910,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 876699,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2410911,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/366529"
+  },
+  {
+    "access": 1,
+    "address": "7, Jalan Watson, 30350 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 466328,
+    "latitude": 4.596144,
+    "longitude": 101.109417,
+    "name": "Polo Ground Ipoh",
+    "stations": [
+      {
+        "id": 1187340,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2884516,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/466328"
+  },
+  {
+    "access": 1,
+    "address": "145, Jalan Sultan Abdul Jalil, 30000 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 384518,
+    "latitude": 4.598749,
+    "longitude": 101.099465,
+    "name": "Sojourn Guesthouse",
+    "stations": [
+      {
+        "id": 924589,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2482437,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 924590,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2482438,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/384518"
+  },
+  {
+    "access": 1,
+    "address": "31250 Hulu Kinta, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 254387,
+    "latitude": 4.637483,
+    "longitude": 101.16221,
+    "name": "The Haven Lakeside Residences (Banyan Tower)",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 558460,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1542421,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 923791,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2481467,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 923792,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2481468,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/254387"
+  },
+  {
+    "access": 1,
+    "address": "Persiaran Lagun Sunway 1, 31150 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 174952,
+    "latitude": 4.625283,
+    "longitude": 101.154879,
+    "name": "chargEV - Lost World of Tambun Theme Park (3.7 kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 357937,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 647117,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 357938,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 647118,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/174952"
+  },
+  {
+    "access": 1,
+    "address": "31150 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 174954,
+    "latitude": 4.630597,
+    "longitude": 101.155537,
+    "name": "The Banjaran Hotsprings Retreat (7 kW AC)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 357940,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 647120,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 357941,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 647121,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/174954"
+  },
+  {
+    "access": 1,
+    "address": "Pasar Bulat, Taman Jubilee, 30300 Ipoh, Negeri Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 179846,
+    "latitude": 4.594528,
+    "longitude": 101.085419,
+    "name": "One Octagon (1 x 3 pin)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 370607,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 663477,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/179846"
+  },
+  {
+    "access": 1,
+    "address": "prima ipoh condominium lebuh lasam 30350 ipoh perak",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 602148,
+    "latitude": 4.595514347172267,
+    "longitude": 101.0978161588955,
+    "name": "ChargeSini Station Prima Ipoh Condominium (22kw AC)",
+    "stations": [
+      {
+        "id": 1572073,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3512418,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1572074,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3512419,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602148"
+  },
+  {
+    "access": 1,
+    "address": "87, Jln. Kuala Kangsar, Taman Pelangi, 30010 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 571789,
+    "latitude": 4.620714035825187,
+    "longitude": 101.08088035136461,
+    "name": "smart Ipoh (22kW AC, 60kW DC)",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 1481826,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3370349,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3370350,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1511265,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3418196,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1511266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3418197,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1511267,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3418198,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571789"
+  },
+  {
+    "access": 1,
+    "address": "131, Jalan Raja Ekram, 30450 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 306296,
+    "latitude": 4.600756,
+    "longitude": 101.087338,
+    "name": "Regalodge Hotel (11 kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 919570,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2475775,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/306296"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tun Sambanthan, 30000 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 159826,
+    "latitude": 4.598068,
+    "longitude": 101.075947,
+    "name": "chargEV - Ipoh Tourist Information Center",
+    "score": 1,
+    "stations": [
+      {
+        "id": 316471,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 594953,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/159826"
+  },
+  {
+    "access": 1,
+    "address": "31, Jalan Medan Ipoh 1, Taman Ipoh Timur, 31400 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 614623,
+    "latitude": 4.619328712875373,
+    "longitude": 101.11958106159413,
+    "name": "ChargeSini @ Festival Walk (60kW DC)",
+    "stations": [
+      {
+        "id": 1613002,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3581721,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3581722,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614623"
+  },
+  {
+    "access": 1,
+    "address": "1, Jalan Mustapha Al-Bakri, Taman Jubilee, 30300 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 465312,
+    "latitude": 4.595925,
+    "longitude": 101.082833,
+    "name": "UTC Perak Parking Flexi Parking (22 kW AC)",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 1184443,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2880511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1184444,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2880512,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/465312"
+  },
+  {
+    "access": 1,
+    "address": "T07, Ipoh Parade, 105, Jalan Sultan Abdul Jalil, 30350 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 158897,
+    "latitude": 4.5958561966714635,
+    "longitude": 101.09025547332372,
+    "name": "Ipoh Parade (11kW AC)",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 313193,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 590882,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 313194,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 590883,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 313195,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 590884,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/158897"
+  },
+  {
+    "access": 1,
+    "address": "Persiaran Bougainvillea, 30450 Ipoh, Perak",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 96192,
+    "latitude": 4.598427,
+    "longitude": 101.089833,
+    "name": "chargEV - MAJLIS BANDARAYA IPOH (1 x 3.7 kW)",
+    "stations": [
+      {
+        "id": 156544,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 369639,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/96192"
+  },
+  {
+    "access": 1,
+    "address": "MYDIN Wholesale Hypermarket RTC Perak 31600, Perak, Kampung Kepayang",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585269,
+    "latitude": 4.494766801313187,
+    "longitude": 101.15493177144165,
+    "name": "ChargeSini Station MYDIN Gopeng (60kW DC)",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 1521711,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3434575,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3434576,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585269"
+  },
+  {
+    "access": 1,
+    "address": "95, Jln. Kuala Kangsar, Kampung Tembok, 30100 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 367105,
+    "latitude": 4.624101,
+    "longitude": 101.082035,
+    "name": "chargEV - Tian Siang Premium Auto (60 kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 878440,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3578920,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3578921,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 882692,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3578922,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/367105"
+  },
+  {
+    "access": 1,
+    "address": "128c, Jln. Kuala Kangsar, Kampung Tembok, 30100 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 614465,
+    "latitude": 4.62207851765992,
+    "longitude": 101.08119316399097,
+    "name": "Mini Tian Siang Ipoh (Coming Soon)",
+    "stations": [
+      {
+        "id": 1612425,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3576458,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613279,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3578076,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613280,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3578077,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613281,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3578078,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613282,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3599993,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613283,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3599994,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614465"
+  },
+  {
+    "access": 1,
+    "address": "Sunway City Ipoh, 31150, Ipoh",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 543684,
+    "latitude": 4.62030029101636,
+    "longitude": 101.14830876516491,
+    "name": "Gentari - JomCharge @ XPark Sunway City Ipoh (100kW Max Dynamic DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1451478,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3321302,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3321303,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/543684"
+  },
+  {
+    "access": 1,
+    "address": "3, Jalan Darul Johan, Sunway City, 31400 Ipoh, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542152,
+    "latitude": 4.620677609504589,
+    "longitude": 101.14797681570053,
+    "name": "chargEV - Starbucks Sunway Tambun Ipoh DT (30kW DC)",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1402308,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3229412,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3235602,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542152"
+  },
+  {
+    "access": 1,
+    "address": "Outdoor Parking Near Lobby, The Haven All Suite Resort, Jalan Haven Tambun, 31150",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 615838,
+    "latitude": 4.637239671140805,
+    "longitude": 101.16224539222716,
+    "name": "chargEV - THE HAVEN RESORT IPOH",
+    "stations": [
+      {
+        "id": 1615649,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3583632,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1615650,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3583633,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/615838"
+  },
+  {
+    "access": 1,
+    "address": "Regalodge Hotel Ipoh 30450, Perak, Ipoh",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 570855,
+    "latitude": 4.6007691,
+    "longitude": 101.0875409,
+    "name": "ChargeSini Station Regalodge Hotel (22kW)",
+    "stations": [
+      {
+        "id": 1479415,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3365570,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1479416,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3365571,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/570855"
+  },
+  {
+    "access": 1,
+    "address": "PT Lot 03, Jalan Meru Bestari B2, Bandar Meru Raya, 30020 Ipoh, Perak",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 583990,
+    "latitude": 4.671002,
+    "longitude": 101.0745245,
+    "name": "ChargeSini Station Mydin Meru Raya (60kW DC)",
+    "score": 8,
+    "stations": [
+      {
+        "id": 1518161,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3429085,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3429086,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583990"
+  },
+  {
+    "access": 1,
+    "address": "7a, Jalan Corina 2, Kampung Raja, 39000 Tanah Rata, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 290475,
+    "latitude": 4.55821,
+    "longitude": 101.415962,
+    "name": "CEE4EV - Highland CLINIC (1*13A, Single Phase 32A Blue CEE Available Soon)",
+    "stations": [
+      {
+        "id": 636029,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1960644,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290475"
+  },
+  {
+    "access": 1,
+    "address": "17a, Jalan Mentigi Utama, Tanah Rata, 39000 Tanah Rata, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 154301,
+    "latitude": 4.469418,
+    "longitude": 101.375594,
+    "name": "Avillion Hotel Cameron Highlands (3 pin)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 296814,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 568641,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 296815,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 568642,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 296816,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 568643,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/154301"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road, Brinchang, 39000 Brinchang, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 271020,
+    "latitude": 4.5050566132704875,
+    "longitude": 101.4089260385637,
+    "name": "CEE4EV - Copthorne Hotel Cameron Highlands (Red CEE, 7.4 kW AC, 11 kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 597590,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3015264,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 597591,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3015266,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 597592,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3015265,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 615596,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 1732004,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1274634,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3417086,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1276757,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3020803,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/271020"
+  },
+  {
+    "access": 1,
+    "address": "F9WQ+2R, Brinchang, 39000 Brinchang, Pahang",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 612186,
+    "latitude": 4.494724214438356,
+    "longitude": 101.389252609787,
+    "name": "EVlution | Cameron Centrum Block A (Green Pillar)",
+    "stations": [
+      {
+        "id": 1606122,
+        "network_id": 1509,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3562274,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1606123,
+        "network_id": 1509,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3562275,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/612186"
+  },
+  {
+    "access": 1,
+    "address": "31A, Jalan Besar, Brinchang, 39000 Brinchang, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535693,
+    "latitude": 4.490729781615787,
+    "longitude": 101.38892970979214,
+    "name": "NexTron Parkland Hotel (22kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1384200,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3191872,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535693"
+  },
+  {
+    "access": 1,
+    "address": "61, Jalan Pecah Batu, Brinchang, 39100 Brinchang, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 536034,
+    "latitude": 4.490075994515078,
+    "longitude": 101.38609696179628,
+    "name": "NexTron Parkland Apartment (22kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1385296,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3193640,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/536034"
+  },
+  {
+    "access": 1,
+    "address": "17a, Jalan Mentigi Utama, Tanah Rata, 39000 Tanah Rata, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 617228,
+    "latitude": 4.46817144883701,
+    "longitude": 101.37531280517578,
+    "name": "NEXTRON Highlander Guest House (22kW AC)",
+    "stations": [
+      {
+        "id": 1619572,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3591285,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3591286,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617228"
+  },
+  {
+    "access": 1,
+    "address": "East Coast Expressway, 23100 Paka, Terengganu, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 473928,
+    "latitude": 4.645892865625112,
+    "longitude": 103.34252548902741,
+    "name": "TNB Electron Paka R&R North",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1212416,
+        "network_id": 1373,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2922413,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2922414,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/473928"
+  },
+  {
+    "access": 1,
+    "address": "FC3W+9M Kemasik, Terengganu, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 586037,
+    "latitude": 4.453400477029959,
+    "longitude": 103.44668827950954,
+    "name": "Kelab Golf Rekreasi Petronas",
+    "stations": [
+      {
+        "id": 1523663,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3585419,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3585420,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586037"
+  },
+  {
+    "access": 1,
+    "address": "KM 28, Jalan Kemaman-Dungun, Kijal, Terengganu",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 254727,
+    "latitude": 4.388531,
+    "longitude": 103.45588,
+    "name": "Resorts World Kijal (MyEVOC 22 kW AC )",
+    "score": 10,
+    "stations": [
+      {
+        "id": 559178,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1545502,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/254727"
+  },
+  {
+    "access": 1,
+    "address": "J8WR+WV Paka, Terengganu, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 608685,
+    "latitude": 4.6473659169549775,
+    "longitude": 103.34212593704292,
+    "name": "Shell Recharge Paka R&R North (Coming Soon)",
+    "stations": [
+      {
+        "id": 1596127,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3545802,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3545803,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3545804,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1596128,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3545805,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3545806,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3545807,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608685"
+  },
+  {
+    "access": 1,
+    "address": "Lot 2643, Off Jalan Krokop 10D, Jalan Datuk Edward Jeli, 98000‎ Miri‎ Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 80267,
+    "latitude": 4.425526,
+    "longitude": 114.002235,
+    "name": "Nissan Showroom, Miri",
+    "stations": [
+      {
+        "id": 116921,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 517381,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/80267"
+  },
+  {
+    "access": 1,
+    "address": "2001 Ground Floor Marina Square Phase 1 Marina Park City, 98000 Miri, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 593812,
+    "latitude": 4.389500776503891,
+    "longitude": 113.98100995612677,
+    "name": "chargEV - Starbucks Marina Miri (Coming Soon)",
+    "stations": [
+      {
+        "id": 1545086,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3471987,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3471988,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/593812"
+  },
+  {
+    "access": 1,
+    "address": "Sublot 261, 1st Floor Permy Mall, Bandar Baru Permyjaya, 98000 Miri, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 545325,
+    "latitude": 4.449677770931899,
+    "longitude": 114.03771847486496,
+    "name": "chargEV - Permy Mall Miri",
+    "stations": [
+      {
+        "id": 1410947,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3249819,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3331126,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/545325"
+  },
+  {
+    "access": 1,
+    "address": "Emerald, Jalan Tanjung Lobang, Taman Selera Tanjung Lobang, 98000 Miri, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601249,
+    "latitude": 4.3742596763174255,
+    "longitude": 113.97125527879896,
+    "name": "Miri Marriott",
+    "stations": [
+      {
+        "id": 1568981,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3507886,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1568982,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3507887,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1568983,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3507888,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601249"
+  },
+  {
+    "access": 1,
+    "address": "Jln Pujut 1, 98000 Miri, Sarawak",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 514668,
+    "latitude": 4.421216620307731,
+    "longitude": 114.01786841349183,
+    "name": "chargEV - Sarawak Energy (Miri Regional Office)",
+    "stations": [
+      {
+        "id": 1326659,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3101521,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1326660,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3101522,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/514668"
+  },
+  {
+    "access": 1,
+    "address": "2123, Jln Yakin, Taman Yakin, 98000 Miri, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 526502,
+    "latitude": 4.414536618813709,
+    "longitude": 114.00593058748362,
+    "name": "chargEV - Miri City Green Community Hub",
+    "stations": [
+      {
+        "id": 1357869,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3152132,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/526502"
+  },
+  {
+    "access": 1,
+    "address": "Lot 2262 (Parent Lot 1359), Block 9, MCLD, Jln Bandaraya, 98000 Miri, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 516643,
+    "latitude": 4.388042769235406,
+    "longitude": 113.97375788281853,
+    "name": "Miri City Hall",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1331908,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3110571,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1331909,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3110572,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1331910,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3110573,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1331911,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3110574,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/516643"
+  },
+  {
+    "access": 1,
+    "address": "Block D, Unit D2-23, Miri Times Square, 98000, 98000 Miri, Sarawak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601351,
+    "latitude": 4.394129541313572,
+    "longitude": 113.98558473217196,
+    "name": "One Shell Square Miri",
+    "stations": [
+      {
+        "id": 1569300,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3508447,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1569301,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3508448,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1569302,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3508449,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601351"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 8 #2107, Buenaventura, Valle del Cauca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 207638,
+    "latitude": 3.890792,
+    "longitude": -77.077506,
+    "name": "Parqueadero Buenaventura",
+    "stations": [
+      {
+        "id": 443677,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 839828,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/207638"
+  },
+  {
+    "access": 1,
+    "address": "aserrio, Después del peaje, diagonal al, Dagua, Valle del Cauca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 207504,
+    "latitude": 3.766841,
+    "longitude": -76.6695,
+    "name": "Lobomar Hotel y Restaurante",
+    "stations": [
+      {
+        "id": 443151,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 837022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/207504"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 24, Guadalajara De Buga, Valle Del Cauca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 176480,
+    "latitude": 3.924483,
+    "longitude": -76.287539,
+    "name": "Estación de servicio puente lechugas",
+    "stations": [
+      {
+        "id": 362042,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 652133,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/176480"
+  },
+  {
+    "access": 1,
+    "address": "Carrera 13 1Bis-1–1Bis-99, Buga, Valle Del Cauca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 143907,
+    "latitude": 3.894538,
+    "longitude": -76.302705,
+    "name": "Hotel Guadalajara de Buga",
+    "stations": [
+      {
+        "id": 273506,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 541705,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/143907"
+  },
+  {
+    "access": 1,
+    "address": "Tv. 12, Tuluá, Valle del Cauca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 351116,
+    "latitude": 4.098839,
+    "longitude": -76.178494,
+    "name": "Celsia Terminal Tuluá",
+    "stations": [
+      {
+        "id": 836013,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3614204,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3614205,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/351116"
+  },
+  {
+    "access": 1,
+    "address": "Centro Comercial La Herradura",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330070,
+    "latitude": 4.083785,
+    "longitude": -76.203673,
+    "name": "Enel X - Centro Comercial La Herradura",
+    "stations": [
+      {
+        "id": 776239,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268059,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 776240,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268060,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330070"
+  },
+  {
+    "access": 1,
+    "address": "25, San Pedro, Valle del Cauca, Colombia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 367996,
+    "latitude": 4.010688,
+    "longitude": -76.223438,
+    "name": "Terpel El Recreo",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 880777,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2416546,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2416547,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2416548,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/367996"
+  },
+  {
+    "access": 1,
+    "address": "Centro Comercial la Herradura, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330429,
+    "latitude": 4.083785,
+    "longitude": -76.203673,
+    "name": "Enel X - Centro Comercial la Herradura - 10 kW",
+    "stations": [
+      {
+        "id": 777036,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269198,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 777037,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269199,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330429"
+  },
+  {
+    "access": 1,
+    "address": "Q426+GW Prado, Tolima, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 590684,
+    "latitude": 3.751327737210707,
+    "longitude": -74.88762607985828,
+    "name": "Restaurante Gran Parrilla",
+    "stations": [
+      {
+        "id": 1536051,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3457444,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590684"
+  },
+  {
+    "access": 1,
+    "address": "Centro comercial primavera urbana Calle 15 #40-01, Villavicencio, Meta, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 510870,
+    "latitude": 4.134752253731863,
+    "longitude": -73.64045720547438,
+    "name": "C.C. Primavera Urbana",
+    "stations": [
+      {
+        "id": 1316766,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3096591,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1320462,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3091609,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/510870"
+  },
+  {
+    "access": 1,
+    "address": "vanguardia, Llano alto, casa “La Bendición”",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 513281,
+    "latitude": 4.1706853650291755,
+    "longitude": -73.62637912374231,
+    "name": "La Bendición (rent house)",
+    "stations": [
+      {
+        "id": 1322980,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3095610,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513281"
+  },
+  {
+    "access": 1,
+    "address": "Unicentro Villavicencio",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589963,
+    "latitude": 4.1415182,
+    "longitude": -73.63449299999999,
+    "name": "EL TRIÁNGULO ENERGY",
+    "stations": [
+      {
+        "id": 1583117,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3527479,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 3527481,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589963"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 28 #37-11, Villavicencio, Meta, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 571738,
+    "latitude": 4.151160593679757,
+    "longitude": -73.6337761580944,
+    "name": "Alpilácteos Villavicencio",
+    "stations": [
+      {
+        "id": 1481691,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3370008,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571738"
+  },
+  {
+    "access": 1,
+    "address": "900, Jalan Utama Marina Island, 32200 Lumut, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 114802,
+    "latitude": 4.212375,
+    "longitude": 100.602236,
+    "name": "Marina Island VIP Parking (2kW 3pin socket)",
+    "stations": [
+      {
+        "id": 197643,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 430030,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471186,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3352457,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471187,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3352458,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471188,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3352459,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471190,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3352461,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471191,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3352462,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471192,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3352463,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471193,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3352464,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471194,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3352465,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471195,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 3352466,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/114802"
+  },
+  {
+    "access": 1,
+    "address": "Lot G23 & 23A Ground Floor,Rapid mall Seri Intan, Jalan Changkat Jong, 36000 Teluk Intan, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 612931,
+    "latitude": 4.017253305019628,
+    "longitude": 101.027099378407,
+    "name": "Lotus's Teluk Intan (Coming Soon)",
+    "stations": [
+      {
+        "id": 1608142,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3566132,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1608143,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3566133,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/612931"
+  },
+  {
+    "access": 1,
+    "address": "5WHJ+6Q, 36800 Kampung Gajah, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 494207,
+    "latitude": 4.17768113720433,
+    "longitude": 100.93277145177126,
+    "name": "Kampung Selat Pulau (32A 1P Type 2)",
+    "stations": [
+      {
+        "id": 1274629,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3044351,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/494207"
+  },
+  {
+    "access": 1,
+    "address": "75, Jalan Changkat Jong, 36000 Teluk Intan, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 579836,
+    "latitude": 4.016187739126396,
+    "longitude": 101.03008568286896,
+    "name": "Tai Chong Seafood Sdn Bhd",
+    "stations": [
+      {
+        "id": 1505849,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3409810,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/579836"
+  },
+  {
+    "access": 1,
+    "address": "Lebuhraya Utara - Selatan, 35950 Behrang Ulu, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 566835,
+    "latitude": 3.7817708289921845,
+    "longitude": 101.44589006715205,
+    "name": "Hentian Sebelah Behrang North Bound",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1469232,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3349313,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3349314,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1498512,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3399589,
+            "kilowatts": 100,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3399590,
+            "kilowatts": 100,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/566835"
+  },
+  {
+    "access": 1,
+    "address": "North-South Expy, 35950 Behrang Ulu, Perak",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 583034,
+    "latitude": 3.783402839628,
+    "longitude": 101.44627137387721,
+    "name": "Hentian Sebelah Behrang South Bound",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1515112,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3424207,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3424208,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603802,
+        "network_id": 1032,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558056,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3558057,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583034"
+  },
+  {
+    "access": 1,
+    "address": "Lebuhraya Utara Selatan, 35000 Batang Padang, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 265590,
+    "latitude": 4.180962,
+    "longitude": 101.289549,
+    "name": "R&R Tapah Southbound",
+    "score": 10,
+    "stations": [
+      {
+        "id": 583256,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1609714,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 583257,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1609715,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/265590"
+  },
+  {
+    "access": 1,
+    "address": "35000, Lebuhraya Utara - Selatan, 35000 Tapah, Negeri Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 185475,
+    "latitude": 4.179558,
+    "longitude": 101.289068,
+    "name": "Petronas R&R Tapah Northbound",
+    "score": 10,
+    "stations": [
+      {
+        "id": 631115,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1899766,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/185475"
+  },
+  {
+    "access": 1,
+    "address": "Rest & Service Area Tapah, KM 331.50, North-South Expy, 35000 Tapah, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 312310,
+    "latitude": 4.178719402795755,
+    "longitude": 101.28991227596998,
+    "name": "TNB Electron Tapah R&R Northbound (80-100 kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1202723,
+        "network_id": 1373,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3585730,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3585731,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/312310"
+  },
+  {
+    "access": 1,
+    "address": "35000, AH2, 35000 Tapah, Perak, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 312308,
+    "latitude": 4.179044,
+    "longitude": 101.290951,
+    "name": "Shell Tapah Southbound",
+    "score": 10,
+    "stations": [
+      {
+        "id": 727490,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2185064,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3120237,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/312308"
+  },
+  {
+    "access": 1,
+    "address": "6X6G+58 Padang Tengku, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 620865,
+    "latitude": 4.210484,
+    "longitude": 101.975766,
+    "name": "ev charge",
+    "stations": [
+      {
+        "id": 1629742,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3614081,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620865"
+  },
+  {
+    "access": 1,
+    "address": "No. 21, Taman Cheneras Indah, 27200, Kuala Lipis, Pahang.",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 605088,
+    "latitude": 4.169154815394944,
+    "longitude": 102.03306910720629,
+    "name": "Ria stay",
+    "stations": [
+      {
+        "id": 1583370,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3527856,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605088"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Inderapura 19, Taman Inderapura, 27000 Jerantut, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 163903,
+    "latitude": 3.932898,
+    "longitude": 102.369803,
+    "name": "Park View Hotel, Jerantut",
+    "stations": [
+      {
+        "id": 328063,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 609169,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/163903"
+  },
+  {
+    "access": 1,
+    "address": "No. A7348, Jalan Beserah, 25300‎ Kuantan‎ Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 80266,
+    "latitude": 3.81882,
+    "longitude": 103.332336,
+    "name": "Nissan Showroom, Kuantan",
+    "stations": [
+      {
+        "id": 116920,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 841308,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/80266"
+  },
+  {
+    "access": 1,
+    "address": "Perasing, 24000, 24000, 24000 Chukai, Terengganu, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 603959,
+    "latitude": 4.02081956266535,
+    "longitude": 103.31387534737587,
+    "name": "Shell Perasing R&R",
+    "stations": [
+      {
+        "id": 1578910,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3576424,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3576425,
+            "kilowatts": 180,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/603959"
+  },
+  {
+    "access": 1,
+    "address": "No 1&2, Pusat Rekreasi, Teluk Cempedak, Jalan Tengku, Jalan T.A. Bakar, 25050 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 573030,
+    "latitude": 3.8121685432610692,
+    "longitude": 103.37197836488485,
+    "name": "EI Charge Teluk Cempedak Beach (11kW AC, 40kW DC)",
+    "score": 8.9,
+    "stations": [
+      {
+        "id": 1485490,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3377050,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1586608,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3532377,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1586609,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3532378,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1586610,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3532379,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573030"
+  },
+  {
+    "access": 1,
+    "address": "Lot 6299, Jalan Seri Setali 2, Kawasan Perindustrian Semambu, 25350 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584111,
+    "latitude": 3.8457300384979947,
+    "longitude": 103.3372212946415,
+    "name": "Gentari @ Proton 3S YS Autoworld [60kW max]",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1518498,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3429550,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3429551,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584111"
+  },
+  {
+    "access": 1,
+    "address": "Starbucks Coffee Drive-Thru, 14, Jln IM 7/1, Bandar Indera Mahkota, 25200 Kuantan, Pahang",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 546097,
+    "latitude": 3.833909953715633,
+    "longitude": 103.29936854639735,
+    "name": "chargEV - Starbucks Indera Mahkota (60 kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1412777,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3254686,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3254687,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/546097"
+  },
+  {
+    "access": 1,
+    "address": "The Kasturi Resort Cherating 26080, Pahang, Kuantan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 559632,
+    "latitude": 4.163994,
+    "longitude": 103.4105852,
+    "name": "ChargeSini Station Kasturi Resort  (22kW AC)",
+    "stations": [
+      {
+        "id": 1450205,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3319016,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1450206,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3319017,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/559632"
+  },
+  {
+    "access": 1,
+    "address": "a1, Jalan Seri Setali 1 Jalan Seri Setali 1, Taman Penisular, 25300",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 495362,
+    "latitude": 3.8415811333617085,
+    "longitude": 103.33685421226843,
+    "name": "ChargeSini Station BLH ECOENERGY (22 kW AC)",
+    "stations": [
+      {
+        "id": 1277180,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3021449,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1277181,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3021450,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/495362"
+  },
+  {
+    "access": 1,
+    "address": "Lot 3588, Jln Seri Teruntum 6, Off Jln Tanah Putih, 25100 Kuantan, Pahang",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 583258,
+    "latitude": 3.794793147646206,
+    "longitude": 103.31302072629614,
+    "name": "Gentari @ Proton Pesat Auto CTM [120kW max]",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1515855,
+        "network_id": 1760,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3425380,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3425381,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583258"
+  },
+  {
+    "access": 1,
+    "address": "Club Med Cherating Beach, 26080 Balok, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476863,
+    "latitude": 4.138392561667115,
+    "longitude": 103.4079571813345,
+    "name": "Club Med Cherating (3 pin)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1220682,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 2936147,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476863"
+  },
+  {
+    "access": 1,
+    "address": "49GW+MV Balok, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 468685,
+    "latitude": 4.1261884687449335,
+    "longitude": 103.39834548532963,
+    "name": "Royal Chulan Cherating Villa",
+    "score": 4.4,
+    "stations": [
+      {
+        "id": 1197610,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2902063,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/468685"
+  },
+  {
+    "access": 1,
+    "address": "24, Lorong Bukit Rangin Perdana 2/36, 25150 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 571798,
+    "latitude": 3.8065731046134723,
+    "longitude": 103.25677011162043,
+    "name": "CEE4EV - Homestay Nur (7kW AC)",
+    "stations": [
+      {
+        "id": 1481843,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3370392,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571798"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tanah Putih, Tanah Putih, 25100 Kuantan, Pahang",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 514072,
+    "latitude": 3.7978249131653286,
+    "longitude": 103.32208562722712,
+    "name": "Majlis Bandaraya Kuantan (11-22 kW AC)",
+    "stations": [
+      {
+        "id": 1324958,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098805,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1324959,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098806,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/514072"
+  },
+  {
+    "access": 1,
+    "address": "G12, bazar serambi teruntum, 26060 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 611545,
+    "latitude": 3.8029708,
+    "longitude": 103.3376793,
+    "name": "EI Charge Medan Selera Bazar Serambi Teruntum (7kW AC)",
+    "stations": [
+      {
+        "id": 1604676,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3559583,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1604813,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3559807,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611545"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Beserah 25250, Pahang, Kuantan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583571,
+    "latitude": 3.8269782483561063,
+    "longitude": 103.33953235298395,
+    "name": "ChargeSini Station Kemaman Kopitiam (22kW AC)",
+    "stations": [
+      {
+        "id": 1516985,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427138,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1516986,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427139,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583571"
+  },
+  {
+    "access": 1,
+    "address": "567, Jalan Besar, 25000 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 513141,
+    "latitude": 3.8057276117605374,
+    "longitude": 103.32925316488526,
+    "name": "Mega View Hotel",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 1322639,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3095096,
+            "kilowatts": 40,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3142476,
+            "kilowatts": 40,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1386808,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3196514,
+            "kilowatts": 20,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3196515,
+            "kilowatts": 20,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513141"
+  },
+  {
+    "access": 1,
+    "address": "Zoo Teruntum 25050, Pahang, Kuantan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575848,
+    "latitude": 3.8088329,
+    "longitude": 103.3663175,
+    "name": "ChargeSini Station Zoo Teruntum (22kW AC)",
+    "stations": [
+      {
+        "id": 1493456,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1493457,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391023,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575848"
+  },
+  {
+    "access": 1,
+    "address": "Lot PT 240, Jalan Bukit Ubi, Jalan Masjid, Kompleks Pentadbiran Kerajaan Negeri Pahang, 25000 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 497332,
+    "latitude": 3.8065868206082256,
+    "longitude": 103.32527909427881,
+    "name": "CEE4EV - Shazan Hotel Kuantan (7 kW, 11 kW AC)",
+    "stations": [
+      {
+        "id": 1282014,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028706,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1282015,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028707,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/497332"
+  },
+  {
+    "access": 1,
+    "address": "32, Jalan Teluk Sisek, 25000 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 114800,
+    "latitude": 3.812024,
+    "longitude": 103.332993,
+    "name": "chargEV - BMW Millennium Welt Kuantan (30kW DC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 197641,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 430027,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991716,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2591829,
+            "kilowatts": 30,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/114800"
+  },
+  {
+    "access": 1,
+    "address": "NO2, Jalan Gambut, 25000 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 356699,
+    "latitude": 3.814668,
+    "longitude": 103.332379,
+    "name": "TJM Cars Kuantan",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 850438,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2374339,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2374340,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2374341,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/356699"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Besar, 25000 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 570135,
+    "latitude": 3.8042143039739837,
+    "longitude": 103.32758432857362,
+    "name": "Kuantan 188 EvGuru Charging Station",
+    "stations": [
+      {
+        "id": 1477409,
+        "network_id": 1609,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3362379,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/570135"
+  },
+  {
+    "access": 1,
+    "address": "34, Lorong Haji Ahmad 2, Taman Pertama, 25300 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581345,
+    "latitude": 3.821010907981967,
+    "longitude": 103.32732494920492,
+    "name": "JW Guest House (11kW AC)",
+    "stations": [
+      {
+        "id": 1510397,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3416983,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581345"
+  },
+  {
+    "access": 1,
+    "address": "The Zenith Hotel 25200, Pahang, Kuantan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 573828,
+    "latitude": 3.8195488,
+    "longitude": 103.3259658,
+    "name": "ChargeSini Station The Zenith Hotel (22kW AC)",
+    "stations": [
+      {
+        "id": 1487726,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3380551,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1487727,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3380552,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573828"
+  },
+  {
+    "access": 1,
+    "address": "20, Jalan Gambut, 25000 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 289901,
+    "latitude": 3.813453,
+    "longitude": 103.330536,
+    "name": "Hotel Grand Continental Kuantan (3 pin)",
+    "stations": [
+      {
+        "id": 634419,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1940364,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 634420,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1940365,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 634421,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1940366,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 634422,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1940367,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 634423,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1940368,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 634424,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1940369,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/289901"
+  },
+  {
+    "access": 1,
+    "address": "Starbucks Megamall Kuantan 25000, Pahang, Kuantan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521861,
+    "latitude": 3.815181578477792,
+    "longitude": 103.32965807189281,
+    "name": "ChargeSini Station Starbucks Megamall Kuantan (22 kW AC)",
+    "score": 5.9,
+    "stations": [
+      {
+        "id": 1345169,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132340,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1345170,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132341,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521861"
+  },
+  {
+    "access": 1,
+    "address": "Lorong Tun Ismail 10, Sri Dagangan Bussiness Centre, Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521855,
+    "latitude": 3.8168741964148585,
+    "longitude": 103.32962115365486,
+    "name": "Empire Seafood Restaurant (11kW, 22kW AC)",
+    "stations": [
+      {
+        "id": 1324954,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098800,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1324955,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098801,
+            "kilowatts": 111,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521855"
+  },
+  {
+    "access": 1,
+    "address": "Hyatt Regency Kuantan",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567962,
+    "latitude": 3.810099572878153,
+    "longitude": 103.37222546348661,
+    "name": "Hyatt Regency Kuantan (22kW AC)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1424552,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3279032,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1514563,
+        "network_id": 1455,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3423296,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567962"
+  },
+  {
+    "access": 1,
+    "address": "4CQ4+HJ Balok, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 553797,
+    "latitude": 4.138948880080393,
+    "longitude": 103.40656428136283,
+    "name": "Club Med Cherating Parking",
+    "stations": [
+      {
+        "id": 1433564,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3293324,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/553797"
+  },
+  {
+    "access": 1,
+    "address": "2, Tanah Putih, 25100 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 606077,
+    "latitude": 3.7989349342992362,
+    "longitude": 103.32253217697144,
+    "name": "EI Charge Kuantan Riverfront (7kW AC)",
+    "stations": [
+      {
+        "id": 1586621,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3532393,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1586622,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3532394,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/606077"
+  },
+  {
+    "access": 1,
+    "address": "567, Jalan Besar, Kuantan, Pahang,, 25000 Kuantan, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 524148,
+    "latitude": 3.8057931304383366,
+    "longitude": 103.32919711196132,
+    "name": "Mega View Hotel (AC - EvGuru Charge)",
+    "score": 5.7,
+    "stations": [
+      {
+        "id": 1351762,
+        "network_id": 1609,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3142474,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/524148"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tanah Putih, Tanah Putih, 25100 Kuantan, Pahang",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521858,
+    "latitude": 3.797906995754124,
+    "longitude": 103.3220427759144,
+    "name": "ChargeSini Station MBK HQ (11 kW; 22 kW AC)",
+    "stations": [
+      {
+        "id": 1345163,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132334,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1345164,
+        "network_id": 1399,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3132335,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521858"
+  },
+  {
+    "access": 1,
+    "address": "No. 13, Jalan Telok Chempedak, Telok Chempedak, Kuantan, 25050, Pahang, 25050 Kuantan, Pahang, Malaysia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 520616,
+    "latitude": 3.8115839605152666,
+    "longitude": 103.37169232161301,
+    "name": "Hyatt Regency Kuantan (2)",
+    "stations": [
+      {
+        "id": 1341238,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3126114,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/520616"
+  },
+  {
+    "access": 1,
+    "address": "Pusat Penerangan Pelancongan (TIC, Jalan Kampung Cherating Lama, 26080 Kuantan, Pahang",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 607318,
+    "latitude": 4.130936392362547,
+    "longitude": 103.40002813024182,
+    "name": "EI Charge Cherating Tourist Information Centre (40kW DC)",
+    "stations": [
+      {
+        "id": 1591356,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3538899,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3538900,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/607318"
+  },
+  {
+    "access": 1,
+    "address": "Pusat Penerangan Pelancongan (TIC), Jalan Kampung Cherating Lama, 26080 Kuantan, Pahang.",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 611543,
+    "latitude": 4.130968727015968,
+    "longitude": 103.40004085136766,
+    "name": "EI Charge Cherating Pond (40kW DC Station)",
+    "stations": [
+      {
+        "id": 1604672,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3559577,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3559578,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611543"
+  },
+  {
+    "access": 1,
+    "address": "Kampung Budaya Cherating, Jln Kuantan - Kemaman, 26080 Balok, Pahang",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 611590,
+    "latitude": 4.130973369840283,
+    "longitude": 103.40004104299166,
+    "name": "Cherating Pond",
+    "stations": [
+      {
+        "id": 1604824,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3559818,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3559819,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611590"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 611580,
+    "latitude": 3.8192147079120353,
+    "longitude": 103.32576705626079,
+    "name": "EI Charge Zenith Hotel Kuantan (160kW DC)",
+    "stations": [
+      {
+        "id": 1604779,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3559738,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3559801,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611580"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 606926,
+    "latitude": 3.819213628768921,
+    "longitude": 103.32576751708984,
+    "name": "EI Charge The Zenith Hotel Lobby (160kW DC)",
+    "score": 6.2,
+    "stations": [
+      {
+        "id": 1589879,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3536830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3536831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/606926"
+  }
+]

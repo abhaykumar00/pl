@@ -1,0 +1,758 @@
+[
+  {
+    "access": 1,
+    "address": "Rua José de Melo, N 199 - Bosque CEP 69900-403",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589495,
+    "latitude": -9.968919967661005,
+    "longitude": -67.81388351319606,
+    "name": "EngeAmazon Gestão de Energia",
+    "stations": [
+      {
+        "id": 1532607,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3451826,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3451827,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589495"
+  },
+  {
+    "access": 1,
+    "address": "Av. Cap. Silvio, 2996 - Setor Grandes Áreas, Ariquemes - RO, 76860-690, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 467669,
+    "latitude": -9.920674,
+    "longitude": -63.038621,
+    "name": "Aquárius Hotel Aquárius",
+    "stations": [
+      {
+        "id": 1191075,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2890356,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/467669"
+  },
+  {
+    "access": 1,
+    "address": "av Canaa 1958",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 606404,
+    "latitude": -9.913647263037898,
+    "longitude": -63.04685389821154,
+    "name": "eletromec solar",
+    "stations": [
+      {
+        "id": 1588159,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3534321,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 3534322,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/606404"
+  },
+  {
+    "access": 1,
+    "address": "av Canaã 1958 setor01",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 607154,
+    "latitude": -9.913715797132499,
+    "longitude": -63.04689008987857,
+    "name": "Eletromec Solar",
+    "stations": [
+      {
+        "id": 1590819,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3538097,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/607154"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia MT 320",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 391435,
+    "latitude": -10.21079,
+    "longitude": -55.811255,
+    "name": "SAU 02 - Via Brasil - MT 320",
+    "stations": [
+      {
+        "id": 944663,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2514756,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/391435"
+  },
+  {
+    "access": 1,
+    "address": "Rua Dois - C, 78–142, Matupá - MT, 78525-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 269788,
+    "latitude": -10.180863,
+    "longitude": -54.932483,
+    "name": "Advocacia Macedo",
+    "stations": [
+      {
+        "id": 594561,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1647412,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/269788"
+  },
+  {
+    "access": 1,
+    "address": "101 Norte Ave Joaquim T Segurado Conjunto 1 Lote 3 - Plano Diretor Norte, Palmas - TO, 77001-004, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 339191,
+    "latitude": -10.178135,
+    "longitude": -48.33449,
+    "name": "Ibis Styles Palmas",
+    "stations": [
+      {
+        "id": 800469,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2299660,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/339191"
+  },
+  {
+    "access": 1,
+    "address": "Q. 107 Norte Avenida NS 5, 78 - Plano Diretor Norte, Palmas - TO, 77001-080, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 577003,
+    "latitude": -10.183340765165903,
+    "longitude": -48.348122388124466,
+    "name": "Shopping Capim Dourado",
+    "stations": [
+      {
+        "id": 1496802,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3397273,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1496803,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3397274,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577003"
+  },
+  {
+    "access": 1,
+    "address": "Q. 101 Norte Avenida Lo 4, 42 - Arno, Palmas - TO, 77001-012, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601526,
+    "latitude": -10.177587588471562,
+    "longitude": -48.336303904652596,
+    "name": "Posto Disbrava",
+    "stations": [
+      {
+        "id": 1569782,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3509147,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1569783,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3509148,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601526"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Moacir Andrade, Porto Real do Colégio",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 605551,
+    "latitude": -10.181090323699783,
+    "longitude": -36.828500677740486,
+    "name": "Não Tem Carregador (Coming Soon)",
+    "stations": [
+      {
+        "id": 1584637,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3529702,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1584638,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3529703,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1584639,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3529704,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605551"
+  },
+  {
+    "access": 1,
+    "address": "BR-101, 2336, Junqueiro - AL, 57270-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 597076,
+    "latitude": -9.8972357,
+    "longitude": -36.4502188,
+    "name": "BR Super Carga - Café Engenho do Queijo",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 1554481,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3487208,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/597076"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Antônio Simeão Lamenha Filho, 563 - Jardim Tropical, Arapiraca - AL, 57316-010, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 528612,
+    "latitude": -9.758892529134583,
+    "longitude": -36.641456530080625,
+    "name": "Azul Atacarejo",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1363625,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3161409,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/528612"
+  },
+  {
+    "access": 1,
+    "address": "Rua do Futuro n32 - Centro",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 493665,
+    "latitude": -10.130196657667826,
+    "longitude": -36.17627431495732,
+    "name": "Casa do Flávio da Galinha",
+    "stations": [
+      {
+        "id": 1273234,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3015320,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493665"
+  },
+  {
+    "access": 1,
+    "address": "Sítio Escorrega Rodovia BR 101, km 159, Campo Alegre - AL, 57250-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 500787,
+    "latitude": -9.904358089316084,
+    "longitude": -36.21781773024068,
+    "name": "Engenho Caraçuipe",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1291571,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3042971,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1291572,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3042972,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500787"
+  },
+  {
+    "access": 1,
+    "address": "RJG7+JHP, Jl. W.J. Lalamentik, Oebufu, Kec. Oebobo, Kota Kupang, Nusa Tenggara Tim., Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 554120,
+    "latitude": -10.173420975078733,
+    "longitude": 123.61393790692091,
+    "name": "SPKLU PARADOX kupang",
+    "stations": [
+      {
+        "id": 1434457,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3295041,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3295042,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1434458,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3295043,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554120"
+  },
+  {
+    "access": 1,
+    "address": "Av. Daniel Alcides Carrión 308, Cerro De Pasco 19001, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 328297,
+    "latitude": -10.665724,
+    "longitude": -76.255476,
+    "name": "SENATI Cerro de Pasco",
+    "stations": [
+      {
+        "id": 771244,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261568,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771245,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261569,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328297"
+  },
+  {
+    "access": 1,
+    "address": "Quadra 1.401 Sul, Av. Joaquim Teotônio Segurado, Conj. 1, LT. 02, Palmas - TO, 77019-740",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 512800,
+    "latitude": -10.27200364594262,
+    "longitude": -48.3337648340327,
+    "name": "IPPER.SOLAR",
+    "stations": [
+      {
+        "id": 1321857,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3093788,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/512800"
+  },
+  {
+    "access": 1,
+    "address": "Q. 1112 Sul Avenida LO 27 - Plano Diretor Sul, Palmas - TO, 77024-144",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 512802,
+    "latitude": -10.255683799576296,
+    "longitude": -48.31445027602489,
+    "name": "RODOPETRO",
+    "stations": [
+      {
+        "id": 1321859,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3093790,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/512802"
+  },
+  {
+    "access": 1,
+    "address": "Praça Duque de Caxias",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 599222,
+    "latitude": -10.506998695055362,
+    "longitude": -39.01699148118496,
+    "name": "Bamba Gelateria",
+    "stations": [
+      {
+        "id": 1562230,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3498131,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599222"
+  },
+  {
+    "access": 1,
+    "address": "Povoado Matoso 6537 zona rural, Paripiranga - BA, 48430-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 384180,
+    "latitude": -10.667584,
+    "longitude": -37.869059,
+    "name": "Hotel Bom Pastor",
+    "stations": [
+      {
+        "id": 923761,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2481424,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/384180"
+  },
+  {
+    "access": 1,
+    "address": "48 Rodovia BR 235, Itabaiana - SE, 49500-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575489,
+    "latitude": -10.71989,
+    "longitude": -37.4195523,
+    "name": "restaurante o pirata",
+    "stations": [
+      {
+        "id": 1492432,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3418315,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575489"
+  },
+  {
+    "access": 1,
+    "address": "Avenida  Pedro Teles Barbosa, BR 235 KM 48 Pov. estreito",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 348438,
+    "latitude": -10.719944,
+    "longitude": -37.419712,
+    "name": "PIRATAS CHURASCARIA",
+    "stations": [
+      {
+        "id": 827899,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2914777,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/348438"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia BR 235, Km 48, s/n Povoado - Estreito, Itabaiana - SE, 49500-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 613498,
+    "latitude": -10.720001857988656,
+    "longitude": -37.41963895686215,
+    "name": "restaurante o pirata steak house",
+    "stations": [
+      {
+        "id": 1610194,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3570517,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3570518,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1610195,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3570519,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3570520,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/613498"
+  },
+  {
+    "access": 1,
+    "address": "Av. Floriano Peixoto, 237 - Centro Histórico, Penedo - AL, 57200-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 365364,
+    "latitude": -10.290202,
+    "longitude": -36.585629,
+    "name": "Hotel São Francisco",
+    "stations": [
+      {
+        "id": 873321,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2406505,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 873322,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2406506,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/365364"
+  }
+]

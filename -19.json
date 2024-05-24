@@ -1,0 +1,3076 @@
+[
+  {
+    "access": 1,
+    "address": "Lavadero Gerri, Challapata, Bolivia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330355,
+    "latitude": -18.900542,
+    "longitude": -66.769488,
+    "name": "Enel X - Lavadero Gerri, Challapata - 10 kW",
+    "stations": [
+      {
+        "id": 776876,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268999,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 776877,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269000,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330355"
+  },
+  {
+    "access": 1,
+    "address": "Rua Campo Grande,380. Flamboyant",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 359236,
+    "latitude": -18.791058,
+    "longitude": -52.615832,
+    "name": "Hotel Nova Aliança",
+    "stations": [
+      {
+        "id": 857254,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2383782,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 857255,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2383783,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 930888,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2493186,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/359236"
+  },
+  {
+    "access": 1,
+    "address": "BR-364 - Itaguaçu, São Simão - GO, 75890-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 582650,
+    "latitude": -18.925075018231244,
+    "longitude": -50.6542981043458,
+    "name": "ECOVIAS SAU 6",
+    "stations": [
+      {
+        "id": 1514048,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3422608,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582650"
+  },
+  {
+    "access": 1,
+    "address": "BR 365",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 568123,
+    "latitude": -18.917970699292507,
+    "longitude": -49.87445209534081,
+    "name": "SAU 4 - próximo a flor de minas",
+    "stations": [
+      {
+        "id": 1472345,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3354269,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3354270,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/568123"
+  },
+  {
+    "access": 1,
+    "address": "BR-365, 4000 - Trevão, Monte Alegre de Minas - MG, 38420-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 404546,
+    "latitude": -18.878437,
+    "longitude": -49.055862,
+    "name": "Posto Trevão",
+    "stations": [
+      {
+        "id": 968504,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3443820,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/404546"
+  },
+  {
+    "access": 1,
+    "address": "BR-365, 3005, Monte Alegre de Minas - MG, 38420-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584486,
+    "latitude": -18.87910920592992,
+    "longitude": -48.9825904501858,
+    "name": "SAU-2",
+    "stations": [
+      {
+        "id": 1519614,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3431397,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584486"
+  },
+  {
+    "access": 1,
+    "address": "4CMF+G6 Uberlândia, MG, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584488,
+    "latitude": -18.86615019278533,
+    "longitude": -48.57689657954864,
+    "name": "SAU-1",
+    "stations": [
+      {
+        "id": 1519616,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3431401,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584488"
+  },
+  {
+    "access": 1,
+    "address": "Av Marcos de Freitas Costa, 269 - Daniel Fonseca, Uberlândia / MG - CEP 38.400-328",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335108,
+    "latitude": -18.922604,
+    "longitude": -48.293414,
+    "name": "Cecília Markiewicz Chocolates",
+    "stations": [
+      {
+        "id": 789421,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2285408,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335108"
+  },
+  {
+    "access": 1,
+    "address": "Novos: Av. Afonso Pena, 2605 - Av. Afonso Pena, 2605 - Loja 01 - Nossa Sra. Aparecida, Uberlândia - MG, 38400-708, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 475516,
+    "latitude": -18.9021376,
+    "longitude": -48.2660667,
+    "name": "Audi Center Uberlândia",
+    "score": 3.4,
+    "stations": [
+      {
+        "id": 1428921,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3286678,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3286679,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/475516"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Rondon Pacheco, 3500, Uberlândia, CEP: 38408404,",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 353020,
+    "latitude": -18.917642,
+    "longitude": -48.264921,
+    "name": "Nobile Suítes Hotel",
+    "stations": [
+      {
+        "id": 840926,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2361353,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/353020"
+  },
+  {
+    "access": 1,
+    "address": "Av. João Naves de Ávila, 3142 - Santa Mônica, Uberlândia - MG, 38408-100, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 561892,
+    "latitude": -18.926570384520595,
+    "longitude": -48.25907941907644,
+    "name": "Concessionária BMW",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1456220,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3328593,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/561892"
+  },
+  {
+    "access": 1,
+    "address": "Av. Nicomedes Alves dos Santos, 2222 - Altamira, Uberlândia - MG, 38411-106, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 308224,
+    "latitude": -18.94163083653606,
+    "longitude": -48.274266656414035,
+    "name": "Pão De Açúcar Uberlândia",
+    "score": 8.3,
+    "stations": [
+      {
+        "id": 716327,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2151293,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491708,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3387982,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/308224"
+  },
+  {
+    "access": 1,
+    "address": "Rua Rafael Marino Neto 600, Jardim Karaíba, Uberlândia - MG",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 362674,
+    "latitude": -18.947787,
+    "longitude": -48.27084,
+    "name": "UMC - Uberlândia Medical Center (Coming Soon)",
+    "stations": [
+      {
+        "id": 866499,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2397199,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/362674"
+  },
+  {
+    "access": 1,
+    "address": "Av. dos Vinhedos, 1400 - Jardim Karaíba, Uberlândia - MG, 38411-106, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 373249,
+    "latitude": -18.953008,
+    "longitude": -48.268858,
+    "name": "Brasal incorporações",
+    "score": 10,
+    "stations": [
+      {
+        "id": 897572,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2438589,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/373249"
+  },
+  {
+    "access": 1,
+    "address": "R. Natal, 1413 - Tibery, Uberlândia - MG, 38405-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 532118,
+    "latitude": -18.905457408799297,
+    "longitude": -48.260370791914184,
+    "name": "Gran Executive Hotel",
+    "stations": [
+      {
+        "id": 1374380,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3177167,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1374381,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3177168,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1374382,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3177169,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1374383,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3177170,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1446938,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3314021,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1446939,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3314022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1446940,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3314023,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/532118"
+  },
+  {
+    "access": 1,
+    "address": "Av. Rondon Pacheco, 4600 - Tibery, Uberlândia - MG, 38405-142",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 321870,
+    "latitude": -18.908833,
+    "longitude": -48.261056,
+    "name": "Center Shopping Uberlândia",
+    "score": 9,
+    "stations": [
+      {
+        "id": 752999,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2237175,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 1250495,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2983179,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1250496,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2983180,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/321870"
+  },
+  {
+    "access": 1,
+    "address": "SAU 7 - Eco050 - Km 086 - Uberlândia / MG",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 470517,
+    "latitude": -19.022097452772567,
+    "longitude": -48.20452736829924,
+    "name": "Serviço de Atendimento ao Usuário",
+    "stations": [
+      {
+        "id": 1203069,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2909360,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470517"
+  },
+  {
+    "access": 1,
+    "address": "Av. Maria Silc - Granja Marileusa, Uberlândia - MG, 38406-633, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 249095,
+    "latitude": -18.879377,
+    "longitude": -48.246898,
+    "name": "(re)energisa",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1325144,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3099063,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3099064,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3099065,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/249095"
+  },
+  {
+    "access": 1,
+    "address": "AV. João Naves de Ávila, 6300 - Santa Luzia, Uberlândia - MG, 38408-684, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 438732,
+    "latitude": -18.935262,
+    "longitude": -48.232491,
+    "name": "Loja Eletrica Ltda",
+    "stations": [
+      {
+        "id": 1065186,
+        "network_id": 1377,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2707771,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1065187,
+        "network_id": 1377,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2707772,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/438732"
+  },
+  {
+    "access": 1,
+    "address": "R. Maj. Belisário, 286 - Pompeu, Pompéu - MG, 35640-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 586552,
+    "latitude": -19.220786817611636,
+    "longitude": -44.998792335391045,
+    "name": "Garage Solar - Alan",
+    "stations": [
+      {
+        "id": 1524834,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3439485,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586552"
+  },
+  {
+    "access": 1,
+    "address": "Av. Esperança, 960 - Boa Esperança - Curvelo / MG",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 431824,
+    "latitude": -18.788973592397113,
+    "longitude": -44.455320923942566,
+    "name": "JBA Energia Solar E Carros Eletricos",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1050516,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2683907,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2683908,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1050517,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2683909,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1050518,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2683910,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1050519,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2683911,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1050520,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2683912,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1050521,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2683913,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/431824"
+  },
+  {
+    "access": 1,
+    "address": "2JQJ+25 Curvelo, MG, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478511,
+    "latitude": -18.96239445140852,
+    "longitude": -44.36954864570083,
+    "name": "SAU KM 25",
+    "stations": [
+      {
+        "id": 1225583,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2942966,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478511"
+  },
+  {
+    "access": 1,
+    "address": "rodovia eco135 km 634",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 554270,
+    "latitude": -18.865079564335996,
+    "longitude": -44.49610122980499,
+    "name": "Base SAU km634",
+    "stations": [
+      {
+        "id": 1434834,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3295509,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554270"
+  },
+  {
+    "access": 1,
+    "address": "BR-120, 3187 - Guanhães, MG, 39740-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 599039,
+    "latitude": -18.779169994322928,
+    "longitude": -42.93913643807173,
+    "name": "Bosh Guanhães",
+    "stations": [
+      {
+        "id": 1561421,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3511041,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599039"
+  },
+  {
+    "access": 1,
+    "address": "AVENIDA GOVERNADOR MILTON CAMPOS, 3175, CENTRO, GUANHAES-MG",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 548799,
+    "latitude": -18.77914051916036,
+    "longitude": -42.93900921537265,
+    "name": "VILLAGE AUTO CENTER",
+    "stations": [
+      {
+        "id": 1420384,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3270563,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/548799"
+  },
+  {
+    "access": 1,
+    "address": "R. Santa Helena, 640 - A Definir, Naque - MG, 35117-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583231,
+    "latitude": -19.224713456836916,
+    "longitude": -42.32354754825309,
+    "name": "Posto Mangueiras",
+    "stations": [
+      {
+        "id": 1515765,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3519401,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583231"
+  },
+  {
+    "access": 1,
+    "address": "Rua Arthur Bernardes, 503, Centro, Governador Valadares/MG",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 295185,
+    "latitude": -18.855304,
+    "longitude": -41.941806,
+    "name": "Estacionamento Ponto Final",
+    "score": 9,
+    "stations": [
+      {
+        "id": 646548,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2053804,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/295185"
+  },
+  {
+    "access": 1,
+    "address": "Av. Rio Bahia, 1570 - Jardim Ipe, Gov. Valadares - MG, 35043-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 564429,
+    "latitude": -18.83168935554188,
+    "longitude": -41.988378406359,
+    "name": "posto rede HG",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1463118,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3339508,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/564429"
+  },
+  {
+    "access": 1,
+    "address": "Rua Quintiliano Costa 426 Santa Rita",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 611108,
+    "latitude": -18.89392039274457,
+    "longitude": -41.97213253010248,
+    "name": "Casa Bairro Santa Rita 7w",
+    "stations": [
+      {
+        "id": 1603516,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3557522,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611108"
+  },
+  {
+    "access": 1,
+    "address": "rua quatorze 980 ilha dos araujos",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 602301,
+    "latitude": -18.870371148639006,
+    "longitude": -41.94763508220117,
+    "name": "Inacio ilha dos araujos",
+    "stations": [
+      {
+        "id": 1572541,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3513092,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602301"
+  },
+  {
+    "access": 1,
+    "address": "R. Cap. Antônio Lopes Tatagiba, 331 - Irmãos Fernandes, Barra de São Francisco - ES, 29800-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584854,
+    "latitude": -18.75206960937216,
+    "longitude": -40.892173424363136,
+    "name": "Carregador 7kwh",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1520358,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432661,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584854"
+  },
+  {
+    "access": 1,
+    "address": "BR-101, Sooretama - ES, 29927-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584117,
+    "latitude": -19.17763100475022,
+    "longitude": -40.09151995182037,
+    "name": "SAU4",
+    "stations": [
+      {
+        "id": 1518515,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3429584,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584117"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia Gov. Mario Covas km 86 São Mateus BR - Barra Nova, São Mateus - ES, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 565533,
+    "latitude": -18.865508609359654,
+    "longitude": -39.9394403770566,
+    "name": "SAU3 - Eco101 KM 85",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1465870,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3343786,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/565533"
+  },
+  {
+    "access": 1,
+    "address": "Park Narodowy Etosha, Okaukuejo, Namibia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 145699,
+    "latitude": -19.177716,
+    "longitude": 15.918048,
+    "name": "Okaukeueyo camp",
+    "stations": [
+      {
+        "id": 278538,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 548343,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/145699"
+  },
+  {
+    "access": 1,
+    "address": "Park Narodowy Etosha, Namutoni, Namibia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 145698,
+    "latitude": -18.80531,
+    "longitude": 16.941909,
+    "name": "Namutoni Camp",
+    "stations": [
+      {
+        "id": 278537,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 548342,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/145698"
+  },
+  {
+    "access": 1,
+    "address": "Bootu Creek Mine Turn Off, Tablelands NT 0862, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567345,
+    "latitude": -18.792153455515205,
+    "longitude": 134.0309180652566,
+    "name": "Banka Banka West Station and Tourist Park",
+    "stations": [
+      {
+        "id": 1470496,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3351374,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567345"
+  },
+  {
+    "access": 1,
+    "address": "LOT 51 Burke Developmental Rd, Four Ways QLD 4824, Australia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 131046,
+    "latitude": -19.227194,
+    "longitude": 140.347627,
+    "name": "Burke and Wills Road House (Coming Soon)",
+    "stations": [
+      {
+        "id": 238400,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 494523,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/131046"
+  },
+  {
+    "access": 1,
+    "address": "Caravan Park, 3 Kylee Ct, Greenvale QLD 4816, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 454311,
+    "latitude": -19.000861,
+    "longitude": 144.984649,
+    "name": "Greenvale Accommodation Caravan Park",
+    "stations": [
+      {
+        "id": 1097122,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2759899,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/454311"
+  },
+  {
+    "access": 1,
+    "address": "1 Bruce Hwy, Mutarnee, Queensland, Australia, QLD 4816",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 91351,
+    "latitude": -18.947488,
+    "longitude": 146.279516,
+    "name": "Frosty Mango",
+    "score": 6.7,
+    "stations": [
+      {
+        "id": 144982,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 351304,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 144983,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 351305,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/91351"
+  },
+  {
+    "access": 1,
+    "address": "98 The Strand, North Ward QLD 4810, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 19509,
+    "latitude": -19.243964,
+    "longitude": 146.809254,
+    "name": "Townsville City Council - The Strand",
+    "score": 8.8,
+    "stations": [
+      {
+        "id": 49843,
+        "network_id": 57,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2325381,
+            "kilowatts": 3.6,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2325382,
+            "kilowatts": 3.6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/19509"
+  },
+  {
+    "access": 1,
+    "address": "Hotel Tayka del Desierto, Bolivia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330348,
+    "latitude": -19.338373,
+    "longitude": -65.91523,
+    "name": "Enel X - Hotel Tayka del Desierto",
+    "stations": [
+      {
+        "id": 776863,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268986,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 776864,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268987,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330348"
+  },
+  {
+    "access": 1,
+    "address": "Hotel Coloso, Potosi, Bolivia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330354,
+    "latitude": -19.587685,
+    "longitude": -65.751409,
+    "name": "Enel X - Hotel Coloso, Potosi - 10 kW",
+    "stations": [
+      {
+        "id": 776874,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268997,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 776875,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2268998,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330354"
+  },
+  {
+    "access": 1,
+    "address": "av. engenheiro Marcelo miranda Soares, 1025. ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 377300,
+    "latitude": -19.69045,
+    "longitude": -51.186928,
+    "name": "FIAT SELENA",
+    "stations": [
+      {
+        "id": 905716,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2452428,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/377300"
+  },
+  {
+    "access": 1,
+    "address": "Rua Maria Candida de Freitas, 1195. Jardim Santa Lucia, Paranaíba / MS",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 484367,
+    "latitude": -19.669757918745372,
+    "longitude": -51.192666306305156,
+    "name": "HotelSul Hotel",
+    "stations": [
+      {
+        "id": 1243393,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2971387,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484367"
+  },
+  {
+    "access": 1,
+    "address": "Av. Eng. Marcelo Miranda Soares, 485 - Vila Santo Antonio, Paranaíba - MS, 79500-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 464623,
+    "latitude": -19.693634,
+    "longitude": -51.182599,
+    "name": "Hotel Daniel",
+    "stations": [
+      {
+        "id": 1182084,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3443822,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1527579,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3443823,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1527580,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3443824,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/464623"
+  },
+  {
+    "access": 1,
+    "address": "Av. Eng. Marcelo Miranda Soares, 485 - Vila Santo Antonio, Paranaíba - MS, 79500-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585998,
+    "latitude": -19.69418260996209,
+    "longitude": -51.182185001671314,
+    "name": "Posto",
+    "stations": [
+      {
+        "id": 1523578,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3437501,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585998"
+  },
+  {
+    "access": 1,
+    "address": "Rod. Transbrasiliana - Prata, MG, 38140-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 590525,
+    "latitude": -19.496622464808382,
+    "longitude": -48.8538009300828,
+    "name": "SAU-11 Triunfo Prata",
+    "stations": [
+      {
+        "id": 1535535,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3456588,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1535536,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3456589,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590525"
+  },
+  {
+    "access": 1,
+    "address": "BR-050, 1393, Uberaba - MG, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 497681,
+    "latitude": -19.463495548261104,
+    "longitude": -48.057202178593165,
+    "name": "ECO 050 - Uberaba km 138",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1282784,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3029681,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/497681"
+  },
+  {
+    "access": 1,
+    "address": "Av. do Alecrim, 375 - Vila Olimpica, Uberaba - MG, 38066-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 559722,
+    "latitude": -19.735525807019094,
+    "longitude": -47.94169803306579,
+    "name": "Kinsol Energias Renováveis",
+    "stations": [
+      {
+        "id": 1450447,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3319475,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/559722"
+  },
+  {
+    "access": 1,
+    "address": "Sacramento, MG, 38190-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 406742,
+    "latitude": -19.635651,
+    "longitude": -47.50022,
+    "name": "Restaurante Nova Era",
+    "stations": [
+      {
+        "id": 980442,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2573939,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2573940,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/406742"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Wilson Borges, 605, Araxá - MG, 38182-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 243207,
+    "latitude": -19.6013,
+    "longitude": -46.929641,
+    "name": "Posto PetroBull 1",
+    "score": 10,
+    "stations": [
+      {
+        "id": 527265,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1393597,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1393598,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1231045,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2950478,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2950479,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/243207"
+  },
+  {
+    "access": 1,
+    "address": "Av Do Contorno 80",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 587171,
+    "latitude": -19.645642,
+    "longitude": -46.9522825,
+    "name": "Hotel Nacional Inn Araxá",
+    "stations": [
+      {
+        "id": 1526400,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3441985,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3441986,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/587171"
+  },
+  {
+    "access": 1,
+    "address": "Av. Hítalo Rós, 1300f - Jardim Res. Bela Vista, Araxá - MG, 38181-419, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 384183,
+    "latitude": -19.585749,
+    "longitude": -46.929921,
+    "name": "Deck Auto Desk",
+    "stations": [
+      {
+        "id": 923777,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2815215,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/384183"
+  },
+  {
+    "access": 1,
+    "address": "Av. Sen. Montandon, 950 - Centro, Araxá - MG, 38183-214, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535679,
+    "latitude": -19.60162908203548,
+    "longitude": -46.939933486282825,
+    "name": "Posto Rio Branco",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1384142,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3191807,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535679"
+  },
+  {
+    "access": 1,
+    "address": "R. Seis, 363 - Centro, Ibiá - MG, 38950-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 593723,
+    "latitude": -19.478508010014473,
+    "longitude": -46.53803749129913,
+    "name": "Hotel Heron",
+    "stations": [
+      {
+        "id": 1544849,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3471567,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/593723"
+  },
+  {
+    "access": 1,
+    "address": "BR-262, 1 - Campos Altos, MG, 38970-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 597208,
+    "latitude": -19.656952691364136,
+    "longitude": -46.212293264258015,
+    "name": "carregador Volvo rede HG",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1554897,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3487859,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1554898,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3487860,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/597208"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pref. Alberto Moura, 21500 - Eldorado, Sete Lagoas - MG, 35702-051",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 508502,
+    "latitude": -19.47343033825597,
+    "longitude": -44.269812245359034,
+    "name": "Hotel San Diego Veredas Sete Lagoas",
+    "stations": [
+      {
+        "id": 1310708,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3075847,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/508502"
+  },
+  {
+    "access": 1,
+    "address": "Rua Olavo Bilac 780",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 523064,
+    "latitude": -19.470520428062386,
+    "longitude": -44.25618503630387,
+    "name": "Lenz Energia Fotovoltaica",
+    "stations": [
+      {
+        "id": 1348422,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3137616,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/523064"
+  },
+  {
+    "access": 1,
+    "address": "Av. Coronel Custódio Alvarenga, 270 - Centro, Capim Branco - MG, 35730-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 562997,
+    "latitude": -19.54781790798751,
+    "longitude": -44.134830348193645,
+    "name": "DOC SOLAR",
+    "stations": [
+      {
+        "id": 1459497,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3333583,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3333584,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562997"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia Mg 10, Km 03 S/N - R. das Goiabeiras - Estância das Amendoeiras, Lagoa Santa - MG, 33400-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 209981,
+    "latitude": -19.662939,
+    "longitude": -43.932395,
+    "name": "EMB Aeroporto Lagoa Santa",
+    "stations": [
+      {
+        "id": 449952,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 885610,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 736720,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2215634,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/209981"
+  },
+  {
+    "access": 1,
+    "address": "Av. Adélia Issa, 999 - Santo Antônio, Vespasiano - MG, 33200-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 334985,
+    "latitude": -19.697087,
+    "longitude": -43.913275,
+    "name": "Encontro das Águas Mata e Sujo",
+    "stations": [
+      {
+        "id": 789134,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2285074,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334985"
+  },
+  {
+    "access": 1,
+    "address": "Aeroporto Internacional de Belo Horizonte, Rodovia José Aparecido de Oliveira, Confins - MG, 33500, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 282350,
+    "latitude": -19.630392,
+    "longitude": -43.963602,
+    "name": "BH Airport - P+ (Coming Soon)",
+    "stations": [
+      {
+        "id": 617364,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1761640,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471686,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3353275,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471687,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3353276,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471689,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3353279,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1471691,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3353282,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/282350"
+  },
+  {
+    "access": 1,
+    "address": "R. Lindolfo Ribeiro, 204 - Confins, MG, 33500-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583090,
+    "latitude": -19.62471009592124,
+    "longitude": -43.996403217315674,
+    "name": "ProCharge IPOPARK",
+    "stations": [
+      {
+        "id": 1515260,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3424446,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3424447,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583090"
+  },
+  {
+    "access": 1,
+    "address": "rua Dona Mariana da Costa ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 590038,
+    "latitude": -19.687648861684178,
+    "longitude": -43.91879852861166,
+    "name": "Rafael BYD Dolphin",
+    "stations": [
+      {
+        "id": 1534227,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3454382,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590038"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia Mg 10, Km 03 S/N - R. das Goiabeiras - Estância das Amendoeiras, Lagoa Santa - MG, 33400-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 471059,
+    "latitude": -19.663340766980074,
+    "longitude": -43.93250258896294,
+    "name": "Zletric - Aeroporto Lagoa Santa Confins",
+    "stations": [
+      {
+        "id": 1204845,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2911752,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1204846,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2911753,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471059"
+  },
+  {
+    "access": 1,
+    "address": "Estrada sem nome - Almeida, Jaboticatubas - MG, 35830-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 462034,
+    "latitude": -19.376103,
+    "longitude": -43.670061,
+    "name": "Eco Lounge Mountain",
+    "stations": [
+      {
+        "id": 1150964,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2878051,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462034"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Doutor Pedro Guerra, 1250 Gabiroba",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 518845,
+    "latitude": -19.65801219772586,
+    "longitude": -43.21288042164842,
+    "name": "Comercial Jardim Gabiroba",
+    "score": 5.9,
+    "stations": [
+      {
+        "id": 1337028,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3119187,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3119188,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1337029,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3119189,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3119190,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/518845"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Brasil, 1045, Ipatinga - MG, 35162-082, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 248707,
+    "latitude": -19.472667,
+    "longitude": -42.556746,
+    "name": "T8M Energia Solar - SolarEdge",
+    "score": 9,
+    "stations": [
+      {
+        "id": 543829,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2886655,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/248707"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pedro Linhares Gomes, 3900 - Industrial, Ipatinga",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 500124,
+    "latitude": -19.496653127760762,
+    "longitude": -42.56546549509782,
+    "name": "BMW - Shopping Vale do Aço",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1289800,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3040085,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500124"
+  },
+  {
+    "access": 1,
+    "address": "Av. José Júlio da Costa, 11 - Cidade Nobre, Ipatinga - MG, 35162-712, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 556872,
+    "latitude": -19.472618764765855,
+    "longitude": -42.55839552730322,
+    "name": "Loja Elétrica",
+    "stations": [
+      {
+        "id": 1442531,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3307360,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/556872"
+  },
+  {
+    "access": 1,
+    "address": "estrada Água Limpa",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 468570,
+    "latitude": -19.439369201660156,
+    "longitude": -42.30128479003906,
+    "name": "Max",
+    "stations": [
+      {
+        "id": 1197351,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2901730,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/468570"
+  },
+  {
+    "access": 1,
+    "address": "R. das Orquídeas, 30 - Rio Bananal, ES, 29920-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589388,
+    "latitude": -19.25835726056458,
+    "longitude": -40.33795528113842,
+    "name": "Carregador do Maikeu",
+    "stations": [
+      {
+        "id": 1532257,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3451317,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589388"
+  },
+  {
+    "access": 1,
+    "address": "BR-101, 171 - Jacupemba, Aracruz - ES, 29196-010, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575925,
+    "latitude": -19.564491029289144,
+    "longitude": -40.17886188351095,
+    "name": "SAU05 Eco101 KM172",
+    "stations": [
+      {
+        "id": 1493640,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391346,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575925"
+  },
+  {
+    "access": 1,
+    "address": "Av. Prefeito Samuel Batista Cruz, 4964 - Palmital, Linhares - ES, 29906-712, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589653,
+    "latitude": -19.367834037871887,
+    "longitude": -40.06469968995442,
+    "name": "Hotel e Churrascaria Los Pagos",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 1533084,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3453407,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589653"
+  },
+  {
+    "access": 1,
+    "address": "Av. Rui Barbosa, 179 - Centro, Linhares - ES, 29900-073, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 206468,
+    "latitude": -19.398542,
+    "longitude": -40.064827,
+    "name": "EDP - Linhares",
+    "score": 7.7,
+    "stations": [
+      {
+        "id": 439909,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 817109,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 926753,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2486193,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/206468"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Getúlio Vargas, 501 - Shell, Linhares - ES, 29900-215, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 488998,
+    "latitude": -19.394563335768595,
+    "longitude": -40.06438174303254,
+    "name": "Hipermercado SempreTem Carone",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1255910,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2991380,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/488998"
+  },
+  {
+    "access": 1,
+    "address": "22681 Stuart Highway, Warumungu NT 0852",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 586590,
+    "latitude": -19.436294247246476,
+    "longitude": 134.20816078954928,
+    "name": "Three Ways Roadhouse (Coming Soon)",
+    "stations": [
+      {
+        "id": 1524985,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3439724,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3439725,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1524986,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3439726,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3439727,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586590"
+  },
+  {
+    "access": 1,
+    "address": "Peko Rd Tennant Creek NT",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 126147,
+    "latitude": -19.645452,
+    "longitude": 134.199492,
+    "name": "Outback Caravan Park Tennant Creek",
+    "score": 8,
+    "stations": [
+      {
+        "id": 226354,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 475285,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 879189,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2414468,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/126147"
+  },
+  {
+    "access": 1,
+    "address": "22681 Stuart Hwy, Warumungu NT 0852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 98841,
+    "latitude": -19.436901,
+    "longitude": 134.209022,
+    "name": "Threeways Roadhouse",
+    "score": 10,
+    "stations": [
+      {
+        "id": 884699,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2421624,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/98841"
+  },
+  {
+    "access": 1,
+    "address": "910 Ingham Rd, Bohle QLD 4818, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 331428,
+    "latitude": -19.262684,
+    "longitude": 146.71376,
+    "name": "Coconut Glen Caravan Park",
+    "stations": [
+      {
+        "id": 779859,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 2272935,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/331428"
+  },
+  {
+    "access": 1,
+    "address": "17 Heritage Cl, Kirwan QLD 4817, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 500742,
+    "latitude": -19.30362459149334,
+    "longitude": 146.7327319085598,
+    "name": "Kirwan Health Campus",
+    "stations": [
+      {
+        "id": 1291429,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3042728,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1293887,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3046998,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500742"
+  },
+  {
+    "access": 1,
+    "address": "2/39 Webb Dr, Mount St John QLD 4818, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 191268,
+    "latitude": -19.257752,
+    "longitude": 146.735147,
+    "name": "NQ Electrical",
+    "stations": [
+      {
+        "id": 400512,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 702505,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/191268"
+  },
+  {
+    "access": 1,
+    "address": "72-88 Hervey Range Rd, Thuringowa Central QLD 4817, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567731,
+    "latitude": -19.320063,
+    "longitude": 146.720162,
+    "name": "Haymans Electrical",
+    "stations": [
+      {
+        "id": 1471406,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3352797,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567731"
+  },
+  {
+    "access": 1,
+    "address": "4 James Cook Dr, Douglas QLD 4814, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 141274,
+    "latitude": -19.323337,
+    "longitude": 146.758428,
+    "name": "JCU Townsville",
+    "score": 10,
+    "stations": [
+      {
+        "id": 414254,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 722878,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "CHARGING"
+          },
+          {
+            "connector": 13,
+            "id": 722879,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "CHARGING"
+          }
+        ]
+      },
+      {
+        "id": 1411412,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3251038,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3251039,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/141274"
+  },
+  {
+    "access": 1,
+    "address": "Puma Cluden (Townsville), 38011 Bruce Hwy, Cluden QLD 4811, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 287897,
+    "latitude": -19.319503,
+    "longitude": 146.828213,
+    "name": "Caltex Cluden",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1220945,
+        "network_id": 60,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3297745,
+            "kilowatts": 184,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3297746,
+            "kilowatts": 350,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 3,
+            "id": 3297879,
+            "kilowatts": 184,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3297880,
+            "kilowatts": 350,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/287897"
+  },
+  {
+    "access": 1,
+    "address": "30-34 Palmer Street, South Townsville QLD 4810, Australia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 142199,
+    "latitude": -19.26009,
+    "longitude": 146.820903,
+    "name": "Palmer St & Palmer St Parking",
+    "score": 1,
+    "stations": [
+      {
+        "id": 268209,
+        "network_id": 1618,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 535216,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 535217,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 535221,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/142199"
+  },
+  {
+    "access": 1,
+    "address": "124-154 Duckworth St, Garbutt QLD 4814, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 583699,
+    "latitude": -19.27858343315953,
+    "longitude": 146.75978745767216,
+    "name": "Mike Carney Toyota",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1517262,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3427567,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3427568,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1517263,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3427569,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3427570,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1623486,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3600393,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "UNKNOWN"
+          },
+          {
+            "connector": 3,
+            "id": 3600394,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583699"
+  },
+  {
+    "access": 1,
+    "address": "2 Shannon St, Oonoonba QLD 4811, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 238416,
+    "latitude": -19.29406,
+    "longitude": 146.818494,
+    "name": "Oonoonba Park",
+    "stations": [
+      {
+        "id": 516664,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 1296180,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/238416"
+  },
+  {
+    "access": 1,
+    "address": "144 Charters Towers Rd, Hermit Park QLD 4812, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 511224,
+    "latitude": -19.279318031791256,
+    "longitude": 146.79990398161468,
+    "name": "Horan & Bird Energy",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1322340,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3094631,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511224"
+  },
+  {
+    "access": 1,
+    "address": "535 Sturt Street, Townsville, Queensland, Australia, 4810",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 37260,
+    "latitude": -19.265364,
+    "longitude": 146.809143,
+    "name": "Parry Nissan",
+    "stations": [
+      {
+        "id": 49856,
+        "network_id": 1,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 87879,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/37260"
+  },
+  {
+    "access": 1,
+    "address": "166 Woolcock St, Currajong, Australia, QLD 4812",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 109596,
+    "latitude": -19.271452,
+    "longitude": 146.785881,
+    "name": "Mercure Townsville",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 184728,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 410623,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 184729,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 410624,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/109596"
+  },
+  {
+    "access": 1,
+    "address": "133 Edwards St, Ayr QLD 4807, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 290297,
+    "latitude": -19.57392314634833,
+    "longitude": 147.40543971163942,
+    "name": "QESH - 133 Edwards St Parking",
+    "score": 8,
+    "stations": [
+      {
+        "id": 635577,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1955387,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 3,
+            "id": 1955388,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1411427,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3251073,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3251075,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290297"
+  }
+]

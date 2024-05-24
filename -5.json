@@ -1,0 +1,1964 @@
+[
+  {
+    "access": 1,
+    "address": "Av. Ramón Mujica s/n Urb. San Eduardo, El Chipe, Piura, Piura 20009, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 328304,
+    "latitude": -5.181307,
+    "longitude": -80.630771,
+    "name": "Hotel Casa Andina",
+    "stations": [
+      {
+        "id": 771259,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261585,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771260,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261586,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328304"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia BR 316, POVOADO, Nº 10- KM 536, Caxias-MA, 65600-970",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 480393,
+    "latitude": -4.8378653538794145,
+    "longitude": -43.47773033862087,
+    "name": "Equatorial Energia - Posto Mais Riachão",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1231077,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2950522,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1231078,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2950523,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1231079,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2950524,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/480393"
+  },
+  {
+    "access": 1,
+    "address": "rua ametista AN 10 Condomínio Vilaje Joia - Timon MA",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 464166,
+    "latitude": -5.141756,
+    "longitude": -42.849213,
+    "name": "Ultralink Solar Residência",
+    "stations": [
+      {
+        "id": 1180940,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2875702,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/464166"
+  },
+  {
+    "access": 1,
+    "address": "Av. João XXIII, 4181, Santa Isabel",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 321564,
+    "latitude": -5.08053,
+    "longitude": -42.761572,
+    "name": "BMW Isar Motors Teresina",
+    "stations": [
+      {
+        "id": 752152,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2235944,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/321564"
+  },
+  {
+    "access": 1,
+    "address": "PI-112, 3993 - Santa Isabel, Teresina - PI, 64049-010, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 373818,
+    "latitude": -5.080366,
+    "longitude": -42.760158,
+    "name": "Lagom Volvo",
+    "score": 5.7,
+    "stations": [
+      {
+        "id": 898878,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2440389,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1360143,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3155507,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/373818"
+  },
+  {
+    "access": 1,
+    "address": "Av. João XXIII, 1545 - Jóquei, Teresina - PI, 64073-650, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 471766,
+    "latitude": -5.080252231058004,
+    "longitude": -42.7838734164834,
+    "name": "Audi Center Teresina",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1206594,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2914307,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2914308,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471766"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Universitária, 880, Teresina, Piauí, 64.049-550",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 589190,
+    "latitude": -5.062908887655015,
+    "longitude": -42.79501539753885,
+    "name": "BR Super Carga - V Machado Zona Leste",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1531652,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3450283,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589190"
+  },
+  {
+    "access": 1,
+    "address": "R. Acésio do Rêgo Monteiro, 1900 - Ininga, Teresina - PI, 64049-375, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 384244,
+    "latitude": -5.06303,
+    "longitude": -42.785325,
+    "name": "Smile Horto",
+    "stations": [
+      {
+        "id": 923921,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3157156,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/384244"
+  },
+  {
+    "access": 1,
+    "address": "Av. Jóquei Clube, 844 - Jóquei, Teresina - PI, 64049-230, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 324191,
+    "latitude": -5.076357,
+    "longitude": -42.790986,
+    "name": "Farmacia Globo Conceito",
+    "score": 10,
+    "stations": [
+      {
+        "id": 758910,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2245140,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 758911,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2245141,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/324191"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Getúlio Vargas, 1416 - Triunfo, Teresina - PI, 64019-750, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 540700,
+    "latitude": -5.124371381562347,
+    "longitude": -42.79706954956055,
+    "name": "Jelta Fiat Tabuleta",
+    "stations": [
+      {
+        "id": 1398533,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3220396,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/540700"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mar. Castelo Branco, 911 - Loja 213 A - Porenquanto, Teresina - PI, 64003-087, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 413512,
+    "latitude": -5.076742,
+    "longitude": -42.801907,
+    "name": "Shopping Rio Poty",
+    "score": 10,
+    "stations": [
+      {
+        "id": 998619,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2602619,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1339783,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3123612,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/413512"
+  },
+  {
+    "access": 1,
+    "address": "Avenida João XXIII, nº 812, Loja 10, Bairro : Noivos, CEP 64.045-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 369290,
+    "latitude": -5.081046,
+    "longitude": -42.79093,
+    "name": "NanoAuto Teresina",
+    "stations": [
+      {
+        "id": 884411,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 2421273,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/369290"
+  },
+  {
+    "access": 1,
+    "address": "Av. João XXIII, 4105 Santa Isabel, Teresina-PI, CEP 64053-010 Brasil.",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 484024,
+    "latitude": -5.081043379545671,
+    "longitude": -42.76620101183652,
+    "name": "Jelta João XXIII",
+    "stations": [
+      {
+        "id": 1242074,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2969646,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1242075,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2969647,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484024"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Kennedy, 501 - São Cristóvão, Teresina - PI, 64052-345, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 474329,
+    "latitude": -5.071908210381023,
+    "longitude": -42.77369074523449,
+    "name": "Assaí Atacadista",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1213369,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2923778,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1589452,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3590454,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1589453,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3590455,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/474329"
+  },
+  {
+    "access": 1,
+    "address": "Av. Homero Castelo Branco, 630 - São Cristóvão, Teresina - PI, 64052-005, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 470103,
+    "latitude": -5.077053,
+    "longitude": -42.781064,
+    "name": "Posto Full",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1201999,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2907977,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470103"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dom Severino, 540 - São Cristóvão, Teresina - PI, 64051-160, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 560480,
+    "latitude": -5.070121503915339,
+    "longitude": -42.79615458101034,
+    "name": "Posto HD 13",
+    "stations": [
+      {
+        "id": 1452587,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3322938,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/560480"
+  },
+  {
+    "access": 1,
+    "address": "Av. Raul Lopes, 1070 - Jóquei, Teresina - PI, 64048-065, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 560915,
+    "latitude": -5.074989107897516,
+    "longitude": -42.7980786060136,
+    "name": "velho monge",
+    "stations": [
+      {
+        "id": 1453618,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3324503,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/560915"
+  },
+  {
+    "access": 1,
+    "address": "W686+95 - Noivos, Teresina - State of Piauí, 64046, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 562358,
+    "latitude": -5.083993441906957,
+    "longitude": -42.78984036212596,
+    "name": "Teresina Shopping G3",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1457710,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3330817,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3330818,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562358"
+  },
+  {
+    "access": 1,
+    "address": "R. Orlando Rollo, 165 - Cabral, Teresina - PI, 64000-510, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 373906,
+    "latitude": -5.080899,
+    "longitude": -42.804919,
+    "name": "Eletroposto Parque da Cidadania",
+    "score": 10,
+    "stations": [
+      {
+        "id": 899054,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3562901,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1606431,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3562902,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/373906"
+  },
+  {
+    "access": 1,
+    "address": "Av. João XXIII, 1950 - Noivos, Teresina - PI, 64045-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 514095,
+    "latitude": -5.0810831366123015,
+    "longitude": -42.78138160978698,
+    "name": "Renault Matriz",
+    "stations": [
+      {
+        "id": 1325003,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098878,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1325004,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098879,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/514095"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mar. Castelo Branco, 911 - Porenquanto, Teresina - PI, 64000-810, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 538862,
+    "latitude": -5.077303128717442,
+    "longitude": -42.80066954536992,
+    "name": "Shopping Poty",
+    "score": 7.6,
+    "stations": [
+      {
+        "id": 1393287,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3209614,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538862"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dom Severino, 2121 - Horto, Teresina - PI, 64052-535, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 538865,
+    "latitude": -5.069670872827454,
+    "longitude": -42.78180111700059,
+    "name": "Restaurante O Faustino",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1393292,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3209620,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538865"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Homero Castelo Branco, 1000 - Posto 6 - São Cristóvão, Teresina - PI, 64052-005, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 424960,
+    "latitude": -5.070411,
+    "longitude": -42.783313,
+    "name": "Posto 6",
+    "score": 8.9,
+    "stations": [
+      {
+        "id": 1028149,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2650421,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3463920,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/424960"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dom Severino, 1830 - Horto, Teresina - PI, 64049-375, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 576780,
+    "latitude": -5.070303327402755,
+    "longitude": -42.784315230668255,
+    "name": "BYD Carmais",
+    "score": 8.8,
+    "stations": [
+      {
+        "id": 1496089,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3395908,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3395909,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1496105,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3395943,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/576780"
+  },
+  {
+    "access": 1,
+    "address": "Av. Nossa Sra. de Fátima, 1530 - Fátima, Teresina - PI, 64048-180, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 379558,
+    "latitude": -5.066961,
+    "longitude": -42.793143,
+    "name": "Evviva Teresina",
+    "stations": [
+      {
+        "id": 912199,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3145765,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/379558"
+  },
+  {
+    "access": 1,
+    "address": "Av. Nossa Sra. de Fátima, 1447 - Fátima, Teresina - PI, 64048-180, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 528845,
+    "latitude": -5.067695248810325,
+    "longitude": -42.79323264956474,
+    "name": "Posto Cacique 10",
+    "score": 7.6,
+    "stations": [
+      {
+        "id": 1364098,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3162122,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/528845"
+  },
+  {
+    "access": 1,
+    "address": "Av. João XXIII, 4151 - Santa Isabel, Teresina - PI, 64053-010, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 590223,
+    "latitude": -5.080776620506211,
+    "longitude": -42.762107611186075,
+    "name": "Ford Antares",
+    "stations": [
+      {
+        "id": 1534800,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3455349,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3455350,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590223"
+  },
+  {
+    "access": 1,
+    "address": "Av. João XXIII, 4105 - Santa Isabel, Teresina - PI, 64053-010, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 591113,
+    "latitude": -5.080164065864582,
+    "longitude": -42.75876123458147,
+    "name": "Riviera Peugeot",
+    "stations": [
+      {
+        "id": 1537247,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3459498,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591113"
+  },
+  {
+    "access": 1,
+    "address": "R. Maj. Manoel Lopes, 1628 - Morada do Sol, Teresina - PI, 64056-363, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 587057,
+    "latitude": -5.068431308445214,
+    "longitude": -42.76101462543011,
+    "name": "Mari",
+    "stations": [
+      {
+        "id": 1526223,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3441690,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/587057"
+  },
+  {
+    "access": 1,
+    "address": "Rua Francisco de Sousa Torres, 105 Maratoan Crateús-CE",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 583399,
+    "latitude": -5.192644728450661,
+    "longitude": -40.66718075197602,
+    "name": "Planeta Charge - DC - 30Kw - Estacionamento Planeta Net Telecom",
+    "stations": [
+      {
+        "id": 1516284,
+        "network_id": 1842,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3570287,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583399"
+  },
+  {
+    "access": 1,
+    "address": "Tv. Floriano Peixoto, 9, Centro, Tamboril, CE",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 543047,
+    "latitude": -4.83423395934721,
+    "longitude": -40.31912345972109,
+    "name": "Farmácia e Lotérica Ita",
+    "stations": [
+      {
+        "id": 1404794,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3235861,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404795,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3235862,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/543047"
+  },
+  {
+    "access": 1,
+    "address": "CE-265, 408, 488 - Centro, Quixeramobim - CE, 63800-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 558769,
+    "latitude": -5.192625677070673,
+    "longitude": -39.290472838245904,
+    "name": "BR Super Carga - Restaurante Divino 88",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1447826,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3315289,
+            "kilowatts": 40,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558769"
+  },
+  {
+    "access": 1,
+    "address": "R. Agronomando Rangel, 531 - Centro, Boa Viagem - CE, 63870-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 616247,
+    "latitude": -5.124787465786123,
+    "longitude": -39.73069444298744,
+    "name": "Clínica Dr Maradona Barbosa",
+    "stations": [
+      {
+        "id": 1616602,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3585854,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/616247"
+  },
+  {
+    "access": 1,
+    "address": "Rua Cel. Sindulfo Chaves, 1567, Limoeiro do Norte, Ceara",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 580251,
+    "latitude": -5.152876438298315,
+    "longitude": -38.100742365293954,
+    "name": "BR  Super Carga - Murano Center Hotel",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1506940,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3411551,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/580251"
+  },
+  {
+    "access": 1,
+    "address": "R. Manfredo de Oliveira, 746 - Santa Luzia, Limoeiro do Norte - CE, 62930-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 526599,
+    "latitude": -5.1411472,
+    "longitude": -38.09160230000001,
+    "name": "Hotel E Restaurante Zé Bezerra",
+    "stations": [
+      {
+        "id": 1358318,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3152675,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/526599"
+  },
+  {
+    "access": 1,
+    "address": "VV9R+QG Limoeiro do Norte, CE, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 526461,
+    "latitude": -5.130505784246961,
+    "longitude": -38.10871798184264,
+    "name": "Fazenda Barra do Banabuiu",
+    "stations": [
+      {
+        "id": 1357523,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3151698,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1407875,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3241997,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/526461"
+  },
+  {
+    "access": 1,
+    "address": "R. Padre Raul Vieira, 274 - Centro, Russas - CE, 62900-015",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 610513,
+    "latitude": -4.937586336402365,
+    "longitude": -37.97308046438564,
+    "name": "ADA Tecnologia e Energia Solar",
+    "stations": [
+      {
+        "id": 1601697,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3554748,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610513"
+  },
+  {
+    "access": 1,
+    "address": "rua pedro Ciarline, 82",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 562215,
+    "latitude": -5.203717240017427,
+    "longitude": -37.336242496824696,
+    "name": "Estação Mossoró - Energia Solar",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1457123,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3330014,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562215"
+  },
+  {
+    "access": 1,
+    "address": "R. Gov. Tarcísio Maia, 1003, Tibau - RN, 59678-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 587466,
+    "latitude": -4.842529269887881,
+    "longitude": -37.25744120652533,
+    "name": "Estação Mossoró - Tibau",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1527319,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3443394,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1527320,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3443395,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1527321,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3443396,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/587466"
+  },
+  {
+    "access": 1,
+    "address": "Av. Conde de Tamandaré, Bela Vista, Mossoró, RN, 59.609-570",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 611689,
+    "latitude": -5.18102012556402,
+    "longitude": -37.377407723581314,
+    "name": "BR SUPER CARGA - Bela Vista Empresarial",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1605056,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3560169,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3560170,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611689"
+  },
+  {
+    "access": 1,
+    "address": "R. Prof. Jose Nezio Soares, 148 - Lot Gurilandia, Mossoró - RN, 59619-765, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 453776,
+    "latitude": -5.167731,
+    "longitude": -37.348958,
+    "name": "Garbos Trade Hotel",
+    "stations": [
+      {
+        "id": 1095691,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2759837,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/453776"
+  },
+  {
+    "access": 1,
+    "address": "Av. Conde de Tamandaré. 400. Campos do Conde. Bairro Bela Vista. Mossoró/RN CEP: 59.609-570. Por trás da UNP ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578347,
+    "latitude": -5.179820515978359,
+    "longitude": -37.3767070731607,
+    "name": "BELA VISTA EMPRESARIAL",
+    "stations": [
+      {
+        "id": 1500920,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3402850,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1522204,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3435280,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578347"
+  },
+  {
+    "access": 1,
+    "address": "Rua Lucas Evangelista de Moraes, 1100, Bela Vista, Mossoró-RN, 59612-085",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 464028,
+    "latitude": -5.173095226287842,
+    "longitude": -37.36270523071289,
+    "name": "Vitória Palace Hotel",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1180653,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3029300,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1223596,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2940321,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/464028"
+  },
+  {
+    "access": 1,
+    "address": "Av. João da Escóssia, 1723 - Nova Betânia, Mossoró - RN, 59607-330, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584990,
+    "latitude": -5.181673903714113,
+    "longitude": -37.36131615936756,
+    "name": "VCITech Intelbras",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1520799,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3433248,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1558054,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3492551,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584990"
+  },
+  {
+    "access": 1,
+    "address": "Av. Contorno, 60 - Abolição, Mossoró - RN, 59612-119, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535209,
+    "latitude": -5.167370432847823,
+    "longitude": -37.35166187255093,
+    "name": "Hotel Thermas",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1382530,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3189485,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535209"
+  },
+  {
+    "access": 1,
+    "address": "Av. dos Arrecifes, 197 - Centro, São Miguel do Gostoso - RN, 59585-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 540952,
+    "latitude": -5.1252875,
+    "longitude": -35.622481,
+    "name": "AWR Energia | Vila do Sossego",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1399248,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3221790,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/540952"
+  },
+  {
+    "access": 1,
+    "address": "DVM Solar, Imperatriz",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 464686,
+    "latitude": -5.573426,
+    "longitude": -47.442848,
+    "name": "Estação DVM Solar 1",
+    "stations": [
+      {
+        "id": 1182295,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2877486,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/464686"
+  },
+  {
+    "access": 1,
+    "address": "Equatorial Imperatriz ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 541613,
+    "latitude": -5.530521899731884,
+    "longitude": -47.4709242864699,
+    "name": "Eletroposto Equatorial imperatriz",
+    "score": 5.7,
+    "stations": [
+      {
+        "id": 1401068,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3226373,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/541613"
+  },
+  {
+    "access": 1,
+    "address": "Av Pedro Neiva de Santana, 4414, Imperatriz MA",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 602483,
+    "latitude": -5.488468660477573,
+    "longitude": -47.44071626441308,
+    "name": "Amazônia Plug - Aprimore (Coming Soon)",
+    "stations": [
+      {
+        "id": 1573307,
+        "network_id": 1815,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3514085,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602483"
+  },
+  {
+    "access": 1,
+    "address": "BR-010, KM 1362 - Maranhão Novo, Imperatriz - MA, 65903-140, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 602480,
+    "latitude": -5.5050842115689225,
+    "longitude": -47.471417595909976,
+    "name": "Amazônia Plug - Honda Motoca",
+    "stations": [
+      {
+        "id": 1573295,
+        "network_id": 1815,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3514073,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602480"
+  },
+  {
+    "access": 1,
+    "address": "Av Dorgival Pinheiro de Sousa, 1385, Imperatriz MA ",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 602481,
+    "latitude": -5.523275465991004,
+    "longitude": -47.47589219947374,
+    "name": "Amazônia Plug - A+ Outlet (Coming Soon)",
+    "stations": [
+      {
+        "id": 1573302,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3514080,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602481"
+  },
+  {
+    "access": 1,
+    "address": "Tocantins Shopping Center ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 608469,
+    "latitude": -5.525889910515343,
+    "longitude": -47.4812832495161,
+    "name": "Carregador BYD - Tocantins Shopping",
+    "stations": [
+      {
+        "id": 1595555,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3544995,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608469"
+  },
+  {
+    "access": 1,
+    "address": "Marginal BR-010, 2182 - Jardim Sao Luiz, Imperatriz - MA, 65900-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 599447,
+    "latitude": -5.5308434822153965,
+    "longitude": -47.47069638210131,
+    "name": "Eletroposto Equatorial Energia",
+    "stations": [
+      {
+        "id": 1563321,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3499630,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3499631,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599447"
+  },
+  {
+    "access": 1,
+    "address": "BR116, Km 284, Jaguaribara - CE, 63490-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535527,
+    "latitude": -5.7345146795585595,
+    "longitude": -38.51297474986386,
+    "name": "Auto Posto Churrascaria Mateus",
+    "stations": [
+      {
+        "id": 1383769,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3191260,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1383770,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3191261,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535527"
+  },
+  {
+    "access": 1,
+    "address": "Rua Manoel Nogueira, 130 (BR-405)",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 615750,
+    "latitude": -5.660760402679443,
+    "longitude": -37.798851013183594,
+    "name": "Solar&Engenharia",
+    "stations": [
+      {
+        "id": 1615315,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3582792,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/615750"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia, BR-304 KM 110, Açu - RN, 59650-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 599603,
+    "latitude": -5.587060190819871,
+    "longitude": -36.950396709144115,
+    "name": "Volvo Posto Florestal",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 1563755,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3500220,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3559112,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3559113,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599603"
+  },
+  {
+    "access": 1,
+    "address": "BR-304, 1140 - Lajes, RN, 59535-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 594355,
+    "latitude": -5.704550736087355,
+    "longitude": -36.25177347132534,
+    "name": "BR Super Carga - Churrascaria Guaíba",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1546532,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3474287,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/594355"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Soekarno Hatta No.9, Sukarame, Kec. Sukarame, Kota Bandar Lampung, Lampung 35122, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542465,
+    "latitude": -5.393346627180341,
+    "longitude": 105.28879765893522,
+    "name": "SPKLU El’s Coffee Roastery Bandar Lampung",
+    "stations": [
+      {
+        "id": 1403404,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3231753,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3231754,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1403405,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3231755,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3231756,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3231757,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542465"
+  },
+  {
+    "access": 1,
+    "address": "7MF9+QF9, Rawi, Penengahan, South Lampung Regency, Lampung 35592, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542456,
+    "latitude": -5.7254411002802446,
+    "longitude": 105.66893733342832,
+    "name": "SPKLU PLN KM20B (Arah Bakauheni)",
+    "stations": [
+      {
+        "id": 1403378,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3231715,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3231716,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542456"
+  },
+  {
+    "access": 1,
+    "address": "FGMC+35C, Jl. Tol Bakauheni - Terbanggi Besar, Karya Mulya Sari, Kec. Candipuro, Kabupaten Lampung Selatan, Lampung 35356, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542521,
+    "latitude": -5.518308257244295,
+    "longitude": 105.52084546082412,
+    "name": "SPKLU PLN Rest Area 49A Trans Sumatera (Arah Terbanggi)",
+    "stations": [
+      {
+        "id": 1403522,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3231998,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3231999,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1403523,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3232000,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232001,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542521"
+  },
+  {
+    "access": 1,
+    "address": "M7J7+QX5, Fajar Baru, Jati Agung, South Lampung Regency, Lampung 35362, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542509,
+    "latitude": -5.318055605592427,
+    "longitude": 105.26480334789818,
+    "name": "SPKLU PLN Rest Area 87B Trans Sumatera (Arah Bakauheni)",
+    "stations": [
+      {
+        "id": 1403502,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3231949,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3231950,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542509"
+  }
+]

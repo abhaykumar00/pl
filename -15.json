@@ -1,0 +1,2359 @@
+[
+  {
+    "access": 1,
+    "address": "Panamericana Sur Km 449, El Carmen de Pangaravi, Nasca 11401, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 562819,
+    "latitude": -14.838047951425395,
+    "longitude": -74.94531735777855,
+    "name": "Casa Hacienda Nasca Oasis",
+    "stations": [
+      {
+        "id": 1459097,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3332899,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562819"
+  },
+  {
+    "access": 1,
+    "address": "Terminal terrestre Ayaviri",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 327768,
+    "latitude": -14.884898,
+    "longitude": -70.59621,
+    "name": "Enel X - Terminal terrestre Ayaviri",
+    "stations": [
+      {
+        "id": 770792,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2260934,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771131,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261442,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/327768"
+  },
+  {
+    "access": 1,
+    "address": "Av. Bom Jesus, 1597 - Centro, Pontes e Lacerda - MT, 78250-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585260,
+    "latitude": -15.232740230202747,
+    "longitude": -59.33098543435335,
+    "name": "Supermercado Favorito",
+    "stations": [
+      {
+        "id": 1525293,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3440182,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585260"
+  },
+  {
+    "access": 1,
+    "address": "BR 174 B - Jardim Boa Vista, Pontes e Lacerda - MT, 78250-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 614458,
+    "latitude": -15.242704016341026,
+    "longitude": -59.33361366391182,
+    "name": "Magalhães Engenharia",
+    "stations": [
+      {
+        "id": 1612405,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3576429,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614458"
+  },
+  {
+    "access": 1,
+    "address": "3636+PJ Água Fria, Chapada dos Guimarães - MT, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 515492,
+    "latitude": -14.94574986525392,
+    "longitude": -55.78841721896319,
+    "name": "Malai Manso Resort",
+    "stations": [
+      {
+        "id": 1329001,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3105425,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1329002,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3105426,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1329003,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3105427,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515492"
+  },
+  {
+    "access": 1,
+    "address": "Tv. do Cais, 89 - Marupiara, Aruanã - GO, 76710-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 542744,
+    "latitude": -14.913546718069673,
+    "longitude": -51.081622144058855,
+    "name": "Bar Borohoky",
+    "stations": [
+      {
+        "id": 1404036,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3233609,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542744"
+  },
+  {
+    "access": 1,
+    "address": "Av. Jatobá, 1019 - St. Central, Rubiataba - GO, 76350-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604241,
+    "latitude": -15.159627646236347,
+    "longitude": -49.802336655557156,
+    "name": "Edifício Jatobá",
+    "stations": [
+      {
+        "id": 1580032,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3524757,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3524758,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604241"
+  },
+  {
+    "access": 1,
+    "address": "32WP+HW Barro Alto - State of Goiás, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575918,
+    "latitude": -14.903533092189601,
+    "longitude": -48.96271633961868,
+    "name": "BSO19 - Ecovias do Araguaia",
+    "stations": [
+      {
+        "id": 1493622,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391318,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575918"
+  },
+  {
+    "access": 1,
+    "address": "BR-080, 340, Vila Propício - GO, 76393-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 596842,
+    "latitude": -15.208875819467611,
+    "longitude": -48.70341148227453,
+    "name": "Posto Nossa Senhora D'Abadia (2)",
+    "stations": [
+      {
+        "id": 1553899,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3486311,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596842"
+  },
+  {
+    "access": 1,
+    "address": "BR-080, KM 94, Vila Propício - GO, 76393-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 595129,
+    "latitude": -15.208830524790784,
+    "longitude": -48.70345775038004,
+    "name": "Posto Nossa Senhora D'Abadia (1)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1548699,
+        "network_id": 1781,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3477744,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595129"
+  },
+  {
+    "access": 1,
+    "address": "R. Três, 2032 - Jorge Teixeira, Vitória da Conquista - BA, 45028, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 564427,
+    "latitude": -14.856848906747766,
+    "longitude": -40.811673291027546,
+    "name": "Tzion Elétrica (Coming Soon)",
+    "stations": [
+      {
+        "id": 1463115,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3343315,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/564427"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Dutra, 634 - Felicia, Vitória da Conquista - BA, 45003-005, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476852,
+    "latitude": -14.875204740892755,
+    "longitude": -40.851795502244535,
+    "name": "Jade Nissan Vitória da Conquista",
+    "stations": [
+      {
+        "id": 1220660,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2936119,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476852"
+  },
+  {
+    "access": 1,
+    "address": "Av. Jorge Teixeira, 798 - Candeias, Vitória da Conquista - BA, 45028-536, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 516185,
+    "latitude": -14.8649256,
+    "longitude": -40.8276475,
+    "name": "Solarchio Energia Solar",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1330720,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3108423,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3108424,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1330721,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3108425,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3108426,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/516185"
+  },
+  {
+    "access": 1,
+    "address": "2888, Av. Luís Eduardo Magalhães, 2776 - Candeias, Vitória da Conquista - BA, 45028-440",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601337,
+    "latitude": -14.86387904195895,
+    "longitude": -40.81959278476228,
+    "name": "Supermercado Santo Antônio",
+    "stations": [
+      {
+        "id": 1569233,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3508330,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3508331,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601337"
+  },
+  {
+    "access": 1,
+    "address": "R. Guimarães, 25 - Felicia, Vitória da Conquista - BA, 45055-155, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533333,
+    "latitude": -14.880701909850657,
+    "longitude": -40.84497382714747,
+    "name": "Ibis Hotel",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1377556,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3182025,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533333"
+  },
+  {
+    "access": 1,
+    "address": "Av. Ibicaraí, 4109 - Centro Comercial, Itabuna - BA, 45611-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 499409,
+    "latitude": -14.819473187631846,
+    "longitude": -39.304195516202824,
+    "name": "Hotel Pousada Itajuipe - Unidade Itabuna",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1287815,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3036977,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1287816,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3036978,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/499409"
+  },
+  {
+    "access": 1,
+    "address": "R. Herotildes de Melo, 73 - Pontal, Ilhéus - BA, 45654-450, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 357724,
+    "latitude": -14.811536,
+    "longitude": -39.027652,
+    "name": "Pousada Pier do Pontal",
+    "stations": [
+      {
+        "id": 853274,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2378107,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357724"
+  },
+  {
+    "access": 1,
+    "address": "2242+67 Olivença, Ilhéus - BA, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 557364,
+    "latitude": -14.994423633858574,
+    "longitude": -38.9993307889134,
+    "name": "Cana Brava all inclusive",
+    "stations": [
+      {
+        "id": 1444126,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3309440,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/557364"
+  },
+  {
+    "access": 1,
+    "address": "Av. Nossa Sra. Aparecida, 1 - São Francisco, Ilhéus - BA, 45653-135",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 480491,
+    "latitude": -14.817126274108887,
+    "longitude": -39.02522659301758,
+    "name": "Opaba Praia Hotel",
+    "stations": [
+      {
+        "id": 1231461,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2951052,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/480491"
+  },
+  {
+    "access": 1,
+    "address": "51 Martin Rd, Mataranka NT 0852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 98705,
+    "latitude": -14.918811,
+    "longitude": 133.067061,
+    "name": "Territory Manor Motel and Caravan Park",
+    "stations": [
+      {
+        "id": 162641,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 379375,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/98705"
+  },
+  {
+    "access": 1,
+    "address": "10 Roper Terrace, Mataranka",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 617231,
+    "latitude": -14.922733515520147,
+    "longitude": 133.066192898217,
+    "name": "NRMA Mataranka (Coming Soon)",
+    "stations": [
+      {
+        "id": 1619585,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3591306,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3591307,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1619588,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3591308,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3591309,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617231"
+  },
+  {
+    "access": 1,
+    "address": "642 Homestead Rd, Mataranka NT 0852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 134497,
+    "latitude": -14.923756,
+    "longitude": 133.132935,
+    "name": "Mataranka Homestead Resort",
+    "score": 10,
+    "stations": [
+      {
+        "id": 247266,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 507048,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1437905,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3299919,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/134497"
+  },
+  {
+    "access": 1,
+    "address": "Trevo do Lagarto, Várzea Grande, MT",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 338273,
+    "latitude": -15.649427,
+    "longitude": -56.19492,
+    "name": "EFX - SAU.08 Rota do Oeste",
+    "stations": [
+      {
+        "id": 798086,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2296555,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/338273"
+  },
+  {
+    "access": 1,
+    "address": "Rod. dos Imigrantes, 396 - São Mateus, Várzea Grande - MT, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 557330,
+    "latitude": -15.6799687959816,
+    "longitude": -56.17498464882374,
+    "name": "Estação YellotMob Posto Marajó Cuiabá",
+    "stations": [
+      {
+        "id": 1444049,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3309305,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/557330"
+  },
+  {
+    "access": 1,
+    "address": "Av. Miguel Sutil, 9300 - Santa Rosa, Cuiabá - MT, 78040-365, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 180861,
+    "latitude": -15.590178,
+    "longitude": -56.120722,
+    "name": "Shopping Estação Cuiabá",
+    "score": 10,
+    "stations": [
+      {
+        "id": 373428,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 667076,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 373429,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 667077,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/180861"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mario Palma, 292 - Ribeirão do Lipa, Cuiabá - MT, 78048-145, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589985,
+    "latitude": -15.557860672930511,
+    "longitude": -56.10908646136522,
+    "name": "Posto ECCODubai",
+    "stations": [
+      {
+        "id": 1534124,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3454222,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589985"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Historiador Rubens de Mendonça, 4193, Centro Político Administrativo, Cuiabá - MT, 78049-940, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 154422,
+    "latitude": -15.568297,
+    "longitude": -56.0688,
+    "name": "Sistema Fiemt",
+    "stations": [
+      {
+        "id": 297218,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 569100,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 297219,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 569101,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/154422"
+  },
+  {
+    "access": 1,
+    "address": "Av. Fernando Corrêa da Costa, 1944 - Pico do Amor, Cuiabá - MT, 78070-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 272481,
+    "latitude": -15.611966,
+    "longitude": -56.076728,
+    "name": "Galaxie Motors BMW/Mini",
+    "stations": [
+      {
+        "id": 601669,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1669696,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/272481"
+  },
+  {
+    "access": 1,
+    "address": "Av. Presidente Artur Bernardes, 56 - Jardim Aeroporto, Várzea Grande - MT, 78125-100, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 373792,
+    "latitude": -15.652669,
+    "longitude": -56.123101,
+    "name": "Shopping Várzea Grande",
+    "stations": [
+      {
+        "id": 898824,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2440326,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 898825,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2440327,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 898826,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2440328,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 898827,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2440329,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 898828,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2440330,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 898829,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2440331,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/373792"
+  },
+  {
+    "access": 1,
+    "address": "Av. Fernando Corrêa da Costa, 770 - Areão, Cuiabá - MT, 78015-600, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 334983,
+    "latitude": -15.606395,
+    "longitude": -56.082823,
+    "name": "Estocolmo Volvo Cars",
+    "stations": [
+      {
+        "id": 789132,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2285072,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334983"
+  },
+  {
+    "access": 1,
+    "address": "Av. Historiador Rubens de Mendonça, 3300 - Jardim Aclimacao, Cuiabá - MT, 78050-970, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 454984,
+    "latitude": -15.575508,
+    "longitude": -56.072666,
+    "name": "Pantanal Shopping",
+    "stations": [
+      {
+        "id": 1098987,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2762598,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/454984"
+  },
+  {
+    "access": 1,
+    "address": "Av. Miguel Sutil, 6274 - Alvorada, Cuiabá - MT, 78048-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 369628,
+    "latitude": -15.585936,
+    "longitude": -56.085998,
+    "name": "Todimo Home Center",
+    "stations": [
+      {
+        "id": 885587,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2422899,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/369628"
+  },
+  {
+    "access": 1,
+    "address": "Av. F, 88 - Areão, Cuiabá - MT, 78050-242, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 290996,
+    "latitude": -15.585349,
+    "longitude": -56.078191,
+    "name": "Padaria do Moinho",
+    "stations": [
+      {
+        "id": 637271,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1980374,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290996"
+  },
+  {
+    "access": 1,
+    "address": "Av. Carmindo de Campos, 923 - Jardim California, Cuiabá - MT, 78065-310, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 603644,
+    "latitude": -15.620800166266312,
+    "longitude": -56.07644263654947,
+    "name": "Eletro Fios",
+    "stations": [
+      {
+        "id": 1578118,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3520459,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/603644"
+  },
+  {
+    "access": 1,
+    "address": "R. Des. José Barros do Valê, 500 - Duque de Caxias, Cuiabá - MT, 78043-292, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 334957,
+    "latitude": -15.588209,
+    "longitude": -56.112326,
+    "name": "Goiabeiras Shopping",
+    "stations": [
+      {
+        "id": 789082,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2285012,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334957"
+  },
+  {
+    "access": 1,
+    "address": "Av. Miguel Sutil 8000, 78040-400 Cuiabá, BR",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 334961,
+    "latitude": -15.579033,
+    "longitude": -56.11004,
+    "name": "Edifício Santa Rosa Tower",
+    "stations": [
+      {
+        "id": 789090,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2285020,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334961"
+  },
+  {
+    "access": 1,
+    "address": "Av. Miguel Sutil, 8344 - Ribeirão da Ponte, Cuiabá - MT, 78040-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 560884,
+    "latitude": -15.5833333,
+    "longitude": -56.1125,
+    "name": "Hotel Odara",
+    "stations": [
+      {
+        "id": 1453520,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3324380,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1453521,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3324381,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/560884"
+  },
+  {
+    "access": 1,
+    "address": "Av. Presidente Marques, 35, Goiabeiras, Cuiabá - MT, 78032-030, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 308512,
+    "latitude": -15.59537,
+    "longitude": -56.102989,
+    "name": "La Provence",
+    "stations": [
+      {
+        "id": 716980,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2152643,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/308512"
+  },
+  {
+    "access": 1,
+    "address": "Av. Isaac Póvoas 173, 78005-340 Cuiabá, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 286601,
+    "latitude": -15.592193,
+    "longitude": -56.106663,
+    "name": "Casa Rug Carregador",
+    "stations": [
+      {
+        "id": 625849,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1837497,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 10,
+            "id": 1837498,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/286601"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Getúlio Vargas, 600 - Centro, Cuiabá - MT, 78005-340",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 427914,
+    "latitude": -15.594833,
+    "longitude": -56.098841,
+    "name": "Hotel Amazon",
+    "stations": [
+      {
+        "id": 1039080,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2665797,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/427914"
+  },
+  {
+    "access": 1,
+    "address": "Av. Historiador Rubens de Mendonça, 1184 - Baú, Cuiabá - MT, 78008-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 427912,
+    "latitude": -15.589608,
+    "longitude": -56.084632,
+    "name": "Hotel Taiamã",
+    "stations": [
+      {
+        "id": 1039088,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2665807,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/427912"
+  },
+  {
+    "access": 1,
+    "address": "Av Fernando Corrêa da Costa, 770. Poção Cuiabá MT",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 493791,
+    "latitude": -15.606818395967426,
+    "longitude": -56.08300740855276,
+    "name": "Estocolmo Volvo Cars",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1273624,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3015860,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493791"
+  },
+  {
+    "access": 1,
+    "address": "Av. Fernando Corrêa da Costa, 2000 - Jardim Petropolis, Cuiabá - MT, 78070-020, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 354234,
+    "latitude": -15.613785,
+    "longitude": -56.074549,
+    "name": "Posto Matrix",
+    "stations": [
+      {
+        "id": 843983,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2365861,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/354234"
+  },
+  {
+    "access": 1,
+    "address": "Av. Historiador Rubens de Mendonça, 3300 - Jardim Aclimação, Cuiabá - MT, CEP 78050-250",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456931,
+    "latitude": -15.575508,
+    "longitude": -56.074812,
+    "name": "Shopping Pantanal",
+    "stations": [
+      {
+        "id": 1104645,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2770061,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2770062,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456931"
+  },
+  {
+    "access": 1,
+    "address": "Av. Fernando Corrêa da Costa, 1484 - Jardim Kennedy, Cuiabá - MT, 78088-800",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 548112,
+    "latitude": -15.610573406391302,
+    "longitude": -56.07805272439712,
+    "name": "Rede Loja Intelbras",
+    "stations": [
+      {
+        "id": 1418606,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3267318,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/548112"
+  },
+  {
+    "access": 1,
+    "address": "Av. Isaac Póvoas, 1337 - Popular, Cuiabá - MT, 78045-230",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 341807,
+    "latitude": -15.592649,
+    "longitude": -56.10601,
+    "name": "Fernando Perez",
+    "stations": [
+      {
+        "id": 808225,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2309665,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 808226,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2309666,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341807"
+  },
+  {
+    "access": 1,
+    "address": "Av. F, 88 - Areão, Cuiabá - MT, 78050-242, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589188,
+    "latitude": -15.585424965563622,
+    "longitude": -56.07843194086783,
+    "name": "padaria moinho",
+    "stations": [
+      {
+        "id": 1531647,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3450273,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3450274,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589188"
+  },
+  {
+    "access": 1,
+    "address": "Av. Fernando Corrêa da Costa, 1980 - Pico do Amor, Cuiabá - MT, 78090-245, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 596925,
+    "latitude": -15.6117446,
+    "longitude": -56.0769489,
+    "name": "Audi Center Cuiabá",
+    "stations": [
+      {
+        "id": 1554147,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3499161,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596925"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Getúlio Vargas, 600 - Centro, Cuiabá - MT, 78005-370, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 596928,
+    "latitude": -15.5948376,
+    "longitude": -56.09885209999999,
+    "name": "Hotel Amazon",
+    "stations": [
+      {
+        "id": 1554150,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3486707,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596928"
+  },
+  {
+    "access": 1,
+    "address": "FR7P+35 Campo Verde, MT, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 531353,
+    "latitude": -15.53727990455753,
+    "longitude": -55.16459493069689,
+    "name": "CampoReal",
+    "stations": [
+      {
+        "id": 1371992,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3173856,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3173857,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/531353"
+  },
+  {
+    "access": 1,
+    "address": "BR-070 - Parque Industrial, Primavera do Leste - MT, 78850-000",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 607364,
+    "latitude": -15.57506608107854,
+    "longitude": -54.32637239814758,
+    "name": "Volvo - Posto Alvorada",
+    "stations": [
+      {
+        "id": 1591481,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3539083,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1591482,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3539084,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1591483,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3539085,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/607364"
+  },
+  {
+    "access": 1,
+    "address": "9JG7+55 Jaraguá - State of Goiás, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574866,
+    "latitude": -15.624512446247,
+    "longitude": -49.38712063247149,
+    "name": "BSO 3 - Ecovias do Araguaia - Jaraguá",
+    "stations": [
+      {
+        "id": 1490548,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3385311,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574866"
+  },
+  {
+    "access": 1,
+    "address": "Rua 17 St Central Ceres",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581246,
+    "latitude": -15.30622249134936,
+    "longitude": -49.5956068241889,
+    "name": "Hotel Don Antonio",
+    "stations": [
+      {
+        "id": 1510146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3416540,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3416541,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581246"
+  },
+  {
+    "access": 1,
+    "address": "P8V7+73 Cachoeira, Vila Propício - GO, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575921,
+    "latitude": -15.256811131107836,
+    "longitude": -48.687294885142414,
+    "name": "BSO18 - Ecovias do Araguaia",
+    "stations": [
+      {
+        "id": 1493628,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391327,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575921"
+  },
+  {
+    "access": 1,
+    "address": "8822+WG Cocalzinho de Goiás - State of Goiás, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575920,
+    "latitude": -15.697698669732057,
+    "longitude": -48.69873896616183,
+    "name": "BSO17 - Ecovias do Araguaia",
+    "stations": [
+      {
+        "id": 1493627,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391326,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575920"
+  },
+  {
+    "access": 1,
+    "address": "9 - St. Tradicional Q 16 - Brazlândia, Brasília - DF, 72760-168, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 321691,
+    "latitude": -15.681825,
+    "longitude": -48.203974,
+    "name": "Administração Regional De Brazlândia",
+    "score": 3.4,
+    "stations": [
+      {
+        "id": 752467,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2236409,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/321691"
+  },
+  {
+    "access": 1,
+    "address": "Quadra Central, St. Administrativo Lote A - Sobradinho, Brasília - DF, 73010-901, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 236365,
+    "latitude": -15.649722,
+    "longitude": -47.793572,
+    "name": "Administração Sobradinho",
+    "score": 1,
+    "stations": [
+      {
+        "id": 511546,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278782,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 511547,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278783,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236365"
+  },
+  {
+    "access": 1,
+    "address": "CONDOMINIO JARDIM EUROPA 1 CONJUNTO H LOTE 14 LOJAS 02 E 03",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 550561,
+    "latitude": -15.67139159616781,
+    "longitude": -47.84342252769467,
+    "name": "DROGARIA COLORADO",
+    "stations": [
+      {
+        "id": 1424894,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3279744,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/550561"
+  },
+  {
+    "access": 1,
+    "address": "Granja Do Torto, 0 - Granja Do Torto, Brasília - DF, 70636-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 314818,
+    "latitude": -15.711097,
+    "longitude": -47.910786,
+    "name": "Parque Tecnológico de Brasilia - BIOTIC",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 733986,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2208826,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/314818"
+  },
+  {
+    "access": 1,
+    "address": "Varjão Q 2 Q 1 Conjunto A D, 18 - Brasília, DF, 70297-400, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 316429,
+    "latitude": -15.712996,
+    "longitude": -47.874251,
+    "name": "Administração Regional do Varjão",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 738341,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2217741,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/316429"
+  },
+  {
+    "access": 1,
+    "address": "Shin Ca 2, 4 - Lago Norte, Brasília - DF, 70077-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 103299,
+    "latitude": -15.720183,
+    "longitude": -47.886562,
+    "name": "Iguatemi Brasília",
+    "score": 6,
+    "stations": [
+      {
+        "id": 174620,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 397842,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1041196,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2668889,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1041197,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2668890,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1041200,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2668893,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1041201,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2668894,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/103299"
+  },
+  {
+    "access": 1,
+    "address": "St. de Habitações Individuais Norte CA 5 - Lago Norte, Brasília - DF, 71503-507",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 241111,
+    "latitude": -15.716958,
+    "longitude": -47.883341,
+    "name": "Administração Regional de Lago Norte",
+    "score": 1,
+    "stations": [
+      {
+        "id": 523505,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1347597,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 523506,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1347598,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/241111"
+  },
+  {
+    "access": 1,
+    "address": "De Acesso, Em Frente A Camara Legislativa, Lago Norte, Distrito Federal - Brasília, DF, 70770-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 241115,
+    "latitude": -15.732926,
+    "longitude": -47.903157,
+    "name": "Secretaria De Saúde - Sede",
+    "score": 8.6,
+    "stations": [
+      {
+        "id": 523513,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1347608,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 523514,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1347609,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/241115"
+  },
+  {
+    "access": 1,
+    "address": "PQEB, 882 - Brasília, DF, 70770-560, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 210987,
+    "latitude": -15.733626,
+    "longitude": -47.899196,
+    "name": "Boulevard Shopping",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 452326,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 905847,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1601306,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3554142,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/210987"
+  },
+  {
+    "access": 1,
+    "address": "716 - SGAN - Asa Norte, Brasília - DF, 70770-100, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 477981,
+    "latitude": -15.73557338463771,
+    "longitude": -47.90010997363402,
+    "name": "Assaí Atacadista - Asa Norte",
+    "score": 6.2,
+    "stations": [
+      {
+        "id": 1224112,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2940940,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1504531,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3408022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1601249,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3554055,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/477981"
+  },
+  {
+    "access": 1,
+    "address": "St. de Habitações Individuais Norte CA 4 - Lago Norte, Brasília - DF, 71503-504",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574208,
+    "latitude": -15.7202447428073,
+    "longitude": -47.886510297900394,
+    "name": "Shopping Iguatemi Brasília",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1488672,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3382107,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574208"
+  },
+  {
+    "access": 1,
+    "address": "Av. Tancredo Neves, S/N - Saída Sul, Formosa - GO, 73802-005, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 594000,
+    "latitude": -15.577939525638849,
+    "longitude": -47.339744346973774,
+    "name": "sofisticatto park hotel",
+    "stations": [
+      {
+        "id": 1545536,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3472712,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/594000"
+  },
+  {
+    "access": 1,
+    "address": "Av. Uberdan Cardoso, s/nº - Planaltina, Brasília - DF, 73380-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 513873,
+    "latitude": -15.617793690638832,
+    "longitude": -47.65130762010813,
+    "name": "Administração Regional de Planaltina Distrito Federal",
+    "stations": [
+      {
+        "id": 1324478,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098713,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1324902,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098718,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513873"
+  },
+  {
+    "access": 1,
+    "address": "BR-010, 3777 - Planaltina, Brasília - DF, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 591904,
+    "latitude": -15.611992433887387,
+    "longitude": -47.698013596236706,
+    "name": "Atacadao Dia A Dia",
+    "stations": [
+      {
+        "id": 1539676,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3463562,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591904"
+  },
+  {
+    "access": 1,
+    "address": "Zambezi Road",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 601398,
+    "latitude": -15.371669904782893,
+    "longitude": 28.31743127355326,
+    "name": "Foxdale Court",
+    "stations": [
+      {
+        "id": 1569426,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3508653,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3508654,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601398"
+  },
+  {
+    "access": 1,
+    "address": "Great Northern Highway, Wyndham WA 6740",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 120913,
+    "latitude": -15.59683,
+    "longitude": 128.278586,
+    "name": "Parry Creek Farm",
+    "score": 9,
+    "stations": [
+      {
+        "id": 212899,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 454112,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/120913"
+  },
+  {
+    "access": 1,
+    "address": "Timber Creek Hotel & Fogartys Store 94 Victoria Hwy Timber Creek NT 0852",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 128257,
+    "latitude": -15.660968,
+    "longitude": 130.480375,
+    "name": "Timber Creek Hotel",
+    "score": 10,
+    "stations": [
+      {
+        "id": 231852,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 482982,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1432718,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3292003,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/128257"
+  },
+  {
+    "access": 1,
+    "address": "19405 Victoria Hwy, Gregory NT 0852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 98106,
+    "latitude": -15.616429,
+    "longitude": 131.127856,
+    "name": "Victoria River Roadhouse",
+    "stations": [
+      {
+        "id": 161199,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 376952,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/98106"
+  },
+  {
+    "access": 1,
+    "address": "8 Mahony St, Larrimah NT 0852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 98842,
+    "latitude": -15.574415,
+    "longitude": 133.214825,
+    "name": "Larrimah Pub & Caravan park",
+    "stations": [
+      {
+        "id": 163089,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2415392,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/98842"
+  },
+  {
+    "access": 1,
+    "address": "35-41 Charlotte St, Cooktown QLD 4895, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 425225,
+    "latitude": -15.475872,
+    "longitude": 145.244866,
+    "name": "Cooktown Holiday Park",
+    "stations": [
+      {
+        "id": 1028813,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2651252,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/425225"
+  }
+]

@@ -1,0 +1,6958 @@
+[
+  {
+    "access": 1,
+    "address": "E53 70, Córdoba, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 350251,
+    "latitude": -31.174242,
+    "longitude": -64.301419,
+    "name": "Punto E - Río Ceballos",
+    "stations": [
+      {
+        "id": 833308,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2351774,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/350251"
+  },
+  {
+    "access": 1,
+    "address": "Av. San Martin 836, X5166 Cosquín, Córdoba, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 610534,
+    "latitude": -31.24154580834925,
+    "longitude": -64.46551012760358,
+    "name": "Punto E - Cosquín",
+    "stations": [
+      {
+        "id": 1601748,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3554830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610534"
+  },
+  {
+    "access": 1,
+    "address": "Av. Entre Ríos 23, E3206AJA Federación, Entre Ríos, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 555712,
+    "latitude": -30.980949551686745,
+    "longitude": -57.923656180500984,
+    "name": "Terminal De Ómnibus Federación",
+    "stations": [
+      {
+        "id": 1439303,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3302198,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/555712"
+  },
+  {
+    "access": 1,
+    "address": "3F3H+34W, 50000 Termas del Arapey, Departamento de Salto, Uruguay",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 546939,
+    "latitude": -30.9471497949261,
+    "longitude": -57.52223543822765,
+    "name": "Termas Arapey",
+    "stations": [
+      {
+        "id": 1415474,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3260207,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1498794,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3400011,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/546939"
+  },
+  {
+    "access": 1,
+    "address": "Dr. Dellepiane y Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577682,
+    "latitude": -31.190812999853083,
+    "longitude": -55.767209997528155,
+    "name": "Tranqueras - Plaza Los 33 Orientales",
+    "stations": [
+      {
+        "id": 1498827,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3400052,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577682"
+  },
+  {
+    "access": 1,
+    "address": "J. M. Sosa 1605, 40000 Rivera, Departamento de Rivera, Uruguay",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 538758,
+    "latitude": -30.920519818766465,
+    "longitude": -55.53981609642506,
+    "name": "Macro Mercado",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1393058,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3209170,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1393059,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3209171,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538758"
+  },
+  {
+    "access": 1,
+    "address": "3F82+WPQ, 40000 Rivera, Uruguai",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 560858,
+    "latitude": -30.932432299418227,
+    "longitude": -55.5476401001215,
+    "name": "UTEC Rivera",
+    "stations": [
+      {
+        "id": 1453483,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3324328,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/560858"
+  },
+  {
+    "access": 1,
+    "address": "Agraciada 586, 40000 Rivera, Departamento de Rivera, Uruguai",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 541448,
+    "latitude": -30.899929263032227,
+    "longitude": -55.54105259478092,
+    "name": "Plaza Artigas",
+    "stations": [
+      {
+        "id": 1400641,
+        "network_id": 1562,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3225277,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/541448"
+  },
+  {
+    "access": 1,
+    "address": "R. Sete de Setembro, 154 - Centro, Santana do Livramento - RS, 97573-471",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 300077,
+    "latitude": -30.884977,
+    "longitude": -55.536557,
+    "name": "Unicred",
+    "score": 4.5,
+    "stations": [
+      {
+        "id": 681597,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2098487,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/300077"
+  },
+  {
+    "access": 1,
+    "address": "Luis A. De Herrera 1255, 40000 Rivera, Departamento de Rivera, Uruguay",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476314,
+    "latitude": -30.9151195,
+    "longitude": -55.5393075,
+    "name": "Ancap marfalub",
+    "stations": [
+      {
+        "id": 1219082,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2933651,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3044121,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476314"
+  },
+  {
+    "access": 1,
+    "address": "Av. João Belchior Goulart, 413 - Centro, Sant'Ana do Livramento - RS, 97574-150, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 494952,
+    "latitude": -30.895031620067616,
+    "longitude": -55.531014140155335,
+    "name": "Hiper Solar",
+    "stations": [
+      {
+        "id": 1276107,
+        "network_id": 1465,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3019781,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/494952"
+  },
+  {
+    "access": 1,
+    "address": "R. Bernardino Ângelo, 740 - Centro, Dom Pedrito - RS, 96450-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 300816,
+    "latitude": -30.984517,
+    "longitude": -54.667771,
+    "name": "Unicred Dom Pedrito",
+    "stations": [
+      {
+        "id": 684538,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2103102,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/300816"
+  },
+  {
+    "access": 1,
+    "address": "Paradouro Grill - BR 116 Km 428, Cristal - RS, 96165-000",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 493577,
+    "latitude": -31.016340255737305,
+    "longitude": -52.05360794067383,
+    "name": "Posto Grill - Rota Mercosul P&D ANEEL 05 UFSM / Equatorial",
+    "score": 1.2,
+    "stations": [
+      {
+        "id": 1273018,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3015042,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3325493,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3325494,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493577"
+  },
+  {
+    "access": 1,
+    "address": "Rua Ailton Ulguim Campos, 1907 - Camaquã, RS, 96787-048",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456285,
+    "latitude": -30.850131,
+    "longitude": -51.769864,
+    "name": "AGRO COMERCIAL AFUBRA LTDA",
+    "stations": [
+      {
+        "id": 1102658,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2767401,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456285"
+  },
+  {
+    "access": 1,
+    "address": "BR 116, s/nº, Km 396 - B - Carvalho Bastos, Camaquã - RS, 95270-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 506895,
+    "latitude": -30.8574673,
+    "longitude": -51.7867208,
+    "name": "Paradouro Grill Camaquã",
+    "score": 8.4,
+    "stations": [
+      {
+        "id": 1306190,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3068875,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1306191,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3068876,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/506895"
+  },
+  {
+    "access": 1,
+    "address": "XXC2+RC Passo do Mendonça, Cristal - RS, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 575980,
+    "latitude": -31.027942399970826,
+    "longitude": -52.04893987290695,
+    "name": "SAU430 Ecosul Cristal (Coming Soon)",
+    "stations": [
+      {
+        "id": 1493705,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391468,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575980"
+  },
+  {
+    "access": 1,
+    "address": "Wild Coast Sun",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 290236,
+    "latitude": -31.084638,
+    "longitude": 30.186656,
+    "name": "Wild Coast Sun Hotel",
+    "stations": [
+      {
+        "id": 635291,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 1950672,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290236"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road, South Africa",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 290220,
+    "latitude": -31.085842,
+    "longitude": 30.18016,
+    "name": "Wild Coast Sun Country Club",
+    "stations": [
+      {
+        "id": 635245,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 1950567,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290220"
+  },
+  {
+    "access": 1,
+    "address": "55 Main Rd, Shelly Beach, Margate, 4265",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 270615,
+    "latitude": -30.798925,
+    "longitude": 30.398488,
+    "name": "BMW Supertech Shelly Beach",
+    "stations": [
+      {
+        "id": 596640,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1652987,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/270615"
+  },
+  {
+    "access": 1,
+    "address": "4 Hopkins Street, Lancelin WA 6044, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 175705,
+    "latitude": -31.02605,
+    "longitude": 115.32973,
+    "name": "Lancelin Caravan Park ",
+    "stations": [
+      {
+        "id": 360037,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2438498,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/175705"
+  },
+  {
+    "access": 1,
+    "address": "8 Rock Way, Lancelin WA 6044, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 241564,
+    "latitude": -31.02057019775467,
+    "longitude": 115.3327182883606,
+    "name": "Wangaree Park (1)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 524512,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1364713,
+            "kilowatts": 17,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/241564"
+  },
+  {
+    "access": 1,
+    "address": "Unit 2/3 127 Gingin Rd, Lancelin WA 6044, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 518344,
+    "latitude": -31.020540222140273,
+    "longitude": 115.332445925955,
+    "name": "Wangaree Park (3)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1335856,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3117265,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1418719,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3267539,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1418720,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3267540,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/518344"
+  },
+  {
+    "access": 1,
+    "address": "Wangaree Park, Rock Way, Lancelin WA 6044",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 515529,
+    "latitude": -31.020542378959767,
+    "longitude": 115.33254433377206,
+    "name": "Wangaree Park (2)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1417114,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3263650,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1417115,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3263651,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3263652,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515529"
+  },
+  {
+    "access": 1,
+    "address": "11275 Great Northern Hwy, New Norcia WA 6509, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 143504,
+    "latitude": -30.973734,
+    "longitude": 116.212451,
+    "name": "Puma New Norcia Roadhouse",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 272386,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 540350,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/143504"
+  },
+  {
+    "access": 1,
+    "address": "11275 Great Northern Hwy, New Norcia WA 6509, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 586323,
+    "latitude": -30.973774995410192,
+    "longitude": 116.2124856234866,
+    "name": "New Norcia Road house",
+    "stations": [
+      {
+        "id": 1524327,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3438682,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586323"
+  },
+  {
+    "access": 1,
+    "address": "256 Wongan Rd, Wongan Hills WA 6603, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 151825,
+    "latitude": -30.888205,
+    "longitude": 116.715028,
+    "name": "Wongan Hills Caravan Park",
+    "stations": [
+      {
+        "id": 289573,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 560046,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/151825"
+  },
+  {
+    "access": 1,
+    "address": "1 Wongan Road, Wongan Hills WA 6603",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 549186,
+    "latitude": -30.892739533882914,
+    "longitude": 116.71614185650246,
+    "name": "Wongan Hills Visitor Centre",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1421489,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3272325,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3272326,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/549186"
+  },
+  {
+    "access": 1,
+    "address": "Lot 5700 Railway Terrace, Wyalkatchem WA 6485, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 562063,
+    "latitude": -31.17960548400879,
+    "longitude": 117.37954711914062,
+    "name": "Wyalkatchem Community Resource Centre",
+    "stations": [
+      {
+        "id": 1456687,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3329363,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562063"
+  },
+  {
+    "access": 1,
+    "address": "Lot 5700, Railway Terrace, Wyalkatchem, Western Australia, 6485",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 607588,
+    "latitude": -31.179597437850987,
+    "longitude": 117.37946464068722,
+    "name": "Wyalkatchem Community Resource Centre",
+    "stations": [
+      {
+        "id": 1592112,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3540110,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/607588"
+  },
+  {
+    "access": 1,
+    "address": "159 Mitchell Terrace, Nungarin WA 6490",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 114411,
+    "latitude": -31.19161,
+    "longitude": 118.091517,
+    "name": "Nungarin Sports Complex",
+    "stations": [
+      {
+        "id": 196700,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 428733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/114411"
+  },
+  {
+    "access": 1,
+    "address": "1 Altair St, Southern Cross WA 6426, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 554510,
+    "latitude": -31.233656622461176,
+    "longitude": 119.32863587680757,
+    "name": "Central Wheatbelt Visitor Centre",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1476108,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3360371,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1476109,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3360372,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3360373,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554510"
+  },
+  {
+    "access": 1,
+    "address": "90 Bayley St, Coolgardie WA 6429, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 558761,
+    "latitude": -30.95434009202558,
+    "longitude": 121.1610815162505,
+    "name": "Coolgardie Shire Office",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1493863,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391858,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 1493864,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3391859,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3391860,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558761"
+  },
+  {
+    "access": 1,
+    "address": "99 Bayley St Coolgardie WA 6429",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 77538,
+    "latitude": -30.95508,
+    "longitude": 121.160097,
+    "name": "Coolgardie Tourist Village",
+    "stations": [
+      {
+        "id": 112544,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 284050,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 15,
+            "id": 284051,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/77538"
+  },
+  {
+    "access": 1,
+    "address": "14 Jobson St Coolgardie WA 6429 Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 77449,
+    "latitude": -30.955982,
+    "longitude": 121.15794,
+    "name": "Coolgardie Sports Club",
+    "stations": [
+      {
+        "id": 112336,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 280754,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 112389,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 280990,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/77449"
+  },
+  {
+    "access": 1,
+    "address": "Corner Cassidy Street and Wearne Lane, Kalgoorlie WA 6430",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 597473,
+    "latitude": -30.75006191409458,
+    "longitude": 121.47497165963489,
+    "name": "Kingsbury Park",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1571655,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3511868,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1571656,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3511869,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3511870,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/597473"
+  },
+  {
+    "access": 1,
+    "address": "286 Burt St, Boulder WA",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 569271,
+    "latitude": -30.782315507781433,
+    "longitude": 121.46985997810097,
+    "name": "Discovery Parks - Kalgoorlie Goldfields",
+    "stations": [
+      {
+        "id": 1474935,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3358516,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/569271"
+  },
+  {
+    "access": 1,
+    "address": "577 Hannan St, Somerville WA 6430, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 206898,
+    "latitude": -30.763048,
+    "longitude": 121.456218,
+    "name": "City of Kalgoorlie-Boulder Administration Building",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1412427,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3253760,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3253761,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/206898"
+  },
+  {
+    "access": 1,
+    "address": "430 Hannan St, Kalgoorlie WA 6430, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 123251,
+    "latitude": -30.751845,
+    "longitude": 121.467342,
+    "name": "The View On Hannans",
+    "score": 10,
+    "stations": [
+      {
+        "id": 218636,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 463405,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 218637,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 463406,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 546909,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 1497218,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/123251"
+  },
+  {
+    "access": 1,
+    "address": "Glendambo, Glendambo SA 5719, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 155024,
+    "latitude": -30.967648,
+    "longitude": 135.749578,
+    "name": "Glendambo Roadhouse (1)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 298960,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 571092,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/155024"
+  },
+  {
+    "access": 1,
+    "address": "1323 Glendambo Access Rd, Glendambo SA 5719, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 538274,
+    "latitude": -30.967860719746696,
+    "longitude": 135.74945516687876,
+    "name": "Glendambo Roadhouse (2)",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 1500365,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3402081,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1500366,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3402082,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538274"
+  },
+  {
+    "access": 1,
+    "address": "Glendambo Access Road, Glendambo, SA 5710 Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 383267,
+    "latitude": -30.968823,
+    "longitude": 135.751342,
+    "name": "Glendambo Hotel",
+    "stations": [
+      {
+        "id": 921303,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2477880,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 921304,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 2477881,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/383267"
+  },
+  {
+    "access": 1,
+    "address": "Kotara Pl, Woomera SA 5720, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 224278,
+    "latitude": -31.199774,
+    "longitude": 136.829208,
+    "name": "Eldo Hotel",
+    "stations": [
+      {
+        "id": 489934,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 1191183,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/224278"
+  },
+  {
+    "access": 1,
+    "address": "White Cliffs NSW 2836, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 145927,
+    "latitude": -30.864734,
+    "longitude": 143.091117,
+    "name": "White Cliffs Underground Hotel",
+    "stations": [
+      {
+        "id": 279166,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 548544,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 279167,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 548545,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 279168,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 548546,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 279169,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 548547,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/145927"
+  },
+  {
+    "access": 1,
+    "address": "Skillman's Lane, Coonamble NSW 2829, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 331857,
+    "latitude": -30.95278,
+    "longitude": 148.387913,
+    "name": "Skillman's Lane Car Park",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 781200,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2274692,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2274693,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 781215,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2274711,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2274712,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/331857"
+  },
+  {
+    "access": 1,
+    "address": "25 Railway Street, Coonamble NSW 2829, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 267732,
+    "latitude": -30.955629,
+    "longitude": 148.381272,
+    "name": "Terminus Hotel",
+    "stations": [
+      {
+        "id": 589491,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 1628347,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/267732"
+  },
+  {
+    "access": 1,
+    "address": "342 Conadilly St, Gunnedah NSW 2380, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 164026,
+    "latitude": -30.980048,
+    "longitude": 150.257659,
+    "name": "Mackellar Motel",
+    "score": 10,
+    "stations": [
+      {
+        "id": 328365,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 609548,
+            "kilowatts": 17,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 328366,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 609549,
+            "kilowatts": 17,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/164026"
+  },
+  {
+    "access": 1,
+    "address": "73 Little Barber St, Gunnedah NSW 2380, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 207390,
+    "latitude": -30.977836849265746,
+    "longitude": 150.2510862417336,
+    "name": "Kepreotes Car Park",
+    "score": 10,
+    "stations": [
+      {
+        "id": 442703,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 834820,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2155289,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/207390"
+  },
+  {
+    "access": 1,
+    "address": "25 Park St, West Tamworth NSW 2340, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 175319,
+    "latitude": -31.101649,
+    "longitude": 150.917126,
+    "name": "West Tamworth League Club",
+    "score": 8.3,
+    "stations": [
+      {
+        "id": 358877,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 648317,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2989470,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 358878,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 648318,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2989473,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 358879,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 648319,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2989474,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 358880,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 648320,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2989471,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/175319"
+  },
+  {
+    "access": 1,
+    "address": "2 Kable Ave, Tamworth NSW 2340, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 191375,
+    "latitude": -31.090289997102225,
+    "longitude": 150.92748913988115,
+    "name": "Hands of Fame Park",
+    "score": 10,
+    "stations": [
+      {
+        "id": 400851,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 702937,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2176640,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/191375"
+  },
+  {
+    "access": 1,
+    "address": "502 Peel St, Tamworth",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 478676,
+    "latitude": -31.097143224175404,
+    "longitude": 150.93604141104507,
+    "name": "Fast Cities, Tamworth (Coming Soon)",
+    "stations": [
+      {
+        "id": 1226084,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2943660,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226085,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2943661,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226086,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2943662,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226087,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2943663,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478676"
+  },
+  {
+    "access": 1,
+    "address": "103-111 Ebsworth St, West Tamworth NSW 2340, , West Tamworth 2340",
+    "icon": "https://assets.plugshare.com/icons/AR.png",
+    "icon_type": "AR",
+    "id": 620682,
+    "latitude": -31.096448,
+    "longitude": 150.92419,
+    "name": "Cadman Motor Inn and Apartments - West Tamworth",
+    "stations": [
+      {
+        "id": 1629196,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3612758,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "UNDER_REPAIR"
+          },
+          {
+            "connector": 7,
+            "id": 3612759,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "UNDER_REPAIR"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620682"
+  },
+  {
+    "access": 1,
+    "address": "52 Brisbane St, Tamworth NSW 2340, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 333804,
+    "latitude": -31.089446,
+    "longitude": 150.929632,
+    "name": "CH Boutique Hotel",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 315606,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 593896,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 315607,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 593897,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/333804"
+  },
+  {
+    "access": 1,
+    "address": "311-315 Marius Street, Tamworth 2340",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 617826,
+    "latitude": -31.098494,
+    "longitude": 150.9391884,
+    "name": "Tamworth City Toyota",
+    "stations": [
+      {
+        "id": 1621026,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3594251,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3594252,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617826"
+  },
+  {
+    "access": 1,
+    "address": "337 Armidale Rd, Tamworth NSW 2340, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 462150,
+    "latitude": -31.099685,
+    "longitude": 150.940955,
+    "name": "Quest Serviced Apartments Tamworth",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1151197,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2822008,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462150"
+  },
+  {
+    "access": 1,
+    "address": "248 Armidale Rd, Tamworth NSW 2340, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 122948,
+    "latitude": -31.098492,
+    "longitude": 150.940591,
+    "name": "Powerhouse Hotel Tamworth by Rydges",
+    "score": 10,
+    "stations": [
+      {
+        "id": 217768,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 462104,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 217769,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 462106,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1463198,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3339621,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/122948"
+  },
+  {
+    "access": 1,
+    "address": "10W Apsley St, Walcha NSW 2354, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 488158,
+    "latitude": -30.98292516515064,
+    "longitude": 151.5928389454859,
+    "name": "Walcha",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1252755,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3572747,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3572748,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1507657,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3572749,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3572750,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/488158"
+  },
+  {
+    "access": 1,
+    "address": "38 Taylors Arm Road, Taylors Arm NSW 2447",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 115997,
+    "latitude": -30.768126,
+    "longitude": 152.716536,
+    "name": "Pub With No Beer",
+    "stations": [
+      {
+        "id": 200564,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 434787,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 200565,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 434788,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 200566,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 434789,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/115997"
+  },
+  {
+    "access": 1,
+    "address": "62 Lachlan St, South Kempsey NSW 2440, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 73541,
+    "latitude": -31.096479,
+    "longitude": 152.836826,
+    "name": "South Kempsey Park",
+    "stations": [
+      {
+        "id": 107014,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 265296,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/73541"
+  },
+  {
+    "access": 1,
+    "address": "1 Cardwell St, South West Rocks NSW 2431, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 81002,
+    "latitude": -30.87812,
+    "longitude": 153.06894,
+    "name": "Trial Bay Gaol Campground",
+    "stations": [
+      {
+        "id": 118357,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 303283,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/81002"
+  },
+  {
+    "access": 1,
+    "address": "2-14 Belgrave St, Kempsey, 2440, AUS",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 499744,
+    "latitude": -31.081075,
+    "longitude": 152.842098,
+    "name": "Kempsey Central (Coming Soon)",
+    "stations": [
+      {
+        "id": 1288812,
+        "network_id": 1214,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3038662,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3038663,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/499744"
+  },
+  {
+    "access": 1,
+    "address": "490 Macleay Valley Way, South Kempsey NSW 244, South Kempsey 2440",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 487733,
+    "latitude": -31.117443439296093,
+    "longitude": 152.82694352114868,
+    "name": "Slim Dusty Museum",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 1251738,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3020684,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3024456,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/487733"
+  },
+  {
+    "access": 1,
+    "address": "13 Lachlan St Kempsey NSW 2440 Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589585,
+    "latitude": -31.089268855545168,
+    "longitude": 152.83889638002168,
+    "name": "Motel Kempsey",
+    "stations": [
+      {
+        "id": 1532883,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3452280,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589585"
+  },
+  {
+    "access": 1,
+    "address": "325 Macleay Valley Way, South Kempsey NSW 2440, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 87149,
+    "latitude": -31.101935,
+    "longitude": 152.831873,
+    "name": "Kempsey Tourist Village",
+    "stations": [
+      {
+        "id": 133901,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 333187,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 15,
+            "id": 333188,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/87149"
+  },
+  {
+    "access": 1,
+    "address": "19 Buchanan Dr, South West Rocks NSW 2431, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 582408,
+    "latitude": -30.886591364823087,
+    "longitude": 153.03764272481203,
+    "name": "Back Creek",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1516506,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3426460,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3426461,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582408"
+  },
+  {
+    "access": 1,
+    "address": "Panamericana Norte, Huentelauquén, Canela, Coquimbo, Chile",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 471581,
+    "latitude": -31.571308434306637,
+    "longitude": -71.53811898082496,
+    "name": "Shell Ruta 5 Norte km 265",
+    "stations": [
+      {
+        "id": 1206155,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2913731,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2913732,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2913733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471581"
+  },
+  {
+    "access": 1,
+    "address": "Oasis Cordillerano, San Juan, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330512,
+    "latitude": -31.523008,
+    "longitude": -68.519735,
+    "name": "Enel X - Oasis Cordillerano, San Juan - 5,5 kW",
+    "stations": [
+      {
+        "id": 777203,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269376,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 777204,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269377,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330512"
+  },
+  {
+    "access": 1,
+    "address": "Azopardo esquina artigaz, carlos paz cordoba",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 230526,
+    "latitude": -31.408452,
+    "longitude": -64.485669,
+    "name": "Howard Johnson Villa Carlos Paz",
+    "stations": [
+      {
+        "id": 501917,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1237722,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/230526"
+  },
+  {
+    "access": 1,
+    "address": "Mateo Beres 361, X5186BSC Alta Gracia, Córdoba, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 350256,
+    "latitude": -31.658986,
+    "longitude": -64.429004,
+    "name": "Punto E - Alta Gracia",
+    "stations": [
+      {
+        "id": 833314,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2351782,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/350256"
+  },
+  {
+    "access": 1,
+    "address": "RP E55 1902, Córdoba, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 350260,
+    "latitude": -31.361653,
+    "longitude": -64.42591,
+    "name": "Punto E - Museo Usina Molet",
+    "stations": [
+      {
+        "id": 833318,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2351786,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/350260"
+  },
+  {
+    "access": 1,
+    "address": "Caseros 65, X5152 Villa Carlos Paz, Córdoba, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 350244,
+    "latitude": -31.419777,
+    "longitude": -64.496908,
+    "name": "Punto E - Villa Carlos Paz",
+    "stations": [
+      {
+        "id": 833299,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2351764,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/350244"
+  },
+  {
+    "access": 1,
+    "address": "Tablada 350, Ciudad de Córdoba, Córdoba - Argentina",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 220639,
+    "latitude": -31.407505,
+    "longitude": -64.185989,
+    "name": "Punto E - Edificio Central",
+    "stations": [
+      {
+        "id": 481582,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1136612,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3475615,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3475616,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/220639"
+  },
+  {
+    "access": 1,
+    "address": "Avenida La Voz del Interior 7000, Córdoba, Argentina",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 220643,
+    "latitude": -31.337397,
+    "longitude": -64.207461,
+    "name": "Quorum Córdoba Hotel - Golf, Tenis & Spa (Coming Soon)",
+    "stations": [
+      {
+        "id": 481587,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1136714,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1136715,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/220643"
+  },
+  {
+    "access": 1,
+    "address": "Av. Castro Barros 1250, X5008 Córdoba",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581660,
+    "latitude": -31.39397352227637,
+    "longitude": -64.20199041104506,
+    "name": "Centro integral Parra",
+    "stations": [
+      {
+        "id": 1511332,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3418305,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3418306,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581660"
+  },
+  {
+    "access": 1,
+    "address": "Gral. Simón Bolívar 353, X5000JZG Córdoba, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 220642,
+    "latitude": -31.418084,
+    "longitude": -64.192129,
+    "name": "Playa Bolívar",
+    "stations": [
+      {
+        "id": 481585,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1136619,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1136620,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 481586,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1136621,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1136622,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/220642"
+  },
+  {
+    "access": 1,
+    "address": "Sta Rosa 915, X5000ESS Córdoba, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 610535,
+    "latitude": -31.40894557722487,
+    "longitude": -64.19521527103856,
+    "name": "Punto E - Plaza Colón",
+    "stations": [
+      {
+        "id": 1601749,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3554831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610535"
+  },
+  {
+    "access": 1,
+    "address": "Av. del Libertador Norte 211, San Francisco, Córdoba, Argentina",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 350257,
+    "latitude": -31.427381,
+    "longitude": -62.084706,
+    "name": "Punto E - San Francisco",
+    "stations": [
+      {
+        "id": 833315,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2351783,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3475619,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3475620,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/350257"
+  },
+  {
+    "access": 1,
+    "address": "Bv. Pellegrini 2626, S3000ADP Santa Fe, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 220646,
+    "latitude": -31.635294,
+    "longitude": -60.703616,
+    "name": "EPE santa fe ",
+    "stations": [
+      {
+        "id": 481591,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1136724,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1136725,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/220646"
+  },
+  {
+    "access": 1,
+    "address": "Sta Teresita 217, San Salvador, Entre Ríos, Argentina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 327842,
+    "latitude": -31.622926,
+    "longitude": -58.504453,
+    "name": "Estacion SAN Salvador",
+    "stations": [
+      {
+        "id": 769983,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2259819,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/327842"
+  },
+  {
+    "access": 1,
+    "address": "G3VR+R76, Av. Paysandú, 50000 Termas del Dayman, Departamento de Salto, Uruguay",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 544455,
+    "latitude": -31.4557917561274,
+    "longitude": -57.90981262922286,
+    "name": "Termas Dayman",
+    "stations": [
+      {
+        "id": 1408732,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3244579,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408733,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3244580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/544455"
+  },
+  {
+    "access": 1,
+    "address": "Ruta 3 Km. 491.500, Salto",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 212783,
+    "latitude": -31.426177,
+    "longitude": -57.934211,
+    "name": "Ancap Salto",
+    "stations": [
+      {
+        "id": 457346,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 945068,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/212783"
+  },
+  {
+    "access": 1,
+    "address": "Ruta 31 km 75, Rincón de Valentín, Salto",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577683,
+    "latitude": -31.28098322372473,
+    "longitude": -57.19930925496038,
+    "name": "Rincón de Valentín",
+    "stations": [
+      {
+        "id": 1498829,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3400055,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577683"
+  },
+  {
+    "access": 1,
+    "address": "Sección 01‎ Département de Tacuarembo, Uruguay",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 103550,
+    "latitude": -31.71078,
+    "longitude": -55.980087,
+    "name": "Tacuarembó ",
+    "stations": [
+      {
+        "id": 175251,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 398809,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/103550"
+  },
+  {
+    "access": 1,
+    "address": "72FH+G76, 45000 Tacuarembó, Departamento de Tacuarembó, Uruguay",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 538759,
+    "latitude": -31.726186333977523,
+    "longitude": -55.97183246165514,
+    "name": "Ancap América Tacuarembo",
+    "stations": [
+      {
+        "id": 1393063,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3209179,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1393064,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3209180,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538759"
+  },
+  {
+    "access": 1,
+    "address": "Ruta 5 km 388",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 213416,
+    "latitude": -31.726388,
+    "longitude": -55.971597,
+    "name": "Ancap Tacuarembo",
+    "stations": [
+      {
+        "id": 458779,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 957431,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/213416"
+  },
+  {
+    "access": 1,
+    "address": "18 de Julio y José Catalogne, Tacuarembó, Tacuarembó",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577697,
+    "latitude": -31.718493524289855,
+    "longitude": -55.9856687632711,
+    "name": "ANCAP 18 de Julio - Tacuarembó",
+    "stations": [
+      {
+        "id": 1498852,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3400091,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1498853,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3400092,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577697"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Davison y Dr. Ross",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577681,
+    "latitude": -31.570699989181485,
+    "longitude": -55.47151604689135,
+    "name": "Minas de Corrales",
+    "stations": [
+      {
+        "id": 1498825,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3400050,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1498826,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3400051,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577681"
+  },
+  {
+    "access": 1,
+    "address": "Ruta 5 y Ruta 30. Tranqueras",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 214551,
+    "latitude": -31.251933,
+    "longitude": -55.663877,
+    "name": "Ancap Buena Union",
+    "stations": [
+      {
+        "id": 462024,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 986141,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/214551"
+  },
+  {
+    "access": 1,
+    "address": "R. Rádio Cultura, 301 - São Judas, Bagé - RS, 96415-610, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 519631,
+    "latitude": -31.32641346926303,
+    "longitude": -54.08736437559128,
+    "name": "Residência Luciano Garcia",
+    "stations": [
+      {
+        "id": 1338911,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3122096,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/519631"
+  },
+  {
+    "access": 1,
+    "address": "Av. Sete de Setembro, 601 - Centro, Bagé - RS, 96400-006",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 300814,
+    "latitude": -31.335744,
+    "longitude": -54.104718,
+    "name": "Unicred Bagé",
+    "stations": [
+      {
+        "id": 684535,
+        "network_id": 1377,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2103099,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/300814"
+  },
+  {
+    "access": 1,
+    "address": "rua martin luter king,16",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 576200,
+    "latitude": -31.322983126398842,
+    "longitude": -54.09247088965752,
+    "name": "Observador",
+    "stations": [
+      {
+        "id": 1494416,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3393118,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3393119,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/576200"
+  },
+  {
+    "access": 1,
+    "address": "Estrada BR 293, KM 108 Zona Urbana - Pinheiro Machado, RS, 96470-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575539,
+    "latitude": -31.56573395517036,
+    "longitude": -53.39392310112079,
+    "name": "Posto Pinheirense - Conecta VE",
+    "stations": [
+      {
+        "id": 1492608,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3389653,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575539"
+  },
+  {
+    "access": 1,
+    "address": "Paradouro Barragem BR-116, 1520 - Santa Terezinha, Pelotas - RS, 96015, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 487923,
+    "latitude": -31.720535328597116,
+    "longitude": -52.37939597861543,
+    "name": "Paradouro Barragem",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 1252314,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2986015,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2986016,
+            "kilowatts": 60,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2986017,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/487923"
+  },
+  {
+    "access": 1,
+    "address": "9MJQ+HW - Vila Princesa, Pelotas - RS, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575975,
+    "latitude": -31.61760403112839,
+    "longitude": -52.30955597101101,
+    "name": "Posto Fiscal - Antt KM 508",
+    "stations": [
+      {
+        "id": 1493700,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391459,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575975"
+  },
+  {
+    "access": 1,
+    "address": "R. Albino Brod, 172 - Tres Vendas, Pelotas - RS, 96055-150, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 538904,
+    "latitude": -31.734091363558726,
+    "longitude": -52.34713576734066,
+    "name": "Unicred Integração",
+    "stations": [
+      {
+        "id": 1393425,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3209993,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538904"
+  },
+  {
+    "access": 1,
+    "address": "BR-116, 3712 - Tres Vendas, Pelotas - RS, 96070-560, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575974,
+    "latitude": -31.728728090899853,
+    "longitude": -52.38829544765837,
+    "name": "SAU524 Ecosul - km524",
+    "score": 7.6,
+    "stations": [
+      {
+        "id": 1493699,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391456,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575974"
+  },
+  {
+    "access": 1,
+    "address": "Avenida São Francisco de Paula, 3777",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 553324,
+    "latitude": -31.741435801958453,
+    "longitude": -52.32642965427313,
+    "name": "Feluc Distribuidora Intelbras",
+    "stations": [
+      {
+        "id": 1432419,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3291571,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/553324"
+  },
+  {
+    "access": 1,
+    "address": "Av. República do Libano, 565 - Tres Vendas, Pelotas - RS, 96055-710, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 452874,
+    "latitude": -31.737312,
+    "longitude": -52.327684,
+    "name": "Dlinea Villato Pelotas (Coming Soon)",
+    "stations": [
+      {
+        "id": 1091435,
+        "network_id": 1377,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2752540,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/452874"
+  },
+  {
+    "access": 1,
+    "address": "Av- República doLíbano 565- Tres Vendas, Pelotas - RS, 96055-620, Brasil carregamento 22Kwh",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456309,
+    "latitude": -31.739793,
+    "longitude": -52.330301,
+    "name": "D'LINEA VILLATO",
+    "stations": [
+      {
+        "id": 1102698,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2767457,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456309"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Getúlio Vargas 730, São Lourenço ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 516457,
+    "latitude": -31.3745668,
+    "longitude": -51.9535024,
+    "name": "Laguna Aluguéis Hotel.",
+    "stations": [
+      {
+        "id": 1331334,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3109477,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/516457"
+  },
+  {
+    "access": 1,
+    "address": "BR-116, 492 - Vila Princesa, Turuçu - RS, 96148-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 545035,
+    "latitude": -31.489960018551926,
+    "longitude": -52.21323621677329,
+    "name": "SAU492 Ecosul Turuçu km 492",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1410195,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3248123,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/545035"
+  },
+  {
+    "access": 1,
+    "address": "Celtis Country Lodge & Restaurant, 21 Joubert St, Middelburg - Ec, Middelburg, 5900",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 165542,
+    "latitude": -31.498012,
+    "longitude": 25.001218,
+    "name": "Celtis Country Lodge & Restaurant",
+    "stations": [
+      {
+        "id": 332782,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 616243,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2297121,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/165542"
+  },
+  {
+    "access": 1,
+    "address": "1 Botha Sigcau Dr, Myezo Park, Mthatha, South Africa",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 587793,
+    "latitude": -31.59782834773954,
+    "longitude": 28.74552625133993,
+    "name": "Garden Court Mthatha - AIDC-EC 150kW DC (Coming Soon)",
+    "stations": [
+      {
+        "id": 1528071,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3444594,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3444595,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/587793"
+  },
+  {
+    "access": 1,
+    "address": "N2, Lurasini, South Africa",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 621017,
+    "latitude": -31.430473463365946,
+    "longitude": 28.860446624457836,
+    "name": "Dan's Country Lodge - AIDC-EC 150kW DC (Coming Soon)",
+    "stations": [
+      {
+        "id": 1630213,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3614921,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3614922,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/621017"
+  },
+  {
+    "access": 1,
+    "address": "1 Peony Boulevard, Yanchep, Western Australia, 6035",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 39648,
+    "latitude": -31.549084,
+    "longitude": 115.638575,
+    "name": "Yanchep Central Shopping Centre",
+    "score": 5.7,
+    "stations": [
+      {
+        "id": 54253,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 225690,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 106772,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 263993,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/39648"
+  },
+  {
+    "access": 1,
+    "address": "2 Altrincham Grove, Butler WA 6036, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 473397,
+    "latitude": -31.638390974753726,
+    "longitude": 115.69423533740358,
+    "name": "Anaconda Butler",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1447230,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3314427,
+            "kilowatts": 124,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3314428,
+            "kilowatts": 124,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/473397"
+  },
+  {
+    "access": 1,
+    "address": "7 Ocean Keys Bvd, Clarkson, WA 6030",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 557265,
+    "latitude": -31.68932915980376,
+    "longitude": 115.71535739999999,
+    "name": "Ampol Foodary Clarkson",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1443912,
+        "network_id": 1292,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3580996,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3580997,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/557265"
+  },
+  {
+    "access": 1,
+    "address": "360 Old Yanchep Rd, Carabooda WA 6033, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 51703,
+    "latitude": -31.57546,
+    "longitude": 115.718887,
+    "name": "Jumanga Olives",
+    "stations": [
+      {
+        "id": 70441,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 143623,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/51703"
+  },
+  {
+    "access": 1,
+    "address": "1098 Military Road, Gingin WA 6503, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 136462,
+    "latitude": -31.356122,
+    "longitude": 115.712576,
+    "name": "Gravity Discovery Centre",
+    "score": 9,
+    "stations": [
+      {
+        "id": 252494,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 516460,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/136462"
+  },
+  {
+    "access": 1,
+    "address": "1679 Gingin Brook Rd Gingin WA 6503, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 47500,
+    "latitude": -31.317108,
+    "longitude": 115.698588,
+    "name": "Willowbrook Farm and Caravan Park",
+    "stations": [
+      {
+        "id": 65999,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 134196,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/47500"
+  },
+  {
+    "access": 1,
+    "address": "1355 Military Road Gingin, Western Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 72848,
+    "latitude": -31.327768,
+    "longitude": 115.694916,
+    "name": "The Serendipity Gallery and Cafe",
+    "stations": [
+      {
+        "id": 105849,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 259911,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/72848"
+  },
+  {
+    "access": 1,
+    "address": "35 Gouldian Circuit, Alkimos WA 6038, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 131133,
+    "latitude": -31.620507,
+    "longitude": 115.68689,
+    "name": "Alkimos Shopping Centre - South",
+    "score": 7.8,
+    "stations": [
+      {
+        "id": 342407,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 627039,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 627040,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/131133"
+  },
+  {
+    "access": 1,
+    "address": "30 Pensacola Terrace, Clarkson WA 6030, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 206584,
+    "latitude": -31.688211,
+    "longitude": 115.716308,
+    "name": "Clarkson Nissan ",
+    "score": 5.1,
+    "stations": [
+      {
+        "id": 440301,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 818481,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/206584"
+  },
+  {
+    "access": 1,
+    "address": "14/220 Camborne Parkway,  Butler",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 473244,
+    "latitude": -31.63670785190297,
+    "longitude": 115.69701854235365,
+    "name": "Autobahn Butler",
+    "stations": [
+      {
+        "id": 1210526,
+        "network_id": 1371,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2919812,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2919814,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/473244"
+  },
+  {
+    "access": 1,
+    "address": "15 Caloundra Rd, Clarkson WA 6030, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535601,
+    "latitude": -31.692721685810966,
+    "longitude": 115.72343572298166,
+    "name": "MM Electrical Clarkson",
+    "stations": [
+      {
+        "id": 1383937,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3191516,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535601"
+  },
+  {
+    "access": 1,
+    "address": "22 Lower Keys Dr, Clarkson WA 6030, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 365796,
+    "latitude": -31.693513,
+    "longitude": 115.723365,
+    "name": "Bunnings Mindarie",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1243973,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2972128,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "CHARGING"
+          },
+          {
+            "connector": 7,
+            "id": 2972129,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/365796"
+  },
+  {
+    "access": 1,
+    "address": "23 Chittering Valley Rd Lower Chittering WA 6084, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 53930,
+    "latitude": -31.570295,
+    "longitude": 116.102699,
+    "name": "Chittering Valley Progress & Sporting Association Hall",
+    "stations": [
+      {
+        "id": 73110,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 155067,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/53930"
+  },
+  {
+    "access": 1,
+    "address": "McKenzie St Muchea WA 6501 Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 80020,
+    "latitude": -31.579132,
+    "longitude": 115.974012,
+    "name": "John Glenn Park ",
+    "stations": [
+      {
+        "id": 116541,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 296658,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/80020"
+  },
+  {
+    "access": 1,
+    "address": "Wattle Avenue East, Neerabup, Western Australia, 6031",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 45365,
+    "latitude": -31.664386,
+    "longitude": 115.785766,
+    "name": "Wanneroo Raceway",
+    "stations": [
+      {
+        "id": 63542,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 288825,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 90183,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 288822,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/45365"
+  },
+  {
+    "access": 1,
+    "address": "86 Holstein Loop, Lower Chittering WA 6084, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 154942,
+    "latitude": -31.538601,
+    "longitude": 116.073748,
+    "name": "Alan and Eve's Eden",
+    "stations": [
+      {
+        "id": 298775,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 570870,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/154942"
+  },
+  {
+    "access": 1,
+    "address": "2 Hollosy Way Cnr, Pinjar Rd, Ashby WA 6065, Australia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 607796,
+    "latitude": -31.732400398096782,
+    "longitude": 115.80443557351829,
+    "name": "AmpCharge Ashby (Coming Soon)",
+    "stations": [
+      {
+        "id": 1592798,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3541214,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1592799,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3541215,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/607796"
+  },
+  {
+    "access": 1,
+    "address": "6180 Great Northern Hwy., Bindoon, Western Australia, 6502",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 39649,
+    "latitude": -31.385784,
+    "longitude": 116.096491,
+    "name": "Bindoon Oval",
+    "stations": [
+      {
+        "id": 54254,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2439346,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1096652,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 2759155,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/39649"
+  },
+  {
+    "access": 1,
+    "address": "23 Dundebar Rd, Wanneroo WA 6065, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 130486,
+    "latitude": -31.748974,
+    "longitude": 115.806229,
+    "name": "Wanneroo Civic Centre Extension",
+    "score": 8.8,
+    "stations": [
+      {
+        "id": 236875,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 491635,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 236876,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 491636,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/130486"
+  },
+  {
+    "access": 1,
+    "address": "15 Peters Rd, Muchea WA 6501, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 147366,
+    "latitude": -31.581473,
+    "longitude": 115.983428,
+    "name": "Enderslie B&B",
+    "stations": [
+      {
+        "id": 284207,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 554364,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/147366"
+  },
+  {
+    "access": 1,
+    "address": "8 Kennedya Dr, Joondalup WA 6027, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 562579,
+    "latitude": -31.735399047304476,
+    "longitude": 115.76053163034005,
+    "name": "HBF Arena",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1477710,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3366789,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 1550892,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3481558,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562579"
+  },
+  {
+    "access": 1,
+    "address": "300 Joseph Banks Blvd, Banksia Grove WA 6031, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589685,
+    "latitude": -31.703492,
+    "longitude": 115.804073,
+    "name": "Autobahn Banksia Grove",
+    "stations": [
+      {
+        "id": 1563395,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3499739,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3499740,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589685"
+  },
+  {
+    "access": 1,
+    "address": "93 Boas Ave, Joondalup WA 6027, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 91040,
+    "latitude": -31.742468,
+    "longitude": 115.773101,
+    "name": "Reid Promenade Car Park",
+    "score": 10,
+    "stations": [
+      {
+        "id": 144364,
+        "network_id": 64,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 653010,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 144365,
+        "network_id": 64,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 349961,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/91040"
+  },
+  {
+    "access": 1,
+    "address": "420 Joondalup Dr, Joondalup WA 6027, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 127737,
+    "latitude": -31.745481,
+    "longitude": 115.765688,
+    "name": "Lakeside Joondalup - Myer Car Park Ground floor",
+    "score": 4.3,
+    "stations": [
+      {
+        "id": 230592,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 481258,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 481259,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/127737"
+  },
+  {
+    "access": 1,
+    "address": "104 McLarty Ave, Joondalup WA 6027, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 127624,
+    "latitude": -31.74259833045774,
+    "longitude": 115.76716163558197,
+    "name": "Lakeside Joondalup Shopping City - HOYTS Joondalup",
+    "score": 6.8,
+    "stations": [
+      {
+        "id": 230151,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 480505,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 480506,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/127624"
+  },
+  {
+    "access": 1,
+    "address": "LOT 326, Weld St. Gingin WA 6503, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 72849,
+    "latitude": -31.349861,
+    "longitude": 115.904518,
+    "name": "Granville Park",
+    "score": 9,
+    "stations": [
+      {
+        "id": 105850,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 260290,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 860249,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2387910,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 860250,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2387911,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 860251,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2387912,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 860252,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2387913,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/72849"
+  },
+  {
+    "access": 1,
+    "address": "5 Jones Street Gingin WA 6503, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 47387,
+    "latitude": -31.350978,
+    "longitude": 115.904079,
+    "name": "Gingin Hotel",
+    "stations": [
+      {
+        "id": 65886,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 133727,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 289956,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 560468,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/47387"
+  },
+  {
+    "access": 1,
+    "address": "150 Yilgarn Avenue, Northam, Western Australia, 6401",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 39830,
+    "latitude": -31.64237,
+    "longitude": 116.6989,
+    "name": "Northam Caravan Park",
+    "stations": [
+      {
+        "id": 54435,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 411521,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/39830"
+  },
+  {
+    "access": 1,
+    "address": "12 Brooklyn Road Spencer’s Brooke WA ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 329667,
+    "latitude": -31.718587,
+    "longitude": 116.649031,
+    "name": "Brooklyn Chalet",
+    "stations": [
+      {
+        "id": 775036,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2266584,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/329667"
+  },
+  {
+    "access": 1,
+    "address": "16 Chidlow Street, Northam, Western Australia, 6401",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 39853,
+    "latitude": -31.651312,
+    "longitude": 116.678459,
+    "name": "Jubilee Oval and Showgrounds",
+    "score": 6.6,
+    "stations": [
+      {
+        "id": 54467,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 437189,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 185383,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 437192,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 885438,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2422713,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 885439,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2422714,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1453938,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3324997,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/39853"
+  },
+  {
+    "access": 1,
+    "address": "6 Duke Street N, Toodyay WA 6566, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 178869,
+    "latitude": -31.550943,
+    "longitude": 116.467562,
+    "name": "EO Toodyay",
+    "score": 10,
+    "stations": [
+      {
+        "id": 368082,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 660185,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 660186,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/178869"
+  },
+  {
+    "access": 1,
+    "address": "39 Railway Terrace, Goomalling WA 6460, Australia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 151813,
+    "latitude": -31.29796799473778,
+    "longitude": 116.82716976686477,
+    "name": "Goomalling Railway station",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 289558,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 560026,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/151813"
+  },
+  {
+    "access": 1,
+    "address": "28 Throssell St, Goomalling WA 6460, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 151810,
+    "latitude": -31.299707,
+    "longitude": 116.83334,
+    "name": "Goomalling Caravan Park",
+    "stations": [
+      {
+        "id": 289555,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 560022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/151810"
+  },
+  {
+    "access": 1,
+    "address": "2 Oats St, Merredin WA 6415, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 77539,
+    "latitude": -31.485099,
+    "longitude": 118.291992,
+    "name": "Merredin Tourist Park",
+    "stations": [
+      {
+        "id": 112545,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 281484,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/77539"
+  },
+  {
+    "access": 1,
+    "address": "85 Barrack St (Central Wheatbelt Visitor Centre Car Park), Merredin WA 6415 Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 558768,
+    "latitude": -31.482440075633214,
+    "longitude": 118.27818521019557,
+    "name": "Central Wheatbelt Visitor Centre (2)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1473798,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3356645,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1473799,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3356646,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3356647,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558768"
+  },
+  {
+    "access": 1,
+    "address": "17 Jasper St, Westonia WA 6423, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 597522,
+    "latitude": -31.304132,
+    "longitude": 118.6973873,
+    "name": "Kaolin Street Parking",
+    "stations": [
+      {
+        "id": 1555946,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3489370,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3489371,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1555947,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3489372,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3489373,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/597522"
+  },
+  {
+    "access": 1,
+    "address": "49 Princess St, Merredin WA 6415, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 114398,
+    "latitude": -31.475749,
+    "longitude": 118.279863,
+    "name": "Merredin Regional Community and Leisure",
+    "score": 8.1,
+    "stations": [
+      {
+        "id": 457096,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 943455,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 531982,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1430984,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/114398"
+  },
+  {
+    "access": 1,
+    "address": "5 King St, Merredin WA 6415, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 603182,
+    "latitude": -31.480554223985923,
+    "longitude": 118.27320478856564,
+    "name": "Merredin Shire Office",
+    "stations": [
+      {
+        "id": 1579535,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3522614,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/603182"
+  },
+  {
+    "access": 1,
+    "address": "85 Barrack St, Merredin WA 6415, Australia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 178285,
+    "latitude": -31.482549963132914,
+    "longitude": 118.27860869268976,
+    "name": "Central Wheatbelt Visitor Centre (1)",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 367109,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 658872,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 367110,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 658873,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/178285"
+  },
+  {
+    "access": 1,
+    "address": "Koorarawalyee Siding, Great Eastern Highway, Boorabbin WA 6429, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 127413,
+    "latitude": -31.261494,
+    "longitude": 120.021156,
+    "name": "Koora Retreat",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 229582,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 479771,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 229605,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 479773,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 229606,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 479776,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 317411,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 596052,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 317412,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 596053,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/127413"
+  },
+  {
+    "access": 1,
+    "address": "1 Eyre Hwy, Nullarbor SA 5690, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 86664,
+    "latitude": -31.638819,
+    "longitude": 129.003271,
+    "name": "Border Village",
+    "score": 10,
+    "stations": [
+      {
+        "id": 131698,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 329870,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 910105,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2459771,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/86664"
+  },
+  {
+    "access": 1,
+    "address": "Eucla-Reid Rd, Eucla WA 6443, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 86660,
+    "latitude": -31.677208,
+    "longitude": 128.883336,
+    "name": "Eucla Motor Hotel",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 131692,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3548133,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/86660"
+  },
+  {
+    "access": 1,
+    "address": "1 Eyre Hwy, Nullarbor SA 5690, Australia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 573562,
+    "latitude": -31.638317842981685,
+    "longitude": 129.004181457493,
+    "name": "RAA Charge - Border Village (Coming Soon)",
+    "stations": [
+      {
+        "id": 1487128,
+        "network_id": 1737,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3379611,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573562"
+  },
+  {
+    "access": 1,
+    "address": "75886 Eyre Hwy, Nullarbor SA 5690, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 605239,
+    "latitude": -31.449842867632977,
+    "longitude": 130.89689156137695,
+    "name": "NRMA - Nullarbor Roadhouse",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1583763,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3528419,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3528420,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1594733,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3543720,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3543721,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605239"
+  },
+  {
+    "access": 1,
+    "address": "75886 Eyre Hwy, Nullarbor SA 5690, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 77349,
+    "latitude": -31.45001513598351,
+    "longitude": 130.89578723925206,
+    "name": "Nullarbor Roadhouse",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1514926,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3585408,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3585409,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1612158,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3585410,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3585411,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/77349"
+  },
+  {
+    "access": 1,
+    "address": "Eyre Hwy, Yalata SA 5690, Australia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 538279,
+    "latitude": -31.49556017553942,
+    "longitude": 131.81205603395668,
+    "name": "Yalata Roadhouse and Caravan Park (Coming Soon)",
+    "stations": [
+      {
+        "id": 1583838,
+        "network_id": 1737,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3528517,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3528518,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538279"
+  },
+  {
+    "access": 1,
+    "address": "Stuart Highway, Pimba SA 5720, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 538098,
+    "latitude": -31.255864927564,
+    "longitude": 136.80287290182926,
+    "name": "Spud's Roadhouse Motel",
+    "score": 7.6,
+    "stations": [
+      {
+        "id": 1468002,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3347155,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1493861,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3391854,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3391855,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1537896,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3460611,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538098"
+  },
+  {
+    "access": 1,
+    "address": "Woomera Road, Pimba SA 5720, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 155022,
+    "latitude": -31.25533,
+    "longitude": 136.80336,
+    "name": "Spud's Roadhouse Motel - Ampol Pimba",
+    "score": 10,
+    "stations": [
+      {
+        "id": 298958,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 571090,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/155022"
+  },
+  {
+    "access": 1,
+    "address": "Rawnsley Park Station, Flinders Ranges Way, Hawker SA 5434",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 246083,
+    "latitude": -31.650313,
+    "longitude": 138.593097,
+    "name": "Rawnsley Park Station",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 534162,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1442773,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 534163,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1442774,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1468587,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3348199,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1468588,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3348200,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/246083"
+  },
+  {
+    "access": 1,
+    "address": "4QWW9H4H+5Q",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 531125,
+    "latitude": -31.644582171688878,
+    "longitude": 138.57940340735104,
+    "name": "Rawnsley Park Station",
+    "stations": [
+      {
+        "id": 1371435,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3172870,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/531125"
+  },
+  {
+    "access": 1,
+    "address": "1 - 7 Ross St, Wilcannia NSW 2836, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 347093,
+    "latitude": -31.557683853144948,
+    "longitude": 143.38594128587914,
+    "name": "NRMA - Wilcannia (Hospital)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 824304,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2330838,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2355331,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1284948,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3033067,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3033068,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/347093"
+  },
+  {
+    "access": 1,
+    "address": "Wilcannia NSW 2836, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 152126,
+    "latitude": -31.568633,
+    "longitude": 143.396704,
+    "name": "Warrawong on the Darling",
+    "stations": [
+      {
+        "id": 1511791,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3419058,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/152126"
+  },
+  {
+    "access": 1,
+    "address": "3 Broomfield St, Cobar NSW 2835, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 347091,
+    "latitude": -31.498839,
+    "longitude": 145.837612,
+    "name": "NRMA - Cobar",
+    "score": 10,
+    "stations": [
+      {
+        "id": 824301,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2330833,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2330834,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/347091"
+  },
+  {
+    "access": 1,
+    "address": "18 Dandaloo St, Nyngan NSW 2825, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 349433,
+    "latitude": -31.564331,
+    "longitude": 147.197013,
+    "name": "NRMA - Nyngan (Dandaloo St Parking Lot)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 831203,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2349040,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2349041,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1424124,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3278111,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3278112,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/349433"
+  },
+  {
+    "access": 1,
+    "address": "6 Castlereagh St Gilgandra NSW 2827",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 544478,
+    "latitude": -31.7223908,
+    "longitude": 148.6571378,
+    "name": "NRMA - Gilgandra (Museum and Historical Society)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1408787,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3244734,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3244735,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517287,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3427614,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3427615,
+            "kilowatts": 75,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/544478"
+  },
+  {
+    "access": 1,
+    "address": "2 Willie St, Gilgandra NSW 2827, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 515214,
+    "latitude": -31.71345177584967,
+    "longitude": 148.66240493953228,
+    "name": "Three Ways Motel",
+    "stations": [
+      {
+        "id": 1328209,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3104107,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515214"
+  },
+  {
+    "access": 1,
+    "address": "5253 Castlereagh Hwy, Gulargambone NSW 2828, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 608510,
+    "latitude": -31.3282064,
+    "longitude": 148.4757869,
+    "name": "Gulargambone",
+    "stations": [
+      {
+        "id": 1595699,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3545195,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608510"
+  },
+  {
+    "access": 1,
+    "address": "Belougerie Flats Trail, Warrumbungle NSW 2828, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 269837,
+    "latitude": -31.276018,
+    "longitude": 148.997756,
+    "name": "Warrumbungle National Park - Camp Blackman",
+    "stations": [
+      {
+        "id": 594659,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 1647733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/269837"
+  },
+  {
+    "access": 1,
+    "address": "Coonabarabran Coach Stop, Coonabarabran NSW 2357, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 223668,
+    "latitude": -31.278798506914764,
+    "longitude": 149.27924303556105,
+    "name": "Coonabarabran Visitors Centre",
+    "score": 10,
+    "stations": [
+      {
+        "id": 488617,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1183183,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1185344,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/223668"
+  },
+  {
+    "access": 1,
+    "address": "76 Dalgarno St, Coonabarabran NSW 2357, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 272003,
+    "latitude": -31.273052,
+    "longitude": 149.279148,
+    "name": "Barron's Tyre & Mechanical",
+    "score": 9.3,
+    "stations": [
+      {
+        "id": 600102,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3418168,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/272003"
+  },
+  {
+    "access": 1,
+    "address": "Premer NSW 2381, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 387836,
+    "latitude": -31.452768,
+    "longitude": 149.901206,
+    "name": "Premer Lions Campground",
+    "stations": [
+      {
+        "id": 933549,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2497081,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/387836"
+  },
+  {
+    "access": 1,
+    "address": "75 Recreation Rd, Willow Tree NSW 2339, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 611280,
+    "latitude": -31.64383256994847,
+    "longitude": 150.72021581232548,
+    "name": "Willow Tree Freedom Campground",
+    "stations": [
+      {
+        "id": 1604007,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3558453,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611280"
+  },
+  {
+    "access": 1,
+    "address": "103 Jenkins St, Nundle NSW 2340, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 556157,
+    "latitude": -31.458942976348155,
+    "longitude": 151.12740128727071,
+    "name": "Fossickers Tourist Park",
+    "stations": [
+      {
+        "id": 1440545,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3304107,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/556157"
+  },
+  {
+    "access": 1,
+    "address": "28 Johns River Rd, Johns River NSW 2443, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 73565,
+    "latitude": -31.732199,
+    "longitude": 152.693939,
+    "name": "Johns River Tavern",
+    "stations": [
+      {
+        "id": 107049,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 314426,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/73565"
+  },
+  {
+    "access": 1,
+    "address": "4887 Pacific Hwy, Kew NSW 2439, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 82233,
+    "latitude": -31.634915,
+    "longitude": 152.722423,
+    "name": "Camden Haven Information Centre",
+    "stations": [
+      {
+        "id": 120786,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 311557,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/82233"
+  },
+  {
+    "access": 1,
+    "address": "9 Stephen St, Wauchope NSW 2446, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 341986,
+    "latitude": -31.453599,
+    "longitude": 152.723364,
+    "name": "Dylko Electrical",
+    "stations": [
+      {
+        "id": 808815,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2310405,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 808816,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2310392,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 809614,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 2311436,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341986"
+  },
+  {
+    "access": 1,
+    "address": "144 Nancy Bird Walton Dr, Kew NSW 2439, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 287365,
+    "latitude": -31.63444,
+    "longitude": 152.723762,
+    "name": "Kew Motel",
+    "score": 9,
+    "stations": [
+      {
+        "id": 634638,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1945034,
+            "kilowatts": 4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 634639,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1945035,
+            "kilowatts": 4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/287365"
+  },
+  {
+    "access": 1,
+    "address": "24 Beach St, Bonny Hills NSW 2445, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535023,
+    "latitude": -31.586049,
+    "longitude": 152.837312,
+    "name": "Bonny Hills - Ingenia Holidays",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1381831,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3188488,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1381832,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3188489,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535023"
+  },
+  {
+    "access": 1,
+    "address": "10 Winery Drive, Port Macquarie, Australia, 2444",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 82642,
+    "latitude": -31.4361,
+    "longitude": 152.823582,
+    "name": "Cassegrain Winery",
+    "score": 10,
+    "stations": [
+      {
+        "id": 121578,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 314926,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3043592,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 121579,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 314929,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3043591,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 121580,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 314930,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3043590,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 121581,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 314931,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3043589,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 121582,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 314932,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3043588,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 121583,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 314933,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3043587,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/82642"
+  },
+  {
+    "access": 1,
+    "address": "179 Gordon St, Port Macquarie, Australia, NSW 2444",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 108475,
+    "latitude": -31.435,
+    "longitude": 152.897942,
+    "name": "Koala Tree Motel",
+    "score": 10,
+    "stations": [
+      {
+        "id": 181759,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 406493,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 181760,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 406494,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/108475"
+  },
+  {
+    "access": 1,
+    "address": "152 Settlement Point Rd, Port Macquarie, , Australia, NSW 2444",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 202453,
+    "latitude": -31.406964,
+    "longitude": 152.901088,
+    "name": "Ana Mandara Luxury Bed & Breakfast",
+    "stations": [
+      {
+        "id": 430121,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 755436,
+            "kilowatts": 14,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 430122,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 755437,
+            "kilowatts": 14,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/202453"
+  },
+  {
+    "access": 1,
+    "address": "140 Hastings River Dr, Port Macquarie NSW 244, Port Macquarie 2444",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 477161,
+    "latitude": -31.42693420391997,
+    "longitude": 152.87857691534424,
+    "name": "McGuigan BMW",
+    "stations": [
+      {
+        "id": 1221547,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2937417,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 1221548,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2937418,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/477161"
+  },
+  {
+    "access": 1,
+    "address": "10 Seymour street Laurieton ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584006,
+    "latitude": -31.65059652977884,
+    "longitude": 152.79587462020407,
+    "name": "Varnsen Suites",
+    "stations": [
+      {
+        "id": 1518569,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3429650,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1518570,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3429651,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584006"
+  },
+  {
+    "access": 1,
+    "address": "1063 Oxley Hwy, Thrumster NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 286053,
+    "latitude": -31.46395,
+    "longitude": 152.821926,
+    "name": "Port Macquarie Service Centre",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1551696,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3482990,
+            "kilowatts": 180,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 3,
+            "id": 3482991,
+            "kilowatts": 180,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1581040,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3524702,
+            "kilowatts": 180,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3524703,
+            "kilowatts": 180,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/286053"
+  },
+  {
+    "access": 1,
+    "address": "Cnr William St And, Short St, Port Macquarie NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 267138,
+    "latitude": -31.431609,
+    "longitude": 152.906718,
+    "name": "Mantra Quayside Port Macquarie",
+    "stations": [
+      {
+        "id": 587225,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 1622810,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 587226,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 1622811,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/267138"
+  },
+  {
+    "access": 1,
+    "address": "35-39 Lord St, Port Macquarie NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 542111,
+    "latitude": -31.434417830047966,
+    "longitude": 152.917188269576,
+    "name": "Lord St Car Park",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1417110,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3263642,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3263643,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1417111,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3263644,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3263645,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542111"
+  },
+  {
+    "access": 1,
+    "address": "1 Stewart St, Port Macquarie NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 373239,
+    "latitude": -31.429745095107503,
+    "longitude": 152.91664827615023,
+    "name": "ibis Styles Port Macquarie",
+    "score": 9,
+    "stations": [
+      {
+        "id": 897551,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2438558,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/373239"
+  },
+  {
+    "access": 1,
+    "address": "25e Buller St, Port Macquarie NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 477966,
+    "latitude": -31.430355565545124,
+    "longitude": 152.90140128747916,
+    "name": "The Westport Club Carpark",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1224075,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2940896,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 2940897,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1224076,
+        "network_id": 70,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2940898,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 2940899,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/477966"
+  },
+  {
+    "access": 1,
+    "address": "1A Clarence St, Port Macquarie NSW 2444",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 616090,
+    "latitude": -31.42874820568851,
+    "longitude": 152.91361057513768,
+    "name": "Clarence St Parking",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1616286,
+        "network_id": 1471,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3585183,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/616090"
+  },
+  {
+    "access": 1,
+    "address": "1 Hay St, Port Macquarie NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 468522,
+    "latitude": -31.428466,
+    "longitude": 152.909201,
+    "name": "Rydges Port Macquarie",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 1197257,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2901601,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1410100,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3247957,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1410134,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3248014,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/468522"
+  },
+  {
+    "access": 1,
+    "address": "40-42 Horton Street, Port Macquarie, 2444, AUS",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 501001,
+    "latitude": -31.429863,
+    "longitude": 152.90951,
+    "name": "Port Central",
+    "score": 6.4,
+    "stations": [
+      {
+        "id": 1292087,
+        "network_id": 1214,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3044087,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3044088,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/501001"
+  },
+  {
+    "access": 1,
+    "address": "6/14 Clarence St, Port Macquarie NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 223459,
+    "latitude": -31.429426,
+    "longitude": 152.91149,
+    "name": "Port Pacific Resort",
+    "score": 10,
+    "stations": [
+      {
+        "id": 488234,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 1180922,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/223459"
+  },
+  {
+    "access": 1,
+    "address": "1 Munster St, Port Macquarie NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478669,
+    "latitude": -31.428127082381966,
+    "longitude": 152.9122904333579,
+    "name": "NRMA Port Macquarie Breakwall Holiday Park",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 1569163,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3508177,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3508178,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1569164,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3508179,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3508180,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478669"
+  },
+  {
+    "access": 1,
+    "address": "25 Surf St, Port Macquarie NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 564971,
+    "latitude": -31.44318888644545,
+    "longitude": 152.9237369104507,
+    "name": "Flynns on Surf Beach Villas",
+    "stations": [
+      {
+        "id": 1464749,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3341979,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1465212,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3342702,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1465213,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3342703,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1465214,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3342704,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1465215,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3342705,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1465216,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3342706,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/564971"
+  },
+  {
+    "access": 1,
+    "address": "2 Murray Street, Port Macquarie, NSW, Australia, NSW 2444",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 271982,
+    "latitude": -31.428153,
+    "longitude": 152.910905,
+    "name": "Northpoint Holiday Apartments",
+    "score": 8.4,
+    "stations": [
+      {
+        "id": 600028,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1666391,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 600029,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1666392,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1187056,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2884111,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1187057,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2884112,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1187058,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2884113,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/271982"
+  },
+  {
+    "access": 1,
+    "address": "15 Chancellors Dr, Thrumster NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 580216,
+    "latitude": -31.45774800971282,
+    "longitude": 152.82687943428755,
+    "name": "Sovereign Place Town Centre (2)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1506842,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3426258,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1516359,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3426259,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1516360,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3426260,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1516361,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3426261,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1516362,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3426262,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1516363,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3426263,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1553242,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3485228,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1553243,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3485229,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1553244,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3485230,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1553245,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3485231,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1553246,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3485232,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1553247,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3485233,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/580216"
+  },
+  {
+    "access": 1,
+    "address": "528 John Oxley Dr, Thrumster NSW 2444, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 215338,
+    "latitude": -31.458104423091108,
+    "longitude": 152.8274509472561,
+    "name": "NRMA - Thrumster (Sovereign Place Town Centre (1))",
+    "score": 10,
+    "stations": [
+      {
+        "id": 464052,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1007663,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1007664,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 464053,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1007665,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1007666,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/215338"
+  },
+  {
+    "access": 1,
+    "address": "3/10 Seymour st Laurieton",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 599816,
+    "latitude": -31.6506370669175,
+    "longitude": 152.79587015510975,
+    "name": "AFI services carpark",
+    "stations": [
+      {
+        "id": 1564650,
+        "network_id": 1368,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3501481,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564651,
+        "network_id": 1368,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3501482,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599816"
+  }
+]

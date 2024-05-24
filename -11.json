@@ -1,0 +1,1055 @@
+[
+  {
+    "access": 1,
+    "address": "Av. Panamericana Nte. 222, Barranca 15169, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 328295,
+    "latitude": -10.752222,
+    "longitude": -77.76024,
+    "name": "Hotel Chavin",
+    "stations": [
+      {
+        "id": 771241,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261565,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328295"
+  },
+  {
+    "access": 1,
+    "address": "R. Dom Augusto, 207 - Bairro Centro, Ji-Paraná - RO, 76900-053, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 602543,
+    "latitude": -10.883948499786584,
+    "longitude": -61.944503746926785,
+    "name": "JM7 CONSTRUÇÕES",
+    "stations": [
+      {
+        "id": 1573613,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3515121,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602543"
+  },
+  {
+    "access": 1,
+    "address": "BR 163, KM 916, Itaúba/MT",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 509947,
+    "latitude": -11.172735214233398,
+    "longitude": -55.31132888793945,
+    "name": "Hotel e Restaurante Castanhal",
+    "stations": [
+      {
+        "id": 1314618,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3581338,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3581339,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/509947"
+  },
+  {
+    "access": 1,
+    "address": "Av. Getúlio Vargas, 778-924, Brejinho de Nazaré - TO, 77560-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 571135,
+    "latitude": -11.023489575053937,
+    "longitude": -48.572956547141075,
+    "name": "Casa",
+    "stations": [
+      {
+        "id": 1480153,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3406427,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571135"
+  },
+  {
+    "access": 1,
+    "address": "Av. Ruy Barbosa, 915 - Barra, BA, 47100-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 605301,
+    "latitude": -11.090668223279206,
+    "longitude": -43.14310234040022,
+    "name": "Oficina Bolivar",
+    "stations": [
+      {
+        "id": 1583897,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3528619,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605301"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Lomanto Júnior, 446-466, Tucano - BA, 48790-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 534726,
+    "latitude": -11.032025077370472,
+    "longitude": -38.794182670286865,
+    "name": "Magma Hotel",
+    "stations": [
+      {
+        "id": 1381048,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3187414,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1381049,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3187415,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/534726"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mal. Castelo Branco, 88, Tucano - BA, 48790-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 534812,
+    "latitude": -11.037493296282992,
+    "longitude": -38.79441925651817,
+    "name": "Hotel Paraíso das Águas",
+    "stations": [
+      {
+        "id": 1381269,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3187736,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/534812"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Tancredo Neves, 1254 - Jardins, Aracaju - SE, 49040-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 482493,
+    "latitude": -10.9510717,
+    "longitude": -37.064022,
+    "name": "Audi Center Aracaju",
+    "score": 4,
+    "stations": [
+      {
+        "id": 1276902,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3021025,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3559072,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/482493"
+  },
+  {
+    "access": 1,
+    "address": "Av. Inácio Barbosa, 3411 - Mosqueiro, Aracaju - SE, 49039-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 348742,
+    "latitude": -11.105388,
+    "longitude": -37.129322,
+    "name": "DUNA BEACH RESTAURANTE- BAR",
+    "score": 9,
+    "stations": [
+      {
+        "id": 828634,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2760065,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1097254,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2760066,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1097255,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2760067,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/348742"
+  },
+  {
+    "access": 1,
+    "address": "Av. João Rodrigues, 42 - Industrial, Aracaju - SE, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 348606,
+    "latitude": -10.9012617,
+    "longitude": -37.0495937,
+    "name": "Zletric - Aracaju Parque Shopping",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 828325,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2345055,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1412992,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3255197,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/348606"
+  },
+  {
+    "access": 1,
+    "address": "Av. Murilo Dantas, 1150 - Farolândia, Aracaju - SE",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372745,
+    "latitude": -10.968955,
+    "longitude": -37.057813,
+    "name": "Universidade Tiradentes",
+    "stations": [
+      {
+        "id": 896238,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436754,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 896239,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436755,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372745"
+  },
+  {
+    "access": 1,
+    "address": "Av. Monteiro Lobato, 900 - Atalaia, Aracaju - SE, 49037-450, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 562165,
+    "latitude": -10.986064080041062,
+    "longitude": -37.057965360581875,
+    "name": "Petrox Aeroporto",
+    "score": 8,
+    "stations": [
+      {
+        "id": 1456926,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3329758,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562165"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Tancredo Neves, 3960 - Ponto Novo, Aracaju - SE, 49097-510",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 357056,
+    "latitude": -10.934383,
+    "longitude": -37.082807,
+    "name": "Volvo Stark",
+    "stations": [
+      {
+        "id": 851472,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2375686,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357056"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mario Jorge Menezes Viêira, 2477 - Coroa do Meio, Aracaju - SE, CEP 49035-100",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456904,
+    "latitude": -10.958433337702129,
+    "longitude": -37.043468915738494,
+    "name": "Centro Médico Farol Parking",
+    "stations": [
+      {
+        "id": 1104603,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2769999,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2770000,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456904"
+  },
+  {
+    "access": 1,
+    "address": "Av. Presidente Tancredo Neves, Nº. 2695, Inácio Barbosa, Aracaju/SE, CEP: 49.040-490 ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 322164,
+    "latitude": -10.946046,
+    "longitude": -37.075306,
+    "name": "Ferreira Costa - Aracaju",
+    "score": 5.5,
+    "stations": [
+      {
+        "id": 753632,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2238022,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          },
+          {
+            "connector": 7,
+            "id": 2238023,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/322164"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Ministro Geraldo Barreto Sobral, 198-324 - Jardins, Aracaju - SE, 49025-090, Brasil - Jardins, Aracaju - SE, 49027-255, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 608396,
+    "latitude": -10.942487120415132,
+    "longitude": -37.06047959625721,
+    "name": "Shopping Jardins - Aracaju",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1595347,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3544697,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1595348,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3544716,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608396"
+  },
+  {
+    "access": 1,
+    "address": "R. José Seabra Batista, s/n - Jardins, Aracaju - SE",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 342038,
+    "latitude": -10.941615,
+    "longitude": -37.055916,
+    "name": "Pão de Açúcar",
+    "score": 3,
+    "stations": [
+      {
+        "id": 808929,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2310539,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1596772,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3546808,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/342038"
+  },
+  {
+    "access": 1,
+    "address": "Av. Adélia Franco, 2719 - Grageru, Aracaju - SE, 49027-010, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 587561,
+    "latitude": -10.9420332,
+    "longitude": -37.0662365,
+    "name": "Ibis Aracaju",
+    "stations": [
+      {
+        "id": 1527592,
+        "network_id": 1617,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3443846,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3443847,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/587561"
+  },
+  {
+    "access": 1,
+    "address": "Av. Delmiro Gouveia, 400, Aracaju/SE CEP 49035-500",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335558,
+    "latitude": -10.944732,
+    "longitude": -37.047575,
+    "name": "RioMar Shopping Aracaju",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 791259,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2287547,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 791260,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2287548,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335558"
+  },
+  {
+    "access": 1,
+    "address": "Av. Inácio Barbosa, 13573 - Mosqueiro, Aracaju - SE, 49009-109, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601859,
+    "latitude": -11.101574768134494,
+    "longitude": -37.12677204535107,
+    "name": "Bar e Restaurante Pablo Bar",
+    "stations": [
+      {
+        "id": 1570681,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3510557,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601859"
+  },
+  {
+    "access": 1,
+    "address": "Adélia franco ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 472306,
+    "latitude": -10.9479131256944,
+    "longitude": -37.071759913895946,
+    "name": "Assaí Atacadista (Antigo Extra)",
+    "score": 3.1,
+    "stations": [
+      {
+        "id": 1208065,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2916311,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/472306"
+  },
+  {
+    "access": 1,
+    "address": "R. Monsenhor Olívio Teixeira, 1333 - Jardins, Aracaju - SE, 49026-225, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 562672,
+    "latitude": -10.952243202849983,
+    "longitude": -37.05610994249582,
+    "name": "CABM Mall",
+    "score": 3.7,
+    "stations": [
+      {
+        "id": 1458635,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3332262,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1458636,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3332263,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562672"
+  },
+  {
+    "access": 1,
+    "address": "Av. Inácio Barbosa, 13385 - Zona De Expansao, Aracaju - SE, 49007-433, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 617126,
+    "latitude": -11.098584135101117,
+    "longitude": -37.125406943163604,
+    "name": "STALEIRO 79 BEACH CLUB",
+    "stations": [
+      {
+        "id": 1619255,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3590759,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3590760,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617126"
+  },
+  {
+    "access": 1,
+    "address": "Av. Inácio Barbosa, 1601 - Robalo, Aracaju - SE, 49005-405, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 610166,
+    "latitude": -11.105232206549557,
+    "longitude": -37.12964947494973,
+    "name": "Duna Beach Restaurant Bar",
+    "stations": [
+      {
+        "id": 1600618,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3553063,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1600619,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3553064,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1600620,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3553065,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610166"
+  },
+  {
+    "access": 1,
+    "address": "Corner Lui & Adidi Streets Bamaga, Queensland 4876",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 608653,
+    "latitude": -10.892079745833952,
+    "longitude": 142.3877395044728,
+    "name": "Cape York Peninsula Lodge",
+    "stations": [
+      {
+        "id": 1596035,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3545680,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1596036,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3545681,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1596037,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3545682,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1596038,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3545683,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1596039,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3545684,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608653"
+  },
+  {
+    "access": 1,
+    "address": "Travessa Paranavai, 5060",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 529264,
+    "latitude": -11.72630102172768,
+    "longitude": -61.766561236721806,
+    "name": "CTA Automotivo",
+    "stations": [
+      {
+        "id": 1365554,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3164186,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/529264"
+  },
+  {
+    "access": 1,
+    "address": "Av. São Luíz, 5228 - Planalto, Rolim de Moura - RO, 76940-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 529515,
+    "latitude": -11.7190024594358,
+    "longitude": -61.78016494196881,
+    "name": "Jags Sol Energia Solar",
+    "stations": [
+      {
+        "id": 1366519,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3165541,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/529515"
+  },
+  {
+    "access": 1,
+    "address": "R. Antônio Deodato Durce, 3500 - Floresta, Cacoal - RO, 76963-862",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 549874,
+    "latitude": -11.439778694032375,
+    "longitude": -61.43555760383607,
+    "name": "Cacoal Shopping",
+    "stations": [
+      {
+        "id": 1423087,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3276143,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/549874"
+  },
+  {
+    "access": 1,
+    "address": "H2F8+PG Motorizada, Aliança do Tocantins - TO, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575919,
+    "latitude": -11.425707278159466,
+    "longitude": -48.983664949725274,
+    "name": "BSO15 - Ecovias do Araguaia",
+    "stations": [
+      {
+        "id": 1493626,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391325,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575919"
+  },
+  {
+    "access": 1,
+    "address": "BA 052 - Morro do Chapéu - n.2886",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 545057,
+    "latitude": -11.5568361,
+    "longitude": -41.1573406,
+    "name": "Posto Vale Ouro",
+    "stations": [
+      {
+        "id": 1410246,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3248199,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/545057"
+  },
+  {
+    "access": 1,
+    "address": "AV RUBENS ALVES DA SILVA, 1663 - CENTRO, Estância - SE, 49200-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 341209,
+    "latitude": -11.269397,
+    "longitude": -37.443684,
+    "name": "Posto Petrobras - Estancia - sentido sul",
+    "score": 10,
+    "stations": [
+      {
+        "id": 808204,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2309621,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2309622,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2309623,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341209"
+  },
+  {
+    "access": 1,
+    "address": ".",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 543714,
+    "latitude": -11.74070361584658,
+    "longitude": 21.250647492706776,
+    "name": ". (Coming Soon)",
+    "stations": [
+      {
+        "id": 1406914,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3241884,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/543714"
+  }
+]

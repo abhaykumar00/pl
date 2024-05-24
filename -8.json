@@ -1,0 +1,3999 @@
+[
+  {
+    "access": 1,
+    "address": "JR, Jirón Diego De Almagro 711, Trujillo 13001, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 328301,
+    "latitude": -8.113579,
+    "longitude": -79.028014,
+    "name": "Hotel Casa Andina",
+    "stations": [
+      {
+        "id": 771253,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261579,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771254,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328301"
+  },
+  {
+    "access": 1,
+    "address": "R. Raimundo Corrêa, 31 - Park Dos Buritis, Redenção - PA, 68552-790, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 600287,
+    "latitude": -8.024745977351687,
+    "longitude": -50.04445094615221,
+    "name": "Alessandro 3.5kWh",
+    "stations": [
+      {
+        "id": 1566259,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3503830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/600287"
+  },
+  {
+    "access": 1,
+    "address": "R. FLora Lima de Caralho, 105 - Terra Nova, PE, 56190-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 605909,
+    "latitude": -8.229922199999999,
+    "longitude": -39.3800725,
+    "name": "posto terra nova",
+    "stations": [
+      {
+        "id": 1585908,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3531523,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605909"
+  },
+  {
+    "access": 1,
+    "address": "Av. Cel. Veremundo Soares, 551",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 606581,
+    "latitude": -8.0657307,
+    "longitude": -39.1309297,
+    "name": "Volvo Salgueiro Plaza Hotel",
+    "stations": [
+      {
+        "id": 1588621,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3588084,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1588622,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3588085,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1588623,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3588086,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/606581"
+  },
+  {
+    "access": 1,
+    "address": "R. Antônio Nogueira de Melo, 3190-3256 - Salgueiro, PE, 56000-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535151,
+    "latitude": -8.072450537975673,
+    "longitude": -39.13404279490887,
+    "name": "Hotel Imperador",
+    "stations": [
+      {
+        "id": 1382260,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3189161,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1382261,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3189162,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535151"
+  },
+  {
+    "access": 1,
+    "address": "Av. Adriano Duque de Godoy Sousa, 001 - Serra Talhada, PE, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 462574,
+    "latitude": -7.985342,
+    "longitude": -38.299282,
+    "name": "Shopping Serra Talhada",
+    "stations": [
+      {
+        "id": 1152406,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2823638,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462574"
+  },
+  {
+    "access": 1,
+    "address": "Av José Francisco de Queiroz",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 580282,
+    "latitude": -7.945459524212793,
+    "longitude": -36.2073501121648,
+    "name": "Dg Locadora",
+    "stations": [
+      {
+        "id": 1508012,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3413275,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/580282"
+  },
+  {
+    "access": 1,
+    "address": "R. José Francisco de Queiroz, 183 - Nova Santa Cruz, Santa Cruz do Capibaribe - PE, 55190-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 580281,
+    "latitude": -7.945361698219387,
+    "longitude": -36.207401007413864,
+    "name": "DG Locadora",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1507016,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3411683,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/580281"
+  },
+  {
+    "access": 1,
+    "address": "Av. Agamenon Magalhães, 591 - Prado, Gravatá - PE, 55641-771, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 592928,
+    "latitude": -8.198613477598348,
+    "longitude": -35.5619369567459,
+    "name": "Caroatá Home Center",
+    "stations": [
+      {
+        "id": 1542554,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3468289,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/592928"
+  },
+  {
+    "access": 1,
+    "address": "Rua Sebastião Nery de Almeida, 120, Passira - PE",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 500925,
+    "latitude": -7.976049394893687,
+    "longitude": -35.580710619615026,
+    "name": "Solareste Energia Solar LTDA (Coming Soon)",
+    "stations": [
+      {
+        "id": 1291903,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3043634,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500925"
+  },
+  {
+    "access": 1,
+    "address": "BR-408, S/N - Bairro Novo, Carpina - PE, 55819-320",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 383312,
+    "latitude": -7.849188,
+    "longitude": -35.234861,
+    "name": "Concessionária Autobelo",
+    "stations": [
+      {
+        "id": 921383,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2821916,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/383312"
+  },
+  {
+    "access": 1,
+    "address": "44W8+GQ Igarassu, State of Pernambuco, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 479031,
+    "latitude": -7.85363723130075,
+    "longitude": -34.883109769892826,
+    "name": "Pousada Luar",
+    "stations": [
+      {
+        "id": 1227185,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2945130,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/479031"
+  },
+  {
+    "access": 1,
+    "address": "Av. Antônio Tôrres Galvão, 283 - Imbiribeira, Recife - PE, 51160-330, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 513133,
+    "latitude": -8.113427902984721,
+    "longitude": -34.90485121923827,
+    "name": "Audi Center Recife",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1322619,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3468059,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1569461,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3508708,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513133"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dr. Júlio Maranhão, 400 - Prazeres, Jaboatão dos Guararapes - PE, 54335-160, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 341801,
+    "latitude": -8.176868,
+    "longitude": -34.949388,
+    "name": "Posto Pichilau (Corredor Verde Neoenergia)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 808208,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2309631,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2309632,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2309633,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341801"
+  },
+  {
+    "access": 1,
+    "address": "Rua Manoel Honorato da Costa, 555 - Vila da Fábrica - Camaragibe/PE - CEP 54759-475",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335088,
+    "latitude": -8.015797,
+    "longitude": -34.978354,
+    "name": "Camará Shopping",
+    "score": 5.9,
+    "stations": [
+      {
+        "id": 789371,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2285351,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 24,
+            "id": 2285352,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335088"
+  },
+  {
+    "access": 1,
+    "address": "R. da Transformação, N77 - Muribara, São Lourenço da Mata - PE, 54720-802, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 472163,
+    "latitude": -8.025210855543957,
+    "longitude": -35.04241398444153,
+    "name": "reserva São Lourenço (Coming Soon)",
+    "stations": [
+      {
+        "id": 1207635,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2915760,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/472163"
+  },
+  {
+    "access": 1,
+    "address": "Estrada de Aldeia, 9036",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 540611,
+    "latitude": -7.962066700622002,
+    "longitude": -35.00889004133576,
+    "name": "Aldeia Boulevard Mall",
+    "stations": [
+      {
+        "id": 1398308,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3219948,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/540611"
+  },
+  {
+    "access": 1,
+    "address": "Av. Barreto de Menezes, 800 - Piedade, Jaboatão dos Guararapes - PE, 54325-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 378765,
+    "latitude": -8.167873,
+    "longitude": -34.919061,
+    "name": "Shopping Guararapes",
+    "score": 9,
+    "stations": [
+      {
+        "id": 919183,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2475335,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 919184,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2475336,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/378765"
+  },
+  {
+    "access": 1,
+    "address": "Rod. PE 001 - 01650, Olinda - PE, 53110-720",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 513984,
+    "latitude": -8.025567440436724,
+    "longitude": -34.864130855505174,
+    "name": "Renault - Eurovia Olinda",
+    "stations": [
+      {
+        "id": 1324738,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098457,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513984"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Doutor José Rufino - Barro, Recife - PE, 50780-020, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574743,
+    "latitude": -8.092089222445765,
+    "longitude": -34.93785252243366,
+    "name": "Mix Matheus Areias",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1490265,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3384644,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1490266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3384645,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574743"
+  },
+  {
+    "access": 1,
+    "address": "Av. Afonso Olindense, 228 - Várzea, Recife - PE, 50810-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585588,
+    "latitude": -8.03302155488155,
+    "longitude": -34.95553460832189,
+    "name": "SAR VIGILANCIA E SEGURANÇA PATRIMONIAL",
+    "stations": [
+      {
+        "id": 1522682,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3436061,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585588"
+  },
+  {
+    "access": 1,
+    "address": "rua Eduardo de Morais 225, Casa Caiada, Olinda-PE",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 341028,
+    "latitude": -7.993478,
+    "longitude": -34.840287,
+    "name": "Shopping Patteo Olinda",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 805997,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2306706,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 805998,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2306707,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341028"
+  },
+  {
+    "access": 1,
+    "address": "Av. Barão de Souza Leão, 425",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 558441,
+    "latitude": -8.131705381234912,
+    "longitude": -34.90389379902248,
+    "name": "Pontes Corporate Center",
+    "stations": [
+      {
+        "id": 1446881,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3313900,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3313901,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558441"
+  },
+  {
+    "access": 1,
+    "address": "Av. Antônio de Goes, 60 - Pina, Recife - PE, 51010-180, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 202575,
+    "latitude": -8.089452,
+    "longitude": -34.882024,
+    "name": "JCPM Centro Comercial",
+    "stations": [
+      {
+        "id": 430430,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 756175,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/202575"
+  },
+  {
+    "access": 1,
+    "address": "R. Artur Muniz, 82 - Boa Viagem, Recife - PE, 51111-190, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 514019,
+    "latitude": -8.104730981431423,
+    "longitude": -34.88737574329781,
+    "name": "New Mobility Brasil Seu Tito",
+    "score": 6.4,
+    "stations": [
+      {
+        "id": 1324843,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098610,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/514019"
+  },
+  {
+    "access": 1,
+    "address": "Rua do Príncipe, 560 - Soledade, Recife - PE, 50050-410, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 489651,
+    "latitude": -8.055577333672385,
+    "longitude": -34.887930527329445,
+    "name": "Universidade Católica De Pernambuco",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1257574,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2994010,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/489651"
+  },
+  {
+    "access": 1,
+    "address": "R. Dr. João Santos Filho, 255 - Parnamirim, Recife - PE, 52060-615",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 324536,
+    "latitude": -8.037011,
+    "longitude": -34.912579,
+    "name": "Estação de Carregamento Porsche - Plaza Shopping Recife",
+    "score": 7.7,
+    "stations": [
+      {
+        "id": 759814,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2246345,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 759815,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2246346,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/324536"
+  },
+  {
+    "access": 1,
+    "address": "Av. Bernardo Vieira de Melo, 209 - Piedade, Jaboatão dos Guararapes - PE, 54470-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 410950,
+    "latitude": -8.160977,
+    "longitude": -34.913015,
+    "name": "The Garden Open Mall",
+    "stations": [
+      {
+        "id": 991653,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2591750,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2591751,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/410950"
+  },
+  {
+    "access": 1,
+    "address": "Aeroporto Internacional dos Guararapes, 51180‎ Recife‎ PE, Brésil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 103544,
+    "latitude": -8.131107,
+    "longitude": -34.916713,
+    "name": "Aeroporto de Recife",
+    "score": 9,
+    "stations": [
+      {
+        "id": 175235,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 398792,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3437681,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/103544"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mal. Mascarenhas de Morais, 3421 - Imbiribeira, Recife - PE, 51150-003, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 205785,
+    "latitude": -8.115026,
+    "longitude": -34.912799,
+    "name": "Jaguar Way",
+    "stations": [
+      {
+        "id": 438097,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 803070,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/205785"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Dutra, 451 - Imbiribeira, Recife - PE, 51190-505",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 127509,
+    "latitude": -8.123168,
+    "longitude": -34.912811,
+    "name": "Posto Ipiranga Marrone",
+    "stations": [
+      {
+        "id": 229831,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 480075,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/127509"
+  },
+  {
+    "access": 1,
+    "address": "Av. João de Barros, 1694, Espinheiro, Recife - PE, 52021-180",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 413041,
+    "latitude": -8.039831,
+    "longitude": -34.892072,
+    "name": "Movida Espinheiro",
+    "stations": [
+      {
+        "id": 997458,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2601060,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/413041"
+  },
+  {
+    "access": 1,
+    "address": "R. João Cardoso Aires, 705 - Boa Viagem, Recife - PE, 51130-300, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 501167,
+    "latitude": -8.1413409,
+    "longitude": -34.9110073,
+    "name": "Colegio Madre de Deus - Campus II",
+    "stations": [
+      {
+        "id": 1292622,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3044894,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/501167"
+  },
+  {
+    "access": 1,
+    "address": "Av. Conselheiro Rosa e Silva, 1460 - Aflitos, Recife - PE, 52050-225, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372725,
+    "latitude": -8.038934,
+    "longitude": -34.899841,
+    "name": "Shopping ETC",
+    "score": 9,
+    "stations": [
+      {
+        "id": 896195,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436680,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 896196,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436681,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372725"
+  },
+  {
+    "access": 1,
+    "address": "R. João Elísio Ramos, 24 - Ilha do Retiro, Recife - PE, 50750-380, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 573416,
+    "latitude": -8.063382153934365,
+    "longitude": -34.90448210388422,
+    "name": "Ilha Do Retiro",
+    "stations": [
+      {
+        "id": 1486573,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3378789,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573416"
+  },
+  {
+    "access": 1,
+    "address": "Av. Caxangá, 2414 - Cordeiro. Recife - Pe",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 486520,
+    "latitude": -8.0460129,
+    "longitude": -34.92848040000001,
+    "name": "Fm Prime",
+    "stations": [
+      {
+        "id": 1248292,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2979210,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/486520"
+  },
+  {
+    "access": 1,
+    "address": "Av. Herculano Bandeira, 927 - Pina, Recife - PE, 51110-131, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 479789,
+    "latitude": -8.085669575102152,
+    "longitude": -34.8883210812235,
+    "name": "JBS MOTORS",
+    "stations": [
+      {
+        "id": 1229583,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2948524,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/479789"
+  },
+  {
+    "access": 1,
+    "address": "Shopping Rio Mar - Estacionamento E3",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 317797,
+    "latitude": -8.086438,
+    "longitude": -34.893571,
+    "name": "RioMar Recife - 2",
+    "score": 8.8,
+    "stations": [
+      {
+        "id": 495130,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1218653,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538479,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461566,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538480,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461567,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538481,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461568,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538482,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461569,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538483,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461570,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538484,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461571,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538485,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461572,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538486,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461573,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538487,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3461574,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/317797"
+  },
+  {
+    "access": 1,
+    "address": "rua joaquim nabuco 200",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 453786,
+    "latitude": -8.051643,
+    "longitude": -34.898621,
+    "name": "hospital santa joana",
+    "stations": [
+      {
+        "id": 1095713,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2757862,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/453786"
+  },
+  {
+    "access": 1,
+    "address": "R. da Hora, 837 - Espinheiro, Recife - PE, 52020-015, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 362976,
+    "latitude": -8.048158,
+    "longitude": -34.895457,
+    "name": "Rua da hora, 829",
+    "stations": [
+      {
+        "id": 867374,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2398378,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/362976"
+  },
+  {
+    "access": 1,
+    "address": "Rua das Fronteiras, 175",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 591917,
+    "latitude": -8.060187649402954,
+    "longitude": -34.89695786695129,
+    "name": "Hospital Memorial São José (Coming Soon)",
+    "stations": [
+      {
+        "id": 1539711,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3463635,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3463636,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591917"
+  },
+  {
+    "access": 1,
+    "address": "R. Itajubá, 311 - Imbiribeira, Recife - PE, 51150-360, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 334992,
+    "latitude": -8.110246,
+    "longitude": -34.910457,
+    "name": "Rota Premium",
+    "score": 7,
+    "stations": [
+      {
+        "id": 789151,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2285092,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334992"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mal. Mascarenhas de Morais, 702 - Imbiribeira, Recife - PE, 51170-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583602,
+    "latitude": -8.088956227476846,
+    "longitude": -34.908317777976585,
+    "name": "KGMLAN RECIFE",
+    "stations": [
+      {
+        "id": 1517048,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427254,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583602"
+  },
+  {
+    "access": 1,
+    "address": "R. Guarabira, 394 - Imbiribeira, Recife - PE, 51160-140, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 616597,
+    "latitude": -8.114822302149655,
+    "longitude": -34.90812386940462,
+    "name": "Oficina BMGARAGE",
+    "stations": [
+      {
+        "id": 1617484,
+        "network_id": 1058,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3587688,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3587689,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/616597"
+  },
+  {
+    "access": 1,
+    "address": "R. Padre Carapuceiro, 858 - Boa Viagem, Recife - PE, 51020-280",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575691,
+    "latitude": -8.116447393112004,
+    "longitude": -34.902727794886665,
+    "name": "Zletric - Torre Cicero Dias",
+    "stations": [
+      {
+        "id": 1492981,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3390262,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575691"
+  },
+  {
+    "access": 1,
+    "address": "Rua Cônego Barata, nº. 275,Tamarineira, Recife/PE, CEP:52.051-020",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 307343,
+    "latitude": -8.031598,
+    "longitude": -34.90257,
+    "name": "Ferreira Costa Home Center Tamarineira",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 713713,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2146469,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 713714,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2146470,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2146471,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/307343"
+  },
+  {
+    "access": 1,
+    "address": "R. Padre Carapuceiro, 777 - Boa Viagem, Recife - PE, 51020-280, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 509414,
+    "latitude": -8.119661527767528,
+    "longitude": -34.90664965501694,
+    "name": "ChargeNow BMW",
+    "stations": [
+      {
+        "id": 1313229,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3080337,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/509414"
+  },
+  {
+    "access": 1,
+    "address": "Praça Min. Salgado Filho, S/N - Imbiribeira, Recife - PE, 51210-010",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 542746,
+    "latitude": -8.133788299999999,
+    "longitude": -34.917064,
+    "name": "Zletric - Aeroporto Recife",
+    "stations": [
+      {
+        "id": 1404039,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3233616,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1404040,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3233617,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542746"
+  },
+  {
+    "access": 1,
+    "address": "Shopping RioMar",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575294,
+    "latitude": -8.086626367174501,
+    "longitude": -34.89589775934165,
+    "name": "Shopping RioMar Edifício Garagem Piso E3",
+    "score": 3.1,
+    "stations": [
+      {
+        "id": 1491866,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3388463,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3388464,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491919,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3388537,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3388538,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491920,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3388539,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3388540,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491921,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3388541,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3388542,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1491922,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3388543,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3388544,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575294"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mal. Mascarenhas de Morais, 2967 - Imbiribeira, Recife - PE, 51150-905",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 336098,
+    "latitude": -8.112013,
+    "longitude": -34.911746,
+    "name": "Ferreira Costa Imbiribeira",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 792553,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2289263,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 792554,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2289264,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/336098"
+  },
+  {
+    "access": 1,
+    "address": "R. Padre Carapuceiro, 777 - Boa Viagem, Recife - PE, 51020-280, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 309829,
+    "latitude": -8.117987,
+    "longitude": -34.904138,
+    "name": "Shopping Recife - Edifício Garagem",
+    "score": 1.4,
+    "stations": [
+      {
+        "id": 720442,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2160811,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2160812,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/309829"
+  },
+  {
+    "access": 1,
+    "address": "Hospital Português P2 - Paissandú - Paissandu, Recife - PE, 52021-170, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478499,
+    "latitude": -8.064094074796124,
+    "longitude": -34.897928133135224,
+    "name": "Real Hospital Português",
+    "score": 2.7,
+    "stations": [
+      {
+        "id": 1225558,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2942923,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2942924,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225559,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2942925,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2942926,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478499"
+  },
+  {
+    "access": 1,
+    "address": "Edifício-Garagem B3, Shopping Recife, R. Padre Carapuceiro, 777 - Boa Viagem, Recife - PE, 51020-900",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 291525,
+    "latitude": -8.118601,
+    "longitude": -34.90273,
+    "name": "Shopping Recife",
+    "score": 4.7,
+    "stations": [
+      {
+        "id": 638484,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2004205,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/291525"
+  },
+  {
+    "access": 1,
+    "address": "R. Cientista Nilson Rezende, 777 - Boa Viagem, Recife - PE, 51020-340, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 368603,
+    "latitude": -8.119017,
+    "longitude": -34.904843,
+    "name": "Porsche Estação de Carregamento - Shopping Recife",
+    "score": 7.3,
+    "stations": [
+      {
+        "id": 882467,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2418815,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 882468,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2418816,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/368603"
+  },
+  {
+    "access": 1,
+    "address": "R. Manoel Hónorato da Costa, 555 - Vila da Fabrica, Camaragibe - PE, 54759-902",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 573270,
+    "latitude": -8.016333329732037,
+    "longitude": -34.97758457233524,
+    "name": "Camará Shopping",
+    "stations": [
+      {
+        "id": 1486190,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3378248,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573270"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mal. Mascarenhas de Morais, 841 - Imbiribeira, Recife - PE, 51150-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589611,
+    "latitude": -8.089647942901436,
+    "longitude": -34.90782144232789,
+    "name": "KGM LAN IMBIRIBEIRA",
+    "stations": [
+      {
+        "id": 1532941,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3452354,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589611"
+  },
+  {
+    "access": 1,
+    "address": "Av. República do Líbano, 351 - Pina, Recife - PE, 51110-160, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 599739,
+    "latitude": -8.085834179364253,
+    "longitude": -34.894156793442185,
+    "name": "RioMar Recife",
+    "stations": [
+      {
+        "id": 1564243,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500916,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564244,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500917,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564245,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500918,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564246,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500919,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564247,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500920,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564248,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500921,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564249,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500922,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564250,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500923,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564251,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500924,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1564252,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500925,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599739"
+  },
+  {
+    "access": 1,
+    "address": "Terminal - Praça Min. Salgado Filho, s/nº - Imbiribeira, Recife - PE, 51210-010, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 383836,
+    "latitude": -8.131654,
+    "longitude": -34.917184,
+    "name": "Estacionamento aeroporto",
+    "stations": [
+      {
+        "id": 922693,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2479848,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/383836"
+  },
+  {
+    "access": 1,
+    "address": "R. Dr. João Santos Filho, 250 - Parnamirim, Recife - PE, 52060-615, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 549092,
+    "latitude": -8.036637206698556,
+    "longitude": -34.91203786764138,
+    "name": "Plaza Shopping",
+    "stations": [
+      {
+        "id": 1421303,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3271945,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 3271946,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/549092"
+  },
+  {
+    "access": 1,
+    "address": "avenida marechal mascarenhas de morais 2471",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 355905,
+    "latitude": -8.11424,
+    "longitude": -34.912334,
+    "name": "deskontão",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 848477,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2371754,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 848478,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2371755,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/355905"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Agamenon Magalhães, 4779 - Ilha do Leite, Recife - PE, 50070-160",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 515086,
+    "latitude": -8.0648945,
+    "longitude": -34.8966831,
+    "name": "Ed Isaac Newton",
+    "stations": [
+      {
+        "id": 1327828,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3103464,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515086"
+  },
+  {
+    "access": 1,
+    "address": "R. José Henrique 231 - Boa Vista, Recife - PE, 50070-460, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 486226,
+    "latitude": -8.065478718307425,
+    "longitude": -34.89658885153065,
+    "name": "Empresarial Charles Darwin",
+    "score": 3.6,
+    "stations": [
+      {
+        "id": 1247655,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2978045,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1247656,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2978046,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/486226"
+  },
+  {
+    "access": 1,
+    "address": "R. Padre Carapuceiro, 777 - Boa Viagem, Recife - PE",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372756,
+    "latitude": -8.118521,
+    "longitude": -34.904959,
+    "name": "Shopping Recife",
+    "score": 9,
+    "stations": [
+      {
+        "id": 896254,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436775,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 896255,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436776,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372756"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Marechal Mascarenhas de Moraes - Recife",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589892,
+    "latitude": -8.1139237,
+    "longitude": -34.9128076,
+    "name": "IBIS RECIFE - Aeroporto",
+    "stations": [
+      {
+        "id": 1533845,
+        "network_id": 1617,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3453715,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589892"
+  },
+  {
+    "access": 1,
+    "address": "R. Padre Carapuceiro, 777 - Boa Viagem, Recife - PE, 51020-900",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577215,
+    "latitude": -8.119050202727374,
+    "longitude": -34.90466878702888,
+    "name": "Shopping Recife",
+    "stations": [
+      {
+        "id": 1497274,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3398045,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1497275,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3398046,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577215"
+  },
+  {
+    "access": 1,
+    "address": "Estrada do Arraial, 2345 - Tamarineira - Tamarineira, Recife - PE, 52051-380",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 127510,
+    "latitude": -8.032104,
+    "longitude": -34.904614,
+    "name": "Posto Ipiranga",
+    "stations": [
+      {
+        "id": 229835,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 480080,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/127510"
+  },
+  {
+    "access": 1,
+    "address": "R. Guarabira, 394 - Imbiribeira, Recife - PE, 51160-140, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 617870,
+    "latitude": -8.114778047701861,
+    "longitude": -34.90819416659537,
+    "name": "BMGARAGE",
+    "stations": [
+      {
+        "id": 1621191,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3594689,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 3594690,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617870"
+  },
+  {
+    "access": 1,
+    "address": "Av. Marechal Mascarenhas de Moraes, 1967",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 239488,
+    "latitude": -8.10029,
+    "longitude": -34.909869,
+    "name": "Jac Motors Recife",
+    "stations": [
+      {
+        "id": 519161,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1306837,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/239488"
+  },
+  {
+    "access": 1,
+    "address": "45M2+G7R, Dipan, Wates, Kulon Progo Regency, Special Region of Yogyakarta 55651, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 519093,
+    "latitude": -7.866099231375469,
+    "longitude": 110.15068732202053,
+    "name": "SPKLU PLN ULP WATES",
+    "stations": [
+      {
+        "id": 1337442,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3119829,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3119830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1337443,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3119831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/519093"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Gedongkuning No.3, Pringgolayan, Banguntapan, Kec. Banguntapan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55171, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 529435,
+    "latitude": -7.8100476443296225,
+    "longitude": 110.40251154452562,
+    "name": "SPKLU PLN UP3 Yogyakarta",
+    "stations": [
+      {
+        "id": 1366304,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3165189,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3165190,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3165191,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1405536,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3237605,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1405537,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3237606,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1405538,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3237607,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1405539,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3237608,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1405540,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3237609,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1405541,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3237610,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/529435"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Raya Solo - Yogyakarta No.25, Tlogo Kidul, Kb. Dalem Kidul, Kec. Prambanan, Kabupaten Klaten, Jawa Tengah 57454, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 529438,
+    "latitude": -7.7542887003755805,
+    "longitude": 110.49363129735228,
+    "name": "SPKLU Kawasan Candi Prambanan",
+    "stations": [
+      {
+        "id": 1366307,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3165195,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3165196,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3165197,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/529438"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Laksda Adisucipto No.38, Demangan, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55221, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533536,
+    "latitude": -7.783349605069407,
+    "longitude": 110.39155807346106,
+    "name": "Daya Green Hotel Saphir",
+    "stations": [
+      {
+        "id": 1378126,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3182816,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533536"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Raya Janti Jl. Gedongkuning No.336, Modalan, Banguntapan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55198, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 557400,
+    "latitude": -7.7982170485677536,
+    "longitude": 110.40524035692215,
+    "name": "Grand Rohan Hotel",
+    "stations": [
+      {
+        "id": 1444214,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3309593,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/557400"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Arif Rachman Hakim No. 8, Cekok, Ponorogo, Kertosari, Cokromenggalan, Kec. Ponorogo, Kabupaten Ponorogo, Jawa Timur 63491, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 601020,
+    "latitude": -7.845140182296051,
+    "longitude": 111.47713020443916,
+    "name": "PLN UP3 PONOROGO",
+    "stations": [
+      {
+        "id": 1568168,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3506714,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3506715,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1568169,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3506716,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601020"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Dhoho No.124, Setono Gedong, Kec. Kota Kediri, Kota Kediri, Jawa Timur 64129, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 167830,
+    "latitude": -7.817661,
+    "longitude": 112.01307,
+    "name": "Jl Dhoho",
+    "stations": [
+      {
+        "id": 338747,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 936698,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/167830"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Basuki Rahmat No.1, Pocanan, Kec. Kota, Kabupaten Kediri, Jawa Timur 64129, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 610203,
+    "latitude": -7.813641998383588,
+    "longitude": 112.01419427990913,
+    "name": "SPKLU PLN UP3 Kediri",
+    "stations": [
+      {
+        "id": 1600787,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3553318,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3553319,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1600788,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3553320,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610203"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Jenderal Basuki Rahmat No.1818, Kauman, Kec. Klojen, Kota Malang, Jawa Timur 65119, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 484366,
+    "latitude": -7.974348636940035,
+    "longitude": 112.63009686022997,
+    "name": "SPKLU PLN UP3 MALANG",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1243391,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2971382,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2971383,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2971384,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484366"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Trunojoyo No.12, Songgokerto, Kec. Batu, Kota Batu, Jawa Timur 65313, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577207,
+    "latitude": -7.865892983944688,
+    "longitude": 112.50949066132307,
+    "name": "SPKLU PLN ULP Batu",
+    "stations": [
+      {
+        "id": 1497232,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3397988,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577207"
+  },
+  {
+    "access": 1,
+    "address": "4M68+6PM, Jl. Kertanegara, Candirenggo, Kec. Singosari, Kabupaten Malang, Jawa Timur 65153, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 576979,
+    "latitude": -7.889404861855298,
+    "longitude": 112.66678176820278,
+    "name": "SPKLU SINGOSARI",
+    "stations": [
+      {
+        "id": 1496715,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3397159,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/576979"
+  },
+  {
+    "access": 1,
+    "address": "3M7J+3GG, Ulesari, Tirtomoyo, Kec. Pakis, Kabupaten Malang, Jawa Timur 65154, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 577205,
+    "latitude": -7.937825582091024,
+    "longitude": 112.68202811479568,
+    "name": "SPKLU Ombe Kofie Araya",
+    "stations": [
+      {
+        "id": 1497229,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3397981,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3397982,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3397983,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577205"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Satsui Tubun No.28, Gadang, Kec. Sukun, Kota Malang, Jawa Timur 65149, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577202,
+    "latitude": -8.022060476628383,
+    "longitude": 112.625667527318,
+    "name": "SPKLU PLN ULP KEBONAGUNG",
+    "stations": [
+      {
+        "id": 1497223,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3397970,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577202"
+  },
+  {
+    "access": 1,
+    "address": "4M2X+V3X, Dusun Nampes, Baturetno, Kec. Singosari, Kabupaten Malang, Jawa Timur 65153, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 620777,
+    "latitude": -7.897601739226196,
+    "longitude": 112.69764795899391,
+    "name": "SPKLU Rest Area 84A",
+    "stations": [
+      {
+        "id": 1629509,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3613628,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3613629,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1629510,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3613630,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620777"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Gajah Mada No.198, Kaliwates, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 68131, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 546795,
+    "latitude": -8.178948552549432,
+    "longitude": 113.67778178304434,
+    "name": "SPKLU UP3 PLN JEMBER",
+    "stations": [
+      {
+        "id": 1415144,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3259408,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1415145,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3259409,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1415146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3259410,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/546795"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Letjen S Parman No.15, Sobo, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 480585,
+    "latitude": -8.238237947124272,
+    "longitude": 114.35696873813868,
+    "name": "Hotel Santika",
+    "stations": [
+      {
+        "id": 1231681,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2951378,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/480585"
+  },
+  {
+    "access": 1,
+    "address": "RCJP+M6F, Gilimanuk, Melaya, Jembrana Regency, Bali 82252, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542579,
+    "latitude": -8.168236738720335,
+    "longitude": 114.43558627155373,
+    "name": "SPKLU PLN Gilimanuk",
+    "stations": [
+      {
+        "id": 1403644,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3232224,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232225,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3232226,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542579"
+  },
+  {
+    "access": 1,
+    "address": "WC78+5JC, Parasputih, Bangsring, Kec. Wongsorejo, Kabupaten Banyuwangi, Jawa Timur 68453, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542578,
+    "latitude": -8.087613615150618,
+    "longitude": 114.41601421684027,
+    "name": "SPKLU Rest Area Grand New Watudodol",
+    "stations": [
+      {
+        "id": 1403642,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3232221,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3422422,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1403643,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3232223,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542578"
+  },
+  {
+    "access": 1,
+    "address": "R96H+2GX, Lingkungan Sukowidi, Klatak, Kec. Kalipuro, Kabupaten Banyuwangi, Jawa Timur 68421, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 515423,
+    "latitude": -8.190256802241734,
+    "longitude": 114.37896829433036,
+    "name": "Hyundai Dealer",
+    "stations": [
+      {
+        "id": 1328843,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3105146,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 9,
+            "id": 3105147,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515423"
+  },
+  {
+    "access": 1,
+    "address": "Av. Agamenon Magalhães, 444 - Maurício de Nassau, Caruaru - PE, 55012-290, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 313673,
+    "latitude": -8.277932,
+    "longitude": -35.972055,
+    "name": "Shopping Difusora",
+    "score": 6,
+    "stations": [
+      {
+        "id": 730914,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2196871,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 730915,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2196872,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1206279,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2913906,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/313673"
+  },
+  {
+    "access": 1,
+    "address": "Av. dos Estados, nº. 129 Nova Caruaru, Caruaru/PE 55014-545 Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 600238,
+    "latitude": -8.2667555,
+    "longitude": -35.9787943,
+    "name": "Home Center Ferreira Costa",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1566113,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3503599,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/600238"
+  },
+  {
+    "access": 1,
+    "address": "Av. Agamenon Magalhães, 444 - Maurício de Nassau, Caruaru - PE, 55012-290",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574082,
+    "latitude": -8.2777681350708,
+    "longitude": -35.972232818603516,
+    "name": "Shopping Difusora",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1488363,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3381593,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1606926,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3563610,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574082"
+  },
+  {
+    "access": 1,
+    "address": "Posto Pichilau, 3545, Rod. Prestes Maia, 3375, Escada - PE, 55500-000",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 341798,
+    "latitude": -8.39301,
+    "longitude": -35.25894,
+    "name": "Posto Pichilau (Corredor Verde Neoenergia)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 808205,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2309624,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2309625,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2309626,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341798"
+  },
+  {
+    "access": 1,
+    "address": "Rod. Armínio Guilherme, 2132 - Garapu, Cabo de Santo Agostinho - PE, 54590, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 581504,
+    "latitude": -8.299105959569165,
+    "longitude": -35.02545475959778,
+    "name": "Shell Recharge | Posto Costa Dourada",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1510971,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3417754,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3435610,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581504"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia PE 09, Ipojuca - PE",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574211,
+    "latitude": -8.398109,
+    "longitude": -35.0609851,
+    "name": "Nannai Resort",
+    "stations": [
+      {
+        "id": 1488679,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3382118,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574211"
+  },
+  {
+    "access": 1,
+    "address": "Rua vitória Régia SN",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 473184,
+    "latitude": -8.252840226137124,
+    "longitude": -34.94645021688751,
+    "name": "Novo Lancamento OR no Paiva",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1210363,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2919552,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/473184"
+  },
+  {
+    "access": 1,
+    "address": "Rua Projetada D, 62, Garapu, Cabo de Santo Agostinho, Pernambuco",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 379571,
+    "latitude": -8.292748,
+    "longitude": -35.023716,
+    "name": "Solar Life Energy",
+    "stations": [
+      {
+        "id": 912241,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2463118,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/379571"
+  },
+  {
+    "access": 1,
+    "address": "Empório Muro Alto",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 561105,
+    "latitude": -8.446939590627037,
+    "longitude": -34.9871775721468,
+    "name": "Estação de Carga BYD/Parvi - New Mobility BR",
+    "score": 1,
+    "stations": [
+      {
+        "id": 1454086,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3325243,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3325244,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/561105"
+  },
+  {
+    "access": 1,
+    "address": "Rod. PE-60, 3200 - Garapu, Cabo de Santo Agostinho - PE, 54518-901",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 382681,
+    "latitude": -8.304155,
+    "longitude": -35.022788,
+    "name": "Shopping Costa Dourada",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 919883,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2476147,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 919884,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2476148,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382681"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Gatot Subroto No.35, Pendem, Kec. Jembrana, Kabupaten Jembrana, Bali 82218, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 481932,
+    "latitude": -8.360452823223842,
+    "longitude": 114.62516248226166,
+    "name": "SPKLU PLN ULP NEGARA",
+    "stations": [
+      {
+        "id": 1236306,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2960844,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3422426,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3422427,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1236307,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2960845,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3422429,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/481932"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Gajah Mada No.1, Delod Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82121, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 481928,
+    "latitude": -8.53956863617358,
+    "longitude": 115.12735817581414,
+    "name": "SPKLU PLN ULP TABANAN",
+    "stations": [
+      {
+        "id": 1236293,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2960780,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/481928"
+  },
+  {
+    "access": 1,
+    "address": "94GF+8CH, Munggu, Mengwi, Badung Regency, Bali 80351, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 578839,
+    "latitude": -8.624363049064469,
+    "longitude": 115.12350115925075,
+    "name": "SPKLU PLN MUNGGU",
+    "stations": [
+      {
+        "id": 1502559,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3405090,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3405091,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3422435,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578839"
+  },
+  {
+    "access": 1,
+    "address": "95WJ+W48 Parking Lot Puspem Badung, Sempidi, Kec. Mengwi, Kabupatén Badung, Bali 80351, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584401,
+    "latitude": -8.602509264819265,
+    "longitude": 115.18042601644991,
+    "name": "SPKLU PLN PUSPEM BADUNG",
+    "stations": [
+      {
+        "id": 1519454,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3431127,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3431128,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1519455,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3431129,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3431130,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584401"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Hayam Wuruk No.266, Sumerta Kelod, Kec. Denpasar Tim., Kota Denpasar, Bali 80239, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 546316,
+    "latitude": -8.668669127699626,
+    "longitude": 115.24308166144759,
+    "name": "SPKLU HAYAM WURUK",
+    "stations": [
+      {
+        "id": 1413570,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3256540,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1413571,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3256541,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1413572,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3256542,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3256543,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3256544,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/546316"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pantai Batu Bolong No.420, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578964,
+    "latitude": -8.643005640056373,
+    "longitude": 115.1422940567136,
+    "name": "Spklu PLN PEPPITO BATU BOLONG",
+    "stations": [
+      {
+        "id": 1502873,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3405624,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578964"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Sunset Road No.150, Legian, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585971,
+    "latitude": -8.696866770817024,
+    "longitude": 115.17579216510057,
+    "name": "Brits hotel Kuta Legian DAYAGREEN",
+    "stations": [
+      {
+        "id": 1523538,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437438,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585971"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Kartika Plaza No.8, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584917,
+    "latitude": -8.728383343730226,
+    "longitude": 115.16849921226846,
+    "name": "STROOM - Discovery Mall Bali",
+    "stations": [
+      {
+        "id": 1520467,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432841,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1520468,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432842,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584917"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pantai Kuta No.60, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578965,
+    "latitude": -8.716894679372485,
+    "longitude": 115.16879629343748,
+    "name": "Beachwalk Shopping Centre",
+    "stations": [
+      {
+        "id": 1502874,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3405627,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1502875,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3405628,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578965"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Kartika Plaza No.10, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585970,
+    "latitude": -8.72896618576999,
+    "longitude": 115.16850560903549,
+    "name": "DAYAGREEN DISCOVERY MALL",
+    "stations": [
+      {
+        "id": 1523537,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437437,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585970"
+  },
+  {
+    "access": 1,
+    "address": "77V6+X2V, Sanur, Denpasar Selatan, Denpasar City, Bali, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 475602,
+    "latitude": -8.705122105153723,
+    "longitude": 115.25995536868939,
+    "name": "Sanur Central Beach",
+    "stations": [
+      {
+        "id": 1216762,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2928265,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2928266,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/475602"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Bakung No.22, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542582,
+    "latitude": -8.637037363678985,
+    "longitude": 115.25716151705947,
+    "name": "SPKLU PLN Gudang PLN Denpasar",
+    "stations": [
+      {
+        "id": 1403651,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3232237,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232238,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1403652,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3232239,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232240,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542582"
+  },
+  {
+    "access": 1,
+    "address": "Gg. Cakalang, Labuan Bajo, Komodo, West Manggarai Regency, East Nusa Tenggara, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584106,
+    "latitude": -8.490468441264927,
+    "longitude": 119.87633619192657,
+    "name": "SPLU Kampung Ujung",
+    "stations": [
+      {
+        "id": 1518463,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3429509,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1518464,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3429510,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1518465,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3429511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584106"
+  }
+]

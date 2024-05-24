@@ -1,0 +1,533 @@
+[
+  {
+    "access": 1,
+    "address": "BR 163, Nova Mutum",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 586547,
+    "latitude": -13.859439290804678,
+    "longitude": -56.08635957556234,
+    "name": "Posto Águia Branca",
+    "score": 2.1,
+    "stations": [
+      {
+        "id": 1524821,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3439463,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3439464,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1548630,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3477622,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586547"
+  },
+  {
+    "access": 1,
+    "address": "BR-163, Diamantino - MT, 78400-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 338261,
+    "latitude": -14.247808,
+    "longitude": -56.131447,
+    "name": "Sistema de Atendimento ao Usuário Sau 12",
+    "score": 6.4,
+    "stations": [
+      {
+        "id": 798044,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2296502,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/338261"
+  },
+  {
+    "access": 1,
+    "address": "Av. Perimetral das Samambaias, S/N - Centro, Nova Mutum - MT, 78450-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 373083,
+    "latitude": -13.819427,
+    "longitude": -56.077266,
+    "name": "Posto Bem Brasil",
+    "score": 9,
+    "stations": [
+      {
+        "id": 897190,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2438072,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2438073,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/373083"
+  },
+  {
+    "access": 1,
+    "address": "3WMM+R7 Estrela do Norte - State of Goiás, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574867,
+    "latitude": -13.915493065483222,
+    "longitude": -49.066829827568334,
+    "name": "BSO 8 - Ecovias do Araguaia - Mara Rosa",
+    "stations": [
+      {
+        "id": 1490549,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3385312,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574867"
+  },
+  {
+    "access": 1,
+    "address": "R. Cristã, 206, Cavalcante - GO, 73790-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 560967,
+    "latitude": -13.79675355087532,
+    "longitude": -47.460613287985325,
+    "name": "Vila Nômade / Museu do Fogo",
+    "stations": [
+      {
+        "id": 1453778,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3324724,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/560967"
+  },
+  {
+    "access": 1,
+    "address": "Av Ary Ribeiro Valadao quadra 36 lote 03 Paraisinho - Alto Paraíso de Goiás, GO, 73770-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585437,
+    "latitude": -14.133623343864103,
+    "longitude": -47.517734384719226,
+    "name": "PRAÇA Do skate",
+    "score": 2,
+    "stations": [
+      {
+        "id": 1522287,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3435413,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585437"
+  },
+  {
+    "access": 1,
+    "address": "ROD.GO 453 KM 06 N. 197 Vl Dom Prudêncio - St. Dom Prudencio, Posse - GO, 73900-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 354273,
+    "latitude": -14.095223,
+    "longitude": -46.361185,
+    "name": "Pousada das Palmeiras",
+    "stations": [
+      {
+        "id": 844082,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2366004,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/354273"
+  },
+  {
+    "access": 1,
+    "address": "Av. Brasilia, QD 10 Lote 1 a 8 - Vila Rosário, Correntina - BA, 47650-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533227,
+    "latitude": -13.951670011944838,
+    "longitude": -46.19835410784404,
+    "name": "Hotel Schiavini",
+    "stations": [
+      {
+        "id": 1377221,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3181563,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533227"
+  },
+  {
+    "access": 1,
+    "address": "Av. Perimetral - Distrito Rosário, Correntina - BA, 47655-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533465,
+    "latitude": -13.954548089893676,
+    "longitude": -46.195482710763265,
+    "name": "Hotel J&M",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1377982,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3182600,
+            "kilowatts": 6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533465"
+  },
+  {
+    "access": 1,
+    "address": "Av. Centenário, 1418, Centenário, Brumado - BA",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533889,
+    "latitude": -14.216068562649607,
+    "longitude": -41.682852542176825,
+    "name": "Hotel Portal Premium",
+    "stations": [
+      {
+        "id": 1379004,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3184148,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533889"
+  },
+  {
+    "access": 1,
+    "address": "40 Moule St, Pine Creek NT 0847, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 316920,
+    "latitude": -13.824576,
+    "longitude": 131.834971,
+    "name": "Pine Creek Hotel",
+    "score": 10,
+    "stations": [
+      {
+        "id": 739472,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2219357,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 739473,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2219358,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/316920"
+  },
+  {
+    "access": 1,
+    "address": "Hotel Wilkamayu",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 194811,
+    "latitude": -14.26134,
+    "longitude": -71.227042,
+    "name": "Enel X - Hotel Wilkamayu",
+    "stations": [
+      {
+        "id": 770800,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2260942,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771135,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261446,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/194811"
+  },
+  {
+    "access": 1,
+    "address": "R. Décio Burali, 382 - Centro, Tangará da Serra - MT, 78300-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535655,
+    "latitude": -14.617648784179694,
+    "longitude": -57.49594684261275,
+    "name": "Estacionamento Tangara Shopping Center",
+    "stations": [
+      {
+        "id": 1525294,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3440183,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535655"
+  },
+  {
+    "access": 1,
+    "address": "Rod. Transbrasiliana, 1020 - Uruaçu, GO, 76400-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575917,
+    "latitude": -14.641395134278973,
+    "longitude": -49.180739278207014,
+    "name": "BSO06 - Ecovias do Araguaia",
+    "stations": [
+      {
+        "id": 1493621,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391314,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575917"
+  },
+  {
+    "access": 1,
+    "address": "PVG3+2F Campinorte, GO, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575916,
+    "latitude": -14.274916672404528,
+    "longitude": -49.1462726846715,
+    "name": "BSO07 Ecovias do Araguaia",
+    "stations": [
+      {
+        "id": 1493620,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391313,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575916"
+  },
+  {
+    "access": 1,
+    "address": "Corner First and, Lindsay St, Katherine NT 0850, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 582443,
+    "latitude": -14.46599918036602,
+    "longitude": 132.2664864987766,
+    "name": "Katherine",
+    "stations": [
+      {
+        "id": 1513499,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3421707,
+            "kilowatts": 175,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3438615,
+            "kilowatts": 175,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513502,
+        "network_id": 63,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3421711,
+            "kilowatts": 150,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3438616,
+            "kilowatts": 175,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582443"
+  },
+  {
+    "access": 1,
+    "address": "2 Fourth Street, Katherine NT 0850, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 154873,
+    "latitude": -14.462420771046698,
+    "longitude": 132.26858320618632,
+    "name": "Beagle Motor Inn Katherine",
+    "score": 10,
+    "stations": [
+      {
+        "id": 298582,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 570629,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 980341,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2573791,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/154873"
+  }
+]

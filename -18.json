@@ -1,0 +1,2124 @@
+[
+  {
+    "access": 1,
+    "address": "Hotel Eden, Oruro, Bolivia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330356,
+    "latitude": -17.970074,
+    "longitude": -67.115238,
+    "name": "Enel X - Hotel Eden, Oruro - 10 kW",
+    "stations": [
+      {
+        "id": 776880,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269005,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 776881,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269006,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330356"
+  },
+  {
+    "access": 1,
+    "address": "Cuarto Anillo, Av. Costanera y, Santa Cruz de la Sierra, Bolivia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 340934,
+    "latitude": -17.754769,
+    "longitude": -63.198862,
+    "name": "EFX.EGSA.VENTURA.001",
+    "stations": [
+      {
+        "id": 805772,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2306449,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2306450,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/340934"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia MS 306, KM 13 - Baús, Costa Rica - MS, 79550-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 487625,
+    "latitude": -18.16243254115633,
+    "longitude": -53.132477179219116,
+    "name": "Auto posto Baús",
+    "stations": [
+      {
+        "id": 1251434,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2984705,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2984706,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/487625"
+  },
+  {
+    "access": 1,
+    "address": "R. Cap. Serafim de Barros, 2313 - Jd, Rio Claro - GO, 75802-075, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 309551,
+    "latitude": -17.894618,
+    "longitude": -51.72554,
+    "name": "Innovatis Engenharia e Sustentabilidade",
+    "stations": [
+      {
+        "id": 719562,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3443826,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/309551"
+  },
+  {
+    "access": 1,
+    "address": "XC8X+X85 Naveslândia, Jataí - GO, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 511335,
+    "latitude": -18.032612505169787,
+    "longitude": -51.55164059999999,
+    "name": "SAU09 Ecovias do Cerrado - Jatai",
+    "stations": [
+      {
+        "id": 1317974,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087898,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511335"
+  },
+  {
+    "access": 1,
+    "address": "Av. F, 481 - Vila Sofia, Jataí - GO, 75801-390, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 386622,
+    "latitude": -17.913402,
+    "longitude": -51.722724,
+    "name": "ADM Hotel Jataí",
+    "stations": [
+      {
+        "id": 930471,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2492642,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/386622"
+  },
+  {
+    "access": 1,
+    "address": "R. 106, 86 - Vila Jardim Rio Claro, Jataí - GO, 75803-130, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 554662,
+    "latitude": -17.90833164972451,
+    "longitude": -51.724173948168755,
+    "name": "Stara",
+    "score": 5.4,
+    "stations": [
+      {
+        "id": 1436292,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3297587,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1436293,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3297588,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554662"
+  },
+  {
+    "access": 1,
+    "address": "Km - BR-364, 168, Jataí - GO, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 592191,
+    "latitude": -18.032269753328332,
+    "longitude": -51.5516197308898,
+    "name": "Sau 9",
+    "stations": [
+      {
+        "id": 1540373,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3464731,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/592191"
+  },
+  {
+    "access": 1,
+    "address": "R. das Safiras, 401 - Parque Bandeirante, Rio Verde - GO, 75905-690, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 370106,
+    "latitude": -17.794943,
+    "longitude": -50.912879,
+    "name": "Saga Nissan (Coming Soon)",
+    "stations": [
+      {
+        "id": 886940,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2424774,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/370106"
+  },
+  {
+    "access": 1,
+    "address": "Av. 1, R. João Quintino Leão, 770, Rio Verde - GO, 75906-577",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567168,
+    "latitude": -17.808918171055698,
+    "longitude": -50.93890017776876,
+    "name": "Estação YellotMob - O Santo Desconfia",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 1470063,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3350681,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567168"
+  },
+  {
+    "access": 1,
+    "address": "BR-060, 1044 - Jardim Campestre, Rio Verde - GO, 75907-580, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 475097,
+    "latitude": -17.818750381469727,
+    "longitude": -50.943572998046875,
+    "name": "Buriti Shopping Rio Verde",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1501680,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3403834,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3403835,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/475097"
+  },
+  {
+    "access": 1,
+    "address": "ROD BR 153 SN KM 670, S/N, Goiatuba - GO, 75600-000",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 596494,
+    "latitude": -18.041183505172455,
+    "longitude": -49.26725469999999,
+    "name": "YellotMob - AutoPosto Caipirão",
+    "score": 7.3,
+    "stations": [
+      {
+        "id": 1553229,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3485194,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596494"
+  },
+  {
+    "access": 1,
+    "address": "R. Ademar Luís de Miranda, 33, Joviânia - GO, 75610-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 539772,
+    "latitude": -17.80616613233099,
+    "longitude": -49.61684614419937,
+    "name": "Eletroposto Via jovem",
+    "stations": [
+      {
+        "id": 1396003,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3214730,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/539772"
+  },
+  {
+    "access": 1,
+    "address": "Rua Geraldo Luis, Nº 42, margem da BR 050, 75710-710, Catalão/GO",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 460922,
+    "latitude": -18.186941,
+    "longitude": -47.945954,
+    "name": "Hotel Go Inn Catalão",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1146663,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2814848,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1146664,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2814849,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/460922"
+  },
+  {
+    "access": 1,
+    "address": "BR 050 - km 266 - Catalão/GO",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 470042,
+    "latitude": -18.084073,
+    "longitude": -47.869902,
+    "name": "SAU 04 Eco050 - BR050",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1201723,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2907551,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470042"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia BR 040, km 281",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 599325,
+    "latitude": -18.242352192662988,
+    "longitude": -45.206813781035805,
+    "name": "Restaurante Mar Doce",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1562737,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3498878,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1562738,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3498879,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1562739,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3498880,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599325"
+  },
+  {
+    "access": 1,
+    "address": "2R7J+93 Buenópolis, MG, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 497639,
+    "latitude": -17.986565772262907,
+    "longitude": -44.16984320708778,
+    "name": "Posto Auxílio Eco 135 - Buenopolis",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1282698,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3029566,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/497639"
+  },
+  {
+    "access": 1,
+    "address": "Av. do Aeroporto, 625 - Nova Viçosa, BA, 45920-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 481378,
+    "latitude": -17.89481136171802,
+    "longitude": -39.36426984869886,
+    "name": "Pousada Iracema",
+    "stations": [
+      {
+        "id": 1234522,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2955026,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/481378"
+  },
+  {
+    "access": 1,
+    "address": "Rua do aeroporto, n 599, bairro dos pescadores, Nova Viçosa - BA",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 588386,
+    "latitude": -17.894765897770824,
+    "longitude": -39.36427883286378,
+    "name": "Pousada Iracema",
+    "stations": [
+      {
+        "id": 1529324,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3446713,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/588386"
+  },
+  {
+    "access": 1,
+    "address": "Pioneer Park, 90 Robinson St, Broome WA 6725",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 523712,
+    "latitude": -17.970245356772008,
+    "longitude": 122.23561009992919,
+    "name": "Town Beach - Broome",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1414408,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3258239,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1414409,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3258240,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3258241,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/523712"
+  },
+  {
+    "access": 1,
+    "address": "28 Cable Beach Rd, Broome, Australia, WA 6725",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 97590,
+    "latitude": -17.928601,
+    "longitude": 122.212884,
+    "name": "Cable Beach Club",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 161535,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 377399,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 161536,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 377400,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 186228,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 412903,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/97590"
+  },
+  {
+    "access": 1,
+    "address": "4 McDaniel Road, Minyirr WA 6725, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 249040,
+    "latitude": -17.982624,
+    "longitude": 122.204495,
+    "name": "Minyirr Charger",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1412481,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3253863,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3253864,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/249040"
+  },
+  {
+    "access": 1,
+    "address": "1 Hamersley St, Broome WA 6725, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 295152,
+    "latitude": -17.95353,
+    "longitude": 122.241249,
+    "name": "Broome Visitor Centre",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1412555,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3254083,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3254084,
+            "kilowatts": 7,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/295152"
+  },
+  {
+    "access": 1,
+    "address": "Paspaley Plaza, 8 Short St, Broome WA 6725, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 357405,
+    "latitude": -17.951908,
+    "longitude": 122.243642,
+    "name": "Paspaley Plaza",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1412697,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3254553,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "UNKNOWN"
+          },
+          {
+            "connector": 7,
+            "id": 3254554,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357405"
+  },
+  {
+    "access": 1,
+    "address": "32 Pembroke Rd, Broome WA 6725, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 97771,
+    "latitude": -17.969217,
+    "longitude": 122.225183,
+    "name": "Broome Auto Excellence",
+    "stations": [
+      {
+        "id": 160430,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 375775,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/97771"
+  },
+  {
+    "access": 1,
+    "address": "Fitzroy Crossing, Fitzroy Crossing WA 6765, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 616105,
+    "latitude": -18.197045802961927,
+    "longitude": 125.56757982820272,
+    "name": "Fitzroy Visitors Centre",
+    "stations": [
+      {
+        "id": 1616321,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3585287,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1616322,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3585288,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/616105"
+  },
+  {
+    "access": 1,
+    "address": "277 Great Northern Hwy, Fitzroy Crossing WA 6765, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 232843,
+    "latitude": -18.210567,
+    "longitude": 125.581899,
+    "name": "Fitzroy River Lodge",
+    "score": 10,
+    "stations": [
+      {
+        "id": 507758,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 1269859,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 576183,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 1582564,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 634655,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1945053,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/232843"
+  },
+  {
+    "access": 1,
+    "address": "7 Thomas St, Halls Creek WA 6770, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 556393,
+    "latitude": -18.22487374665519,
+    "longitude": 127.66773538610903,
+    "name": "Australia Post - Halls Creek",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1493025,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3390351,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1493026,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3390352,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3390353,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/556393"
+  },
+  {
+    "access": 1,
+    "address": "198 Great Northern Hwy, Halls Creek WA 6770, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 154361,
+    "latitude": -18.223166,
+    "longitude": 127.670619,
+    "name": "Halls Creek Motel",
+    "score": 10,
+    "stations": [
+      {
+        "id": 296995,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 568852,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/154361"
+  },
+  {
+    "access": 1,
+    "address": "137 Duncan Rd, Halls Creek WA 6770, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 143085,
+    "latitude": -18.224664,
+    "longitude": 127.671685,
+    "name": "Hall's Creek Toyota",
+    "score": 10,
+    "stations": [
+      {
+        "id": 271293,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 538951,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/143085"
+  },
+  {
+    "access": 1,
+    "address": "63 Samwell St, Croydon QLD 4871, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 131050,
+    "latitude": -18.203483,
+    "longitude": 142.243733,
+    "name": "Croydon Shire Council",
+    "stations": [
+      {
+        "id": 238404,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 494546,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/131050"
+  },
+  {
+    "access": 1,
+    "address": "Lot 4 Gulf Developmental Rd, Mount Surprise QLD 4871, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 93719,
+    "latitude": -18.147068,
+    "longitude": 144.318758,
+    "name": "Planet Earth Adventures",
+    "stations": [
+      {
+        "id": 149945,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 494558,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/93719"
+  },
+  {
+    "access": 1,
+    "address": "Undara Experience, Undara Rd, Mount Surprise QLD 4871",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 551254,
+    "latitude": -18.20202271465362,
+    "longitude": 144.57234634577026,
+    "name": "Undara Discovery Resort",
+    "stations": [
+      {
+        "id": 1426742,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 3282732,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/551254"
+  },
+  {
+    "access": 1,
+    "address": "2–20 Marine Parade, Mission Beach‎ QLD‎ 4852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 122170,
+    "latitude": -17.871329,
+    "longitude": 146.106798,
+    "name": "Tuskers",
+    "stations": [
+      {
+        "id": 215787,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 458753,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/122170"
+  },
+  {
+    "access": 1,
+    "address": "Morris St, Tully QLD 4854, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 137077,
+    "latitude": -17.93483,
+    "longitude": 145.924021,
+    "name": "IGA Carpark",
+    "score": 9,
+    "stations": [
+      {
+        "id": 414253,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 722875,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "CHARGING"
+          },
+          {
+            "connector": 13,
+            "id": 722876,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "CHARGING"
+          }
+        ]
+      },
+      {
+        "id": 1411407,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3251028,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3251029,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/137077"
+  },
+  {
+    "access": 1,
+    "address": "2 Pacific Parade, Mission Beach QLD 4852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 189274,
+    "latitude": -17.871868,
+    "longitude": 146.106162,
+    "name": "Castaways Resort Mission Beach",
+    "stations": [
+      {
+        "id": 395512,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 695896,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 395513,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 695897,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 395514,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 695898,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 395515,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 695899,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/189274"
+  },
+  {
+    "access": 1,
+    "address": "Fairway Palms, Denaru Island",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 58022,
+    "latitude": -17.773081,
+    "longitude": 177.374603,
+    "name": "Sunergise",
+    "stations": [
+      {
+        "id": 80094,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 173929,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/58022"
+  },
+  {
+    "access": 1,
+    "address": "Arica, Arica y Parinacota, Chile",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 343097,
+    "latitude": -18.462788,
+    "longitude": -70.297616,
+    "name": "Electrolinera Arica",
+    "stations": [
+      {
+        "id": 811778,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2314398,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 811779,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2314399,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/343097"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road, Arica y Parinacota, Chile",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 343099,
+    "latitude": -18.469711,
+    "longitude": -70.308569,
+    "name": "Mall Plaza Arica",
+    "stations": [
+      {
+        "id": 811781,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2314401,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 811782,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2314402,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/343099"
+  },
+  {
+    "access": 1,
+    "address": "PR6H+F6 Aparecida do Rio Doce - GO, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 511334,
+    "latitude": -18.288862505248478,
+    "longitude": -51.17189065000001,
+    "name": "SAU08 Ecovias do cerrado - Aparecida do Rio Doce",
+    "stations": [
+      {
+        "id": 1317973,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087897,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511334"
+  },
+  {
+    "access": 1,
+    "address": "GO-206, KM 135, Quirinópolis - GO, 75860-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 613034,
+    "latitude": -18.44488441861925,
+    "longitude": -50.41162557899952,
+    "name": "BARREIRA DA POLÍCIA RODOVIÁRIA ESTADUAL DE QUIRINÓPOLIS-GO",
+    "stations": [
+      {
+        "id": 1608406,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3566656,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/613034"
+  },
+  {
+    "access": 1,
+    "address": "Av. Modesto de Carvalho, 1887 - St. Dona Marolina, Itumbiara - GO, 75532-634, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 593342,
+    "latitude": -18.409844187378695,
+    "longitude": -49.25185315310955,
+    "name": "Consorcionaria Ford Regivel",
+    "stations": [
+      {
+        "id": 1543555,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3469911,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/593342"
+  },
+  {
+    "access": 1,
+    "address": "avenida Beira Rio, n 1.100, bairro nova aurora",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 592196,
+    "latitude": -18.415406703476425,
+    "longitude": -49.19745813767901,
+    "name": "VOLVO - Hotel Beira Rio",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1540389,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3471960,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1545071,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3471959,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3471962,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/592196"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Beira Rio, 789",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 581049,
+    "latitude": -18.41301855665769,
+    "longitude": -49.20364274461922,
+    "name": "Barra Sports",
+    "stations": [
+      {
+        "id": 1509532,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3415584,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581049"
+  },
+  {
+    "access": 1,
+    "address": "SAU 5 - Eco050 - km 312 - Cumari / GO",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 470529,
+    "latitude": -18.416163535943074,
+    "longitude": -48.079011624341405,
+    "name": "SAU 5 - Eco050 - Serviço de Atendimento ao Usuário",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1203124,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2909427,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470529"
+  },
+  {
+    "access": 1,
+    "address": "BR-050, 5652 - Araguari, MG, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 470527,
+    "latitude": -18.705122753283938,
+    "longitude": -48.19031490481231,
+    "name": "SAU 6 - Eco050 - Serviço De Atendimento Ao Usuário",
+    "score": 1,
+    "stations": [
+      {
+        "id": 1203109,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3566021,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470527"
+  },
+  {
+    "access": 1,
+    "address": "Rua Muriaé, 299 - Eldorado - Patos de Minas - MG",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 619378,
+    "latitude": -18.59905705561116,
+    "longitude": -46.50924520528598,
+    "name": "Marcio Andrade",
+    "stations": [
+      {
+        "id": 1625553,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3604637,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/619378"
+  },
+  {
+    "access": 1,
+    "address": "Rua Riachuelo 169-Centro-Curvelo-MG",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372068,
+    "latitude": -18.749804,
+    "longitude": -44.431124,
+    "name": "JBAENERGIA Solar",
+    "stations": [
+      {
+        "id": 894188,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2434031,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372068"
+  },
+  {
+    "access": 1,
+    "address": "Largo Felix Antônio, 35 - São Gonçalo do Rio das Pedras, Serro - MG, 39150-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 564771,
+    "latitude": -18.415807510724242,
+    "longitude": -43.494561910629265,
+    "name": "Hostel Mirante do Vale",
+    "stations": [
+      {
+        "id": 1463952,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3340786,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/564771"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Jones dos Santos Neves, 841–909, Barra de São Francisco - ES, 29800-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 177824,
+    "latitude": -18.677145,
+    "longitude": -40.816025,
+    "name": "Gramazini BSF EV station ",
+    "stations": [
+      {
+        "id": 365360,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 656590,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/177824"
+  },
+  {
+    "access": 1,
+    "address": "Av. São Mateus, 350 - Nova Venecia, Nova Venécia - ES, 29830-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 230084,
+    "latitude": -18.708218,
+    "longitude": -40.399542,
+    "name": "EDP - Nova Venécia",
+    "score": 6.7,
+    "stations": [
+      {
+        "id": 500973,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1232538,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3274559,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/230084"
+  },
+  {
+    "access": 1,
+    "address": "Av. Karina, 266 - Seac, São Mateus - ES, 29937-310, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 620082,
+    "latitude": -18.74571772804701,
+    "longitude": -39.85947809248584,
+    "name": "Volvo - Posto Rio Negro",
+    "stations": [
+      {
+        "id": 1627496,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3609276,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627497,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609277,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620082"
+  },
+  {
+    "access": 1,
+    "address": "Rod. Gov. Mário Covas, 335 - Morada do Ribeirão, São Mateus - ES, 29936-450, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 357939,
+    "latitude": -18.725438,
+    "longitude": -39.861018,
+    "name": "ibis Styles São Mateus",
+    "score": 3.1,
+    "stations": [
+      {
+        "id": 853874,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2379030,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357939"
+  },
+  {
+    "access": 1,
+    "address": "F3JP+9R Conceição da Barra, ES, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 519603,
+    "latitude": -18.519009150770994,
+    "longitude": -39.9129016631589,
+    "name": "SAU02 -  Eco 101 km 42",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1338835,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3121937,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/519603"
+  },
+  {
+    "access": 1,
+    "address": "R. Manoel Andrade, 14 - Centro, São Mateus - ES, 29936-714, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 427373,
+    "latitude": -18.715495,
+    "longitude": -39.85856,
+    "name": "EDP - São Mateus",
+    "score": 1.4,
+    "stations": [
+      {
+        "id": 1036881,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2662913,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3400070,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/427373"
+  },
+  {
+    "access": 1,
+    "address": "R. Adolpho Pereira Duarte, 103 - Itaunas, Conceição da Barra - ES, 29965-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 370088,
+    "latitude": -18.423712,
+    "longitude": -39.709105,
+    "name": "Pousada Vila Tania",
+    "stations": [
+      {
+        "id": 886898,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3018530,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/370088"
+  },
+  {
+    "access": 1,
+    "address": "Great Northern Highway, Broome WA 6725, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 90592,
+    "latitude": -18.366897,
+    "longitude": 122.038138,
+    "name": "Barn Hill Beach Side Station Stay",
+    "stations": [
+      {
+        "id": 143465,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 348269,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/90592"
+  },
+  {
+    "access": 1,
+    "address": "Port Smith Rd, Lagrange WA 6725, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 145994,
+    "latitude": -18.51728,
+    "longitude": 121.815667,
+    "name": "Port Smith Caravan Park",
+    "score": 9,
+    "stations": [
+      {
+        "id": 279351,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3280908,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/145994"
+  },
+  {
+    "access": 1,
+    "address": "323 station great northern highway, Broome WA 6725, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 133334,
+    "latitude": -18.329319,
+    "longitude": 122.08261,
+    "name": "Eco Beach Resort",
+    "score": 9,
+    "stations": [
+      {
+        "id": 244011,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 502373,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 324987,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 605485,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/133334"
+  },
+  {
+    "access": 1,
+    "address": "Point Smith Rd",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 550965,
+    "latitude": -18.517326053784444,
+    "longitude": 121.81561310664596,
+    "name": "Port Smith Lagoon and Caravan Park",
+    "stations": [
+      {
+        "id": 1426001,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3281503,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/550965"
+  },
+  {
+    "access": 1,
+    "address": "9047 Stuart Hwy, Pamayu NT 0862, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 98846,
+    "latitude": -18.318555,
+    "longitude": 133.795645,
+    "name": "Renner Springs Desert Inn",
+    "stations": [
+      {
+        "id": 163094,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 379980,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/98846"
+  },
+  {
+    "access": 1,
+    "address": "Gulf Developmental Rd, Georgetown QLD 4871, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 131053,
+    "latitude": -18.28924,
+    "longitude": 143.538206,
+    "name": "Latara Resort Motel",
+    "stations": [
+      {
+        "id": 238409,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 494555,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/131053"
+  },
+  {
+    "access": 1,
+    "address": "Park Rd, Georgetown QLD 4871, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 190187,
+    "latitude": -18.292977,
+    "longitude": 143.548401,
+    "name": "Park Road Barbecues",
+    "stations": [
+      {
+        "id": 397716,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 698887,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 397717,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 698888,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/190187"
+  },
+  {
+    "access": 1,
+    "address": "8-10 Halifax Road Ingham QLD 4850, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 571314,
+    "latitude": -18.64483814228969,
+    "longitude": 146.16285134106874,
+    "name": "Ingham Toyota",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1480977,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3368280,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3368281,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571314"
+  },
+  {
+    "access": 1,
+    "address": "144 Victoria St, Cardwell QLD 4849, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 301187,
+    "latitude": -18.26286221761406,
+    "longitude": 146.02474702197648,
+    "name": "144 Victoria St Parking",
+    "score": 10,
+    "stations": [
+      {
+        "id": 685591,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2105145,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 3,
+            "id": 2105146,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1411432,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3251083,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3251084,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/301187"
+  },
+  {
+    "access": 1,
+    "address": "49 Bruce Parade, Lucinda QLD 4850, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 386463,
+    "latitude": -18.527347,
+    "longitude": 146.333731,
+    "name": "Wanderers Holiday Village",
+    "stations": [
+      {
+        "id": 929999,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2491849,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/386463"
+  },
+  {
+    "access": 1,
+    "address": "54 Dungeness Rd, Lucinda QLD ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 541063,
+    "latitude": -18.523141991156646,
+    "longitude": 146.31816485196458,
+    "name": "Lucinda Cove Resort",
+    "stations": [
+      {
+        "id": 1399604,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3222678,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/541063"
+  }
+]

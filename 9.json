@@ -1,0 +1,6344 @@
+[
+  {
+    "access": 1,
+    "address": "Provincia de Puntarenas, Cobano, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 338251,
+    "latitude": 9.694237,
+    "longitude": -85.095475,
+    "name": "ICE - Servicentro Cobano (50kW)",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 798248,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2296735,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2296736,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/338251"
+  },
+  {
+    "access": 1,
+    "address": "Ave Pastor Diaz, Calle Tropical",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 331697,
+    "latitude": 9.618054,
+    "longitude": -84.632,
+    "name": "Parque Jacó Johannes Dankers",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1151068,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2821839,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2821840,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/331697"
+  },
+  {
+    "access": 1,
+    "address": "GMC9+79H, Puntarenas Province, Parrita, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 588926,
+    "latitude": 9.52064950142067,
+    "longitude": -84.33164812624454,
+    "name": "Megasúper Parrita",
+    "stations": [
+      {
+        "id": 1530746,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3449022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/588926"
+  },
+  {
+    "access": 1,
+    "address": "Herradura, Provincia de Puntarenas, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 223056,
+    "latitude": 9.661259,
+    "longitude": -84.639764,
+    "name": "ICE - Plaza Herradura (REMOVED)",
+    "score": 1,
+    "stations": [
+      {
+        "id": 1589726,
+        "outlets": [
+          {
+            "connector": 4,
+            "id": 3536608,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/223056"
+  },
+  {
+    "access": 1,
+    "address": "P937+MXR, Provincia de Puntarenas, Quebrada Ganado, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372411,
+    "latitude": 9.704296,
+    "longitude": -84.63502,
+    "name": "Restaurante Los Guarumos",
+    "score": 5.6,
+    "stations": [
+      {
+        "id": 895415,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2435572,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372411"
+  },
+  {
+    "access": 1,
+    "address": "Garabito, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 291976,
+    "latitude": 9.703613,
+    "longitude": -84.660522,
+    "name": "Punta Leona",
+    "score": 9,
+    "stations": [
+      {
+        "id": 639735,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2023581,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/291976"
+  },
+  {
+    "access": 1,
+    "address": "Los Sueños Marina Village, Los Sueños, Provincia de Puntarenas, Herradura, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 292260,
+    "latitude": 9.651827,
+    "longitude": -84.665718,
+    "name": "Los Sueños Marina Village - Banco Promerica",
+    "score": 4.2,
+    "stations": [
+      {
+        "id": 640459,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2033346,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/292260"
+  },
+  {
+    "access": 1,
+    "address": "GGJ2+GCC, Puntarenas Province, Esterillos Oeste, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 363258,
+    "latitude": 9.531836,
+    "longitude": -84.498197,
+    "name": "Hotel Costa Pacifica",
+    "stations": [
+      {
+        "id": 868171,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2399488,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/363258"
+  },
+  {
+    "access": 1,
+    "address": "Costanera Sur, Provincia de Puntarenas, Playa Hermosa, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 308128,
+    "latitude": 9.580193,
+    "longitude": -84.611595,
+    "name": "Hotel Terraza del Pacifico",
+    "score": 10,
+    "stations": [
+      {
+        "id": 715954,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2150667,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/308128"
+  },
+  {
+    "access": 1,
+    "address": "Hicaco Grill",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 486369,
+    "latitude": 9.7115946253945,
+    "longitude": -84.6361707079646,
+    "name": "Hicaco Grill",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1248003,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2978681,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/486369"
+  },
+  {
+    "access": 1,
+    "address": "100m norte de la entrada a Punta Leona, Provincia de Puntarenas, Garabito, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 606800,
+    "latitude": 9.713423591884819,
+    "longitude": -84.6344668418169,
+    "name": "Riders Adventures",
+    "stations": [
+      {
+        "id": 1589424,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3536214,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1589425,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3536215,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/606800"
+  },
+  {
+    "access": 1,
+    "address": "Pastor Diaz Av. next to subway, 500 mts south from BCR, Provincia de Puntarenas, Jacó, 61101, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 214910,
+    "latitude": 9.615769,
+    "longitude": -84.630875,
+    "name": "Plaza Tangeri",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 462988,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 995851,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/214910"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pastor Díaz, Provincia de Puntarenas, Jacó, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 353948,
+    "latitude": 9.611604359148687,
+    "longitude": -84.62490309029818,
+    "name": "Jaco Walk shopping",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1444522,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3310018,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/353948"
+  },
+  {
+    "access": 1,
+    "address": "J96G+C44, Puntarenas Province, Jaco, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 559410,
+    "latitude": 9.61100653947558,
+    "longitude": -84.6246808880592,
+    "name": "Jacó Walk Shopping Center BAC",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1449666,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3318078,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/559410"
+  },
+  {
+    "access": 1,
+    "address": "P967+4FV, Provincia de Puntarenas, Quebrada Ganado, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601922,
+    "latitude": 9.71158841919898,
+    "longitude": -84.63617799323335,
+    "name": "Hicaco Grill",
+    "stations": [
+      {
+        "id": 1570968,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3510918,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601922"
+  },
+  {
+    "access": 1,
+    "address": "Quepos, Provincia de Puntarenas, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 284882,
+    "latitude": 9.44258365521763,
+    "longitude": -84.1374347901783,
+    "name": "ICE - Hospital Max Terán (120kW)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1147095,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2910224,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2910225,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3110587,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/284882"
+  },
+  {
+    "access": 1,
+    "address": "Ruta 2. Frente a entrada principal de Parque Nacional Los Quetzales.",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 216800,
+    "latitude": 9.616241754113213,
+    "longitude": -83.81928348346709,
+    "name": "ICE - Los Chespiritos (120kW)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1147079,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2910235,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2910236,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3110370,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/216800"
+  },
+  {
+    "access": 1,
+    "address": "Bahia Ballena de Osa, Dominical, Provincia de Puntarenas, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 219576,
+    "latitude": 9.255789,
+    "longitude": -83.861674,
+    "name": "ICE - Súper Market Dominical (50kW)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 796781,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2294830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2294831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/219576"
+  },
+  {
+    "access": 1,
+    "address": "P6XW+HJ Provincia de Cartago, Paraíso, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 556542,
+    "latitude": 9.748916999999999,
+    "longitude": -83.753428,
+    "name": "Costa Rica",
+    "stations": [
+      {
+        "id": 1444228,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3309618,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/556542"
+  },
+  {
+    "access": 1,
+    "address": "J3WP+73F, San José Province, Copey District, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 370004,
+    "latitude": 9.64475726843471,
+    "longitude": -83.91391338028717,
+    "name": "Cabinas Las Manzanas",
+    "stations": [
+      {
+        "id": 886741,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2424507,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 1,
+            "id": 2424508,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/370004"
+  },
+  {
+    "access": 1,
+    "address": "C. los Chacones, San José, San Gerardo de Dota, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 432234,
+    "latitude": 9.551051,
+    "longitude": -83.807511,
+    "name": "Hotel SAVEGRE",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 1052100,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2685994,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/432234"
+  },
+  {
+    "access": 1,
+    "address": "Santa María de Dota",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581745,
+    "latitude": 9.6547642,
+    "longitude": -83.9700617,
+    "name": "Coopedota",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1511580,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3418686,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1511581,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3418687,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581745"
+  },
+  {
+    "access": 1,
+    "address": "4 Kilómetros al sur de la entrada a, San José, San Gerardo de Dota, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 610159,
+    "latitude": 9.5837886,
+    "longitude": -83.7981082,
+    "name": "HOTEL DANTICA",
+    "stations": [
+      {
+        "id": 1600601,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3553041,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610159"
+  },
+  {
+    "access": 1,
+    "address": "Manuel Antonio Norte, Puntarenas Province, Quepos, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 316843,
+    "latitude": 9.39717,
+    "longitude": -84.168429,
+    "name": "Parador Resort & Spa Manuel Antonio",
+    "stations": [
+      {
+        "id": 739322,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2219127,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/316843"
+  },
+  {
+    "access": 1,
+    "address": "34, Junta Naranjo, Puntarenas Province, Quepos, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 291655,
+    "latitude": 9.452901,
+    "longitude": -84.166352,
+    "name": "MaxiPali",
+    "score": 10,
+    "stations": [
+      {
+        "id": 638895,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2009197,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/291655"
+  },
+  {
+    "access": 1,
+    "address": "C. 2 3, Provincia de Puntarenas, Quepos, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 493831,
+    "latitude": 9.431417769858111,
+    "longitude": -84.16405849943922,
+    "name": "Estación L2 ICE - Quepos",
+    "score": 1.4,
+    "stations": [
+      {
+        "id": 1283738,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3031103,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1283739,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3031104,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493831"
+  },
+  {
+    "access": 1,
+    "address": "Local #209, Marina Pez Vela, Provincia de Puntarenas, Quepos, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 295145,
+    "latitude": 9.42666,
+    "longitude": -84.166734,
+    "name": "Marina Pez Vela - Banco Promerica",
+    "score": 10,
+    "stations": [
+      {
+        "id": 646444,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2053568,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/295145"
+  },
+  {
+    "access": 1,
+    "address": "Pali",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 562436,
+    "latitude": 9.43166228399125,
+    "longitude": -84.16023241543455,
+    "name": "Pali Quepos",
+    "stations": [
+      {
+        "id": 1457934,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3331130,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562436"
+  },
+  {
+    "access": 1,
+    "address": "FR2J+9X Puntarenas Province, Quepos, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 493758,
+    "latitude": 9.450853370823248,
+    "longitude": -84.1676065698266,
+    "name": "BM Supermercados",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1273435,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3015635,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1273436,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3015636,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493758"
+  },
+  {
+    "access": 1,
+    "address": "Santa Cecilia, San José, San Marcos, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 244242,
+    "latitude": 9.669828,
+    "longitude": -84.025527,
+    "name": "Hotel Palenque Tarrazú",
+    "stations": [
+      {
+        "id": 529747,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 1417893,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/244242"
+  },
+  {
+    "access": 1,
+    "address": "226, San José Province, San Marcos, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 139651,
+    "latitude": 9.66959718769133,
+    "longitude": -84.02684785382841,
+    "name": "Coopesantos - San Marcos",
+    "score": 10,
+    "stations": [
+      {
+        "id": 261039,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 526511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/139651"
+  },
+  {
+    "access": 1,
+    "address": "San Isidro de El General, Provincia de San José, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 219745,
+    "latitude": 9.376328,
+    "longitude": -83.702514,
+    "name": "ICE - Servicentro CoopeAgri (120kW)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1444229,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3309620,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3309621,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3385975,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/219745"
+  },
+  {
+    "access": 1,
+    "address": "Carr. Interamericana, San José, Daniel Flores, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 189030,
+    "latitude": 9.330757,
+    "longitude": -83.669462,
+    "name": "Hyundai Pérez Zeledón",
+    "score": 10,
+    "stations": [
+      {
+        "id": 394717,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 694904,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/189030"
+  },
+  {
+    "access": 1,
+    "address": "700 m sur y 25 m oeste del INA en Residencial Halder, San José, Daniel Flores, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 557138,
+    "latitude": 9.353049801704351,
+    "longitude": -83.67975195337296,
+    "map_card_logo_url": "https://assets.plugshare.com/network-images/map_card_logos/blink_map_card.png",
+    "name": "RQL Ingenieria - Parque Frontal",
+    "stations": [
+      {
+        "id": 1443396,
+        "network_id": 2,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3308410,
+            "kilowatts": 18.818,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "thumbnail_url": "https://assets.plugshare.com/network-images/blink_thumb.png",
+    "url": "http://api.plugshare.com/view/location/557138"
+  },
+  {
+    "access": 1,
+    "address": "Centro Comercial Monte General Locales 10 y 11, San José Province, San Isidro de El General, 11901, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 541625,
+    "latitude": 9.34102914803406,
+    "longitude": -83.67335993796587,
+    "map_card_logo_url": "https://assets.plugshare.com/network-images/map_card_logos/blink_map_card.png",
+    "name": "Centro Comercial Montegeneral",
+    "stations": [
+      {
+        "id": 1442692,
+        "network_id": 2,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3307596,
+            "kilowatts": 21.6,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1442693,
+        "network_id": 2,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3307597,
+            "kilowatts": 21.6,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "thumbnail_url": "https://assets.plugshare.com/network-images/blink_thumb.png",
+    "url": "http://api.plugshare.com/view/location/541625"
+  },
+  {
+    "access": 1,
+    "address": "97JV+2PF, 243, San José Province, San Isidro de El General, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 509760,
+    "latitude": 9.380942854180795,
+    "longitude": -83.70607886463404,
+    "name": "BM Super Mercados",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1314234,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3082109,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/509760"
+  },
+  {
+    "access": 1,
+    "address": "9883+V46, Sinai, San José Province, San Isidro de El General, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 485361,
+    "latitude": 9.367566839890763,
+    "longitude": -83.69655241203581,
+    "name": "MaxiPali Pérez Zeledon",
+    "stations": [
+      {
+        "id": 1245919,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2974964,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/485361"
+  },
+  {
+    "access": 1,
+    "address": "Costado norte del Estadio Municipal de Pérez Zeledón San José Pérez Zeledón",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 407771,
+    "latitude": 9.369961,
+    "longitude": -83.704853,
+    "name": "BAC Credomatic - Sucursal Pérez Zeledón",
+    "score": 10,
+    "stations": [
+      {
+        "id": 983213,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2577452,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/407771"
+  },
+  {
+    "access": 1,
+    "address": "Edificio Wilba del Sur, Carr Interamericana, San José, San Isidro de El General, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 264142,
+    "latitude": 9.37199,
+    "longitude": -83.700194,
+    "name": "Hotel Rudys",
+    "stations": [
+      {
+        "id": 579646,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1595689,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/264142"
+  },
+  {
+    "access": 1,
+    "address": "97HW+XMM, Av. 3, San José, San Isidro de El General, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 618060,
+    "latitude": 9.379934267026936,
+    "longitude": -83.70332758873701,
+    "name": "Cabinas Praditos",
+    "stations": [
+      {
+        "id": 1621754,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3595693,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/618060"
+  },
+  {
+    "access": 1,
+    "address": "97CV+RQF, San José, San Isidro de El General, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 520454,
+    "latitude": 9.371733474638651,
+    "longitude": -83.70579790323973,
+    "name": "Banco Promerica",
+    "stations": [
+      {
+        "id": 1340799,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3125436,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/520454"
+  },
+  {
+    "access": 1,
+    "address": "88JJ+Q4F, San José, Daniel Flores, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 509264,
+    "latitude": 9.332065186341309,
+    "longitude": -83.66973124444485,
+    "name": "Supermercado CADESUR",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1312575,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3079164,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/509264"
+  },
+  {
+    "access": 1,
+    "address": "97FW+J2W, San José, San Isidro de El General, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 471402,
+    "latitude": 9.374030218856547,
+    "longitude": -83.70490808039904,
+    "name": "Coopeservidores Pérez Zeledón",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1205711,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2913003,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471402"
+  },
+  {
+    "access": 1,
+    "address": "97FW+8Q9, San José, San Isidro de El General, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 474119,
+    "latitude": 9.373433126365756,
+    "longitude": -83.70298393070698,
+    "name": "Iglesia Pérez Zeledon",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 1212862,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2923025,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/474119"
+  },
+  {
+    "access": 1,
+    "address": "Ave2, Calle1",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 219602,
+    "latitude": 9.37346,
+    "longitude": -83.702975,
+    "name": "Parque Central Pérez Zeledón",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 797127,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2295271,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 2295272,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/219602"
+  },
+  {
+    "access": 1,
+    "address": "Terminal de Buses de Talamanca, Limón, Bribrí, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 284884,
+    "latitude": 9.625391244534166,
+    "longitude": -82.85182365277862,
+    "name": "ICE - Super Bribrí (120kW)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1147005,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2910252,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2910253,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3385966,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/284884"
+  },
+  {
+    "access": 1,
+    "address": "Playa Negra, Puerto Viejo de Limón",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 332800,
+    "latitude": 9.657829,
+    "longitude": -82.773359,
+    "name": "Hotel Banana Azul",
+    "stations": [
+      {
+        "id": 783687,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2277880,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/332800"
+  },
+  {
+    "access": 1,
+    "address": "50 metros este del PANI, Limón, Bribrí, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 480098,
+    "latitude": 9.626657502595906,
+    "longitude": -82.852763235569,
+    "name": "Casa Ariel",
+    "stations": [
+      {
+        "id": 1230271,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 2949452,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/480098"
+  },
+  {
+    "access": 1,
+    "address": "Vía 256, Talamanca, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 252745,
+    "latitude": 9.658815,
+    "longitude": -82.750023,
+    "name": "De Gustibus Bakery Puerto Viejo",
+    "score": 10,
+    "stations": [
+      {
+        "id": 554239,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 1526988,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/252745"
+  },
+  {
+    "access": 1,
+    "address": "Changuinola, Ave. Via Aeropuerto, Changuinola, Provincia de Bocas del Toro, Panamá",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 592263,
+    "latitude": 9.456109328670601,
+    "longitude": -82.51790268765876,
+    "name": "Caja de Ahorros",
+    "stations": [
+      {
+        "id": 1540614,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3465147,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/592263"
+  },
+  {
+    "access": 1,
+    "address": "J8P5+VGC, Limón Province, Punta Uva, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 481087,
+    "latitude": 9.637108757895152,
+    "longitude": -82.69179760022092,
+    "name": "ICE - Bungalows Punta Uva (120kW)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1576546,
+        "outlets": [
+          {
+            "connector": 17,
+            "id": 3518315,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3518316,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3518317,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/481087"
+  },
+  {
+    "access": 1,
+    "address": "Limón Province, Puerto Viejo de Talamanca, 70403, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 291548,
+    "latitude": 9.643754,
+    "longitude": -82.729352,
+    "name": "La Pecora Nera Ristorante",
+    "stations": [
+      {
+        "id": 638541,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2004339,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/291548"
+  },
+  {
+    "access": 1,
+    "address": "salida autopista panamá, colon",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 610423,
+    "latitude": 9.339041183219736,
+    "longitude": -79.87989999353886,
+    "name": "Rotonda 4 Altos",
+    "stations": [
+      {
+        "id": 1601471,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3554378,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3554379,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610423"
+  },
+  {
+    "access": 1,
+    "address": "72-61 72-61, Sabanitas, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382413,
+    "latitude": 9.345423,
+    "longitude": -79.805966,
+    "name": "McDonald's Sabanitas - Evergo",
+    "stations": [
+      {
+        "id": 919314,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475500,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382413"
+  },
+ 
+  {
+    "access": 1,
+    "address": "Kokkuvil - Vaddukoddai Rd, Kokuvil west ,Sri Lanka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 160804,
+    "latitude": 9.699219,
+    "longitude": 80.010991,
+    "name": "Kokuvil JAFFNA",
+    "stations": [
+      {
+        "id": 319962,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 599162,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/160804"
+  },
+  {
+    "access": 1,
+    "address": "C9H4+Q9 Kilinochchi, Sri Lanka",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 620517,
+    "latitude": 9.429463961467228,
+    "longitude": 80.35590904858238,
+    "name": "GO GREEN CHARGERS (Coming Soon)",
+    "stations": [
+      {
+        "id": 1628711,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3611875,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3611876,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620517"
+  },
+  {
+    "access": 1,
+    "address": "Lot 1, 127 Phet Kasem Rd, Tambon Kapoe, Amphoe Kapoe, Chang Wat Ranong 85120, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 565001,
+    "latitude": 9.58296259783054,
+    "longitude": 98.5918252542615,
+    "name": "PEA Office Kapoe",
+    "stations": [
+      {
+        "id": 1464824,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3342090,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3342091,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3342092,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3342093,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1464825,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3342094,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3342095,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3342096,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/565001"
+  },
+  {
+    "access": 1,
+    "address": "50/3 หมู่ 3 ต.ม่วงกลวง อ.กะเปอ จ.ระนอง 85120 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 481615,
+    "latitude": 9.610113489695452,
+    "longitude": 98.54182390740965,
+    "name": "ระนอง รีสอร์ท แอนด์ ลากูน่า",
+    "stations": [
+      {
+        "id": 1235159,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2955965,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/481615"
+  },
+  {
+    "access": 1,
+    "address": "41, Tambon Prasong, Amphoe Tha Chana, Chang Wat Surat Thani 84170, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 308388,
+    "latitude": 9.529185,
+    "longitude": 99.132927,
+    "name": "Superhome",
+    "stations": [
+      {
+        "id": 716675,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2151959,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/308388"
+  },
+  {
+    "access": 1,
+    "address": "26/2 ม.5 ต.ป่าเว อ.ไชยา สุราษฎร์ธานี 84110",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 355399,
+    "latitude": 9.427135,
+    "longitude": 99.152636,
+    "name": "PTT สาขาไชยา (ขาขึ้น)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 846797,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2369693,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2369694,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3190791,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/355399"
+  },
+  {
+    "access": 1,
+    "address": "95PC+J2X ตำบล เวียง อำเภอไชยา สุราษฎร์ธานี 84150",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 439016,
+    "latitude": 9.386622,
+    "longitude": 99.170188,
+    "name": "Elex by EGAT x PT ไชยา 3",
+    "score": 8.8,
+    "stations": [
+      {
+        "id": 1066260,
+        "network_id": 1335,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2709088,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3324347,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/439016"
+  },
+  {
+    "access": 1,
+    "address": "ตำบล ละแม อำเภอละแม ชุมพร 87170",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 592895,
+    "latitude": 9.740562436742612,
+    "longitude": 99.10244510583259,
+    "name": "PEA Volta บางจาก ละแม 2 (สวนแตง)",
+    "stations": [
+      {
+        "id": 1542462,
+        "network_id": 1448,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3468120,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3468121,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/592895"
+  },
+  {
+    "access": 1,
+    "address": "15/1 ม.6 ต.เลม็ด อ.ไชยา จ.สุราษฎร์ธานี 84110 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 480325,
+    "latitude": 9.356584716580173,
+    "longitude": 99.17091646560668,
+    "name": "ร้านอาหารเพื่อนเดินทาง",
+    "stations": [
+      {
+        "id": 1230926,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2950308,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/480325"
+  },
+  {
+    "access": 1,
+    "address": "41 97 หมู่ 2 ถนนสายเอชีย ตำบล เวียง อำเภอไชยา สุราษฎร์ธานี 84110",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 562925,
+    "latitude": 9.383005999686644,
+    "longitude": 99.17120856644273,
+    "name": "โลตัส ไชยา",
+    "stations": [
+      {
+        "id": 1459348,
+        "network_id": 1478,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3333285,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3333286,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3333287,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/562925"
+  },
+  {
+    "access": 1,
+    "address": "159 ม 5 ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 539387,
+    "latitude": 9.53118327444897,
+    "longitude": 99.13290404967383,
+    "name": "PP AUTO",
+    "stations": [
+      {
+        "id": 1394802,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3212791,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/539387"
+  },
+  {
+    "access": 1,
+    "address": "P4R3+53, Lamae, Lamae District, Chumphon 86170, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 606835,
+    "latitude": 9.74022273548852,
+    "longitude": 99.10214024062411,
+    "name": "PEA Volta บางจาก ละแม 2 (สวนแตง)",
+    "stations": [
+      {
+        "id": 1589559,
+        "network_id": 1448,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3536404,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3536405,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/606835"
+  },
+  {
+    "access": 1,
+    "address": "8P6C+68P ตำบล ดอนสัก อำเภอ ดอนสัก สุราษฎร์ธานี 84220 ประเทศไทย",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 609383,
+    "latitude": 9.31060367584624,
+    "longitude": 99.7206500172615,
+    "name": "Ptt Ev",
+    "stations": [
+      {
+        "id": 1598576,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3549575,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609383"
+  },
+  {
+    "access": 1,
+    "address": "PX5R+8W, Ko Pha-ngan Sub-district, Ko Pha-ngan District, Surat Thani 84280, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 482656,
+    "latitude": 9.7078524,
+    "longitude": 99.9922335,
+    "name": "การไฟฟ้าส่วนภูมิภาค เกาะพะงัน",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1238422,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2964467,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/482656"
+  },
+  {
+    "access": 1,
+    "address": "ตำบล อ่างทอง อำเภอเกาะสมุย สุราษฎร์ธานี 84140",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 481228,
+    "latitude": 9.520315411669209,
+    "longitude": 99.93875490573903,
+    "name": "PEA VOLTA เกาะสมุย",
+    "stations": [
+      {
+        "id": 1234099,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2954434,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/481228"
+  },
+  {
+    "access": 1,
+    "address": "M3H8+2W9, Ban Tai, Ko Pha-ngan District, Surat Thani 84280, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 507130,
+    "latitude": 9.67726608443996,
+    "longitude": 100.0671215989806,
+    "name": "Phangan Bayshore",
+    "stations": [
+      {
+        "id": 1306781,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3069801,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/507130"
+  },
+  {
+    "access": 1,
+    "address": "HX8W+F8 Koh Samui, Ko Samui District, Surat Thani, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 365492,
+    "latitude": 9.566248,
+    "longitude": 99.99583,
+    "name": "Chollada Residence",
+    "stations": [
+      {
+        "id": 873954,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2407193,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/365492"
+  },
+  {
+    "access": 1,
+    "address": "5, Tambon Maret, Amphoe Ko Samui, Chang Wat Surat Thani 84310, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 371499,
+    "latitude": 9.471244,
+    "longitude": 100.066862,
+    "name": "Reinssance Koh Samui",
+    "stations": [
+      {
+        "id": 892545,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2431643,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 892546,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2431644,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/371499"
+  },
+  {
+    "access": 1,
+    "address": "273/1 ต มะเร็ต",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 561600,
+    "latitude": 9.44301167757394,
+    "longitude": 100.02307634508422,
+    "name": "Codeclean หัวถนน",
+    "stations": [
+      {
+        "id": 1455331,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3327179,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 9,
+            "id": 3327180,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/561600"
+  },
+  {
+    "access": 1,
+    "address": "ปตท บ่อผุด อ.เกาะสมุย จ.สุราษฎร์ธานี",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 484163,
+    "latitude": 9.558011660181439,
+    "longitude": 100.02661824633782,
+    "name": "PTT ปตท บ่อผุด",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1242795,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2970552,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2970553,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3047646,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484163"
+  },
+  {
+    "access": 1,
+    "address": "17/33​ Moo​1​​ Bophut​ Kohsamui​ Suratthani​, ตำบล บ่อผุด อำเภอเกาะสมุย สุราษฎร์ธานี 84320, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372425,
+    "latitude": 9.561121,
+    "longitude": 100.02599,
+    "name": "Hansar Hotel",
+    "stations": [
+      {
+        "id": 895458,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2435650,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372425"
+  },
+  {
+    "access": 1,
+    "address": "99/11 Moo5, North Chaweng, ตำบล บ่อผุด อำเภอเกาะสมุย สุราษฎร์ธานี 84320, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 412926,
+    "latitude": 9.555736,
+    "longitude": 100.079522,
+    "name": "Hyatt Regency Samui",
+    "stations": [
+      {
+        "id": 997108,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2600592,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/412926"
+  },
+  {
+    "access": 1,
+    "address": "9/99 ม.1 ต.บ่อผุด อ.เกาะสมุย จ.สุราษฎร์ธานี 84320 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 472098,
+    "latitude": 9.583976062423918,
+    "longitude": 100.07465879126283,
+    "name": "Melati Resort",
+    "stations": [
+      {
+        "id": 1207473,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2915544,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/472098"
+  },
+  {
+    "access": 1,
+    "address": "39/47 ถนน A-5 ม.บางรัก Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 566021,
+    "latitude": 9.549951650192474,
+    "longitude": 100.06536199460656,
+    "name": "EV Station Pluz Samui Airport",
+    "stations": [
+      {
+        "id": 1467114,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3345818,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3345819,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3345820,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/566021"
+  },
+  {
+    "access": 1,
+    "address": "H27C+52J, Mae Nam, Ko Samui District, Surat Thani 84320, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 378686,
+    "latitude": 9.563287,
+    "longitude": 100.020414,
+    "name": "Celes beachfront resort",
+    "stations": [
+      {
+        "id": 909581,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2459018,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/378686"
+  },
+  {
+    "access": 1,
+    "address": "208/66, Ko Samui District, Surat Thani 84310, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 520602,
+    "latitude": 9.467747439955538,
+    "longitude": 100.07072612171949,
+    "name": "Silavadee Pool Spa Resort",
+    "stations": [
+      {
+        "id": 1341207,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3126073,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/520602"
+  },
+  {
+    "access": 1,
+    "address": "G3J6+WPR, Bo Put, Ko Samui District, Surat Thani 84320, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 519250,
+    "latitude": 9.532434206349246,
+    "longitude": 100.06175823835878,
+    "name": "On-ion Central Samui",
+    "stations": [
+      {
+        "id": 1337858,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3120529,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1337859,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3120531,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1337860,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3120532,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1337861,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3120533,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1337862,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3120534,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1337863,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3120535,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/519250"
+  },
+  {
+    "access": 1,
+    "address": "ต.บ่อผุด อ.เกาะสมุย จ.สุราษฏร์ธานี 84320",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 285991,
+    "latitude": 9.53357,
+    "longitude": 100.060589,
+    "name": "เทศบาลนครเกาะสมุย",
+    "score": 1,
+    "stations": [
+      {
+        "id": 624138,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1807312,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3026490,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 624139,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1807313,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/285991"
+  },
+  {
+    "access": 1,
+    "address": "305 Nguyễn Văn Linh, phường 2, TP Sóc Trăng, Thành phố Sóc Trăng",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490079,
+    "latitude": 9.5945244,
+    "longitude": 105.9643471,
+    "name": "Bãi đỗ xe nhà hàng Gạo Tẻ",
+    "stations": [
+      {
+        "id": 1258690,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995490,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258691,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995491,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490079"
+  },
+  {
+    "access": 1,
+    "address": "VinFast Vincom Plaza, số 20-22 Trần Hưng Đạo, khóm 1, phường 2, Thành phố Sóc Trăng, Tỉnh Sóc Trăng",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490080,
+    "latitude": 9.5978844,
+    "longitude": 105.9710435,
+    "name": "VinFast Sóc Trăng",
+    "stations": [
+      {
+        "id": 1258692,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995492,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490080"
+  },
+  {
+    "access": 1,
+    "address": "agua",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585959,
+    "latitude": 8.863836131523923,
+    "longitude": -84.47618911308068,
+    "name": "cargador a eliminar",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1630409,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3615227,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585959"
+  },
+  {
+    "access": 1,
+    "address": "14264 paddock drive Wellington florida 33414 usa",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 216792,
+    "latitude": 8.962313,
+    "longitude": -83.456663,
+    "name": "ICE - Palmar Norte (120kW)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1147089,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2910244,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2910245,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3385968,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/216792"
+  },
+  {
+    "access": 1,
+    "address": "Costanera Sur n34, Provincia de Puntarenas, Uvita, 60504, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 284883,
+    "latitude": 9.171157257071712,
+    "longitude": -83.73857516795397,
+    "name": "ICE - Restaurante Flor de la Sabana (120kW)",
+    "score": 6.7,
+    "stations": [
+      {
+        "id": 1147092,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2910247,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2910248,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3385969,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/284883"
+  },
+  {
+    "access": 1,
+    "address": "Uvita ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372197,
+    "latitude": 9.13555,
+    "longitude": -83.72039,
+    "name": "La Cusinga",
+    "score": 9,
+    "stations": [
+      {
+        "id": 894727,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2434641,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372197"
+  },
+  {
+    "access": 1,
+    "address": "Ojochal de Osa",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 357245,
+    "latitude": 9.075243,
+    "longitude": -83.654467,
+    "name": "Plaza Tangara",
+    "stations": [
+      {
+        "id": 851889,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 2376260,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357245"
+  },
+  {
+    "access": 1,
+    "address": "5755+CFR, Bahía, Provincia de Puntarenas, Uvita, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 473054,
+    "latitude": 9.158179888467409,
+    "longitude": -83.74144613742828,
+    "name": "Hotel Y Restaurante Bahía Azul",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1210079,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2919159,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/473054"
+  },
+  {
+    "access": 1,
+    "address": "Uvita de Osa, frente a super la canalla, Provincia de Puntarenas, Uvita, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476793,
+    "latitude": 9.163623709818195,
+    "longitude": -83.73560120322021,
+    "name": "Restaurante Los Troncos",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1220479,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2935850,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476793"
+  },
+  {
+    "access": 1,
+    "address": "5739+RXM, Puntarenas Province, Uvita, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 612445,
+    "latitude": 9.155163025446612,
+    "longitude": -83.72986815727162,
+    "name": "Maxi Pali",
+    "stations": [
+      {
+        "id": 1606824,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3563439,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/612445"
+  },
+  {
+    "access": 1,
+    "address": "4MW9+4Q Barrio La Piñera, Provincia de Puntarenas, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 369664,
+    "latitude": 9.145293,
+    "longitude": -83.330596,
+    "name": "Gasolinera de Buenos Aires",
+    "score": 1.5,
+    "stations": [
+      {
+        "id": 885676,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2423038,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/369664"
+  },
+  {
+    "access": 1,
+    "address": "5787+CMH, Provincia de Puntarenas, Uvita, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 512280,
+    "latitude": 9.166042429182077,
+    "longitude": -83.73595431447029,
+    "name": "Supermercados BM",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 1320635,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3340064,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1463506,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3340065,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/512280"
+  },
+  {
+    "access": 1,
+    "address": "34, Puntarenas Province, Uvita",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 461323,
+    "latitude": 9.166878,
+    "longitude": -83.736002,
+    "name": "CLS Autoshop",
+    "score": 6.1,
+    "stations": [
+      {
+        "id": 1148206,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2817680,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/461323"
+  },
+  {
+    "access": 1,
+    "address": "Carretera Pacífica Fernández Oreamuno Osa Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 612858,
+    "latitude": 9.165816897867199,
+    "longitude": -83.73564550393445,
+    "name": "BM Supermercado",
+    "stations": [
+      {
+        "id": 1607895,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3565440,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1607896,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3565441,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/612858"
+  },
+  {
+    "access": 1,
+    "address": "46XR+JW Puntarenas Province, Uvita, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 467198,
+    "latitude": 9.167132,
+    "longitude": -83.735598,
+    "name": "Taller Uvita Osa Eurotaller Tecnicarve",
+    "stations": [
+      {
+        "id": 1189480,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2887381,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1189481,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 2887382,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1189482,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2887383,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/467198"
+  },
+  {
+    "access": 1,
+    "address": "Carretera Pacífica Fernández Oreamuno Osa Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 612861,
+    "latitude": 9.165924814659927,
+    "longitude": -83.73559185636805,
+    "name": "BM Supermercado",
+    "stations": [
+      {
+        "id": 1607902,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3565456,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1607903,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3565457,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/612861"
+  },
+  {
+    "access": 1,
+    "address": "Uvita de Osa, frente a super la canalla, Provincia de Puntarenas, Uvita, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476816,
+    "latitude": 9.16361211507674,
+    "longitude": -83.73566364536896,
+    "name": "Restaurante Los Troncos",
+    "score": 4.9,
+    "stations": [
+      {
+        "id": 1220536,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2935945,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476816"
+  },
+  {
+    "access": 1,
+    "address": "613, Provincia de Puntarenas, San Vito, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 366355,
+    "latitude": 8.819732,
+    "longitude": -82.970243,
+    "name": "Municipalidad de Coto Brus",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 881464,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2417457,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 2417458,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/366355"
+  },
+  {
+    "access": 1,
+    "address": "613, Provincia de Puntarenas, San Vito, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 353481,
+    "latitude": 8.819669,
+    "longitude": -82.970306,
+    "name": "Municipalidad de San Vito",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 881467,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2417462,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 2417463,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/353481"
+  },
+  {
+    "access": 1,
+    "address": "1-1017 Hacia Cerro Punta, Paso Ancho, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382396,
+    "latitude": 8.849533,
+    "longitude": -82.596718,
+    "name": "Porsche Destination Charging",
+    "stations": [
+      {
+        "id": 919265,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475446,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382396"
+  },
+  {
+    "access": 1,
+    "address": "Ninety Plus Gesha Estates, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330424,
+    "latitude": 8.826221,
+    "longitude": -82.701628,
+    "name": "Enel X - Ninety Plus Gesha Estates - 10 kW",
+    "stations": [
+      {
+        "id": 777028,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269190,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 777029,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269191,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330424"
+  },
+  {
+    "access": 1,
+    "address": "Escondido Estates 2-128, Bajo Boquete, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 378582,
+    "latitude": 8.781266,
+    "longitude": -82.442233,
+    "name": "Hotel Valle Escondido - Evergo",
+    "stations": [
+      {
+        "id": 909343,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2458691,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/378582"
+  },
+  {
+    "access": 1,
+    "address": "Hacia Calograma 7-287, Los Naranjos, Panama",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 378586,
+    "latitude": 8.792841,
+    "longitude": -82.428528,
+    "name": "The Riverside Inn Boquete - Evergo (Coming Soon)",
+    "stations": [
+      {
+        "id": 909351,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2458700,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/378586"
+  },
+  {
+    "access": 1,
+    "address": "Hacia Calograma 7-288, Los Naranjos, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 378584,
+    "latitude": 8.792011,
+    "longitude": -82.428724,
+    "name": "The Rock Boquete - Evergo",
+    "stations": [
+      {
+        "id": 909345,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2458694,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/378584"
+  },
+  {
+    "access": 1,
+    "address": "Principal Barriada Virgen de Guadalupe 275-12, La Chorrera, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382409,
+    "latitude": 8.853599,
+    "longitude": -79.81231,
+    "name": "McDonald's La Espiga - Evergo",
+    "stations": [
+      {
+        "id": 919310,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475496,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382409"
+  },
+  {
+    "access": 1,
+    "address": "Las Americas 126-177, La Chorrera, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382410,
+    "latitude": 8.888295,
+    "longitude": -79.772566,
+    "name": "McDonald's Chorrera - Evergo",
+    "stations": [
+      {
+        "id": 919311,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475497,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382410"
+  },
+  {
+    "access": 1,
+    "address": "Avenida B‎ Ville de Panama, Province de Panama, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 101603,
+    "latitude": 8.95843,
+    "longitude": -79.539382,
+    "name": "Celular",
+    "stations": [
+      {
+        "id": 170369,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 391552,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/101603"
+  },
+  {
+    "access": 1,
+    "address": "Manzana 130717 1-407, La Chorrera, Panamá",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 359777,
+    "latitude": 8.888738,
+    "longitude": -79.749923,
+    "name": "Riba Smith Market Plaza - Evergo",
+    "stations": [
+      {
+        "id": 858778,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2385923,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2385924,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/359777"
+  },
+  {
+    "access": 1,
+    "address": "Principal Costa del Este 19810, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 350587,
+    "latitude": 9.015358,
+    "longitude": -79.473934,
+    "name": "Porsche Center Panama - Evergo",
+    "stations": [
+      {
+        "id": 834430,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2353348,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2353349,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/350587"
+  },
+  {
+    "access": 1,
+    "address": "Carr. Panamericana 2-105, Panamá Oeste, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 307600,
+    "latitude": 8.928899,
+    "longitude": -79.704968,
+    "name": "La Casa de las Baterías | Vista Alegre",
+    "stations": [
+      {
+        "id": 714406,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2147802,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 714407,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2147803,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/307600"
+  },
+  {
+    "access": 1,
+    "address": "Manzana 130105 59-19, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382411,
+    "latitude": 8.899288,
+    "longitude": -79.576233,
+    "name": "The Westin Playa Bonita Panama - Evergo",
+    "stations": [
+      {
+        "id": 919312,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475498,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382411"
+  },
+  {
+    "access": 1,
+    "address": "El Carmen calle primera, Edif. via del sol apto 6-A, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 462601,
+    "latitude": 8.982533,
+    "longitude": -79.520102,
+    "name": "Evergo Novey",
+    "stations": [
+      {
+        "id": 1152493,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2823732,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2823733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/462601"
+  },
+  {
+    "access": 1,
+    "address": "C. Alberto Tejada 200, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 519340,
+    "latitude": 9.001460812910386,
+    "longitude": -79.58276988418348,
+    "name": "La plaza Ciudad del Saber",
+    "stations": [
+      {
+        "id": 1338079,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3120866,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1338080,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3120867,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/519340"
+  },
+  {
+    "access": 1,
+    "address": "Manzana 081009 23-7, San Miguelito, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382415,
+    "latitude": 9.070355,
+    "longitude": -79.463615,
+    "name": "Riba Smith Brisas del Golf - Evergo",
+    "stations": [
+      {
+        "id": 919316,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475502,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382415"
+  },
+  {
+    "access": 1,
+    "address": "Boulevard Costa del Este (Edificio Mapfre), Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330419,
+    "latitude": 9.00887,
+    "longitude": -79.476101,
+    "name": "Edificio Costa del Este (underground, parking 25, 26)",
+    "stations": [
+      {
+        "id": 777017,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269179,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 777018,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269180,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330419"
+  },
+  {
+    "access": 1,
+    "address": "Novey Centenario",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 514765,
+    "latitude": 9.030260742857637,
+    "longitude": -79.53007788749359,
+    "name": "Novey Centenario",
+    "stations": [
+      {
+        "id": 1326926,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3101974,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3101975,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/514765"
+  },
+  {
+    "access": 1,
+    "address": "XCCW+7Q7, Panamá, Provincia de Panamá, Panamá",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 599263,
+    "latitude": 8.970589154398363,
+    "longitude": -79.55329310148954,
+    "name": "Evergo Albrook",
+    "stations": [
+      {
+        "id": 1562505,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3498548,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3498549,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3498550,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3498551,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599263"
+  },
+  {
+    "access": 1,
+    "address": "Manzana 080814 139194-1, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382578,
+    "latitude": 9.031507,
+    "longitude": -79.535463,
+    "name": "AltaPlaza Mall - Celsia",
+    "stations": [
+      {
+        "id": 919672,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475896,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382578"
+  },
+  {
+    "access": 1,
+    "address": "BMW Calle 50",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 472666,
+    "latitude": 8.993425182423405,
+    "longitude": -79.5014173678704,
+    "name": "BMW Calle 50 - EverGo",
+    "stations": [
+      {
+        "id": 1209024,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2917745,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2917746,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1209025,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2917747,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 2917748,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/472666"
+  },
+  {
+    "access": 1,
+    "address": "2F2C+RCM, C. 64B Oeste, Panamá",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 472665,
+    "latitude": 9.001834519230501,
+    "longitude": -79.52919445931911,
+    "name": "Novey Los Angeles Evergo",
+    "stations": [
+      {
+        "id": 1209022,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2917743,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1209023,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2917744,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/472665"
+  },
+  {
+    "access": 1,
+    "address": "Causeway 1111, Panamá, Provincia de Panamá, Panamá",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 599262,
+    "latitude": 8.944185914517814,
+    "longitude": -79.55367833375931,
+    "name": "Evergo Parlamento",
+    "stations": [
+      {
+        "id": 1562504,
+        "network_id": 1465,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3498547,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599262"
+  },
+  {
+    "access": 1,
+    "address": "La Casa de las baterías Bethania",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 298470,
+    "latitude": 9.011823,
+    "longitude": -79.526173,
+    "name": "La Casa de las Baterías | Bethania",
+    "stations": [
+      {
+        "id": 672531,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2087121,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 672532,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2087123,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/298470"
+  },
+  {
+    "access": 1,
+    "address": "2GHP+GW2, Sta. Maria Business District, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 382418,
+    "latitude": 9.028506,
+    "longitude": -79.462769,
+    "name": "ENSA Panama - Evergo",
+    "stations": [
+      {
+        "id": 919322,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475508,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 919324,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2475510,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2475511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382418"
+  },
+  {
+    "access": 1,
+    "address": "Vía España 12705, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 298467,
+    "latitude": 8.9931,
+    "longitude": -79.519966,
+    "name": "La Casa de las Baterías | Vía España",
+    "stations": [
+      {
+        "id": 672523,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2087110,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 672524,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2087111,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/298467"
+  },
+  {
+    "access": 1,
+    "address": "Calle 50, BMW Plaza, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382587,
+    "latitude": 8.993455,
+    "longitude": -79.50152,
+    "name": "Bavarian Motors Calle 50 - BMW ChargeNow",
+    "stations": [
+      {
+        "id": 919682,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475911,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382587"
+  },
+  {
+    "access": 1,
+    "address": "Vía España Hospital San Fernando 5to Piso Panamá, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 472680,
+    "latitude": 9.00291369979048,
+    "longitude": -79.51622408020857,
+    "name": "Clínica Hospital San Fernando - Evergo",
+    "stations": [
+      {
+        "id": 1209063,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2917792,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2917793,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1209064,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2917794,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/472680"
+  },
+  {
+    "access": 1,
+    "address": "Av Paseo del Mar 611, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382420,
+    "latitude": 9.011506,
+    "longitude": -79.464888,
+    "name": "The Corner - Evergo",
+    "stations": [
+      {
+        "id": 919325,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475512,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382420"
+  },
+  {
+    "access": 1,
+    "address": "2F48+Q77, Panama City, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382424,
+    "latitude": 9.007002,
+    "longitude": -79.534133,
+    "name": "McDonald's El Dorado - Evergo",
+    "stations": [
+      {
+        "id": 919331,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475520,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382424"
+  },
+  {
+    "access": 1,
+    "address": "Av 14C Nte, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335163,
+    "latitude": 8.983266,
+    "longitude": -79.519564,
+    "name": "Nación Sushi Soho Mall",
+    "stations": [
+      {
+        "id": 789746,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2285795,
+            "kilowatts": 9.6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335163"
+  },
+  {
+    "access": 1,
+    "address": "Calle Punta Darién, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 232794,
+    "latitude": 8.983411,
+    "longitude": -79.51032,
+    "name": "Multiplaza - BMW ChargeNow",
+    "stations": [
+      {
+        "id": 507627,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1269326,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/232794"
+  },
+  {
+    "access": 1,
+    "address": "Riviera 46, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 457086,
+    "latitude": 9.017947,
+    "longitude": -79.463614,
+    "name": "novey",
+    "stations": [
+      {
+        "id": 1105004,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 2770578,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/457086"
+  },
+  {
+    "access": 1,
+    "address": "Diagonal al Supermercado Riba Smith, C. 45 Este, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 382412,
+    "latitude": 8.977167,
+    "longitude": -79.530178,
+    "name": "Riba Smith - Bella Vista - Evergo",
+    "stations": [
+      {
+        "id": 919313,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475499,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1209040,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2917763,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2917765,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382412"
+  },
+  {
+    "access": 1,
+    "address": "Av. 7aC Nte. 4018, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330845,
+    "latitude": 8.996388,
+    "longitude": -79.528417,
+    "map_card_logo_url": "https://assets.plugshare.com/network-images/map_card_logos/blink_map_card.png",
+    "name": "BYD Central America & Caribbean Panamá HQ",
+    "stations": [
+      {
+        "id": 1220953,
+        "network_id": 2,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2936544,
+            "kilowatts": 8.64,
+            "power": 0,
+            "status": "OUTOFORDER"
+          }
+        ]
+      },
+      {
+        "id": 1500455,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3402239,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "thumbnail_url": "https://assets.plugshare.com/network-images/blink_thumb.png",
+    "url": "http://api.plugshare.com/view/location/330845"
+  },
+  {
+    "access": 1,
+    "address": "Calle 62B Oeste, Panama City, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335162,
+    "latitude": 8.997351,
+    "longitude": -79.533666,
+    "name": "HS Automotriz SA",
+    "stations": [
+      {
+        "id": 789745,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2285794,
+            "kilowatts": 9.6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335162"
+  },
+  {
+    "access": 1,
+    "address": "2GFP+FRX, Panama City, Panama",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 457352,
+    "latitude": 9.023652,
+    "longitude": -79.463138,
+    "name": "RIBA Smith",
+    "stations": [
+      {
+        "id": 1105697,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2771421,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2771422,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/457352"
+  },
+  {
+    "access": 1,
+    "address": "Multiplaza Pacific Mall Via Israel Avenue, Panama City, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382676,
+    "latitude": 8.98475,
+    "longitude": -79.511876,
+    "name": "Courtyard By Marriott Panama Multiplaza Mall",
+    "stations": [
+      {
+        "id": 919874,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2476137,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382676"
+  },
+  {
+    "access": 1,
+    "address": "Principal Costa del Este 33716, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382414,
+    "latitude": 9.015977,
+    "longitude": -79.474098,
+    "name": "McDonald's Costa Del Este - Evergo",
+    "stations": [
+      {
+        "id": 919315,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475501,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382414"
+  },
+  {
+    "access": 1,
+    "address": "Sta. Maria Business District 71, Panamá, Panama",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 382419,
+    "latitude": 9.028078,
+    "longitude": -79.462457,
+    "name": "Global Bank Santa Maria - Evergo",
+    "stations": [
+      {
+        "id": 919323,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2475509,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/382419"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 18 A, Santa Cruz de Mompox, Mompós, Bolívar",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478290,
+    "latitude": 9.240386734308231,
+    "longitude": -74.4254957172038,
+    "name": "Parqueadero Municipal de Mompos",
+    "stations": [
+      {
+        "id": 1224980,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2942042,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478290"
+  },
+  {
+    "access": 1,
+    "address": "Las Vegas-Curumani, Curumaní, Cesar, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 564445,
+    "latitude": 9.198728327779424,
+    "longitude": -73.55280328541994,
+    "name": "Llantera Los Cubides",
+    "stations": [
+      {
+        "id": 1463159,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3339561,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/564445"
+  },
+  {
+    "access": 1,
+    "address": "A10, Ethiopia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 610222,
+    "latitude": 9.06549085206626,
+    "longitude": 40.91654699295759,
+    "name": "JENNENUUS ELECTRIC CAR CHARGING (Coming Soon)",
+    "stations": [
+      {
+        "id": 1600824,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3553377,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610222"
+  },
+  {
+    "access": 1,
+    "address": "3VJ8+V3J, Chiro, Ethiopia",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 603612,
+    "latitude": 9.082382486754568,
+    "longitude": 40.865531564466934,
+    "name": "ElectrifyEthiopia, Chiro, Ethiopia (Coming Soon)",
+    "stations": [
+      {
+        "id": 1577998,
+        "network_id": 1573,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3520283,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3520284,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3520285,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3520286,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/603612"
+  },
+ 
+  {
+    "access": 1,
+    "address": "525 Thalvupadu - Mannar Rd, Mannar, Sri Lanka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 243823,
+    "latitude": 8.990287,
+    "longitude": 79.876366,
+    "name": "G-Charger",
+    "stations": [
+      {
+        "id": 528690,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1408486,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/243823"
+  },
+  {
+    "access": 1,
+    "address": "525 Thalvupadu - Mannar Rd, Mannar, Sri Lanka",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 243824,
+    "latitude": 8.990287,
+    "longitude": 79.876366,
+    "name": "G-Charger",
+    "stations": [
+      {
+        "id": 528691,
+        "outlets": [
+          {
+            "connector": 9,
+            "id": 1408490,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/243824"
+  },
+  {
+    "access": 1,
+    "address": ".",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 368160,
+    "latitude": 8.76169938982596,
+    "longitude": 82.29879520833492,
+    "name": ".",
+    "stations": [
+      {
+        "id": 881194,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2947919,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/368160"
+  },
+  {
+    "access": 1,
+    "address": "Elex by Egat @ PT คุระบุรี",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 512662,
+    "latitude": 9.196244100172558,
+    "longitude": 98.40800508856773,
+    "name": "Elex by Egat @ PT คุระบุรี",
+    "stations": [
+      {
+        "id": 1321522,
+        "network_id": 1335,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3093279,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3093280,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/512662"
+  },
+  {
+    "access": 1,
+    "address": "การไฟฟ้าส่วนภูมิภาคอำเภอตะกั่วป่า",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 501878,
+    "latitude": 8.871620976968375,
+    "longitude": 98.36362068114,
+    "name": "PEA VOLTA กฟภ.ตะกั่วป่า",
+    "score": 8,
+    "stations": [
+      {
+        "id": 1294365,
+        "network_id": 1448,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3047827,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3047828,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3047829,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1294366,
+        "network_id": 1448,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3047830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3047831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/501878"
+  },
+  {
+    "access": 1,
+    "address": "V739+R3R, Takua Pa District, Phang-nga 82190, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 494023,
+    "latitude": 8.854052729983888,
+    "longitude": 98.26659312698364,
+    "name": "Pullman Khao Lak",
+    "stations": [
+      {
+        "id": 1274230,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3016804,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/494023"
+  },
+  {
+    "access": 1,
+    "address": "99 Moo 8, Khao Lak Tumbon Amphoe Takua Pa, Chang Wat Phang-nga 82190, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 494025,
+    "latitude": 8.76348210244805,
+    "longitude": 98.26553679999999,
+    "name": "Avani Khao lak resort",
+    "stations": [
+      {
+        "id": 1274232,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3016806,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1452472,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3322736,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1452473,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3322737,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/494025"
+  },
+  {
+    "access": 1,
+    "address": "43/4 ถ.นอกท่อง บ้านบางสัก ต.บางม่วง Amphoe Takua Pa, Chang Wat Phang-nga 82190, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 535296,
+    "latitude": 8.804716507177607,
+    "longitude": 98.2598277926445,
+    "name": "Le Méridien Khao Lak Resort & Spa",
+    "stations": [
+      {
+        "id": 1383224,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3190398,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3190399,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1383225,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3190400,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3190401,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/535296"
+  },
+  {
+    "access": 1,
+    "address": "69/3 หมู่ 3 ตำบล คุระ อำเภอ คุระบุรี พังงา 82150",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 586321,
+    "latitude": 9.225552156769037,
+    "longitude": 98.38590637816255,
+    "name": "PEA Volta คาลเท็กซ์ คุระบุรี",
+    "stations": [
+      {
+        "id": 1524319,
+        "network_id": 1448,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3438665,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3438666,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586321"
+  },
+  {
+    "access": 1,
+    "address": "30 ถ.เสนาราฏร์ ต.ตะกั่วป่า อ.ตะกั่วป่า จ.พังงา  82110",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584787,
+    "latitude": 8.8696713437105,
+    "longitude": 98.34624158869421,
+    "name": "PTT EV STATION PLUS  หจก. กิจโชคชัยตะกั่วป่า",
+    "stations": [
+      {
+        "id": 1520200,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3432398,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584787"
+  },
+  {
+    "access": 1,
+    "address": "69GP+PJ ตำบล คุระ อำเภอ คุระบุรี พังงา 82150 ประเทศไทย",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 586356,
+    "latitude": 9.226741038477142,
+    "longitude": 98.38647700846195,
+    "name": "ปตท.คุระบุรี",
+    "stations": [
+      {
+        "id": 1524396,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3438776,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1524397,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3438777,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586356"
+  },
+  {
+    "access": 1,
+    "address": "3, Tambon Tha Khanon, Amphoe Khiri Rat Nikhom, Chang Wat Surat Thani 84180, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 489510,
+    "latitude": 9.066503649302653,
+    "longitude": 98.87867476791143,
+    "name": "Prunchai House",
+    "stations": [
+      {
+        "id": 1257262,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2993564,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/489510"
+  },
+  {
+    "access": 1,
+    "address": "W237+956, Ban Tham Niap, Khiri Rat Nikhom District, Surat Thani 84180, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 561576,
+    "latitude": 8.903405099999999,
+    "longitude": 99.0128926,
+    "name": "สุราษฏร์ธานี",
+    "stations": [
+      {
+        "id": 1455242,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3327030,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3327031,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3327032,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/561576"
+  },
+  {
+    "access": 1,
+    "address": "กฟผ.เขื่อนรัชประภา",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 593821,
+    "latitude": 8.955774654300802,
+    "longitude": 98.80503358102796,
+    "name": "เขื่อนรัชชประภา",
+    "stations": [
+      {
+        "id": 1545106,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3472019,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3472020,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/593821"
+  },
+  {
+    "access": 1,
+    "address": "85 หมู่ 3 ถนนเอเซีย หัวเตย, อ.พุนพิน, จ.สุราษฎร์ธานี 84130",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 286648,
+    "latitude": 9.12684,
+    "longitude": 99.159488,
+    "name": "BCP พุนพิน",
+    "score": 10,
+    "stations": [
+      {
+        "id": 626128,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1837888,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2151065,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2151066,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 626129,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1837889,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2151067,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/286648"
+  },
+  {
+    "access": 1,
+    "address": "25Q2+8M Tha Rong Chang, Phunphin District, Surat Thani, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 480505,
+    "latitude": 9.043276106858546,
+    "longitude": 99.15186753202961,
+    "name": "PTT Station ปตท.ท่าโรงช้าง",
+    "score": 8,
+    "stations": [
+      {
+        "id": 1231527,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2951113,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2951115,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3092177,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/480505"
+  },
+  {
+    "access": 1,
+    "address": "44/1 หมู่ 5 ต.ท่าข้าม อ.พุนพิน จ.สุราษฎร์ธานี 84130",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 545201,
+    "latitude": 9.110744884590112,
+    "longitude": 99.20865350898852,
+    "name": "PTT พุนพิน",
+    "stations": [
+      {
+        "id": 1410645,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3248939,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3248940,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3248941,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/545201"
+  },
+  {
+    "access": 1,
+    "address": "shell surat thani",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 532947,
+    "latitude": 9.167706489562988,
+    "longitude": 99.13877868652344,
+    "name": "Shell Surat Thani (Quick Charge 180kW)",
+    "score": 6.1,
+    "stations": [
+      {
+        "id": 1376547,
+        "network_id": 1477,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3180573,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1376548,
+        "network_id": 1477,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3180574,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/532947"
+  },
+  {
+    "access": 1,
+    "address": "359F+5VX, Tha Rong Chang, Phunphin District, Surat Thani 84130, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 614460,
+    "latitude": 9.068045188092725,
+    "longitude": 99.17440541088581,
+    "name": "PTT",
+    "stations": [
+      {
+        "id": 1612414,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3576441,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1612415,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3576442,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614460"
+  },
+  {
+    "access": 1,
+    "address": "82 ม.3 ถ.สายเอเซีย อำเภอท่าฉาง, ตำบลคลองไทร อำเภอท่าฉาง สุราษฎร์ธานี 84150, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 604888,
+    "latitude": 9.187898361796286,
+    "longitude": 99.1392258447762,
+    "name": "PTT Thaksin oil",
+    "stations": [
+      {
+        "id": 1582662,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3526872,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3526873,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604888"
+  },
+  {
+    "access": 1,
+    "address": "101/3 ม.3 ต.ท่าโรงช้าง อ.พุนพิน จ.สุราษฎร์ธานี 84130 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 488686,
+    "latitude": 9.050439599999999,
+    "longitude": 99.1659514,
+    "name": "โรงแรม ณ ท่าโรงช้าง",
+    "stations": [
+      {
+        "id": 1254980,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2990014,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/488686"
+  },
+  {
+    "access": 1,
+    "address": "82 ม.3 ถ.สายเอเซีย อำเภอท่าฉาง, ตำบลคลองไทร อำเภอท่าฉาง สุราษฎร์ธานี 84150, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 610445,
+    "latitude": 9.187705900071998,
+    "longitude": 99.13919315328735,
+    "name": "ปตท.ทักษิณ ออยล์",
+    "stations": [
+      {
+        "id": 1601528,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3554463,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610445"
+  },
+  {
+    "access": 1,
+    "address": "416/14 Moo 2, Tambon Banna Amphoe Banna Doem Surat Thani, 84240, ตำบล บ้านนา อำเภอบ้านนาเดิม สุราษฎร์ธานี 84240, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585522,
+    "latitude": 8.883141903214979,
+    "longitude": 99.29473768928953,
+    "name": "Caltex PEA Volta",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1522538,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3435800,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3435801,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585522"
+  },
+  {
+    "access": 1,
+    "address": "หน่วยพัฒนาการเคลื่อนที่46",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 513944,
+    "latitude": 8.986391067504883,
+    "longitude": 99.3267822265625,
+    "name": "Ekalux’s Home changer",
+    "stations": [
+      {
+        "id": 1324645,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098327,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513944"
+  },
+  {
+    "access": 1,
+    "address": "5C5M+985, Takhian Thong, Kanchanadit District, Surat Thani 84160, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 480512,
+    "latitude": 9.157982222001648,
+    "longitude": 99.43396273010698,
+    "name": "PTT ปตท เขาแก้ว กาญจนดิษฐ์",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1239841,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2966461,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2966462,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2966463,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/480512"
+  },
+  {
+    "access": 1,
+    "address": "6, Tambon Tha Ruea, Amphoe Ban Na Doem, Chang Wat Surat Thani 84240, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 608517,
+    "latitude": 8.938552371231928,
+    "longitude": 99.26005663237086,
+    "name": "PT Elexa - บ้านนาเดิม",
+    "stations": [
+      {
+        "id": 1595709,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3545212,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3545213,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608517"
+  },
+  {
+    "access": 1,
+    "address": "3/34 Phorkhuntale Rd, Tambon Makham Tia, Amphoe Mueang Surat Thani, Chang Wat Surat Thani 84000, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 471972,
+    "latitude": 9.103017117253376,
+    "longitude": 99.31496685000432,
+    "name": "ปตท ก กิจ บายพาส",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1207114,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2915021,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2915022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3156430,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471972"
+  },
+  {
+    "access": 1,
+    "address": "ตำบลมะขามเตี้ย อำเภอเมืองสุราษฎร์ธานี สุราษฎร์ธานี 84000",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 506847,
+    "latitude": 9.114941521678231,
+    "longitude": 99.34619793475065,
+    "name": "PEA Volta ปั้มบางจาก บายพาสสุราษฎร์ธานี (กม.5)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1306068,
+        "network_id": 1448,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3068702,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3068703,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3068704,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1306069,
+        "network_id": 1448,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3068705,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3106433,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/506847"
+  },
+  {
+    "access": 1,
+    "address": "โรงแรมมาร์ลิน Marlin Hotel ซอย ศรีวิชัย 1 ต.มะขามเตี้ย อ.เมืองสุราษฎร์ธานี จ.สุราษฎร์ธานี 84000 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 371647,
+    "latitude": 9.106029,
+    "longitude": 99.304998,
+    "name": "โรงแรมมาร์ลิน Marlin Hotel",
+    "stations": [
+      {
+        "id": 892878,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2432060,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/371647"
+  },
+  {
+    "access": 1,
+    "address": "48MJ+QQ2 ตำบลตลาด อำเภอเมืองสุราษฎร์ธานี สุราษฎร์ธานี 84000",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 586018,
+    "latitude": 9.134387499999999,
+    "longitude": 99.3318906,
+    "name": "PEA VOLTA สุราษฎร์ธานี",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1523618,
+        "network_id": 1448,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437579,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3437580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3437581,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586018"
+  },
+  {
+    "access": 1,
+    "address": "99/99 ถ. กาญจนวิถี ต.บางกุ้ง อ.เมืองสุราษฎร์ธานี จ.สุราษฎร์ธานี 84000 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 453664,
+    "latitude": 9.154491,
+    "longitude": 99.349101,
+    "name": "โรงแรมเคพาร์ค สุราษฎร์ธานี",
+    "stations": [
+      {
+        "id": 1095489,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2757529,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/453664"
+  },
+  {
+    "access": 1,
+    "address": "287 ถนน เลี่ยงเมือง ตำบลมะขามเตี้ย อำเภอเมืองสุราษฎร์ธานี สุราษฎร์ธานี 84000",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 551326,
+    "latitude": 9.10516990292183,
+    "longitude": 99.30705606937408,
+    "name": "Lotus​ สุราษฎร์ธานี​",
+    "score": 5.8,
+    "stations": [
+      {
+        "id": 1426891,
+        "network_id": 1478,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3283005,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1426892,
+        "network_id": 1478,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3283006,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3324346,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/551326"
+  },
+  {
+    "access": 1,
+    "address": "323/25 ต.มะขามเตี้ย อ.เมืองสุราษฎร์ธานี จ.สุราษฎร์ธานี 84000 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476532,
+    "latitude": 9.139866999999999,
+    "longitude": 99.34774139999999,
+    "name": "ร้านดีดี เซอร์วิส",
+    "stations": [
+      {
+        "id": 1219755,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2934670,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476532"
+  },
+  {
+    "access": 1,
+    "address": "เซนทรัล สุราษฎร์ธานี ชั้น G",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 497296,
+    "latitude": 9.11027540688397,
+    "longitude": 99.30193381644688,
+    "name": "On-ion เซนทรัล สุราษฎร์ธานี",
+    "stations": [
+      {
+        "id": 1281910,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028576,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281911,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028577,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281912,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028578,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281913,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028579,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281914,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281915,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028581,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281916,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028582,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281917,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028583,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281918,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028584,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281919,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028585,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281920,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028586,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1281921,
+        "network_id": 1035,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3028587,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/497296"
+  },
+  {
+    "access": 1,
+    "address": "130 Moo 1, Liang Mueang Road, Tambon Bang Kung, Amphoe Muang Surat Thani, Surat Thani, 84000, ตำบลบางกุ้ง อำเภอเมืองสุราษฎร์ธานี สุราษฎร์ธานี 84000, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 578702,
+    "latitude": 9.149238713798967,
+    "longitude": 99.36868305424568,
+    "name": "บิ๊กซี",
+    "stations": [
+      {
+        "id": 1502017,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3404340,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3404341,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3404342,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578702"
+  },
+  {
+    "access": 1,
+    "address": "227/233 หมู่ที่4 ถนนโฉลกรัฐ ต.มะขามเตี้ย อ.เมืองสุราษฎร์ธานี จ.สุราษฎร์ธานี 84000 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 407448,
+    "latitude": 9.139864,
+    "longitude": 99.342299,
+    "name": "SUhotel Suratthani",
+    "stations": [
+      {
+        "id": 982151,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2576160,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/407448"
+  },
+  {
+    "access": 1,
+    "address": "95 93 หมู่ที่ 1 ถนน เลี่ยงเมือง Bang Kung, Amphoe Mueang Surat Thani, Chang Wat Surat Thani 84000, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 601237,
+    "latitude": 9.141810174353006,
+    "longitude": 99.36529349017832,
+    "name": "BYD B Infinite Surat Thani Bypass",
+    "stations": [
+      {
+        "id": 1568953,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3507830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3507831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3507832,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3507833,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601237"
+  },
+  {
+    "access": 1,
+    "address": "40 ม.9 ต.สิชล อ.สิชล นครศรีธรรมราช 80120",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 355402,
+    "latitude": 9.003339767456055,
+    "longitude": 99.88166809082031,
+    "name": "PTT สาขาสิชล",
+    "score": 10,
+    "stations": [
+      {
+        "id": 846801,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2369699,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2369700,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3190792,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/355402"
+  },
+  {
+    "access": 1,
+    "address": "24/45, ตำบล ท้องเนียน อำเภอ ขนอม นครศรีธรรมราช 802109.2223273,99.8536529",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 427475,
+    "latitude": 9.22219,
+    "longitude": 99.85362,
+    "name": "Le pes Villa Resort",
+    "stations": [
+      {
+        "id": 1037169,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2663262,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/427475"
+  },
+  {
+    "access": 1,
+    "address": "RWW2+P66, Plian, Sichon District, Nakhon Si Thammarat 80340, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 507880,
+    "latitude": 8.84652936382323,
+    "longitude": 99.90063198149544,
+    "name": "บางจาก บ้านท่าหิน สิชล",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1328315,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3104273,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3104274,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1328316,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3104275,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3104276,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3104277,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/507880"
+  },
+  {
+    "access": 1,
+    "address": "101 ม.7 ต.ขนอม อ.ขนอม จ.นครศรีธรรมราช 80210 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 544457,
+    "latitude": 9.142324892750345,
+    "longitude": 99.87456243306582,
+    "name": "ขนอม ซันไรส์ รีสอร์ทเเอนด์โฮเทล",
+    "stations": [
+      {
+        "id": 1408735,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3244587,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1408736,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3244588,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/544457"
+  },
+  {
+    "access": 1,
+    "address": "213 หมู่ 8 ตำบล ทุ่งใส อำเภอ สิชล นครศรีธรรมราช 80120 ประเทศไทย",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 539923,
+    "latitude": 9.029968304807095,
+    "longitude": 99.91224154829979,
+    "name": "โรงแรม Sichon Hideaway",
+    "stations": [
+      {
+        "id": 1396507,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3215914,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/539923"
+  },
+  {
+    "access": 1,
+    "address": "โรงแรมบุษบาเบลล่า 283/36 หมู่1 ต.สิชล อ.สิชล จ.นครศรีธรรมราช 80120 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 371638,
+    "latitude": 9.004081,
+    "longitude": 99.89088,
+    "name": "โรงแรมบุษบาเบลล่า",
+    "stations": [
+      {
+        "id": 892869,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2432051,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/371638"
+  },
+  {
+    "access": 1,
+    "address": "24/45 ต.ท้องเนียน อ.ขนอม จ.นครศรีธรรมราช 80210 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 427483,
+    "latitude": 9.222058,
+    "longitude": 99.854001,
+    "name": "Le Pres Villa 3",
+    "stations": [
+      {
+        "id": 1037182,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2663278,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/427483"
+  },
+  {
+    "access": 1,
+    "address": "24/45 ต.ท้องเนียน อ.ขนอม จ.นครศรีธรรมราช 80210 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 427481,
+    "latitude": 9.22219,
+    "longitude": 99.85362,
+    "name": "Le Pes Villas Resort 2",
+    "stations": [
+      {
+        "id": 1037179,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2663275,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/427481"
+  },
+  {
+    "access": 1,
+    "address": "Đường tỉnh 986A, Lô B40 khu nhà điều hành Ban quốc lộ DA cụm khí điện đạm Cà Mau, đường Ngô Quyền, phường 1, Thành phố Cà Mau, Tỉnh Cà Mau",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490073,
+    "latitude": 9.20249,
+    "longitude": 105.1285922,
+    "name": "PVOIL số 10, Cà Mau",
+    "stations": [
+      {
+        "id": 1258655,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995443,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258656,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995444,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258657,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995445,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258658,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995446,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258659,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995447,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258660,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995448,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490073"
+  },
+  {
+    "access": 1,
+    "address": "Khóm 7, Phường 7, Thành phố Cà Mau, Tỉnh Cà Mau",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490074,
+    "latitude": 9.170230462656635,
+    "longitude": 105.15359263087132,
+    "name": "Petrolimex Số 52, Cà Mau",
+    "stations": [
+      {
+        "id": 1258665,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995453,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258666,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995454,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258667,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995455,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258668,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995456,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490074"
+  }
+]

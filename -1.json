@@ -1,0 +1,1559 @@
+[
+  {
+    "access": 1,
+    "address": "Vía al Progreso",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 331412,
+    "latitude": -0.906957,
+    "longitude": -89.603416,
+    "name": "Consejo de Gobierno Galápagos - Puerto Baquerizo Moreno",
+    "stations": [
+      {
+        "id": 779827,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2272900,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/331412"
+  },
+  {
+    "access": 1,
+    "address": "Av. 4 de Noviembre entre la Calle 118 y 119",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537842,
+    "latitude": -0.9646352488113176,
+    "longitude": -80.70783583927555,
+    "name": "Metrocar Chevrolet Manta",
+    "stations": [
+      {
+        "id": 1390416,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3203958,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537842"
+  },
+  {
+    "access": 1,
+    "address": "Q979+P2V, Ambato 180101, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 349879,
+    "latitude": -1.235184,
+    "longitude": -78.632872,
+    "name": "Supermaxi Ficoa",
+    "stations": [
+      {
+        "id": 832205,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2350337,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 832206,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2350338,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/349879"
+  },
+  {
+    "access": 1,
+    "address": "Av. Visc. do R. Branco, 1629 - Padre Luiz, Bragança - PA, 68600-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 547073,
+    "latitude": -1.0455661463562875,
+    "longitude": -46.765667908027176,
+    "name": "top beach",
+    "stations": [
+      {
+        "id": 1415866,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3261167,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3261168,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/547073"
+  },
+  {
+    "access": 1,
+    "address": "QW9G+3HM, Kasarani Mwiki Rd, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585545,
+    "latitude": -1.2323059275662853,
+    "longitude": 36.926532089710236,
+    "name": "Majimazuri Autospa Kasarani",
+    "stations": [
+      {
+        "id": 1522585,
+        "network_id": 1573,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3435879,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1522586,
+        "network_id": 1573,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 3435880,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585545"
+  },
+  {
+    "access": 1,
+    "address": "TRM Dr, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 322571,
+    "latitude": -1.21941,
+    "longitude": 36.888264,
+    "name": "TRM Thika Road Mall Nairobi",
+    "stations": [
+      {
+        "id": 754797,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2239600,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/322571"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 322574,
+    "latitude": -1.211214,
+    "longitude": 36.79586,
+    "name": "Two Rivers Mall Nairobi",
+    "stations": [
+      {
+        "id": 754803,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2239606,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/322574"
+  },
+  {
+    "access": 1,
+    "address": "Village market, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 536079,
+    "latitude": -1.2297295767933216,
+    "longitude": 36.80490554521056,
+    "name": "Village Market Nopea",
+    "stations": [
+      {
+        "id": 1385393,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3193827,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/536079"
+  },
+  {
+    "access": 1,
+    "address": "600 Northern Bypass Rd, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 370138,
+    "latitude": -1.21078,
+    "longitude": 36.794642,
+    "name": "Two Rivers Mall",
+    "stations": [
+      {
+        "id": 887013,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2424869,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 887014,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2424870,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/370138"
+  },
+  {
+    "access": 1,
+    "address": ".",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 455501,
+    "latitude": -0.809174,
+    "longitude": 41.956958,
+    "name": ".",
+    "stations": [
+      {
+        "id": 1100403,
+        "outlets": [
+          {
+            "connector": 24,
+            "id": 2764816,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/455501"
+  },
+  {
+    "access": 1,
+    "address": "393C+MRJ, Sawahan Tim., Kec. Padang Tim., Kota Padang, Sumatera Barat 25171, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 599319,
+    "latitude": -0.9456825002788011,
+    "longitude": 100.37199765443802,
+    "name": "PLN UiD PADANG Sumatera BARAT",
+    "stations": [
+      {
+        "id": 1562722,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3498852,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1562723,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3498853,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1562724,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3498854,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599319"
+  },
+  {
+    "access": 1,
+    "address": "Guaranda",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 319206,
+    "latitude": -1.584541,
+    "longitude": -79.004951,
+    "name": "Cargador Doméstico",
+    "stations": [
+      {
+        "id": 747133,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3101343,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/319206"
+  },
+  {
+    "access": 1,
+    "address": "Av. Lizarzaburu y Río Guayas",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537841,
+    "latitude": -1.6429985653372938,
+    "longitude": -78.67500239676289,
+    "name": "ASSA Riobamba",
+    "stations": [
+      {
+        "id": 1390415,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3203957,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537841"
+  },
+  {
+    "access": 1,
+    "address": "Mall de los Andes, Av Atahualpa, Ambato 180103, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 272693,
+    "latitude": -1.264976,
+    "longitude": -78.628071,
+    "name": "Mall de Los Andes",
+    "stations": [
+      {
+        "id": 602293,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1671092,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 854364,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2379687,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/272693"
+  },
+  {
+    "access": 1,
+    "address": "Av. Los Chasquis, Ambato 180207, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 272694,
+    "latitude": -1.26764,
+    "longitude": -78.62401,
+    "name": "Universidad Técnica de Ambato",
+    "stations": [
+      {
+        "id": 602294,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1671093,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/272694"
+  },
+  {
+    "access": 1,
+    "address": "Av. Atahualpa y Río Guayllabamba",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537840,
+    "latitude": -1.2652436314524584,
+    "longitude": -78.62707121441804,
+    "name": "ASSA Chevrolet Ambato",
+    "stations": [
+      {
+        "id": 1390414,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3203956,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537840"
+  },
+  {
+    "access": 1,
+    "address": "V, Passagem Santa Inês, 3 - Atalaia, Ananindeua - PA, 67013-550",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 554575,
+    "latitude": -1.403378901917461,
+    "longitude": -48.429660197167216,
+    "name": "BR Eletron Distribuidora",
+    "stations": [
+      {
+        "id": 1435930,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3297003,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554575"
+  },
+  {
+    "access": 1,
+    "address": "R. Igarapé Tucunduba, 976 - Guamá, Belém - PA, 66075-123, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 290988,
+    "latitude": -1.473645,
+    "longitude": -48.455618,
+    "name": "UFPA - Cidade Universitária Prof. José Silveira Netto - Belém",
+    "score": 9.6,
+    "stations": [
+      {
+        "id": 637251,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3455269,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3455270,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 637252,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1980332,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1980333,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1980334,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290988"
+  },
+  {
+    "access": 1,
+    "address": "Tv. Barão do Triunfo, 3161 - Marco, Belém - PA, 66093-050, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 560043,
+    "latitude": -1.4342257,
+    "longitude": -48.459621,
+    "name": "Casa (Coming Soon)",
+    "stations": [
+      {
+        "id": 1451336,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3321027,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/560043"
+  },
+  {
+    "access": 1,
+    "address": "BR-316, 03 - Coqueiro, Belém de São Francisco - Pernambuco, 56440-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 570339,
+    "latitude": -1.3882376598974944,
+    "longitude": -48.41249520163832,
+    "name": "Planeta Energia",
+    "stations": [
+      {
+        "id": 1477874,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3363127,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/570339"
+  },
+  {
+    "access": 1,
+    "address": "Av. Perimetral, 206 - Marco, Belém - PA, 66095-780, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 290987,
+    "latitude": -1.466974,
+    "longitude": -48.446805,
+    "name": "CEAMAZON - PCT/Guamá",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 637249,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3418326,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290987"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mal. Hermes, S/N - Campina, Belém - PA, 66010-020",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 510306,
+    "latitude": -1.4482169490427788,
+    "longitude": -48.49932582850527,
+    "name": "Estação das Docas",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1315494,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3084046,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1315495,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3084047,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/510306"
+  },
+  {
+    "access": 1,
+    "address": "Av. Visc. de Souza Franco, 776 - Reduto, Belém - PA, 66053-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335700,
+    "latitude": -1.446029,
+    "longitude": -48.489564,
+    "name": "Shopping Boulevard",
+    "stations": [
+      {
+        "id": 791602,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2366950,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 844728,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2366951,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 844920,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2367245,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 844922,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2367248,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335700"
+  },
+  {
+    "access": 1,
+    "address": "BR 316, nº 4.500, Km 04 - Coqueiro, Ananindeua - PA, 67113-970, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 612241,
+    "latitude": -1.383942926518115,
+    "longitude": -48.409815207123756,
+    "name": "Shopping Metrópole Ananindeua",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1606313,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3562578,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1606314,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3562579,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/612241"
+  },
+  {
+    "access": 1,
+    "address": "Tv. Dom Romualdo de Seixas, 294 - Umarizal, Belém - PA, 66050-110, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578709,
+    "latitude": -1.4377330670751551,
+    "longitude": -48.49008835852146,
+    "name": "SEBRAE",
+    "stations": [
+      {
+        "id": 1502057,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3404405,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578709"
+  },
+  {
+    "access": 1,
+    "address": "Líder Doca - Av. Visc. de Souza Franco, 1088 - Subsolo - Reduto, Belém - PA, 66053-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 573693,
+    "latitude": -1.4478066641812786,
+    "longitude": -48.48803780046596,
+    "name": "Líder Doca",
+    "score": 2.2,
+    "stations": [
+      {
+        "id": 1487435,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3380076,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573693"
+  },
+  {
+    "access": 1,
+    "address": "Val-de-Cães, Belém - PA, 66825, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 354621,
+    "latitude": -1.388562,
+    "longitude": -48.464752,
+    "name": "Shopping Bosque Grão Pará",
+    "score": 6.2,
+    "stations": [
+      {
+        "id": 844977,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2367321,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/354621"
+  },
+  {
+    "access": 1,
+    "address": "Av. Centenário, 1052 - Val-de-Cães, Belém - PA, 66640-840, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 570734,
+    "latitude": -1.3900923595308532,
+    "longitude": -48.46452751492718,
+    "name": "Shopping Grão Pará (ALUBAR)",
+    "score": 7.6,
+    "stations": [
+      {
+        "id": 1478973,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3364936,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1479148,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3365221,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/570734"
+  },
+  {
+    "access": 1,
+    "address": "Av. Visc. de Souza Franco, 1195 - Reduto, Belém - PA, 66053-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 517018,
+    "latitude": -1.441133370035974,
+    "longitude": -48.49398426711559,
+    "name": "Porto Futuro",
+    "score": 5.4,
+    "stations": [
+      {
+        "id": 1275356,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3018506,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517862,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3428459,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/517018"
+  },
+  {
+    "access": 1,
+    "address": "Rod. Des. Paulo Frota, 1052 - Parque Verde, Belém - PA, 66635-894, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 599972,
+    "latitude": -1.3900892698634566,
+    "longitude": -48.46524754664086,
+    "name": "Shopping Bosque Grão Pará",
+    "stations": [
+      {
+        "id": 1565248,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3502384,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599972"
+  },
+  {
+    "access": 1,
+    "address": "Av. Doca Visconde de Souza Franco",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 452525,
+    "latitude": -1.445962,
+    "longitude": -48.489048,
+    "name": "Shopping Boulevard",
+    "stations": [
+      {
+        "id": 1089198,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2750034,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1355574,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3148361,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/452525"
+  },
+  {
+    "access": 1,
+    "address": "Av. Visconde de Souza Franco, 776",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 452530,
+    "latitude": -1.446138,
+    "longitude": -48.489687,
+    "name": "Shopping Boulevard",
+    "stations": [
+      {
+        "id": 1089205,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2750045,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/452530"
+  },
+  {
+    "access": 1,
+    "address": "Av. dos Universitários, s/n - Jaderlândia, Castanhal - PA, 68746-630",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 290989,
+    "latitude": -1.299457,
+    "longitude": -47.901484,
+    "name": "UFPA - Castanhal",
+    "score": 1,
+    "stations": [
+      {
+        "id": 637253,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1980335,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 1980336,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 1980337,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/290989"
+  },
+  {
+    "access": 1,
+    "address": "AV. 7 de janeiro 2121",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 590493,
+    "latitude": -1.2908785006863497,
+    "longitude": -48.155330780915214,
+    "name": "vila Santa Izabel",
+    "stations": [
+      {
+        "id": 1535446,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3456456,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590493"
+  },
+  {
+    "access": 1,
+    "address": "Rod Pa 136 km 77 ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 547075,
+    "latitude": -1.4173275867018251,
+    "longitude": -47.920880593799374,
+    "name": "PlugBRA Eletroposto",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1415879,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3523153,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1579927,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3523154,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/547075"
+  },
+  {
+    "access": 1,
+    "address": "Travessa Capitão Eufrasin de Andrade, 12 (B e C) - Caicara, Castanhal - PA, 68743-610, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 600705,
+    "latitude": -1.286290445072327,
+    "longitude": -47.917071618139744,
+    "name": "BeSunny Engenharia",
+    "stations": [
+      {
+        "id": 1567249,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3505407,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/600705"
+  },
+  {
+    "access": 1,
+    "address": "Major Wilson 431 Centro Castanhal-Pa",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604783,
+    "latitude": -1.291081066119577,
+    "longitude": -47.94281362195605,
+    "name": "Settesol",
+    "stations": [
+      {
+        "id": 1582194,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3526222,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604783"
+  },
+  {
+    "access": 1,
+    "address": "Trav. Primeiro de Maio, 1035",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 555337,
+    "latitude": -1.2992729017965414,
+    "longitude": -47.92982440747836,
+    "name": "Match Point",
+    "stations": [
+      {
+        "id": 1438387,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3300564,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/555337"
+  },
+  {
+    "access": 1,
+    "address": "Av presidente Vargas 1150",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 558747,
+    "latitude": -1.2975659350992066,
+    "longitude": -47.93705513318693,
+    "name": "Sol norte",
+    "stations": [
+      {
+        "id": 1447792,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3315231,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558747"
+  },
+  {
+    "access": 1,
+    "address": "BR-316, s/n, São Francisco do Pará - PA, 68748-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 473151,
+    "latitude": -1.3160271320346177,
+    "longitude": -47.713295482099056,
+    "name": "O Celeiro",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1210273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2944754,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/473151"
+  },
+  {
+    "access": 1,
+    "address": "FJRR+G79 Ruhengeri",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 511272,
+    "latitude": -1.5087125,
+    "longitude": 29.6407344,
+    "name": "Kabisa @Ruhengeri (Coming Soon)",
+    "stations": [
+      {
+        "id": 1317812,
+        "network_id": 1575,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087695,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511272"
+  },
+  {
+    "access": 1,
+    "address": "8VPQ+H3X Colline Gatete",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 511271,
+    "latitude": -1.6635125,
+    "longitude": 29.8877344,
+    "name": "Kabisa @Nyirangarama (Coming Soon)",
+    "stations": [
+      {
+        "id": 1317811,
+        "network_id": 1575,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087692,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511271"
+  },
+  {
+    "access": 1,
+    "address": "The Waterfront Karen, Mall Along Langata Road Nairobi KE, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 536078,
+    "latitude": -1.3301113411437893,
+    "longitude": 36.71536645271832,
+    "name": "Waterfront Mall EvChaja",
+    "stations": [
+      {
+        "id": 1385392,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3193825,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3193826,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/536078"
+  },
+  {
+    "access": 1,
+    "address": "Karen Rd,Karen, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 322568,
+    "latitude": -1.319168,
+    "longitude": 36.703867,
+    "name": "The Hub Nairobi",
+    "stations": [
+      {
+        "id": 754792,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2239592,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/322568"
+  },
+  {
+    "access": 1,
+    "address": "Ngong Rd, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 243994,
+    "latitude": -1.300032,
+    "longitude": 36.770647,
+    "name": "Nairobi ",
+    "stations": [
+      {
+        "id": 529101,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1411977,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 529102,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1411978,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 529103,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1411979,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/243994"
+  },
+  {
+    "access": 1,
+    "address": "100 Waiyaki Way, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 536077,
+    "latitude": -1.259520217970711,
+    "longitude": 36.77697084468615,
+    "name": "ABC Place",
+    "stations": [
+      {
+        "id": 1385391,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3193823,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/536077"
+  },
+  {
+    "access": 1,
+    "address": "Parking Lanes, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 322575,
+    "latitude": -1.261537,
+    "longitude": 36.802726,
+    "name": "Sarit Centre Nairobi",
+    "stations": [
+      {
+        "id": 754804,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2239607,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/322575"
+  },
+  {
+    "access": 1,
+    "address": "Holy Family Basillica Clock Tower, City Hall Way, Nairobi, Kenya",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 322583,
+    "latitude": -1.287588,
+    "longitude": 36.819972,
+    "name": "Holy Family Basilica Nairobi Parking Silo",
+    "stations": [
+      {
+        "id": 754818,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2239627,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 754819,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2239628,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/322583"
+  },
+  {
+    "access": 1,
+    "address": "9HRR+VVV, Sungai Putri, Kec. Telanaipura, Kota Jambi, Jambi 36124, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 495171,
+    "latitude": -1.607707576847985,
+    "longitude": 103.59227187931538,
+    "name": "Kantor PLN UP3 JAMBI",
+    "stations": [
+      {
+        "id": 1276684,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3020686,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1276685,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3020687,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/495171"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pangeran Hidayat No.38, Suka Karya, Kec. Kota Baru, Kota Jambi, Jambi 36129, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 495173,
+    "latitude": -1.6227260008734097,
+    "longitude": 103.6027579754591,
+    "name": "Deaaler HYUNDAI KOTA JAMBI",
+    "stations": [
+      {
+        "id": 1276687,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3020691,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/495173"
+  }
+]

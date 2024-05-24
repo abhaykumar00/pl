@@ -1,0 +1,4380 @@
+[
+  {
+    "access": 1,
+    "address": "NIC-16, Nicaragua",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 470632,
+    "latitude": 11.316285132397205,
+    "longitude": -85.8217426389456,
+    "name": "Subestación San Juan Del Sur",
+    "stations": [
+      {
+        "id": 1203378,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2909759,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2910314,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1203379,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2909760,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2910315,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1203380,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2910181,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1203381,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2910182,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 2910317,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1203383,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 2910316,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1207140,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2915059,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1207141,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 2915060,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470632"
+  },
+  {
+    "access": 1,
+    "address": ".",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 455982,
+    "latitude": 11.394296,
+    "longitude": 49.622688,
+    "name": ".(Coming Soon).",
+    "stations": [
+      {
+        "id": 1102000,
+        "outlets": [
+          {
+            "connector": 24,
+            "id": 2877982,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/455982"
+  },
+ 
+ 
+  {
+    "access": 1,
+    "address": "JPJG+34C, Pahargaon, Port Blair, Andaman and Nicobar Islands 744101, India",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 379727,
+    "latitude": 11.630537,
+    "longitude": 92.72454,
+    "name": "Gennext Motors-Tata Power(25kw)",
+    "stations": [
+      {
+        "id": 912596,
+        "network_id": 1012,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2463568,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/379727"
+  },
+  {
+    "access": 1,
+    "address": "ต.แสงอรุณ อ.ทับสะแก จ.ประจวบคีรีขันธ์ 77130",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 286630,
+    "latitude": 11.546263,
+    "longitude": 99.630769,
+    "name": "บางจาก ทับสะแก ปั๊มน้ำมัน",
+    "score": 10,
+    "stations": [
+      {
+        "id": 626080,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1837815,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2283724,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 626081,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1837816,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2283723,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2283725,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/286630"
+  },
+  {
+    "access": 1,
+    "address": "559 ม.4 ต.ร่อนทอง อ.บางสะพาน ประจวบคีรีขันธ์ 77230",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 355395,
+    "latitude": 11.264516,
+    "longitude": 99.438156,
+    "name": "PTT Station Bang Saphan Outbound",
+    "score": 10,
+    "stations": [
+      {
+        "id": 846793,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2369684,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3191370,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3191371,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/355395"
+  },
+  {
+    "access": 1,
+    "address": "บ้านกลางอ่าวบีชรีสอร์ท 300 หมู3 ต.ธงชัย อ.บางสะพาน จ.ประจวบคีรีขันธ์ 77190 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 457704,
+    "latitude": 11.332085,
+    "longitude": 99.557731,
+    "name": "บ้านกลางอ่าวบีช รีสอร์ท",
+    "stations": [
+      {
+        "id": 1106950,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2773041,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1106951,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2773042,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/457704"
+  },
+  {
+    "access": 1,
+    "address": "HJHX+G3H, Petchkasem Rd, Tambon Saeng Arun, Amphoe Thap Sakae, Chang Wat Prachuap Khiri Khan 77130, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 507895,
+    "latitude": 11.578660416979101,
+    "longitude": 99.6476523578167,
+    "name": "PTT Station Trong Tuang",
+    "score": 8.6,
+    "stations": [
+      {
+        "id": 1309164,
+        "network_id": 1476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3073357,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3191372,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3191373,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/507895"
+  },
+  {
+    "access": 1,
+    "address": "333/2 หมู่ 3 ต.ธงไชย อ.บางสะพาน จ.ประจวบคีรีขันธ์ 77190 TH",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 509086,
+    "latitude": 11.3487659,
+    "longitude": 99.56556309999999,
+    "name": "Baan Grood Arcadia Resort and Spa",
+    "stations": [
+      {
+        "id": 1312140,
+        "network_id": 1262,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3078454,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/509086"
+  },
+  {
+    "access": 1,
+    "address": "JVCP+7W, Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 483200,
+    "latitude": 11.620619442824845,
+    "longitude": 104.88735006239344,
+    "name": "Ministry of Public Works and Transport",
+    "stations": [
+      {
+        "id": 1240053,
+        "outlets": [
+          {
+            "connector": 17,
+            "id": 3133571,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3133572,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1345871,
+        "outlets": [
+          {
+            "connector": 17,
+            "id": 3133573,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3133574,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1345872,
+        "outlets": [
+          {
+            "connector": 17,
+            "id": 3133575,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3133576,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1345873,
+        "outlets": [
+          {
+            "connector": 17,
+            "id": 3133577,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3133578,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/483200"
+  },
+  {
+    "access": 1,
+    "address": "National road 4,Takhmau,Takhmau,kandal ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 314408,
+    "latitude": 11.479721,
+    "longitude": 104.945486,
+    "name": "ឌឹ ភីហ្សា ខមផេននី - តាខ្មៅ",
+    "stations": [
+      {
+        "id": 732969,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2204721,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2204722,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2204723,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/314408"
+  },
+  {
+    "access": 1,
+    "address": "FRQ8+2JJ, Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 497628,
+    "latitude": 11.487587540199693,
+    "longitude": 104.81651555746794,
+    "name": "PTT Prey Kei EV charging station",
+    "stations": [
+      {
+        "id": 1282677,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3029533,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/497628"
+  },
+  {
+    "access": 1,
+    "address": "HV68+XH6, Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 488965,
+    "latitude": 11.562687606399093,
+    "longitude": 104.86656256020069,
+    "name": "BMW Phnom Penh EV Charging Station",
+    "stations": [
+      {
+        "id": 1255822,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2991235,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2991236,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/488965"
+  },
+  {
+    "access": 1,
+    "address": "national Road 1, PTT near Pheng Hout Beng Snao",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584483,
+    "latitude": 11.53273062517815,
+    "longitude": 104.95371722097889,
+    "name": "PTT station Pheng Hout Boeung Snao(+EV24h)",
+    "stations": [
+      {
+        "id": 1625687,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3604904,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584483"
+  },
+  {
+    "access": 1,
+    "address": "199 Preah Trasak Paem St. (63), Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574004,
+    "latitude": 11.5518466,
+    "longitude": 104.9234425,
+    "name": "EV Energy - CM2H Office",
+    "stations": [
+      {
+        "id": 1511291,
+        "outlets": [
+          {
+            "connector": 25,
+            "id": 3472642,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574004"
+  },
+  {
+    "access": 1,
+    "address": "BKK",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578029,
+    "latitude": 11.551921343030717,
+    "longitude": 104.92351453318226,
+    "name": "BKK Fast Charger",
+    "stations": [
+      {
+        "id": 1499983,
+        "outlets": [
+          {
+            "connector": 24,
+            "id": 3404132,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578029"
+  },
+  {
+    "access": 1,
+    "address": "MVH2+V59, Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 518573,
+    "latitude": 11.6796625,
+    "longitude": 104.8504844,
+    "name": "PTT Gas Station (Prek Pnov)",
+    "stations": [
+      {
+        "id": 1336506,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3118333,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/518573"
+  },
+  {
+    "access": 1,
+    "address": "Preysa Road",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 378016,
+    "latitude": 11.500596,
+    "longitude": 104.875098,
+    "name": "Caltex Prey Sa EV Charging Station",
+    "stations": [
+      {
+        "id": 907977,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2456916,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2991238,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/378016"
+  },
+  {
+    "access": 1,
+    "address": "HV7C+V7Q, Phnom Penh Hanoi Friendship Blvd (1019), Phnom Penh",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585885,
+    "latitude": 11.5647249,
+    "longitude": 104.8707385,
+    "name": "捷路驰汽车（Jieluchiauto.co.;LTD)",
+    "stations": [
+      {
+        "id": 1523339,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3440432,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585885"
+  },
+  {
+    "access": 1,
+    "address": "TK",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578024,
+    "latitude": 11.575311685676676,
+    "longitude": 104.89160763988619,
+    "name": "Lim Long",
+    "stations": [
+      {
+        "id": 1499978,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 3431797,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578024"
+  },
+  {
+    "access": 1,
+    "address": "Chroy Chongva",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 578026,
+    "latitude": 11.645694186682565,
+    "longitude": 104.91643245185244,
+    "name": "ការិយាល័យលក់ បុរី ណាឌី",
+    "stations": [
+      {
+        "id": 1499980,
+        "outlets": [
+          {
+            "connector": 24,
+            "id": 3404133,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578026"
+  },
+  {
+    "access": 1,
+    "address": "788D NR6, Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 576835,
+    "latitude": 11.645608902086133,
+    "longitude": 104.9164791405201,
+    "name": "Nadi By CG City",
+    "stations": [
+      {
+        "id": 1504571,
+        "outlets": [
+          {
+            "connector": 24,
+            "id": 3409967,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/576835"
+  },
+  {
+    "access": 1,
+    "address": "788D NR6, Phnom Penh",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581826,
+    "latitude": 11.645606017241295,
+    "longitude": 104.91647955804055,
+    "name": "EV Energy - Nadi BY GC City",
+    "stations": [
+      {
+        "id": 1525188,
+        "outlets": [
+          {
+            "connector": 8,
+            "id": 3451463,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581826"
+  },
+  {
+    "access": 1,
+    "address": "HWC3+2J3, Russian Federation Blvd (110), Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577971,
+    "latitude": 11.570009770957832,
+    "longitude": 104.9039945288635,
+    "name": "GO EV",
+    "stations": [
+      {
+        "id": 1499871,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3401417,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577971"
+  },
+  {
+    "access": 1,
+    "address": "12353 Hun Sen Blvd, Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 489635,
+    "latitude": 11.485964121392593,
+    "longitude": 104.91981513798237,
+    "name": "Aeon Mall Mean Chey EV Charging Station",
+    "stations": [
+      {
+        "id": 1257527,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2993955,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1257528,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2993956,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/489635"
+  },
+  {
+    "access": 1,
+    "address": "867 Street 1986, Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 584573,
+    "latitude": 11.574420709881805,
+    "longitude": 104.8857282847166,
+    "name": "PTT Gas Station | PhnomPenh Thmey",
+    "stations": [
+      {
+        "id": 1519821,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3431725,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584573"
+  },
+  {
+    "access": 1,
+    "address": "#11 Phnom Penh Hanoi Friendship Blvd. (1019) Phnom Penh",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268734,
+    "latitude": 11.60958,
+    "longitude": 104.870181,
+    "name": "Sen Sok",
+    "stations": [
+      {
+        "id": 592056,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 1638037,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268734"
+  },
+  {
+    "access": 1,
+    "address": "Street 1003, Khan Sen Sok, Phnom Penh",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 378017,
+    "latitude": 11.600025,
+    "longitude": 104.884987,
+    "name": "Aeon Mall Sen Sok City",
+    "stations": [
+      {
+        "id": 907978,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2456918,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 907979,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2456919,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/378017"
+  },
+  {
+    "access": 1,
+    "address": "3 Wat Koh St. (81), Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 602888,
+    "latitude": 11.565544641535443,
+    "longitude": 104.91983458399773,
+    "name": "Charge+",
+    "stations": [
+      {
+        "id": 1575061,
+        "network_id": 1045,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3516392,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3516393,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602888"
+  },
+  {
+    "access": 1,
+    "address": "330 Street Claster, Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 549483,
+    "latitude": 11.527436907601121,
+    "longitude": 104.96112808340439,
+    "name": "Tesla wall connector",
+    "stations": [
+      {
+        "id": 1422195,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3274341,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/549483"
+  },
+  {
+    "access": 1,
+    "address": "188-182 Preah Trasak Paem St. (63)",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 586324,
+    "latitude": 11.553198921640645,
+    "longitude": 104.92338288021999,
+    "name": "EV Energy tech 001",
+    "stations": [
+      {
+        "id": 1524330,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3439057,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586324"
+  },
+  {
+    "access": 1,
+    "address": "GWRH+RFH, Phnom Penh, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 536895,
+    "latitude": 11.532762864134597,
+    "longitude": 104.95387449860573,
+    "name": "PTT CHBAR OMPOV",
+    "stations": [
+      {
+        "id": 1387922,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3198852,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/536895"
+  },
+  {
+    "access": 1,
+    "address": "Boeung Snor",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 578023,
+    "latitude": 11.532495569842006,
+    "longitude": 104.95271172028805,
+    "name": "Asia Supermarket",
+    "stations": [
+      {
+        "id": 1499977,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3401588,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/578023"
+  },
+  {
+    "access": 1,
+    "address": "MG2-06, Khu phố 1, Tây Ninh, Vietnam",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 611178,
+    "latitude": 11.319528969192158,
+    "longitude": 106.10054668039083,
+    "name": "Vin Care 30kwh",
+    "stations": [
+      {
+        "id": 1603833,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558118,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611178"
+  },
+  {
+    "access": 1,
+    "address": "134 ĐT784, Ninh Thạnh, Tây Ninh, Vietnam",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 611179,
+    "latitude": 11.352347939879149,
+    "longitude": 106.1519207060337,
+    "name": "Ngã Tư Núi 60kwh 1 Trụ",
+    "stations": [
+      {
+        "id": 1603834,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558119,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611179"
+  },
+  {
+    "access": 1,
+    "address": "Quốc lộ 1A, km1562, xã Bình Quý, Huyện Ninh Phước, Tỉnh Ninh Thuận",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490070,
+    "latitude": 11.5400872,
+    "longitude": 108.9533207,
+    "name": "PVOIL Ninh Phước",
+    "stations": [
+      {
+        "id": 1258640,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995427,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258641,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995428,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258642,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995429,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258643,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995430,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258644,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995431,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258645,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995432,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258646,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995433,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258647,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995434,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258648,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995435,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258649,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995436,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490070"
+  },
+  {
+    "access": 1,
+    "address": "Avenida 4, Provincia de Guanacaste, La Cruz, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 284880,
+    "latitude": 11.07045,
+    "longitude": -85.629399,
+    "name": "ICE - Banco Nacional (120kW)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1147067,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2910209,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2910210,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3385979,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/284880"
+  },
+  {
+    "access": 1,
+    "address": "914, Provincia de Guanacaste, Cuajiniquil, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 311238,
+    "latitude": 10.947145,
+    "longitude": -85.692947,
+    "name": "Restaurante Arrecife",
+    "stations": [
+      {
+        "id": 724300,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2173113,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/311238"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road, Provincia de Guanacaste, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 337909,
+    "latitude": 11.035792,
+    "longitude": -85.732326,
+    "name": "Dream Las Mareas Resort",
+    "score": 8.8,
+    "stations": [
+      {
+        "id": 1244833,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2973231,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1244834,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2973232,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/337909"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road, Provincia de Guanacaste, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 301349,
+    "latitude": 10.797804,
+    "longitude": -85.407341,
+    "name": "Buena Vista Del Rincon Eco Adventure Park, Hotel & Spa",
+    "stations": [
+      {
+        "id": 685990,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 2250146,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/301349"
+  },
+  {
+    "access": 1,
+    "address": "27HM+V2W, Provincia de Guanacaste, La Cruz, Playa Copal, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585465,
+    "latitude": 11.029519756645824,
+    "longitude": -85.71804139763117,
+    "name": "Hotel  Nandel Beach Resort",
+    "stations": [
+      {
+        "id": 1522406,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3439506,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585465"
+  },
+  {
+    "access": 1,
+    "address": "Carretera Parque Nacional Rincon de la Vieja",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 481350,
+    "latitude": 10.751862034315387,
+    "longitude": -85.38029833223267,
+    "name": "Hotel Hacienda Guachipelin",
+    "stations": [
+      {
+        "id": 1234457,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2954953,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1244083,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2972282,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/481350"
+  },
+  {
+    "access": 1,
+    "address": "VXXP+M38, Alajuela Province, Upala, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 357832,
+    "latitude": 10.899313,
+    "longitude": -85.014601,
+    "name": "ICE - Municipalidad de Upala (50kW)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 853606,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2378647,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2378648,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357832"
+  },
+  {
+    "access": 1,
+    "address": "Corredor Noratlántico, Upala, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 236964,
+    "latitude": 10.890793,
+    "longitude": -85.007524,
+    "name": "Hotel Wilson",
+    "stations": [
+      {
+        "id": 513248,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 1284621,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236964"
+  },
+  {
+    "access": 1,
+    "address": "918, Provincia de Alajuela, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 405909,
+    "latitude": 10.81015,
+    "longitude": -85.239036,
+    "name": "Santa Maria Volcano Lodge",
+    "stations": [
+      {
+        "id": 978456,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2571309,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/405909"
+  },
+  {
+    "access": 1,
+    "address": "164, Alajuela Province, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 386805,
+    "latitude": 10.769574,
+    "longitude": -85.187238,
+    "name": "Paraiso Lodge",
+    "stations": [
+      {
+        "id": 930871,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 2493160,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/386805"
+  },
+  {
+    "access": 1,
+    "address": "QR45+W33, Provincia de Guanacaste, Bagaces, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 424152,
+    "latitude": 10.757235,
+    "longitude": -85.192819,
+    "name": "Quinta Las Quebradas",
+    "stations": [
+      {
+        "id": 1022592,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2643973,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/424152"
+  },
+  {
+    "access": 1,
+    "address": "VXXJ+V6F, Corredor Noratlántico, Provincia de Alajuela, Upala, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 480942,
+    "latitude": 10.89926524473118,
+    "longitude": -85.01935612410307,
+    "name": "Megasuper Upala - NO EXISTE",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1233386,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2953497,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/480942"
+  },
+  {
+    "access": 1,
+    "address": "QR97+V3 Guanacaste Province, Bagaces, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 386807,
+    "latitude": 10.769652,
+    "longitude": -85.187366,
+    "name": "Paraiso Volcano Lodge",
+    "stations": [
+      {
+        "id": 930874,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2493163,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/386807"
+  },
+  {
+    "access": 1,
+    "address": "35, Provincia de Alajuela, Los Chiles, Costa Rica",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 284766,
+    "latitude": 10.974489,
+    "longitude": -84.67377,
+    "name": "ICE - Los Chiles (120kW)",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1147073,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2910268,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2910269,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 17,
+            "id": 3385980,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/284766"
+  },
+  {
+    "access": 1,
+    "address": "Avenida 2, Calle 1",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 223050,
+    "latitude": 11.030615,
+    "longitude": -84.714996,
+    "name": "Agencia ICE Los Chiles",
+    "stations": [
+      {
+        "id": 797140,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2295299,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 2295300,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/223050"
+  },
+  {
+    "access": 1,
+    "address": "Cra 51B, Puerto Colombia, Atlántico, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 361634,
+    "latitude": 11.010451,
+    "longitude": -74.910866,
+    "name": "Terpel Montecarmelo",
+    "stations": [
+      {
+        "id": 863861,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2393379,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2393380,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2393381,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/361634"
+  },
+  {
+    "access": 1,
+    "address": "Av. Alberto Assa #8750, Barranquilla, Atlántico, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 368199,
+    "latitude": 11.008627,
+    "longitude": -74.821021,
+    "name": "CC Viva",
+    "stations": [
+      {
+        "id": 881277,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2417218,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 881278,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2417220,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/368199"
+  },
+  {
+    "access": 1,
+    "address": "Cl. 30 #19-21, Sur Orient, Barranquilla, Atlántico, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 538567,
+    "latitude": 10.95553237151227,
+    "longitude": -74.78672382335388,
+    "name": "Renault San Autos",
+    "stations": [
+      {
+        "id": 1392666,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3208488,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/538567"
+  },
+  {
+    "access": 1,
+    "address": "carrera 59B #77B - 94",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601856,
+    "latitude": 11.007726388205457,
+    "longitude": -74.80313075150852,
+    "name": "Autotropical Renault",
+    "stations": [
+      {
+        "id": 1570674,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3510546,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601856"
+  },
+  {
+    "access": 1,
+    "address": "Cra. 64c #86-20, Barranquilla, Atlántico, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 368200,
+    "latitude": 11.015724,
+    "longitude": -74.814373,
+    "name": "Carulla 64C con 86 Celsia",
+    "stations": [
+      {
+        "id": 881279,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2417221,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 881280,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2417223,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/368200"
+  },
+  {
+    "access": 1,
+    "address": "calle 82 #50-71",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601858,
+    "latitude": 11.003651060385781,
+    "longitude": -74.81521670853755,
+    "name": "Carulla Calle 82",
+    "stations": [
+      {
+        "id": 1570680,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3510556,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601858"
+  },
+  {
+    "access": 1,
+    "address": "XMG5+GV Puebloviejo, Magdalena, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476037,
+    "latitude": 10.97630125119883,
+    "longitude": -74.34032072440435,
+    "name": "Dirección de Tránsito y Transporte",
+    "stations": [
+      {
+        "id": 1218399,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2932336,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476037"
+  },
+  {
+    "access": 1,
+    "address": "Calle 12 #6-60, Puebloviejo, Magdalena, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478744,
+    "latitude": 10.993388023956348,
+    "longitude": -74.28204300028072,
+    "name": "Primax",
+    "stations": [
+      {
+        "id": 1226368,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2943980,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226369,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2943981,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1226370,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2943982,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478744"
+  },
+  {
+    "access": 1,
+    "address": "Calle 23 5-7–5-99, Santa Marta, Departamento del Magdalena, Colômbia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 147186,
+    "latitude": 11.23963,
+    "longitude": -74.210343,
+    "name": "Êxito Vecino",
+    "stations": [
+      {
+        "id": 283685,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 553717,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/147186"
+  },
+  {
+    "access": 1,
+    "address": "Troncal del Caribe, CORDOBITA, Ciénaga, Magdalena, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 564526,
+    "latitude": 11.026501061356687,
+    "longitude": -74.20658335089684,
+    "name": "Terpel Voltex Rio Cordoba",
+    "stations": [
+      {
+        "id": 1463372,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3339872,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1463373,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3339873,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1463374,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3339874,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3339875,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3339876,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/564526"
+  },
+  {
+    "access": 1,
+    "address": "4QWF+HR Santa Marta, Magdalena, Colombia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 481383,
+    "latitude": 11.1464383,
+    "longitude": -74.2253906,
+    "name": "Irotama del Sol",
+    "stations": [
+      {
+        "id": 1234529,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2955033,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/481383"
+  },
+  {
+    "access": 1,
+    "address": "2QGV+M9 Ciénaga, Magdalena, Colombia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 579872,
+    "latitude": 11.02672787529067,
+    "longitude": -74.20660262772472,
+    "name": "TERPEL VOLTEX",
+    "stations": [
+      {
+        "id": 1505933,
+        "network_id": 1243,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3409947,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1505934,
+        "network_id": 1243,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3409948,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1505935,
+        "network_id": 1243,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3409949,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3409950,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/579872"
+  },
+  {
+    "access": 1,
+    "address": "Avenue Francois Vilain, Bobo Dioulasso, Burkina Faso",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 151857,
+    "latitude": 11.171075,
+    "longitude": -4.288899,
+    "name": "Hotel Villa Rose",
+    "stations": [
+      {
+        "id": 289631,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 560109,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/151857"
+  },
+ 
+  {
+    "access": 1,
+    "address": "39MC+62C ตำบล ช้างแรก อำเภอบางสะพานน้อย ประจวบคีรีขันธ์ 77170 ไทย",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 361098,
+    "latitude": 11.083007,
+    "longitude": 99.370006,
+    "name": "PT บางสะพานน้อย",
+    "score": 9.3,
+    "stations": [
+      {
+        "id": 862493,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2391411,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 862494,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2391412,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 862495,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2391413,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/361098"
+  },
+  {
+    "access": 1,
+    "address": "W7FP+CJF, Phet Kasem Rd, Tambon Khao Chai Rat, Amphoe Pathio, Chang Wat Chumphon 86210, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 586365,
+    "latitude": 10.92287193965264,
+    "longitude": 99.28617473691702,
+    "name": "Garage Chumphon Café & Restaurant",
+    "stations": [
+      {
+        "id": 1524418,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3438808,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1590661,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3537911,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1590662,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3537912,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1590663,
+        "network_id": 8,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3537913,
+            "kilowatts": 250,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1600752,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3553269,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586365"
+  },
+  {
+    "access": 1,
+    "address": "5F8X+R36, Phongprasan, Bang Saphan District, Prachuap Khiri Khan, Thailand",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372426,
+    "latitude": 11.166796,
+    "longitude": 99.497611,
+    "name": "The Chala Resort",
+    "stations": [
+      {
+        "id": 895459,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2435651,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372426"
+  },
+  {
+    "access": 1,
+    "address": "39CF+VRF, Chang Raek, Bang Saphan Noi District, Prachuap Khiri Khan 77170, Thailand",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 585842,
+    "latitude": 11.072204566180664,
+    "longitude": 99.37446587538541,
+    "name": "7-eleven บางสะพานน้อย",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1523276,
+        "network_id": 1448,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3437016,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3437017,
+            "kilowatts": 120,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3437018,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585842"
+  },
+  {
+    "access": 1,
+    "address": "PPRG+GH8, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577974,
+    "latitude": 10.781683507309214,
+    "longitude": 103.74239495013154,
+    "name": "Prey Nob-DC Fast Charge",
+    "stations": [
+      {
+        "id": 1499874,
+        "outlets": [
+          {
+            "connector": 24,
+            "id": 3404130,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577974"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 582746,
+    "latitude": 11.090424752438725,
+    "longitude": 103.93640734255314,
+    "name": "Kampong Seila Rest Area (South)",
+    "stations": [
+      {
+        "id": 1543762,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3470249,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582746"
+  },
+  {
+    "access": 1,
+    "address": "4X47+W9, Cambodia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 612167,
+    "latitude": 11.109127065896084,
+    "longitude": 103.96784452094998,
+    "name": "Total Engegies (South) Kompong Seila",
+    "stations": [
+      {
+        "id": 1606072,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3562208,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/612167"
+  },
+  {
+    "access": 1,
+    "address": "122 QL22B, Long Thành Nam, Hoà Thành, Tây Ninh, Vietnam",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 611180,
+    "latitude": 11.248864397236789,
+    "longitude": 106.12324185669422,
+    "name": "Bến Kéo 5 Trụ 60kwh",
+    "stations": [
+      {
+        "id": 1603835,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558121,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603836,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558122,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603837,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558123,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603838,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558124,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603839,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558125,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603840,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558126,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603841,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558127,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603842,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558128,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603843,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558129,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1603844,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558130,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611180"
+  },
+  {
+    "access": 1,
+    "address": "643X+VX2, Cẩm Giang, Gò Dầu District, Tây Ninh, Vietnam",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 611181,
+    "latitude": 11.204743836984608,
+    "longitude": 106.1498037725687,
+    "name": "Cẩm Giang 1 Trụ 120kwh",
+    "stations": [
+      {
+        "id": 1603845,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3558131,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611181"
+  },
+  {
+    "access": 1,
+    "address": "Khu dân cư Thới Hòa, Thị xã Bến Cát, Tỉnh Bình Dương, Thị xã Bến Cát, Tỉnh Bình Dương",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490040,
+    "latitude": 11.1044443,
+    "longitude": 106.6232359,
+    "name": "ASD",
+    "stations": [
+      {
+        "id": 1258494,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995262,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258495,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995263,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258496,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995264,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490040"
+  },
+  {
+    "access": 1,
+    "address": "161 XL Hà Nội, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 469059,
+    "latitude": 10.802103,
+    "longitude": 106.740044,
+    "name": "VinFast Thảo Điền",
+    "stations": [
+      {
+        "id": 1198583,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2903503,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2903504,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1198584,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2903505,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2903506,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1198585,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2903507,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2903508,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1198586,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2903509,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2903510,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1198587,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2903511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2903512,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1198588,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2903513,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2903514,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1198589,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2903515,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2903516,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1198590,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2903517,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2903518,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/469059"
+  },
+  {
+    "access": 1,
+    "address": "12 Đ. Phan Văn Trị, Phường 5, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478593,
+    "latitude": 10.826999475905065,
+    "longitude": 106.68907932937145,
+    "name": "Vincom Plaza Gò Vấp",
+    "stations": [
+      {
+        "id": 1225840,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943334,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225841,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943335,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225842,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943336,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225843,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943337,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225844,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943338,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225845,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943339,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225846,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943340,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225847,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943341,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225848,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943342,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225849,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943343,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225850,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943344,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225851,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943345,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225852,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943346,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225853,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943347,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225854,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943348,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225855,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943349,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225856,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943350,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225857,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943351,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225858,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943352,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225859,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943353,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225860,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943354,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225861,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943355,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225862,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943356,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225863,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943357,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225864,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943358,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225865,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943359,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225866,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943360,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225867,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943361,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225868,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943362,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225869,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943363,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225870,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943364,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225871,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943365,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225872,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943366,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225873,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943367,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225874,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943368,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225875,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943369,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225876,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943370,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225877,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 2943371,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225878,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943372,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225879,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943373,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225880,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943374,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225881,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943375,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225882,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943376,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1225883,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2943377,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478593"
+  },
+  {
+    "access": 1,
+    "address": "9 Đinh Tiên Hoàng, phường Đa Kao, Quận 1, Thành phố Trung ương Hồ Chí Minh",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490034,
+    "latitude": 10.7876363,
+    "longitude": 106.6999599,
+    "name": "Saigon Finance Center",
+    "stations": [
+      {
+        "id": 1258473,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995241,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258474,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995242,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490034"
+  },
+  {
+    "access": 1,
+    "address": "6 Đường Trần Não, P. Bình An, Quận 2, Hồ Chí Minh, Việt Nam",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 168122,
+    "latitude": 10.790391,
+    "longitude": 106.731386,
+    "name": "Công ty Quà Tặng Natra (Coming Soon)",
+    "stations": [
+      {
+        "id": 339686,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 623648,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/168122"
+  },
+  {
+    "access": 1,
+    "address": "720A Điện Biên Phủ, Bình Thạnh, TP HCM",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 511899,
+    "latitude": 10.7950746,
+    "longitude": 106.7220933,
+    "name": "Landmark 81",
+    "stations": [
+      {
+        "id": 1319499,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609714,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3609715,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3609716,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627672,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609717,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3609718,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3609719,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627673,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609720,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3609721,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3609722,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627674,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609723,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3609724,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3609725,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627675,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609726,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3609727,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3609728,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627676,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609729,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3609730,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3609731,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511899"
+  },
+  {
+    "access": 1,
+    "address": "Hẻm 126 Tôn Thất Đạm, Ben Nghe, Quận 1, Ho Chi Minh City, Vietnam",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 174589,
+    "latitude": 10.772751,
+    "longitude": 106.703252,
+    "name": "EV Pik",
+    "stations": [
+      {
+        "id": 357037,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 645852,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 357038,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 645853,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 1,
+            "id": 645854,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/174589"
+  },
+  {
+    "access": 1,
+    "address": "72A Lê Thánh Tôn",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 511909,
+    "latitude": 10.7780263,
+    "longitude": 106.7020418,
+    "name": "Vincom WinMart",
+    "stations": [
+      {
+        "id": 1319525,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3090286,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3090287,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1319526,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3090288,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3090289,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1319527,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3090290,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1319528,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3090291,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1319529,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3090292,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1319530,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3090293,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511909"
+  },
+  {
+    "access": 1,
+    "address": "6B Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Việt Nam",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 583550,
+    "latitude": 10.78518302993238,
+    "longitude": 106.7034462466836,
+    "name": "EV ONE Trạm Sạc Điện (Coming Soon)",
+    "stations": [
+      {
+        "id": 1516929,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3427059,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1516930,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3427060,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1516931,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427061,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1516932,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427062,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583550"
+  },
+  {
+    "access": 1,
+    "address": "161, đường Xa lộ Hà Nội, Thành phố Thủ Đức, Thành phố Trung ương Hồ Chí Minh",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 489963,
+    "latitude": 10.8023796,
+    "longitude": 106.7409716,
+    "name": "Vincom Mega Mall",
+    "stations": [
+      {
+        "id": 1258306,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995049,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258307,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995050,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258308,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995051,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258309,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995052,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258310,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995053,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258311,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995054,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258312,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995055,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258313,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995056,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258314,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995057,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258315,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995058,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/489963"
+  },
+  {
+    "access": 1,
+    "address": "1096 Phạm Văn Thuận, Thành phố Biên Hòa, Tỉnh Đồng Nai",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490038,
+    "latitude": 10.9575702,
+    "longitude": 106.8432832,
+    "name": "Vincom Plaza Biên Hòa",
+    "stations": [
+      {
+        "id": 1258482,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995250,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258483,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995251,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258484,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995252,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258485,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995253,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490038"
+  },
+  {
+    "access": 1,
+    "address": "251 Lê Duẫn, TT Long Thành, Huyện Lòng Thành, Tỉnh Đồng Nai",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 511904,
+    "latitude": 10.7842842,
+    "longitude": 106.9505714,
+    "name": "PNJ Vincom Long Thành",
+    "stations": [
+      {
+        "id": 1319510,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3090254,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1319511,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3090255,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511904"
+  },
+  {
+    "access": 1,
+    "address": "Đ. tỉnh 747, số 01/A, tổ 1, phường Hội Nghĩa, Thị xã Tân Uyên, Tỉnh Bình Dương",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490039,
+    "latitude": 11.1073524,
+    "longitude": 106.7647475,
+    "name": "PVOIL số 10, Bình Dương",
+    "stations": [
+      {
+        "id": 1258486,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995254,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258487,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995255,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258488,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995256,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258489,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995257,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258490,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995258,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258491,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995259,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258492,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995260,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258493,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995261,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490039"
+  },
+  {
+    "access": 1,
+    "address": "50, đường Lê Văn Việt, Thành phố Thủ Đức, Thành phố Trung ương Hồ Chí Minh",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490096,
+    "latitude": 10.8449727,
+    "longitude": 106.7786146,
+    "name": "Vincom Plaza Lê Văn Việt",
+    "stations": [
+      {
+        "id": 1258765,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995572,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258766,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995573,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258767,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995574,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258768,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995575,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258769,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995576,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258770,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995577,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490096"
+  },
+  {
+    "access": 1,
+    "address": "Vo Chi Công street ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 520893,
+    "latitude": 10.803024232814211,
+    "longitude": 106.7919877261269,
+    "name": "PV Oil Station with Charger",
+    "stations": [
+      {
+        "id": 1342021,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3127440,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/520893"
+  },
+  {
+    "access": 1,
+    "address": "151, đường Nguyễn Thông, tổ 72, khu phố 5, phường Phú Hải, Thành phố Phan Thiết, Tỉnh Bình Thuận",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490069,
+    "latitude": 10.938420815553512,
+    "longitude": 108.14811364178604,
+    "name": "Trạm dừng nghỉ Hải Thắng",
+    "stations": [
+      {
+        "id": 1258636,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995423,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258637,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995424,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258638,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995425,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258639,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995426,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490069"
+  },
+  {
+    "access": 1,
+    "address": "Quốc lộ 1A, km1642, thôn Tịnh Mỹ, Huyện Bắc Bình, Tỉnh Bình Thuận",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 490085,
+    "latitude": 11.2203239,
+    "longitude": 108.4866137,
+    "name": "PVOIL Tịnh Mỹ",
+    "stations": [
+      {
+        "id": 1258711,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258712,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995512,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258713,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995513,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1258714,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2995514,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/490085"
+  }
+]

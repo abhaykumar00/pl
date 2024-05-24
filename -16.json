@@ -1,0 +1,7900 @@
+[
+  {
+    "access": 1,
+    "address": "Av. Sequicentenario 1970",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 327767,
+    "latitude": -15.823875,
+    "longitude": -69.99572,
+    "name": "Enel X - Hotel Casa Andina",
+    "stations": [
+      {
+        "id": 770783,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2260918,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771132,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261443,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/327767"
+  },
+  {
+    "access": 1,
+    "address": "Hotel Gloria, Copacabana, Bolivia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330359,
+    "latitude": -16.166751,
+    "longitude": -69.088558,
+    "name": "Enel X - Hotel Gloria, Copacabana - 10 kW",
+    "stations": [
+      {
+        "id": 776886,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269013,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 776887,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269014,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330359"
+  },
+  {
+    "access": 1,
+    "address": "Av. São Luís, 415 - Jardim Sao Luis, Cáceres - MT, 78200-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 598940,
+    "latitude": -16.080507089089615,
+    "longitude": -57.69948285073041,
+    "name": "Restaurante Carretão",
+    "stations": [
+      {
+        "id": 1560980,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3496535,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/598940"
+  },
+  {
+    "access": 1,
+    "address": "R. dos Talhamares, 1620 - Jardim Marajoara, Cáceres - MT, 78200-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 455844,
+    "latitude": -16.091216,
+    "longitude": -57.680333,
+    "name": "Hotel Village",
+    "stations": [
+      {
+        "id": 1101612,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2986733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/455844"
+  },
+  {
+    "access": 1,
+    "address": "R. dos Coqueiros, 545 - Santa Cruz, Cáceres - MT, 78200-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 551386,
+    "latitude": -16.084621647542836,
+    "longitude": -57.69027918577194,
+    "name": "Suportec",
+    "stations": [
+      {
+        "id": 1427018,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3283230,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/551386"
+  },
+  {
+    "access": 1,
+    "address": "Caité, Mato Grosso",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 338275,
+    "latitude": -15.831587,
+    "longitude": -55.502329,
+    "name": "EFX - SAU.06 Rota do Oeste",
+    "score": 9,
+    "stations": [
+      {
+        "id": 798088,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2296557,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/338275"
+  },
+  {
+    "access": 1,
+    "address": "BR-364, 34294-34530 - Jardim Belo Horizonte, Rondonópolis - MT, 78705-846, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 479954,
+    "latitude": -16.2114744828389,
+    "longitude": -54.77878723293543,
+    "name": "Posto Pegoraro",
+    "score": 1.6,
+    "stations": [
+      {
+        "id": 1229973,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2949037,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/479954"
+  },
+  {
+    "access": 1,
+    "address": "R. Aurora, 2 - Centro, Pirenópolis - GO, 72980-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 532241,
+    "latitude": -15.849506501816963,
+    "longitude": -48.95748817071258,
+    "name": "Estação YellotMob - Restaurante Chico de Sá",
+    "score": 5.6,
+    "stations": [
+      {
+        "id": 1374707,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3177701,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/532241"
+  },
+  {
+    "access": 1,
+    "address": "Rua Major Sebastião Pompeu Q2 - lote 10 - Bairro do Carmo, Pirenópolis - GO, 72980-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 471358,
+    "latitude": -15.844719904507071,
+    "longitude": -48.962750199999995,
+    "name": "Pousada Flores do Carmo",
+    "score": 7.6,
+    "stations": [
+      {
+        "id": 1512705,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3420477,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3420478,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471358"
+  },
+  {
+    "access": 1,
+    "address": "Estrada sem nome - Alexânia, GO, 72920-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 579459,
+    "latitude": -16.119546978653446,
+    "longitude": -48.3983999374861,
+    "name": "Outlet Premium Brasilia",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1507839,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3412979,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1507840,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3412982,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/579459"
+  },
+  {
+    "access": 1,
+    "address": "BR-060, KM 64 - Abadiânia/GO",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 312741,
+    "latitude": -16.191405,
+    "longitude": -48.724595,
+    "name": "Jerivá Sentido Goiânia Brasília",
+    "score": 6.5,
+    "stations": [
+      {
+        "id": 728573,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2188505,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 887473,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2425527,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 887474,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2425528,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/312741"
+  },
+  {
+    "access": 1,
+    "address": "BR-060 s/n Zona Rural - Abadiânia, GO, 72940-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 571144,
+    "latitude": -16.185284787084044,
+    "longitude": -48.68855740875006,
+    "name": "YellotMob | Restaurante Route 60",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1480208,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3366981,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1480209,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3366982,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1588236,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3534464,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3534465,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571144"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia BR-060 km 60 Abadiânia- GO",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 311141,
+    "latitude": -16.184471,
+    "longitude": -48.690182,
+    "name": "Shell Recharge | Restaurante Jerivá",
+    "score": 10,
+    "stations": [
+      {
+        "id": 724116,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2172185,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 724117,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2172186,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 724118,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2172187,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513739,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3422125,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513740,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3422126,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/311141"
+  },
+  {
+    "access": 1,
+    "address": "R886+44 Abadiânia, GO, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 614851,
+    "latitude": -16.18462752086564,
+    "longitude": -48.689669100613045,
+    "name": "bmw 0800",
+    "stations": [
+      {
+        "id": 1613493,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3578451,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614851"
+  },
+  {
+    "access": 1,
+    "address": "condomínio Monte verde",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478635,
+    "latitude": -15.8067228157493,
+    "longitude": -48.22104259859418,
+    "name": "Casa Willian",
+    "stations": [
+      {
+        "id": 1226012,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2943559,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478635"
+  },
+  {
+    "access": 1,
+    "address": "St. Leste Área Industrial lt 1 parte 1 - Gama, Brasília - DF, 72460-400",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 571322,
+    "latitude": -15.998854565207347,
+    "longitude": -48.052229387033336,
+    "name": "Super Adega Gama",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 1480717,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3367871,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571322"
+  },
+  {
+    "access": 1,
+    "address": "Av. Sibipiruna, 06 - Loja 02 - Águas Claras, Brasília - DF, 71928-720, Brazil",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 617939,
+    "latitude": -15.84190613072699,
+    "longitude": -48.03139978705481,
+    "name": "Posto Garantia 30KW (Coming Soon)",
+    "stations": [
+      {
+        "id": 1621362,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3595039,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3595040,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3595041,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617939"
+  },
+  {
+    "access": 1,
+    "address": "Av. Vilma dos Reis Roriz - SQ 13, Quadra 8 - Cidade Ocidental, GO, 72880-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 594011,
+    "latitude": -16.11174493106474,
+    "longitude": -47.929625026881695,
+    "name": "Energy Soluções",
+    "stations": [
+      {
+        "id": 1545567,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3472759,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/594011"
+  },
+  {
+    "access": 1,
+    "address": "0 - Q. 101 - São Bartolomeu (São Sebastião), Brasília - DF, 71697-001, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 314248,
+    "latitude": -15.899981,
+    "longitude": -47.774517,
+    "name": "Administração Regional de São Sebastião",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 732528,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2202801,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/314248"
+  },
+  {
+    "access": 1,
+    "address": "Praça Central, s/n - lt 1 - Paranoá, Brasília - DF, 71570-050, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 236386,
+    "latitude": -15.778866,
+    "longitude": -47.780175,
+    "name": "Administração Regional de Paranoá",
+    "score": 8,
+    "stations": [
+      {
+        "id": 511589,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278873,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 511590,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278874,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236386"
+  },
+  {
+    "access": 1,
+    "address": "Centro Urbano - Samambaia Sul, Brasília - DF, 72300-655",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 241107,
+    "latitude": -15.880236,
+    "longitude": -48.086552,
+    "name": "Administração Regional de Samambaia",
+    "score": 8,
+    "stations": [
+      {
+        "id": 523492,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1347523,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3426813,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/241107"
+  },
+  {
+    "access": 1,
+    "address": "QNM 13, Módulo B - Ceilândia - Ceilândia, Brasília - DF, 72215-130",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 241108,
+    "latitude": -15.822761,
+    "longitude": -48.101105,
+    "name": "Administração Regional de Ceilândia",
+    "score": 6.7,
+    "stations": [
+      {
+        "id": 523494,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1347527,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 523495,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1347528,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/241108"
+  },
+  {
+    "access": 1,
+    "address": "0 - SH Estrada do Sol Q 4 - St. Hab. Jardim Bota, Brasília - DF, 71680-350, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583940,
+    "latitude": -15.84429371367195,
+    "longitude": -47.758224485091105,
+    "name": "Carlos",
+    "stations": [
+      {
+        "id": 1518007,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3428864,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583940"
+  },
+  {
+    "access": 1,
+    "address": "Jardim Botânico ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 570043,
+    "latitude": -15.867745244400368,
+    "longitude": -47.83967372627786,
+    "name": "Carregador do Jardim Botânico",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1477125,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3361921,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1616003,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3584358,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/570043"
+  },
+  {
+    "access": 1,
+    "address": "Av. Bela Vista, S/N - Jardim Botânico, Brasília - DF, 70297-400",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 558553,
+    "latitude": -15.889392,
+    "longitude": -47.7961639,
+    "name": "Estação YellotMob - Super Adega",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 1447198,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3314391,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558553"
+  },
+  {
+    "access": 1,
+    "address": "CJ C - Saan Quadra 3, s/n - Asa Norte, Brasília - DF, 70632-300, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 344293,
+    "latitude": -15.763706,
+    "longitude": -47.933093,
+    "name": "Bali Jeep/Fiat Saan",
+    "score": 1.7,
+    "stations": [
+      {
+        "id": 884866,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2421845,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 885190,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2422327,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1020904,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2641567,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1020905,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2641568,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/344293"
+  },
+  {
+    "access": 1,
+    "address": "Estrada sem nome - Sps - Brasília, DF, 70377-510, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 457581,
+    "latitude": -15.830148,
+    "longitude": -47.931364,
+    "name": "ENAP",
+    "score": 8.9,
+    "stations": [
+      {
+        "id": 1106528,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2772447,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3462922,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/457581"
+  },
+  {
+    "access": 1,
+    "address": "SGCV Lote 9, , (St Garagens e Conces de Veículos) - Zona Industrial (Guará) Brasília - Distrito Federal ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 600798,
+    "latitude": -15.823180290455301,
+    "longitude": -47.95237942746715,
+    "name": "BYD SAGA",
+    "score": 6.1,
+    "stations": [
+      {
+        "id": 1567668,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3505939,
+            "kilowatts": 30,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1608029,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3574197,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3574198,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/600798"
+  },
+  {
+    "access": 1,
+    "address": "Taguatinga Norte QNL 2 - Taguatinga, Brasília - DF, 72115-300",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 571228,
+    "latitude": -15.834149036393066,
+    "longitude": -48.07363364262018,
+    "name": "Super Adega",
+    "score": 5.6,
+    "stations": [
+      {
+        "id": 1480380,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3367324,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571228"
+  },
+  {
+    "access": 1,
+    "address": "St. de Habitações Individuais Sul Lote 1/30 - Lago Sul, Brasília - DF, 71630-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 199591,
+    "latitude": -15.824769,
+    "longitude": -47.872564,
+    "name": "Pontão do Lago Sul",
+    "score": 10,
+    "stations": [
+      {
+        "id": 423371,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 741341,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/199591"
+  },
+  {
+    "access": 1,
+    "address": "Lote 05 - ST, Spms, Loja 1 - Núcleo Bandeirante, Brasília - DF, 71738-010, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 317559,
+    "latitude": -15.853124,
+    "longitude": -47.955995,
+    "name": "NISSAN Grand Premier - SPMS LOTE 5 LOJA 1 - Enel X - 7KW",
+    "stations": [
+      {
+        "id": 741082,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2221454,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/317559"
+  },
+  {
+    "access": 1,
+    "address": "Av. Hélio Prates, 1 - Taguatinga, Brasília - DF, 72145-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 357187,
+    "latitude": -15.809538,
+    "longitude": -48.093798,
+    "name": "JK Shopping",
+    "score": 10,
+    "stations": [
+      {
+        "id": 851768,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2376081,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357187"
+  },
+  {
+    "access": 1,
+    "address": "Guará II QE 25 - Guará, Brasília - DF, 71051-970",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 249232,
+    "latitude": -15.82537,
+    "longitude": -47.975557,
+    "name": "Administração Regional de Guará",
+    "score": 8.9,
+    "stations": [
+      {
+        "id": 545127,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3500714,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/249232"
+  },
+  {
+    "access": 1,
+    "address": "Estrada Ern, Plano Piloto de Brasília, Brasília - DF, 70803-170, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 170575,
+    "latitude": -15.754561602255158,
+    "longitude": -47.88712627079538,
+    "name": "Posto Ipiranga",
+    "score": 1,
+    "stations": [
+      {
+        "id": 346493,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 632468,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/170575"
+  },
+  {
+    "access": 1,
+    "address": "R. 25 Sul, 18 - Águas Claras, Brasília - DF, 71927-180, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 563108,
+    "latitude": -15.841450237334062,
+    "longitude": -48.02973925456155,
+    "name": "Terral",
+    "score": 1.4,
+    "stations": [
+      {
+        "id": 1459736,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3334041,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/563108"
+  },
+  {
+    "access": 1,
+    "address": "Avenida das Nações, Via L 4 Sul s/n, Candangolândia, Brasília - DF, 70610-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 236385,
+    "latitude": -15.850836299068362,
+    "longitude": -47.93930947780609,
+    "name": "Zoológico de Brasília",
+    "score": 10,
+    "stations": [
+      {
+        "id": 511588,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278872,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1579392,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3522378,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236385"
+  },
+  {
+    "access": 1,
+    "address": "1 Esportivo Sul - St. de Clubes Esportivos Sul - Asa Sul, Brasília - DF, 70200-001, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 371759,
+    "latitude": -15.833582,
+    "longitude": -47.892667,
+    "name": "Porsche Estação de Carregamento - Rubaiyat Brasília",
+    "score": 3.7,
+    "stations": [
+      {
+        "id": 893115,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2432436,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 893116,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2432437,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/371759"
+  },
+  {
+    "access": 1,
+    "address": "SHCS 304/305, s/n Bloco A MC, Brasília - DF, 70337-010, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 214887,
+    "latitude": -15.806596,
+    "longitude": -47.898079,
+    "name": "Pão de Açúcar",
+    "score": 6.1,
+    "stations": [
+      {
+        "id": 462940,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 995577,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/214887"
+  },
+  {
+    "access": 1,
+    "address": "UnB - Laboratório de Termociência e Metrologia Dinâmica - Brasília, DF, 70297-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 167762,
+    "latitude": -15.761485,
+    "longitude": -47.874226,
+    "name": "UNB Laboratório De Termociência E Metrologia Dinâmica",
+    "score": 1,
+    "stations": [
+      {
+        "id": 338580,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 622274,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/167762"
+  },
+  {
+    "access": 1,
+    "address": "Q. Sig Quadra 6 Din, 1425 - Zona Industrial, Brasília - DF, 70610-460, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 236366,
+    "latitude": -15.793741,
+    "longitude": -47.915374,
+    "name": "Administração Sudoeste",
+    "score": 1,
+    "stations": [
+      {
+        "id": 511548,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278784,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 511549,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278785,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236366"
+  },
+  {
+    "access": 1,
+    "address": "Praça do Relógio Lote A, Taguatinga, Brasília - DF, 70297-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 236364,
+    "latitude": -15.83273,
+    "longitude": -48.056656,
+    "name": "Administração Regional de Taguatinga",
+    "stations": [
+      {
+        "id": 511544,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278779,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 511545,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278780,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236364"
+  },
+  {
+    "access": 1,
+    "address": "Rua 04 A, Travessa 04 - Vicente Pires, DF, 72110-800, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 236368,
+    "latitude": -15.814729,
+    "longitude": -48.015405,
+    "name": "Administração Regional de Vicente Pires",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 511553,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278789,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 511554,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278790,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236368"
+  },
+  {
+    "access": 1,
+    "address": "1, St. de Clubes Esportivos Sul Trecho 2, Brasília - DF, CEP 70297-400",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456909,
+    "latitude": -15.817219,
+    "longitude": -47.837003,
+    "name": "Restaurante Nau",
+    "score": 3.7,
+    "stations": [
+      {
+        "id": 1104610,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2770008,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2770009,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456909"
+  },
+  {
+    "access": 1,
+    "address": "SIA - Guará, Brasília - DF, 70297-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 236377,
+    "latitude": -15.813851,
+    "longitude": -47.966315,
+    "name": "Secretaria de Saúde - Parque de Apoio",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 511572,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278829,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3462935,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236377"
+  },
+  {
+    "access": 1,
+    "address": "CSC, Área Especial 07 - Taguatinga, Brasília - DF, 72016-011",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 602478,
+    "latitude": -15.8067361,
+    "longitude": -48.085449,
+    "name": "Associação da Feira Central de Taguatinga (ASFCT/DF)",
+    "stations": [
+      {
+        "id": 1573290,
+        "network_id": 1617,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3514066,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/602478"
+  },
+  {
+    "access": 1,
+    "address": "R. Copaíba, lote 01 - Águas Claras, Brasília - DF, CEP 71919-540",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456892,
+    "latitude": -15.831589,
+    "longitude": -48.040735,
+    "name": "DF Plaza Shopping",
+    "score": 3.4,
+    "stations": [
+      {
+        "id": 1104579,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2769965,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2769966,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1104580,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2769967,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2769968,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456892"
+  },
+  {
+    "access": 1,
+    "address": " BrasilPraça dos Tribunais Superiores SAU/SUL 5, Via S3 - Asa Sul, DF, 70070-900",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 317661,
+    "latitude": -15.80024,
+    "longitude": -47.880571,
+    "name": "Tribunal Regional Federal",
+    "score": 1,
+    "stations": [
+      {
+        "id": 741332,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2221826,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/317661"
+  },
+  {
+    "access": 1,
+    "address": "SHIS QI 09 CL Bloco G",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 322223,
+    "latitude": -15.832245,
+    "longitude": -47.879308,
+    "name": "VLG Investimentos - Estação YellotMob",
+    "score": 5,
+    "stations": [
+      {
+        "id": 1407135,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3240645,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/322223"
+  },
+  {
+    "access": 1,
+    "address": "SIA Trecho 2 - Guará, Brasília - DF, 71200-020, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 216903,
+    "latitude": -15.804829,
+    "longitude": -47.964376,
+    "name": "Champion Volvo",
+    "stations": [
+      {
+        "id": 471520,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1049348,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/216903"
+  },
+  {
+    "access": 1,
+    "address": "St. Sudoeste - Cruzeiro / Sudoeste / Octogonal, Brasília - DF, 70655-775, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567548,
+    "latitude": -15.785827874166293,
+    "longitude": -47.921596250031364,
+    "name": "Super Quadra 500 - Stand de vendas Base",
+    "score": 8.6,
+    "stations": [
+      {
+        "id": 1470985,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3352087,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567548"
+  },
+  {
+    "access": 1,
+    "address": "Via Ia Dois - Guará, Brasília - DF, 70297-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 551483,
+    "latitude": -15.80247373414089,
+    "longitude": -47.97044882540333,
+    "name": "Sol Atacadista da Tecnologia - SIA | Distribuidora Intelbras",
+    "stations": [
+      {
+        "id": 1427236,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3288722,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/551483"
+  },
+  {
+    "access": 1,
+    "address": "Sia, 1000 - Guará, Brasília - DF, 70297-400, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 319573,
+    "latitude": -15.81778,
+    "longitude": -47.952354,
+    "name": "BRB – Banco de Brasília",
+    "score": 7,
+    "stations": [
+      {
+        "id": 746522,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2228780,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/319573"
+  },
+  {
+    "access": 1,
+    "address": "Terraço Shopping - Sudoeste - Brasilia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 178908,
+    "latitude": -15.803298,
+    "longitude": -47.940494,
+    "name": "Terraço Shopping",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 368146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 660289,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 763823,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2251565,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/178908"
+  },
+  {
+    "access": 1,
+    "address": "St. Sudoeste - Cruzeiro / Sudoeste / Octogonal, Brasília - DF, 70675-731",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 242820,
+    "latitude": -15.801238,
+    "longitude": -47.93476,
+    "name": "HFA - Hospital das Forças Armadas",
+    "stations": [
+      {
+        "id": 526230,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1376109,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 526231,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1376110,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/242820"
+  },
+  {
+    "access": 1,
+    "address": "CLNW 2/3 Lote F - Noroeste, Brasília - DF, 73368-544, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 194166,
+    "latitude": -15.765976,
+    "longitude": -47.909892,
+    "name": "Espaço Brasal NW",
+    "score": 2.6,
+    "stations": [
+      {
+        "id": 408879,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 716065,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 409099,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 716067,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/194166"
+  },
+  {
+    "access": 1,
+    "address": "0 - Asa Norte Entrequadra Norte 404/405 - Asa Norte, Brasília - DF, 71200-970, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 215842,
+    "latitude": -15.772936,
+    "longitude": -47.875319,
+    "name": "Pão de Açúcar Volvo",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 465441,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1019562,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/215842"
+  },
+  {
+    "access": 1,
+    "address": "CLSW 104/105",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 309095,
+    "latitude": -15.760179,
+    "longitude": -47.908401,
+    "name": "Estande de Vendas FAENGE",
+    "score": 1,
+    "stations": [
+      {
+        "id": 718422,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2155976,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/309095"
+  },
+  {
+    "access": 1,
+    "address": "QS 9 - Taguatinga, Brasília - DF, 70297-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 226047,
+    "latitude": -15.874623,
+    "longitude": -48.025608,
+    "name": "Atacadista Assaí",
+    "score": 7,
+    "stations": [
+      {
+        "id": 494098,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1213904,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 494099,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1213905,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 494100,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1213906,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/226047"
+  },
+  {
+    "access": 1,
+    "address": "CSG 20, Lote 02, Taguatinga Sul - Taguatinga, Brasília - DF, 72035-520",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 571229,
+    "latitude": -15.873921675723754,
+    "longitude": -48.03109848600494,
+    "name": "Estação YellotMob - Super Adega Taguatinga Sul",
+    "stations": [
+      {
+        "id": 1480382,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3367327,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571229"
+  },
+  {
+    "access": 1,
+    "address": "Shis Qi 11 Cl, 32 - Brasília, DF, 71625-205, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 614962,
+    "latitude": -15.835778214013576,
+    "longitude": -47.8676924854517,
+    "name": "O2 Fitness / YellotMob",
+    "score": 5.6,
+    "stations": [
+      {
+        "id": 1613686,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3578835,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/614962"
+  },
+  {
+    "access": 1,
+    "address": "s/n Setor Comercial Sul 6 A - Asa Sul, Brasília - DF, 70306-918",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 241112,
+    "latitude": -15.797598,
+    "longitude": -47.890459,
+    "name": "SEDUH - Secretaria de Desenvolvimento Urbano e Habitação",
+    "score": 10,
+    "stations": [
+      {
+        "id": 523507,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1347599,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3462920,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/241112"
+  },
+  {
+    "access": 1,
+    "address": "Srps, Brasília, DF, 70297-400, Parque da Cidade, Estacionamento 13 - Srps - Brasília, DF, 70740-610, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 319680,
+    "latitude": -15.792754,
+    "longitude": -47.89849,
+    "name": "Administração do Parque da Cidade",
+    "score": 2.2,
+    "stations": [
+      {
+        "id": 746822,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2229180,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          },
+          {
+            "connector": 7,
+            "id": 3462918,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/319680"
+  },
+  {
+    "access": 1,
+    "address": "clube Coat ",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 609961,
+    "latitude": -15.814197858903096,
+    "longitude": -47.85676033092361,
+    "name": "Clube Coat (Coming Soon)",
+    "stations": [
+      {
+        "id": 1599959,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3552013,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609961"
+  },
+  {
+    "access": 1,
+    "address": "Trecho 3 - Guará, Brasília - DF, 71215-300, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 472627,
+    "latitude": -15.833946803273742,
+    "longitude": -47.95061384779695,
+    "name": "Assaí Atacadista Park Sul",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 1208944,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2917629,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1214296,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2925075,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1214297,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2925076,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1214298,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2925077,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1214299,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2925078,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1214300,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2925079,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/472627"
+  },
+  {
+    "access": 1,
+    "address": "Bloco C - Esplanada dos Ministérios - Brasília, DF, 70297-400, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 358988,
+    "latitude": -15.794787097714904,
+    "longitude": -47.87343945354223,
+    "name": "Ministério Da Economia - Bloco K",
+    "score": 10,
+    "stations": [
+      {
+        "id": 856703,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2383092,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 856704,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2383093,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/358988"
+  },
+  {
+    "access": 1,
+    "address": "Palácio do Congresso Nacional, Praça dos Três Poderes, Brasília - DF, 70160-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 236370,
+    "latitude": -15.802048,
+    "longitude": -47.865858,
+    "name": "Câmara de Deputados",
+    "score": 1.7,
+    "stations": [
+      {
+        "id": 511559,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278796,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3462914,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236370"
+  },
+  {
+    "access": 1,
+    "address": "Setor Hoteleiro, S/N - Taguatinga Centro (Taguatinga), Brasília - DF, 72011000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 617366,
+    "latitude": -15.806736100000002,
+    "longitude": -48.08974053442383,
+    "name": "Power2Go - Condominio do Edificio Confort Taguatinga Flat",
+    "stations": [
+      {
+        "id": 1619882,
+        "network_id": 1617,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3591852,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617366"
+  },
+  {
+    "access": 1,
+    "address": "R. Manacá, s/n - Águas Claras, Brasília - DF, 71936-500, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 236361,
+    "latitude": -15.835555970428848,
+    "longitude": -48.00848078769683,
+    "name": "Administração Regional De Águas Claras",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 511539,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278745,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236361"
+  },
+  {
+    "access": 1,
+    "address": "Centro Clínico Via Brasil, Bloco B, Sala 547 - Asa Sul, Brasília - DF, 70390-108, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 605774,
+    "latitude": -15.813723831549709,
+    "longitude": -47.9129433631897,
+    "name": "Via Brasil",
+    "stations": [
+      {
+        "id": 1585524,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3530920,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1585525,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3530921,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605774"
+  },
+  {
+    "access": 1,
+    "address": "Bloco E, Esplanada dos Ministérios, Brasília - DF, 70297-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 236373,
+    "latitude": -15.799589,
+    "longitude": -47.869978,
+    "name": "Ministério da Ciência e Tecnologia",
+    "score": 3.1,
+    "stations": [
+      {
+        "id": 511564,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278802,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 511565,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1278803,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/236373"
+  },
+  {
+    "access": 1,
+    "address": "Sgcv, 204 - Guará, Brasília - DF, 71215-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 332327,
+    "latitude": -15.827186,
+    "longitude": -47.953582,
+    "name": "Casa Park",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 782307,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2276130,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/332327"
+  },
+  {
+    "access": 1,
+    "address": "2045, SIG, Brasília - DF, 70610-480",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456903,
+    "latitude": -15.796682141262727,
+    "longitude": -47.91410408914089,
+    "name": "Academia Unique Family",
+    "score": 2.4,
+    "stations": [
+      {
+        "id": 1104599,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2769994,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2769995,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456903"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Das Araucárias, 4150 - Sul (Águas Claras), Brasília - DF, 71936250",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 600351,
+    "latitude": -15.833841299954566,
+    "longitude": -48.04276494118348,
+    "name": "Condomínio Blend Apartments",
+    "stations": [
+      {
+        "id": 1566453,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3504189,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/600351"
+  },
+  {
+    "access": 1,
+    "address": "Mercure São Paulo - Av. Lavandisca, 365 - Indianópolis, São Paulo - SP, 04515-010, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 619837,
+    "latitude": -15.806736100000002,
+    "longitude": -48.09403206884766,
+    "name": "Power2Go - Mercure SP Moema Hotel",
+    "stations": [
+      {
+        "id": 1626904,
+        "network_id": 1617,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3607887,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/619837"
+  },
+  {
+    "access": 1,
+    "address": "SQNW 102 Projeção, SHCNW H - Brasília, DF, 70297-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 361750,
+    "latitude": -15.767722,
+    "longitude": -47.907824,
+    "name": "SQNW 102 - Parque das Hortensias (Coming Soon)",
+    "stations": [
+      {
+        "id": 864143,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2393752,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 10,
+            "id": 2393753,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/361750"
+  },
+  {
+    "access": 1,
+    "address": "SIA Trecho 2, 02 - Guará, Brasília - DF, 71200-020, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 453033,
+    "latitude": -15.805162,
+    "longitude": -47.958656,
+    "name": "Economize Soluções Inteligentes",
+    "stations": [
+      {
+        "id": 1092037,
+        "network_id": 1383,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2753338,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/453033"
+  },
+  {
+    "access": 1,
+    "address": "SIA Trecho 10 - Guará, Brasília - DF, 71208-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 223219,
+    "latitude": -15.794464,
+    "longitude": -47.949451,
+    "name": "Subsecretaria de Modernização do Atendimento ao Cidadão - Na Hora",
+    "score": 4.2,
+    "stations": [
+      {
+        "id": 487681,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1177297,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 488383,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1181702,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/223219"
+  },
+  {
+    "access": 1,
+    "address": "SHS Quadra 6 - Asa Sul, Brasília - DF Brasil, 70316-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 114784,
+    "latitude": -15.793075,
+    "longitude": -47.893318,
+    "name": "Complexo Empresarial Brasil 21",
+    "score": 10,
+    "stations": [
+      {
+        "id": 197619,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 429989,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 429990,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 296698,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 568501,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/114784"
+  },
+  {
+    "access": 1,
+    "address": "SCN Q 2 BL A - Asa Norte, Brasília - DF, 70712-900",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 371491,
+    "latitude": -15.788891,
+    "longitude": -47.883939,
+    "name": "Corporate Financial Center - Zletric",
+    "score": 9,
+    "stations": [
+      {
+        "id": 892532,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2431620,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/371491"
+  },
+  {
+    "access": 1,
+    "address": "Sia Sul Trecho 02 Lotes 90 a 170, 90, St. de Indústria Trecho 2 - Guará, Brasília - DF, 71200-010, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 197514,
+    "latitude": -15.806769,
+    "longitude": -47.952859,
+    "name": "NISSAN Grand Premier - Sia Sul Trecho 02 Lotes 90 a 170 - Enel X - 7KW",
+    "stations": [
+      {
+        "id": 417990,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 727664,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/197514"
+  },
+  {
+    "access": 1,
+    "address": "0 - Esplanada dos Ministérios - Asa Norte, Brasília - DF, 70048-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 610149,
+    "latitude": -15.79597267537645,
+    "longitude": -47.8694912684491,
+    "name": "Ministério da Fazenda",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 1600554,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3553167,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610149"
+  },
+  {
+    "access": 1,
+    "address": "Sia Trecho 1, Lote 370\\400 Parte A, St. de Indústria Trecho 1 - Guará, Brasília - DF, 71200-010",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 196491,
+    "latitude": -15.807041,
+    "longitude": -47.955324,
+    "name": "Caltabiano Jaguar Land Rover",
+    "stations": [
+      {
+        "id": 415343,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 724333,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/196491"
+  },
+  {
+    "access": 1,
+    "address": "SAI/SO Área 6580, S/N Park Shopping - Guará, Brasília - DF, 71219-900, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 216228,
+    "latitude": -15.833607,
+    "longitude": -47.955495,
+    "name": "Park Shopping Brasília",
+    "score": 1,
+    "stations": [
+      {
+        "id": 533444,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1438877,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 533445,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1438878,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 754128,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2238695,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 779775,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2272825,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1022293,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2643578,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1022294,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2643579,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1022295,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2643580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/216228"
+  },
+  {
+    "access": 1,
+    "address": "Aeroporto JK, 20 - Lago Sul, Brasília - DF, 70297-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604836,
+    "latitude": -15.869959872159528,
+    "longitude": -47.93091282557826,
+    "name": "Eurobike BMW",
+    "stations": [
+      {
+        "id": 1582416,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3591137,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1619449,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3591138,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1619450,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3591139,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604836"
+  },
+  {
+    "access": 1,
+    "address": "Esplanada dos Ministérios Bloco F",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585337,
+    "latitude": -15.800538632391252,
+    "longitude": -47.869248166680336,
+    "name": "Ministério Do Trabalho E Previdência, Bloco F",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 1521842,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3434804,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1521843,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3434805,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585337"
+  },
+  {
+    "access": 1,
+    "address": "SAI/SO Área 6580 - Guará, Brasília - DF, 71219-900, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335083,
+    "latitude": -15.832879,
+    "longitude": -47.956701,
+    "name": "Park Shopping Corporate (3)",
+    "score": 8.4,
+    "stations": [
+      {
+        "id": 789358,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2285336,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1539333,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3462923,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1539334,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3462924,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1539335,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3462925,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335083"
+  },
+  {
+    "access": 1,
+    "address": "0 - Esplanada dos Ministérios - Asa Norte, Brasília - DF, 70053-900, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 579443,
+    "latitude": -15.794294138298664,
+    "longitude": -47.87450697273016,
+    "name": "Ministério Da Economia - Bloco J",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1504603,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3408162,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1504611,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3408171,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/579443"
+  },
+  {
+    "access": 1,
+    "address": "Pontão do - Lago Sul, Brasília - DF, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 596752,
+    "latitude": -15.825200823310482,
+    "longitude": -47.87510544061661,
+    "name": "Pontão - Aragon",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 1553644,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3485911,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1553645,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3485912,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596752"
+  },
+  {
+    "access": 1,
+    "address": "Shopping Conjunto Nacional, Via N 2 Oeste, Plano Piloto de Brasília, Brasília - DF, 70750-751, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 197698,
+    "latitude": -15.790485,
+    "longitude": -47.883019,
+    "name": "Conjunto Nacional ",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 418450,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 728201,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 932200,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2494831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 932201,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2494832,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1539310,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3462888,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/197698"
+  },
+  {
+    "access": 1,
+    "address": "Setor Bancário Norte – Quadra 1  Bloco F – Lote 30 – Asa Norte  70040-908,  Brasília - DF",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 550338,
+    "latitude": -15.7901114,
+    "longitude": -47.8840853,
+    "name": "Netpark | PDA - BRASILIA - 01",
+    "stations": [
+      {
+        "id": 1424270,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3278309,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/550338"
+  },
+  {
+    "access": 1,
+    "address": "SCN Quadra 06 - Conj A - Venancio 3.000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 325722,
+    "latitude": -15.786582,
+    "longitude": -47.890626,
+    "name": "Shopping ID",
+    "score": 5.9,
+    "stations": [
+      {
+        "id": 763824,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2251566,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/325722"
+  },
+  {
+    "access": 1,
+    "address": "Setor Comercial Sul Q 8 - Asa Sul, Brasília - DF, 70333-900",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 342874,
+    "latitude": -15.795737,
+    "longitude": -47.892613,
+    "name": "Shopping Venâncio",
+    "score": 10,
+    "stations": [
+      {
+        "id": 811144,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2313517,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 811145,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2313518,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/342874"
+  },
+  {
+    "access": 1,
+    "address": "0 - Esplanada dos Ministérios - Asa Norte, Brasília - DF, 70065-900, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 250593,
+    "latitude": -15.79673,
+    "longitude": -47.86795,
+    "name": "Ministério de Minas e Energia",
+    "score": 5.7,
+    "stations": [
+      {
+        "id": 548586,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1504420,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/250593"
+  },
+  {
+    "access": 1,
+    "address": "Esplanada dos Ministérios, Ministério das Comunicações - Brasília, DF, 70044-902, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 223567,
+    "latitude": -15.797463,
+    "longitude": -47.867233,
+    "name": "Ministério da Infraestrutura",
+    "score": 1,
+    "stations": [
+      {
+        "id": 488377,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1181696,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 488378,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1181697,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/223567"
+  },
+  {
+    "access": 1,
+    "address": "St. de Habitações Individuais Sul QI 5 - Lago Sul, Brasília - DF, 71615-560, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 103248,
+    "latitude": -15.845428,
+    "longitude": -47.894757,
+    "name": "Supermercado Pão De Açúcar",
+    "score": 2.1,
+    "stations": [
+      {
+        "id": 174527,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 397714,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/103248"
+  },
+  {
+    "access": 1,
+    "address": "St. de Habitações Individuais Sul EQL 6/8 - Lago Sul, Brasília - DF, Cep 71620-215",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456914,
+    "latitude": -15.844414,
+    "longitude": -47.894875,
+    "name": "Helio Instituto de Beleza",
+    "stations": [
+      {
+        "id": 1104624,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2770025,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456914"
+  },
+  {
+    "access": 1,
+    "address": "Av. Arniqueira Qs 1 Rua 210 - Taguatinga, Brasília - DF, 71951-780, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 464828,
+    "latitude": -15.842514705549581,
+    "longitude": -48.04335355279421,
+    "name": "Assaí Atacadista",
+    "score": 5.8,
+    "stations": [
+      {
+        "id": 1214286,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2925065,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1558164,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3492726,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1558165,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3492727,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/464828"
+  },
+  {
+    "access": 1,
+    "address": "sia trecho 2 ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 588688,
+    "latitude": -15.806333593388581,
+    "longitude": -47.95588944893623,
+    "name": "McLarty Maia JEEP",
+    "stations": [
+      {
+        "id": 1530022,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3447821,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1539338,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3462929,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/588688"
+  },
+  {
+    "access": 1,
+    "address": "Sia trecho 2 lote 785/795 ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 470912,
+    "latitude": -15.804266894605425,
+    "longitude": -47.95876273085748,
+    "name": "W.L Atacadista",
+    "stations": [
+      {
+        "id": 1204113,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3462932,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470912"
+  },
+  {
+    "access": 1,
+    "address": "St. de Habitações Individuais Sul - Lago Sul, Brasília - DF, 70297-400 - Lago Sul, Brasília - DF, 70297-400, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 493818,
+    "latitude": -15.82542404061588,
+    "longitude": -47.87197161465883,
+    "name": "Estação YellotMob - Pontão Lago Sul",
+    "score": 3.4,
+    "stations": [
+      {
+        "id": 1273685,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3015955,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493818"
+  },
+  {
+    "access": 1,
+    "address": "5 - Setor Comercial Norte Q 5 - Asa Norte, Brasília - DF, 70715-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 573253,
+    "latitude": -15.78654,
+    "longitude": -47.8895665,
+    "name": "Brasília Shopping",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 1486151,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3378183,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573253"
+  },
+  {
+    "access": 1,
+    "address": "St. de Clubes Esportivos Sul Trecho 2 Conjunto 35, Asa Sul, Brasília - DF, CEP 70200-002",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456911,
+    "latitude": -15.818438,
+    "longitude": -47.875931,
+    "name": "Steak Bull Restaurante",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1105061,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2770638,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1105062,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2770639,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456911"
+  },
+  {
+    "access": 1,
+    "address": "Trecho 10 Sia, s/n Zona Industrial - Guará, Brasília - DF, 71200-110",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476268,
+    "latitude": -15.794374990113482,
+    "longitude": -47.94622269364762,
+    "name": "Assaí Atacadista SIA",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1218946,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2933367,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1218947,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2933368,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1218948,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2933369,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476268"
+  },
+  {
+    "access": 1,
+    "address": "Esplanada dos Ministérios  bloco B- Brasília - DF, 70068-900, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 366105,
+    "latitude": -15.79944,
+    "longitude": -47.872283,
+    "name": "Bloco B Ministério Do Meio Ambiente",
+    "score": 9.3,
+    "stations": [
+      {
+        "id": 875694,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2409608,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3462913,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/366105"
+  },
+  {
+    "access": 1,
+    "address": "QS 1 Torre B Salas 419/420 - Taguatinga, Brasília - DF, 70297-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330621,
+    "latitude": -15.841763,
+    "longitude": -48.043996,
+    "name": "Taguatinga Shopping",
+    "score": 4.8,
+    "stations": [
+      {
+        "id": 1104608,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2770005,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330621"
+  },
+  {
+    "access": 1,
+    "address": "QS 01 rua 210, lote 40, Pistão Sul, Taguatinga, Brasília-DF",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 594824,
+    "latitude": -15.84099864506553,
+    "longitude": -48.04377682507038,
+    "name": "Taguatinga Shopping 2",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 1547802,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3476323,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1547803,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3476324,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/594824"
+  },
+  {
+    "access": 1,
+    "address": "Bloco D - Esplanada dos Ministérios - Brasília, DF, 70297-400, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 541679,
+    "latitude": -15.799840507770327,
+    "longitude": -47.87161052227021,
+    "name": "Ministério Do Desenvolvimento Agrário",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1530217,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3448142,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3508490,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/541679"
+  },
+  {
+    "access": 1,
+    "address": "Estrada sem nome - Brasília, DF, 70297-400, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 493921,
+    "latitude": -15.825017281728725,
+    "longitude": -47.87396818399429,
+    "name": "Estação YellotMob - Gran Bier",
+    "score": 6.5,
+    "stations": [
+      {
+        "id": 1273961,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3016356,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/493921"
+  },
+  {
+    "access": 1,
+    "address": "Setor de Clubes Esportivos Sul Trecho 2 - Asa Sul, Brasília - DF, CEP 70200-002",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456930,
+    "latitude": -15.818648382403971,
+    "longitude": -47.87519630044699,
+    "name": "Shopping Pier 21 - Estacionamento Coberto",
+    "score": 6.2,
+    "stations": [
+      {
+        "id": 1105040,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2770617,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1105041,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2770618,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456930"
+  },
+  {
+    "access": 1,
+    "address": "s/n Trecho 1 LT 290/320 - Guará, Brasília - DF, 71200-010",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 321177,
+    "latitude": -15.8072,
+    "longitude": -47.954596,
+    "name": "Jac Motors Brasília",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1426231,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3434677,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/321177"
+  },
+  {
+    "access": 1,
+    "address": "SIA Trecho 12, 5 - Guará, Brasília - DF, 71200-110, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 612916,
+    "latitude": -15.794287578628813,
+    "longitude": -47.947751656933754,
+    "name": "Super Adega - SIA",
+    "stations": [
+      {
+        "id": 1608089,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3566037,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/612916"
+  },
+  {
+    "access": 1,
+    "address": "pontão lago sul ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 571649,
+    "latitude": -15.824898881964415,
+    "longitude": -47.8731948534926,
+    "name": "Volvo Pontão - Same Same But Different",
+    "score": 1,
+    "stations": [
+      {
+        "id": 1481509,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3599036,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1622931,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3599037,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571649"
+  },
+  {
+    "access": 1,
+    "address": "5 - Setor Comercial Norte Q 5 - Asa Norte, Brasília - DF, 70350-760, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 605969,
+    "latitude": -15.786960291587885,
+    "longitude": -47.88908014225512,
+    "name": "Brasília shopping",
+    "stations": [
+      {
+        "id": 1586112,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3531771,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605969"
+  },
+  {
+    "access": 1,
+    "address": "SHC AOS Entrequadras 2/8 lote 5, Octogonal - Sul, Brasília - DF, 70660-900",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 596437,
+    "latitude": -15.8035862,
+    "longitude": -47.9403387,
+    "name": "Estação YellotMob - Terraço Shopping",
+    "stations": [
+      {
+        "id": 1552886,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3484681,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596437"
+  },
+  {
+    "access": 1,
+    "address": "Isofen Energy",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 620849,
+    "latitude": -15.803343206886094,
+    "longitude": -47.96001923771113,
+    "name": "ISOFEN MOBI 01",
+    "stations": [
+      {
+        "id": 1629707,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3614021,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3614022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3614023,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620849"
+  },
+  {
+    "access": 1,
+    "address": "Sia Canteiro Central Via Ia 2 Trecho 2 Tcheca 2 - Guará, Brasília - DF, 71200-030, Brasil - Guará, Brasília - DF, 71200-030, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 616700,
+    "latitude": -15.803605319518933,
+    "longitude": -47.960091568529606,
+    "name": "Isofen Energy",
+    "stations": [
+      {
+        "id": 1617765,
+        "network_id": 1820,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3616049,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3616050,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/616700"
+  },
+  {
+    "access": 1,
+    "address": "SCN Quadra 05 BL A - Asa Norte, Brasília - DF, 70715-900",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 615290,
+    "latitude": -15.786611494682504,
+    "longitude": -47.889403099999996,
+    "name": "Estação YellotMob - Brasilia Shopping (Coming Soon)",
+    "stations": [
+      {
+        "id": 1614206,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3579932,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1614207,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3579933,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1614208,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3579934,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/615290"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road - SMAS Trecho 1 - Brasília, DF, 71219-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 332331,
+    "latitude": -15.832435,
+    "longitude": -47.957974,
+    "name": "Park Shopping Corporate (2)",
+    "stations": [
+      {
+        "id": 782312,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2276136,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/332331"
+  },
+  {
+    "access": 1,
+    "address": "Unnamed Road - SMAS Trecho 1 - Brasília, DF, 71219-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 332685,
+    "latitude": -15.832506,
+    "longitude": -47.957829,
+    "name": "Park Shopping Corporate (1)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 783385,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2277469,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1539336,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3462926,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1539337,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3462927,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/332685"
+  },
+  {
+    "access": 1,
+    "address": "5 - Setor Comercial Norte Q 5 - Asa Norte, Brasília - DF, 70715-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 123597,
+    "latitude": -15.786388,
+    "longitude": -47.888708,
+    "name": "Brasilia Shopping",
+    "score": 4.1,
+    "stations": [
+      {
+        "id": 756199,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2241391,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 816069,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2320242,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 816070,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2320243,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/123597"
+  },
+  {
+    "access": 1,
+    "address": "SIA Trecho 12 - Guará, Brasília - DF, 71200-110",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 558550,
+    "latitude": -15.794235841482406,
+    "longitude": -47.947821556607686,
+    "name": "Estação YellotMob - Super Adega SIA",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1447194,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3314384,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558550"
+  },
+  {
+    "access": 1,
+    "address": "Sgcv Lt 8/9 Ae - Brasília, DF, 71215-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 609527,
+    "latitude": -15.823144119872127,
+    "longitude": -47.95239842640642,
+    "name": "BYD Saga - by Yellot mob",
+    "stations": [
+      {
+        "id": 1599094,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3550341,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1608037,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3565881,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609527"
+  },
+  {
+    "access": 1,
+    "address": "Rua Carijos, 1010 Sagrada Familia Taiobeiras MG",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 591317,
+    "latitude": -15.812304767033952,
+    "longitude": -42.21996512264013,
+    "name": "Casa de Mardem",
+    "stations": [
+      {
+        "id": 1537910,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3460627,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591317"
+  },
+  {
+    "access": 1,
+    "address": "Lot 228 Messmate Way, Kununurra WA 6743, Australia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 553812,
+    "latitude": -15.779085250498458,
+    "longitude": 128.7404596814323,
+    "name": "Horizon Power Kununurra",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1469555,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3349830,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 13,
+            "id": 3349831,
+            "kilowatts": 150,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1469556,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3349832,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1598667,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549725,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/553812"
+  },
+  {
+    "access": 1,
+    "address": "Lot 520 Lake Argyle Rd, Lake Argyle WA 6743, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 254381,
+    "latitude": -16.112976,
+    "longitude": 128.740615,
+    "name": "Lake Argyle Caravan Park",
+    "stations": [
+      {
+        "id": 558447,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 1542290,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/254381"
+  },
+  {
+    "access": 1,
+    "address": "Kununurra WA 6743, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 154658,
+    "latitude": -15.791793,
+    "longitude": 128.721323,
+    "name": "Discovery Parks - Lake Kununurra ",
+    "stations": [
+      {
+        "id": 1433192,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3292763,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/154658"
+  },
+  {
+    "access": 1,
+    "address": "214 Coolibah Drive, Kununurra WA 6743",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 94483,
+    "latitude": -15.771527,
+    "longitude": 128.731263,
+    "name": "Kununurra Agricultural Show Grounds",
+    "score": 10,
+    "stations": [
+      {
+        "id": 152049,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 362679,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/94483"
+  },
+  {
+    "access": 1,
+    "address": "50 Casuarina Way, Kununurra WA 6743, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 255087,
+    "latitude": -15.782996,
+    "longitude": 128.743126,
+    "name": "Kununurra Lakeside Resort Casuarina Way",
+    "stations": [
+      {
+        "id": 559841,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 1548495,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 559842,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 1548496,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 559845,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 1548524,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 559846,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 1548525,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/255087"
+  },
+  {
+    "access": 1,
+    "address": "1519 Victoria Hwy, Kununurra WA 6743, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 253509,
+    "latitude": -15.786505608766443,
+    "longitude": 128.73709039154053,
+    "name": "Kimberleyland Waterfront Holiday Park",
+    "score": 9,
+    "stations": [
+      {
+        "id": 634656,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1945054,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 634657,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1945055,
+            "kilowatts": 11,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/253509"
+  },
+  {
+    "access": 1,
+    "address": "1 Sesame St, Lakeland QLD 4871, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 454345,
+    "latitude": -15.859653,
+    "longitude": 144.854786,
+    "name": "Lakeland Caravan Park",
+    "stations": [
+      {
+        "id": 1097170,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2759963,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/454345"
+  },
+  {
+    "access": 1,
+    "address": "2 Stewart Street, Daintree QLD 4873, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 208311,
+    "latitude": -16.24957,
+    "longitude": 145.317347,
+    "name": "Daintree Riverview Lodge & Van Park",
+    "stations": [
+      {
+        "id": 445506,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 849394,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/208311"
+  },
+  {
+    "access": 1,
+    "address": "Hotel Camino Real Suite, La Paz, Bolivia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330358,
+    "latitude": -16.540922,
+    "longitude": -68.08938,
+    "name": "Enel X - Hotel Camino Real Suite, La Paz - 10 kW",
+    "stations": [
+      {
+        "id": 776884,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269011,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 776885,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2269012,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330358"
+  },
+  {
+    "access": 1,
+    "address": "BR 364 KM 212",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 590734,
+    "latitude": -16.420870750882322,
+    "longitude": -54.70362347004737,
+    "name": "Loja Sinuelo Rondonópolis",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1536199,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3457718,
+            "kilowatts": 23,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1541132,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3465928,
+            "kilowatts": 30,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1542022,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3467309,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590734"
+  },
+  {
+    "access": 1,
+    "address": "Rua Fernando Correa da Costa, 873. Vila Aurora I, Rondonópolis - MT, CEP 787400-00",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 357076,
+    "latitude": -16.480246,
+    "longitude": -54.622821,
+    "name": "Posto Forum - Fernando Correa",
+    "score": 4.9,
+    "stations": [
+      {
+        "id": 851508,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2375727,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 851509,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2375728,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357076"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Júlio José de Campos, 2450 - Parque Sagrada Família, Rondonópolis - MT",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372765,
+    "latitude": -16.472223,
+    "longitude": -54.5875,
+    "name": "Santa Ambientes",
+    "stations": [
+      {
+        "id": 896384,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436911,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 896385,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436912,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372765"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Júlio José de Campos, 2133. Residencial, Rondonópolis - MT",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372763,
+    "latitude": -16.473494,
+    "longitude": -54.606123,
+    "name": "Posto Forum Julio Campos",
+    "stations": [
+      {
+        "id": 896377,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436899,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 896378,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436900,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372763"
+  },
+  {
+    "access": 1,
+    "address": "Av. 15 de Novembro, 1892 - Lot. dos Funcionarios, Iporá - GO, 76200-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 620621,
+    "latitude": -16.43297568819439,
+    "longitude": -51.113446087684,
+    "name": "casa (Coming Soon)",
+    "stations": [
+      {
+        "id": 1628996,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3615429,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620621"
+  },
+  {
+    "access": 1,
+    "address": "Rua PM4 Qd. 10 Lt.3, Residencial Pedro Miguel,São Luís de Montes Belos, GO, 76056-199, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 599364,
+    "latitude": -16.52045462861954,
+    "longitude": -50.38350194692612,
+    "name": "Residencia Araújo",
+    "stations": [
+      {
+        "id": 1562911,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3499069,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/599364"
+  },
+  {
+    "access": 1,
+    "address": "GO-070, 4555 - Chácaras Recreio São Joaquim, Goiânia - GO, 74470-297, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 331535,
+    "latitude": -16.630889,
+    "longitude": -49.349854,
+    "name": "Goyaço",
+    "stations": [
+      {
+        "id": 781152,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2274632,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/331535"
+  },
+  {
+    "access": 1,
+    "address": "Shopping Plaza D'oro, Av. Nápoli, 500 - Res. Eldorado, Goiânia - GO, 74367-970",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 554909,
+    "latitude": -16.708044862331278,
+    "longitude": -49.32836423316886,
+    "name": "Estação YellotMob - Plaza D'oro",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 1436987,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3298485,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554909"
+  },
+  {
+    "access": 1,
+    "address": "Av. T-3, 2440 - St. Bueno, Goiânia - GO, 74230-251, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 564118,
+    "latitude": -16.706601376598005,
+    "longitude": -49.27259877745589,
+    "name": "Restaurante Manda Picanha",
+    "stations": [
+      {
+        "id": 1462265,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3339222,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/564118"
+  },
+  {
+    "access": 1,
+    "address": "Av. Rio Verde, 1 - Jardim Atlântico, Aparecida de Goiânia - GO, 74915-520, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 425195,
+    "latitude": -16.741432,
+    "longitude": -49.276291,
+    "name": "Buriti Shopping",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 1028713,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2651136,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1028714,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2651137,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/425195"
+  },
+  {
+    "access": 1,
+    "address": "Av. República do Líbano, 1569 - St. Oeste, Goiânia - GO, 74125-125, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 597004,
+    "latitude": -16.679402742581818,
+    "longitude": -49.26657881587744,
+    "name": "Estacionamento República de Libano",
+    "score": 3.7,
+    "stations": [
+      {
+        "id": 1554304,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3486941,
+            "kilowatts": 36,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1585360,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3530679,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3530680,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/597004"
+  },
+  {
+    "access": 1,
+    "address": "av rio verde q 70 l 10",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 590548,
+    "latitude": -16.749708292187513,
+    "longitude": -49.324919534661746,
+    "name": "Ensolar",
+    "stations": [
+      {
+        "id": 1535577,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3456673,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590548"
+  },
+  {
+    "access": 1,
+    "address": "Av. C-1, Qd 468 - Lt11 N° 887 - Jardim América, Goiânia - GO, 74265-010, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 594430,
+    "latitude": -16.69959104174402,
+    "longitude": -49.290176555514336,
+    "name": "GSOL Energia Solar",
+    "stations": [
+      {
+        "id": 1546753,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3474643,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/594430"
+  },
+  {
+    "access": 1,
+    "address": "Av. Antônio Fidélis, 2288 - Parque Amazonia, Goiânia - GO, 74840-090, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 617937,
+    "latitude": -16.73258875348533,
+    "longitude": -49.2655370478874,
+    "name": "Verik Soluções Distribuidora",
+    "stations": [
+      {
+        "id": 1621359,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3595029,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617937"
+  },
+  {
+    "access": 1,
+    "address": "R. Vb 10, 151 - Res. Vereda dos Buritis, Goiânia - GO, 74370-699, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601885,
+    "latitude": -16.722752191494845,
+    "longitude": -49.337293580174446,
+    "name": "Car Energy",
+    "stations": [
+      {
+        "id": 1570828,
+        "network_id": 1058,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3510725,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601885"
+  },
+  {
+    "access": 1,
+    "address": "Av. Independência, 5750 - St. Aeroporto, Goiânia - GO, 74070-010, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 536588,
+    "latitude": -16.667031530690277,
+    "longitude": -49.271258600056164,
+    "name": "Nacional Energia Solar",
+    "stations": [
+      {
+        "id": 1386805,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3196509,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/536588"
+  },
+  {
+    "access": 1,
+    "address": "Av. Perimetral Norte, 8303 - Fazenda Caveiras, Goiânia - GO, 74573-260",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 607314,
+    "latitude": -16.629506858050263,
+    "longitude": -49.278703599999986,
+    "name": "Passeio das Águas Shopping (Coming Soon)",
+    "stations": [
+      {
+        "id": 1591347,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3538889,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1591348,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3538890,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/607314"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dr. Ismerino Soares de Carvalho, 52 - St. Aeroporto, Goiânia - GO, 74075-040, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 591465,
+    "latitude": -16.67400348370674,
+    "longitude": -49.26522061228752,
+    "name": "Confort Goiânia Hotel",
+    "stations": [
+      {
+        "id": 1538389,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3461402,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/591465"
+  },
+  {
+    "access": 1,
+    "address": "Av. 1ª Radial, 643 - St. Pedro Ludovico, Goiânia - GO, 74820-300",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 619525,
+    "latitude": -16.707839460774434,
+    "longitude": -49.25413172205543,
+    "name": "Estação YellotMob - Hotel Maione (Coming Soon)",
+    "stations": [
+      {
+        "id": 1625966,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3605657,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/619525"
+  },
+  {
+    "access": 1,
+    "address": "Qd.K-10, Lote 1/7, Av. D, 804 - St. Oeste, Goiânia - GO, 74140-160",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 334828,
+    "latitude": -16.691684,
+    "longitude": -49.270214,
+    "name": "Barbosa Automoveis",
+    "score": 10,
+    "stations": [
+      {
+        "id": 788715,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2284564,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/334828"
+  },
+  {
+    "access": 1,
+    "address": "R. T-58, 85 - Quadra 120 - St. Bueno, Goiânia - GO, 74223-130, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 125710,
+    "latitude": -16.708095,
+    "longitude": -49.26699,
+    "name": "Posto de Combustível Ipiranga",
+    "score": 1,
+    "stations": [
+      {
+        "id": 224967,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 473295,
+            "kilowatts": 7.4,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 9,
+            "id": 473296,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/125710"
+  },
+  {
+    "access": 1,
+    "address": "R. 9, 1855 - St. Marista, Goiânia - GO, 74150-130, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 281921,
+    "latitude": -16.695259,
+    "longitude": -49.265645,
+    "name": "Shopping Bouganville",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 615955,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1741937,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/281921"
+  },
+  {
+    "access": 1,
+    "address": "R. 1034, 2 - St. Pedro Ludovico, Goiânia - GO, 74823-190, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 520950,
+    "latitude": -16.714921234374334,
+    "longitude": -49.25726341984305,
+    "name": "Estação YellotMob - Costa Atacadão",
+    "score": 4,
+    "stations": [
+      {
+        "id": 1342234,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3127781,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/520950"
+  },
+  {
+    "access": 1,
+    "address": "Av. T-7, 470 - St. Bueno, Goiânia - GO, 74210-260",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 607485,
+    "latitude": -16.6914237,
+    "longitude": -49.27784579999999,
+    "name": "Laboratório Unimed",
+    "stations": [
+      {
+        "id": 1591846,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3539657,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/607485"
+  },
+  {
+    "access": 1,
+    "address": "Av. T-63, 1707 - St. Nova Suica, Goiânia - GO, 74280-235, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 489615,
+    "latitude": -16.7146917,
+    "longitude": -49.27500089999999,
+    "name": "Estação YellotMob - Navesa Renault",
+    "score": 8,
+    "stations": [
+      {
+        "id": 1257443,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2993840,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/489615"
+  },
+  {
+    "access": 1,
+    "address": "R. 14, 26 - St. Oeste, Goiânia - GO, 74120-070, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 595864,
+    "latitude": -16.688132576175875,
+    "longitude": -49.26024276763201,
+    "name": "Sicoob",
+    "stations": [
+      {
+        "id": 1550977,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3481713,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595864"
+  },
+  {
+    "access": 1,
+    "address": "Av. T-63, 1296 - St. Bueno, Goiânia - GO, 74230-100",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567166,
+    "latitude": -16.7140010481452,
+    "longitude": -49.27078184636009,
+    "name": "Estação YellotMob - Edificio New World",
+    "stations": [
+      {
+        "id": 1470061,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3350677,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567166"
+  },
+  {
+    "access": 1,
+    "address": "Av. Portugal, 1148 - St. Marista, Goiânia - GO, 74150-030",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 554881,
+    "latitude": -16.696675749574286,
+    "longitude": -49.269717670977116,
+    "name": "Estação YellotMob - Órion Business",
+    "stations": [
+      {
+        "id": 1436910,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3298395,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554881"
+  },
+  {
+    "access": 1,
+    "address": "R. Campinas, 453 - St. Bueno, Goiânia - GO, 74210-116",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604842,
+    "latitude": -16.685533575684865,
+    "longitude": -49.29123346101917,
+    "name": "Estação YellotMob - Speed Pinturas",
+    "stations": [
+      {
+        "id": 1582433,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3526539,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604842"
+  },
+  {
+    "access": 1,
+    "address": "R. T-27, S/N - St. Bueno, Goiânia - GO, 74210-030",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 596495,
+    "latitude": -16.694426604762626,
+    "longitude": -49.2735169,
+    "name": "Estação YellotMob - Merzian",
+    "stations": [
+      {
+        "id": 1552973,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3484786,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596495"
+  },
+  {
+    "access": 1,
+    "address": "Alameda Ricardo Paranhos, 1240 - St. Marista, Goiânia - GO, 74175-020, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 515352,
+    "latitude": -16.700002095002723,
+    "longitude": -49.25562333315611,
+    "name": "Brasal Incorporações",
+    "stations": [
+      {
+        "id": 1328648,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3104775,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515352"
+  },
+  {
+    "access": 1,
+    "address": "R. T-53, 642 - St. Bueno, Goiânia - GO, 74215-150, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 520955,
+    "latitude": -16.70194710476492,
+    "longitude": -49.26931019325409,
+    "name": "Estação YellotMob - Famu restaurante",
+    "stations": [
+      {
+        "id": 1342250,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3127804,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/520955"
+  },
+  {
+    "access": 1,
+    "address": "Av. Castelo Branco, 1470 - St. Coimbra, Goiânia - GO, 74530-010, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 336519,
+    "latitude": -16.682392,
+    "longitude": -49.282144,
+    "name": "Eletrotransol",
+    "score": 3.4,
+    "stations": [
+      {
+        "id": 793596,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2290700,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/336519"
+  },
+  {
+    "access": 1,
+    "address": "Av. Castelo Branco, 1713 - St. Coimbra, Goiânia - GO, 74530-015, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 304929,
+    "latitude": -16.680323,
+    "longitude": -49.284532,
+    "name": "Hotel Castle Inn Goiânia",
+    "score": 9,
+    "stations": [
+      {
+        "id": 707998,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2135321,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 10,
+            "id": 2135322,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/304929"
+  },
+  {
+    "access": 1,
+    "address": "R. 89 655, República da Saúde, St. Sul, 74093140, Goiânia-GO",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 554873,
+    "latitude": -16.6953102,
+    "longitude": -49.2578435,
+    "name": "Estação YellotMob - República da Saúde",
+    "stations": [
+      {
+        "id": 1436887,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3298372,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554873"
+  },
+  {
+    "access": 1,
+    "address": "R. 147, 777 - St. Marista, Goiânia - GO, 74170-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 571846,
+    "latitude": -16.697473329888965,
+    "longitude": -49.25989505196111,
+    "name": "Madalena Saga/bmw",
+    "stations": [
+      {
+        "id": 1482180,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3370890,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1482181,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3370891,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/571846"
+  },
+  {
+    "access": 1,
+    "address": "Av. 136 Q 238, 246 - St. Marista, Goiânia - GO, 74180-040, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 276499,
+    "latitude": -16.699169,
+    "longitude": -49.261847,
+    "name": "Brasal Incorporações - Central De Decorados",
+    "score": 1.8,
+    "stations": [
+      {
+        "id": 607988,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1707583,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/276499"
+  },
+  {
+    "access": 1,
+    "address": "R. 146, 37 - St. Marista, Goiânia - GO, 74170-090, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 501433,
+    "latitude": -16.692881010822994,
+    "longitude": -49.261787920630695,
+    "name": "NORD 23",
+    "score": 7.5,
+    "stations": [
+      {
+        "id": 1348345,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3137501,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1348346,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3137502,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/501433"
+  },
+  {
+    "access": 1,
+    "address": "R. 132, 300 - St. Sul, Goiânia - GO, 74093-210, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 529645,
+    "latitude": -16.692512205942293,
+    "longitude": -49.25934095699229,
+    "name": "estacionamento ASSOF",
+    "stations": [
+      {
+        "id": 1366786,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3165951,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/529645"
+  },
+  {
+    "access": 1,
+    "address": "Av. T-10, 1300 - St. Bueno, Goiânia/GO CEP 74223-060",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 330679,
+    "latitude": -16.708137,
+    "longitude": -49.273073,
+    "name": "Estação de Carregamento Porsche - Goiânia Shopping",
+    "score": 10,
+    "stations": [
+      {
+        "id": 777785,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2270146,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 777786,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2270147,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/330679"
+  },
+  {
+    "access": 1,
+    "address": "Alameda Ricardo Paranhos Q 259, 439 - St. Marista, Goiânia - GO, 74175-020, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 475385,
+    "latitude": -16.70351624311309,
+    "longitude": -49.25927180796862,
+    "name": "Estação YellotMob - Central de Vendas City",
+    "score": 7.5,
+    "stations": [
+      {
+        "id": 1216133,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2927402,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/475385"
+  },
+  {
+    "access": 1,
+    "address": "Rua da Saúde - 556 - Cidade Jardim - Goiânia - GO - 74.425-020",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 611373,
+    "latitude": -16.680607189454996,
+    "longitude": -49.30701511630853,
+    "name": "NEW CAR REPARAÇÃO E PERFORMANCE",
+    "stations": [
+      {
+        "id": 1604161,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3558723,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3558730,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611373"
+  },
+  {
+    "access": 1,
+    "address": "R. T-68, 61 - St. Bueno, Goiânia - GO, 74230-160, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 308098,
+    "latitude": -16.709517,
+    "longitude": -49.272509,
+    "name": "Pão de Açúcar Vaca Brava",
+    "score": 1,
+    "stations": [
+      {
+        "id": 715577,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2150166,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 724235,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2172632,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/308098"
+  },
+  {
+    "access": 1,
+    "address": "Av. Portugal, 744 - St. Marista, Goiânia - GO, 74150-030",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 474743,
+    "latitude": -16.69258349952287,
+    "longitude": -49.270159045120366,
+    "name": "Assaí Atacadista - Goiânia Portugal",
+    "score": 1.6,
+    "stations": [
+      {
+        "id": 1214506,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2925332,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1214507,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2925333,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1214508,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2925334,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/474743"
+  },
+  {
+    "access": 1,
+    "address": "R. 1132 146, Bahrem Ricardo Paranhos, St. Marista, 74180110, Goiânia-GO",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 554885,
+    "latitude": -16.702795854765178,
+    "longitude": -49.2594369,
+    "name": "Estação YellotMob - Bharem Ricardo Paranhos",
+    "stations": [
+      {
+        "id": 1436916,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3298403,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554885"
+  },
+  {
+    "access": 1,
+    "address": "Av. T-4, 232 - St. Bueno, Goiânia - GO, 74835-090",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 536137,
+    "latitude": -16.708401204060895,
+    "longitude": -49.26745021933757,
+    "name": "Criare Goiânia",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 1385703,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3194259,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/536137"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mutirão, 3.199 - Setor Bueno\nGoiânia - Goiás\n74150-340",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 501098,
+    "latitude": -16.702560560510907,
+    "longitude": -49.265532083809376,
+    "name": "Soma Motors Jaguar Land Rover",
+    "stations": [
+      {
+        "id": 1292449,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3044624,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/501098"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mutirão, 3231 - St. Marista, Goiânia - GO, 74150-340, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 510127,
+    "latitude": -16.702861432228914,
+    "longitude": -49.26526289619256,
+    "name": "Estação Fastcril (YellotMob)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1315141,
+        "network_id": 1457,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3084602,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/510127"
+  },
+  {
+    "access": 1,
+    "address": "Av. Castelo Branco, 7277 - St. Coimbra, Goiânia - GO, 74453-386, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 592222,
+    "latitude": -16.682499658618237,
+    "longitude": -49.28248553484222,
+    "name": "excelência intelbras",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1540451,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3464883,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/592222"
+  },
+  {
+    "access": 1,
+    "address": "Av. T-10, 1300 - St. Bueno, Goiânia - GO, 74223-060",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372750,
+    "latitude": -16.708299,
+    "longitude": -49.272765,
+    "name": "Goiânia Shopping",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 896245,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436761,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 896246,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436762,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1585359,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3530677,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3530678,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372750"
+  },
+  {
+    "access": 1,
+    "address": "R. 14, 50 - St. Oeste, Goiânia - GO, 74120-070",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604841,
+    "latitude": -16.687935022042982,
+    "longitude": -49.26037767327882,
+    "name": "Estação YellotMob - ACIEG",
+    "stations": [
+      {
+        "id": 1582430,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3526536,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604841"
+  },
+  {
+    "access": 1,
+    "address": "GO-070, Inhumas - GO, 75400-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 308858,
+    "latitude": -16.365068,
+    "longitude": -49.508978,
+    "name": "EGD Energia - Inhumas-GO",
+    "stations": [
+      {
+        "id": 545073,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1488119,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 732230,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2201975,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2236289,
+            "kilowatts": null,
+            "power": 0,
+            "status": "UNKNOWN"
+          }
+        ]
+      },
+      {
+        "id": 1496128,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3395985,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3395986,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/308858"
+  },
+  {
+    "access": 1,
+    "address": "JFPR+49 Inhumas, State of Goiás, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372759,
+    "latitude": -16.365031,
+    "longitude": -49.508883,
+    "name": "Universal Automação",
+    "stations": [
+      {
+        "id": 896261,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2436783,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372759"
+  },
+  {
+    "access": 1,
+    "address": "R. C-237, 156 - Jardim América, Goiânia - GO, 74290-140, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 608597,
+    "latitude": -16.70786238836622,
+    "longitude": -49.277556155826154,
+    "name": "Estante da Bambuí",
+    "stations": [
+      {
+        "id": 1595908,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3545488,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3545489,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/608597"
+  },
+  {
+    "access": 1,
+    "address": "R. 4, 26 - St. Central, Goiânia - GO, 74020-060, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 271772,
+    "latitude": -16.672041,
+    "longitude": -49.252935,
+    "name": "Hotel Rio Vermelho",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 716543,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2151687,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 716544,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2151688,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 716545,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2910853,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 716546,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2910854,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 716547,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2910855,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 716548,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2910856,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1204115,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2910852,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/271772"
+  },
+  {
+    "access": 1,
+    "address": "Av. T-3, 2440 - St. Bueno, Goiânia - GO, 74230-251, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567165,
+    "latitude": -16.706604423357145,
+    "longitude": -49.272605748490214,
+    "name": "Estação YellotMob - Manda Picanha",
+    "stations": [
+      {
+        "id": 1470060,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3350675,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567165"
+  },
+  {
+    "access": 1,
+    "address": "Acampament Santo Antonio Qdarea, 2 - Parque Res. Ander, Anápolis - GO, 75095-410, Brazil",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 615528,
+    "latitude": -16.337098683985996,
+    "longitude": -48.89519884083342,
+    "name": "Shell recharge (Coming Soon)",
+    "stations": [
+      {
+        "id": 1614887,
+        "network_id": 1536,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3581632,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3581633,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/615528"
+  },
+  {
+    "access": 1,
+    "address": "BR-060, s/n - Jardim Guanabara, Goiânia - GO, 74675-090, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 544926,
+    "latitude": -16.613827745342814,
+    "longitude": -49.20533086058843,
+    "name": "Estação YellotMob - Triunfo Concebra SAU 04",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1409865,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3247090,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/544926"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia BR 153 S/N, Km 505, Villa Sul V, 74911506, Aparecida de Goiânia-GO",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 554901,
+    "latitude": -16.74500490477788,
+    "longitude": -49.24213335000001,
+    "name": "Estação YellotMob - Pax Clínica",
+    "stations": [
+      {
+        "id": 1436964,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3298462,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/554901"
+  },
+  {
+    "access": 1,
+    "address": "Av. Santos Dumont Q K, 24 - Jundiaí, Anápolis - GO, 75113-180, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 523043,
+    "latitude": -16.332085642568533,
+    "longitude": -48.93795993179082,
+    "name": "Loja ZAITT autônoma",
+    "score": 1,
+    "stations": [
+      {
+        "id": 1348360,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3137524,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/523043"
+  },
+  {
+    "access": 1,
+    "address": "BR-153, 3661 - Fazenda Barreiro do Meio, Anápolis - GO, 75132-400, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 615092,
+    "latitude": -16.380624339475816,
+    "longitude": -48.95100204162629,
+    "name": "Volvo - Hotel Denalli",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1613905,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3579318,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613906,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3579319,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1613907,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3579320,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/615092"
+  },
+  {
+    "access": 1,
+    "address": "R. Araguapaz, 20 - Res. Alphaville Flamboyant, Goiânia - GO, 74884-543, Brasil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 520956,
+    "latitude": -16.714837563188066,
+    "longitude": -49.20170657116394,
+    "name": "Estação Posto Alpha (YellotMob)",
+    "score": 6.4,
+    "stations": [
+      {
+        "id": 1342251,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3127806,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1579053,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3521829,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/520956"
+  },
+  {
+    "access": 1,
+    "address": "Av. Alphaville Flamboyant, 01 - 3755 Quadra 05 - Lote - Alphaville Flamboyant, Goiânia - GO, 74884-527",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 363129,
+    "latitude": -16.70952,
+    "longitude": -49.221277,
+    "name": "Audi Center - Goiânia",
+    "score": 6.2,
+    "stations": [
+      {
+        "id": 867866,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2399089,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1538997,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3462429,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/363129"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dep. Jamel Cecílio, 3300 - Jardim Goiás, Goiânia - GO, 74810-907",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 214413,
+    "latitude": -16.71025,
+    "longitude": -49.237238,
+    "name": "Shopping Flamboyant",
+    "score": 4.6,
+    "stations": [
+      {
+        "id": 461652,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 983009,
+            "kilowatts": 3.7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 465008,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1015991,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/214413"
+  },
+  {
+    "access": 1,
+    "address": "Av. Brasil Norte, 505 - Vila das Acacias, Anápolis - GO, 75053-520, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 605516,
+    "latitude": -16.3242458,
+    "longitude": -48.9489555,
+    "name": "Brasil Park Shopping (Coming Soon)",
+    "stations": [
+      {
+        "id": 1584533,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3529559,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3529560,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605516"
+  },
+  {
+    "access": 1,
+    "address": "Alameda do Contorno, S/N - QUADRA AREA A LOTE AREA 1 - Jardim Bela Vista, Goiânia - GO, 74863-127",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 611522,
+    "latitude": -16.729781161319746,
+    "longitude": -49.22887659285574,
+    "name": "Atacadçao Costa - Parque das Laranjeiras",
+    "stations": [
+      {
+        "id": 1604598,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3559449,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1604599,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3559450,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/611522"
+  },
+  {
+    "access": 1,
+    "address": "Av. PL 2, 505 - Park Lozandes, Goiânia - GO, 74884-110",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 558548,
+    "latitude": -16.70047573839625,
+    "longitude": -49.22439075288598,
+    "name": "Estação YellotMob - Manakai",
+    "stations": [
+      {
+        "id": 1447192,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3314380,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/558548"
+  },
+  {
+    "access": 1,
+    "address": "Av. Brasil Sul, 4400 - Calixtolândia, Anápolis - GO, 75130-630, Brazil",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 605511,
+    "latitude": -16.36238443185149,
+    "longitude": -48.96299728877955,
+    "name": "Vitória Motors Byd Anápolis (Coming Soon)",
+    "stations": [
+      {
+        "id": 1584522,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3529543,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3529544,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605511"
+  },
+  {
+    "access": 1,
+    "address": "R. 111 - Jardim Goiás, Goiânia - GO, 74810-050",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 586370,
+    "latitude": -16.70709245476644,
+    "longitude": -49.231201649999996,
+    "name": "Arena Verano",
+    "stations": [
+      {
+        "id": 1524432,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3438826,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/586370"
+  },
+  {
+    "access": 1,
+    "address": "Av. I Qdb50 0, 0 - Alto da Glória, Goiânia - GO, 74815-770, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 513968,
+    "latitude": -16.713313961734762,
+    "longitude": -49.234412759542465,
+    "name": "Estação YellotMob - Costa Atacadão",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 1324709,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098419,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513968"
+  },
+  {
+    "access": 1,
+    "address": "Av. Diogenes D Sampaio Q Area, 0 - Jardins Munique, Goiânia - GO, 74886-071, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 524113,
+    "latitude": -16.717864394404753,
+    "longitude": -49.203573390841484,
+    "name": "Melt bar e restaurante",
+    "stations": [
+      {
+        "id": 1351691,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3142385,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1351692,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3142386,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/524113"
+  },
+  {
+    "access": 1,
+    "address": "Av. Brasil Sul, 2640 - Vila Popular Munir Calixto, Anápolis - GO, 75124-820, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 605509,
+    "latitude": -16.352176666259766,
+    "longitude": -48.95989990234375,
+    "name": "Dias Soluções Automotivas",
+    "stations": [
+      {
+        "id": 1584519,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3529536,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605509"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pinheiro Chagas, 726 - Jundiaí, Anápolis - GO, 75110-580, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601864,
+    "latitude": -16.334387085699976,
+    "longitude": -48.94065823405981,
+    "name": "Empório Goumert",
+    "stations": [
+      {
+        "id": 1570715,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3510591,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601864"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dep Jamel Cecílio, 2550 - Jardim Goiás, Goiânia/GO CEP 74810-100",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 363637,
+    "latitude": -16.704068,
+    "longitude": -49.241975,
+    "name": "Porsche Estação de Carregamento - K Hotel",
+    "stations": [
+      {
+        "id": 868941,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2400477,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 868942,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2400478,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/363637"
+  },
+  {
+    "access": 1,
+    "address": "Rua Caiapiâ, 123 - Res. Alphaville Flamboyant, Goiânia - GO, 74884-554, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 372700,
+    "latitude": -16.708039,
+    "longitude": -49.219337,
+    "name": "Flex academia",
+    "stations": [
+      {
+        "id": 896105,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2436549,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 1,
+            "id": 2436550,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/372700"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dep. Jamel Cecílio, 2690 - Jardim Goiás, Goiânia - GO, 74810-100",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604840,
+    "latitude": -16.70541135423975,
+    "longitude": -49.240909942590335,
+    "name": "Estação YellotMob - Metropolitan Mall",
+    "stations": [
+      {
+        "id": 1582429,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3526535,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604840"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dep. Jamel Cecílio, 3061 - Jardim Goiás, Goiânia - GO, 74810-100, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 410898,
+    "latitude": -16.705417,
+    "longitude": -49.239088,
+    "name": "Estação YellotMob - Empório Prime",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 991547,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2591600,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/410898"
+  },
+  {
+    "access": 1,
+    "address": "Av. Alphaville Flamboyant, 200 - Alphaville Araguaia, Goiânia - GO, 74884-527, Brasil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 595368,
+    "latitude": -16.7087467222917,
+    "longitude": -49.219841323792934,
+    "name": "Barone Salon (Coming Soon)",
+    "stations": [
+      {
+        "id": 1549295,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3478735,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1549296,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3478736,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595368"
+  },
+  {
+    "access": 1,
+    "address": "Av Alphaville Flamboyant, 01 - 3755 Quadra 05 Lote, Goiânia/GO",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 349073,
+    "latitude": -16.70991,
+    "longitude": -49.221398,
+    "name": "Porsche Center Goiânia",
+    "score": 2,
+    "stations": [
+      {
+        "id": 829633,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2346817,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 829634,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2346818,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1579060,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3521836,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/349073"
+  },
+  {
+    "access": 1,
+    "address": "R. Araguapaz, 20 - Res. Alphaville Flamboyant, Goiânia - GO, 74884-543",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604839,
+    "latitude": -16.71477191581547,
+    "longitude": -49.201604026802414,
+    "name": "Estação YellotMob - Posto Alpha (Fast Charge)",
+    "stations": [
+      {
+        "id": 1582423,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3526529,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604839"
+  },
+  {
+    "access": 1,
+    "address": "RUA 16 QD 11 LOT 05 JARDIM DAS OLIVEIRAS",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 598896,
+    "latitude": -16.66236425606823,
+    "longitude": -48.60122535377741,
+    "name": "RESSOAR ENERGIA SOLAR",
+    "stations": [
+      {
+        "id": 1597532,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3547944,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1597539,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3547957,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/598896"
+  },
+  {
+    "access": 1,
+    "address": "Rua do Torneiro - B. Alvorada",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604803,
+    "latitude": -16.33726648847392,
+    "longitude": -46.90369116183802,
+    "name": "Casa",
+    "stations": [
+      {
+        "id": 1582336,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3526404,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604803"
+  },
+  {
+    "access": 1,
+    "address": "Rua casimiro abreu",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 460626,
+    "latitude": -16.733808,
+    "longitude": -43.878303,
+    "name": "Posto Hashike",
+    "stations": [
+      {
+        "id": 1145940,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2813850,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/460626"
+  },
+  {
+    "access": 1,
+    "address": "R. Jose Lourenco, 1976 - Pequi, Eunápolis - BA, 45830-060, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 620079,
+    "latitude": -16.37241354154007,
+    "longitude": -39.562999419340976,
+    "name": "Volvo - Novo Posto Verão",
+    "stations": [
+      {
+        "id": 1627490,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3609267,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627491,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609268,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1627492,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3609269,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620079"
+  },
+  {
+    "access": 1,
+    "address": "Av. Antônio Carlos Magalhães, 436 - Dinah Borges, Eunápolis - BA, 45820-006, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 498713,
+    "latitude": -16.374240897337994,
+    "longitude": -39.57504317164421,
+    "name": "Hotel Oceania",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1285748,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3036770,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1288354,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3038022,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/498713"
+  },
+  {
+    "access": 1,
+    "address": "R. Lourenço, 690 - Santa Lucia, Eunápolis - BA, 45822-230, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 500822,
+    "latitude": -16.37519306070847,
+    "longitude": -39.58147343248129,
+    "name": "Plaza HOTEL",
+    "stations": [
+      {
+        "id": 1291646,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3043116,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500822"
+  },
+  {
+    "access": 1,
+    "address": "Av. Beira Mar, 6111 - Taperapuã, Porto Seguro - BA, 45810-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 357646,
+    "latitude": -16.392738,
+    "longitude": -39.039253,
+    "name": "Portobello Praia Resort Porto Seguro",
+    "stations": [
+      {
+        "id": 853027,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2377800,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357646"
+  },
+  {
+    "access": 1,
+    "address": "RUA JOVELINO RODRIGUES VIEIRA 91",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 570586,
+    "latitude": -16.591586883061716,
+    "longitude": -39.09836111779099,
+    "name": "Pousada Jacarandá by Rivaj",
+    "stations": [
+      {
+        "id": 1478672,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3364416,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/570586"
+  },
+  {
+    "access": 1,
+    "address": "Avenida Beira Mar, 9999 - 45810000 - Porto Seguro /BA - Praia do Muta",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 475680,
+    "latitude": -16.351602649623498,
+    "longitude": -39.01347995106811,
+    "name": "Resort La Torre - Kijeme Travel Hoteis LTDA",
+    "stations": [
+      {
+        "id": 1217006,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2928561,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2928562,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/475680"
+  },
+  {
+    "access": 1,
+    "address": "Estr. do Aeroporto, 317 - Centro, Porto Seguro - BA, 45810-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 610360,
+    "latitude": -16.438454206588084,
+    "longitude": -39.0717501193285,
+    "name": "Hotel Solar Do Imperador",
+    "stations": [
+      {
+        "id": 1601278,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3554106,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610360"
+  },
+  {
+    "access": 1,
+    "address": "Broome-Cape Leveque Rd, Dampier Peninsula WA 6725, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 252509,
+    "latitude": -16.396146,
+    "longitude": 122.928891,
+    "name": "Kooljaman Cape Leveque",
+    "stations": [
+      {
+        "id": 553724,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 1524899,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 800817,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2300135,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/252509"
+  },
+  {
+    "access": 1,
+    "address": "9295 Stuart Hwy, Birdum NT 0852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 98787,
+    "latitude": -16.307595,
+    "longitude": 133.385243,
+    "name": "Hi-Way Inn",
+    "stations": [
+      {
+        "id": 162851,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 379646,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/98787"
+  },
+  {
+    "access": 1,
+    "address": "13729 Stuart Hwy, Birdum NT 0852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 98843,
+    "latitude": -16.679469,
+    "longitude": 133.412516,
+    "name": "Dunmarra Wayside Inn",
+    "stations": [
+      {
+        "id": 163090,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2975008,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 980261,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2975009,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/98843"
+  },
+  {
+    "access": 1,
+    "address": "24 Stuart St, Daly Waters NT 0852, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 369151,
+    "latitude": -16.252902,
+    "longitude": 133.369358,
+    "name": "Daly Waters Pub Motel Hotel",
+    "score": 10,
+    "stations": [
+      {
+        "id": 884050,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2420830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 884051,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 2420831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/369151"
+  },
+  {
+    "access": 1,
+    "address": "cnr Barkly Hwy and Carpentaria Hwy",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 333684,
+    "latitude": -16.683098,
+    "longitude": 135.726869,
+    "name": "Heartbreak Hotel Cape Crawford",
+    "stations": [
+      {
+        "id": 785879,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2280764,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 785880,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 2280765,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/333684"
+  },
+  {
+    "access": 1,
+    "address": "143 - 145 Port Douglas Road Port Douglas QLD 4877 AU",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 281483,
+    "latitude": -16.526708286420615,
+    "longitude": 145.4628453325062,
+    "name": "QESH - Habitat Car Park - Port Douglas",
+    "score": 7,
+    "stations": [
+      {
+        "id": 614522,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1725384,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 3,
+            "id": 1725385,
+            "kilowatts": 50,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      },
+      {
+        "id": 1411428,
+        "network_id": 48,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3251074,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          },
+          {
+            "connector": 7,
+            "id": 3251076,
+            "kilowatts": 22,
+            "power": 0,
+            "status": "AVAILABLE"
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/281483"
+  },
+  {
+    "access": 1,
+    "address": "Captain Cook Hwy, Wangetti QLD 4871, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 211876,
+    "latitude": -16.664089,
+    "longitude": 145.56383,
+    "name": "Hartley's Crocodile Adventures",
+    "score": 10,
+    "stations": [
+      {
+        "id": 454847,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 924678,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 454848,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 924679,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/211876"
+  },
+  {
+    "access": 1,
+    "address": "212r Mossman Gorge Rd, Mossman Gorge QLD 4873, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 211875,
+    "latitude": -16.474115,
+    "longitude": 145.348968,
+    "name": "Mossman Gorge Centre",
+    "score": 10,
+    "stations": [
+      {
+        "id": 454845,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 924675,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 454846,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 924676,
+            "kilowatts": 7,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/211875"
+  },
+  {
+    "access": 1,
+    "address": "87 Port Douglas Rd, Port Douglas, , Australia, QLD 4877",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 101536,
+    "latitude": -16.50993,
+    "longitude": 145.46267,
+    "name": "Oaks Resort Port Douglas",
+    "score": 7.2,
+    "stations": [
+      {
+        "id": 170252,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 391388,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 170253,
+        "network_id": 35,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 391389,
+            "kilowatts": 22,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/101536"
+  },
+  {
+    "access": 1,
+    "address": "280 Port Douglas Rd, Port Douglas QLD 4877, Australia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581328,
+    "latitude": -16.501191637593717,
+    "longitude": 145.4645911703638,
+    "name": "Sheraton Grand Mirage Resort, Port Douglas",
+    "stations": [
+      {
+        "id": 1510341,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3416900,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1531613,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3450218,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1531614,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3450219,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1531615,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3450220,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1531616,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3450221,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1531617,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3450222,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581328"
+  }
+]

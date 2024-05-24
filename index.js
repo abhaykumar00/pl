@@ -19,11 +19,10 @@ const fetchData = async (latitude, longitude) => {
   const headers = {
     Accept: "*/*",
     Authorization: "Basic d2ViX3YyOkVOanNuUE54NHhXeHVkODU=",
-    Authorization: "Basic d2ViX3YyOkVOanNuUE54NHhXeHVkODU=",
+    
     "Cognito-Authorization":
-      "eyJraWQiOiJ4RmIzSVZuTXhYZEhUaWNTN1NJeVNGc3BHOUsydVZ2NUVNT2U4NkQxeHhBPSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoidlA2ZEd5d3RsUDNzZl8tdmtzZDhZQSIsInN1YiI6IjNmM2RkYzRjLTEzNWQtNDdjOC1iNmJmLTNjNGQwNmM1ZTc0OSIsImN1c3RvbTpwbHVnc2hhcmVfaWQiOiI1MDg1NDI1IiwiY29nbml0bzpncm91cHMiOlsidXMtZWFzdC0xX293ZVE3WG1HZl9Hb29nbGUiXSwiZW1haWxfdmVyaWZpZWQiOnRydWUsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC51cy1lYXN0LTEuYW1hem9uYXdzLmNvbVwvdXMtZWFzdC0xX293ZVE3WG1HZiIsImNvZ25pdG86dXNlcm5hbWUiOiJnb29nbGVfMTE1NDE5NDgwNDkyMDczNDAyMDIwIiwiZ2l2ZW5fbmFtZSI6IkFCSEFZIiwicGljdHVyZSI6Imh0dHBzOlwvXC9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tXC9hXC9BQ2c4b2NJNFAta21lV1ctdXRtbURHdGlTNXhrLU1tSVlxSGJhdng3MjdHOHlBQmphcEtZaTlqZD1zOTYtYyIsImF1ZCI6IjJ1MHFpM3IwZWtjM2huc2wycnNnMzExY2kiLCJpZGVudGl0aWVzIjpbeyJ1c2VySWQiOiIxMTU0MTk0ODA0OTIwNzM0MDIwMjAiLCJwcm92aWRlck5hbWUiOiJHb29nbGUiLCJwcm92aWRlclR5cGUiOiJHb29nbGUiLCJpc3N1ZXIiOm51bGwsInByaW1hcnkiOiJ0cnVlIiwiZGF0ZUNyZWF0ZWQiOiIxNzEyOTE3OTE4Nzg5In1dLCJ0b2tlbl91c2UiOiJpZCIsImF1dGhfdGltZSI6MTcxNTc2NDE4MCwibmFtZSI6IkFCSEFZIEtVTUFSIiwiZXhwIjoxNzE1NzY3ODE5LCJpYXQiOjE3MTU3NjQyMTksImVtYWlsIjoiYWtiazA0QGdtYWlsLmNvbSJ9.L9JMZ-oPZt1r0AqdqNnuMAtO_u40fS6fpVs5a3M1__Z_6_Ci1yVzUiTmvqquRKIi65LZkUk81AAo0MAWWWlzYKAz2xXafhRhZvrxn7E8yWGCOA4jyqCkkh0G4zrC74CEzr8b5XZr6GpDdfIa6wvfv6GpfRoZYLY4753jQO9qnPPVRnzed47ukJSWyDHJD9-fMkKZQJRvUpQQHvnNy_iq0NZgYB6qrH1g6a8UgU-_zx7Qmrge_URnin8rZO3whTW0KGrmFR0L0TxPKcV_i0Y06LiOkk6Z559CGBCOM8ZWLRZGYfVADD8ff-83Ue9tONAAZPquh7jET5PZMiplyT27Ng",
-
-    "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+      "eyJraWQiOiJ4RmIzSVZuTXhYZEhUaWNTN1NJeVNGc3BHOUsydVZ2NUVNT2U4NkQxeHhBPSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiSS1xM1lNZXk1OVBjM1cwX0dqaGdudyIsInN1YiI6ImQ0MmE5YjI5LWYxNjgtNGUxMi05NTRkLTE3M2QxMDBkZmE4MSIsImN1c3RvbTpwbHVnc2hhcmVfaWQiOiI1MjU1OTAyIiwiY29nbml0bzpncm91cHMiOlsidXMtZWFzdC0xX293ZVE3WG1HZl9Hb29nbGUiXSwiZW1haWxfdmVyaWZpZWQiOnRydWUsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC51cy1lYXN0LTEuYW1hem9uYXdzLmNvbVwvdXMtZWFzdC0xX293ZVE3WG1HZiIsImNvZ25pdG86dXNlcm5hbWUiOiJnb29nbGVfMTEzMzgxMTAxNTgxNjY2NjM1MDk1IiwiZ2l2ZW5fbmFtZSI6IkFCSEFZIiwicGljdHVyZSI6Imh0dHBzOlwvXC9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tXC9hXC9BQ2c4b2NKSHlSQ3l1T3lhVUxvMUNZcDRuZkpUN2lhVG42U2ZvR0IwS2tjX0FzWFo1THROZkE9czk2LWMiLCJhdWQiOiIydTBxaTNyMGVrYzNobnNsMnJzZzMxMWNpIiwiaWRlbnRpdGllcyI6W3sidXNlcklkIjoiMTEzMzgxMTAxNTgxNjY2NjM1MDk1IiwicHJvdmlkZXJOYW1lIjoiR29vZ2xlIiwicHJvdmlkZXJUeXBlIjoiR29vZ2xlIiwiaXNzdWVyIjpudWxsLCJwcmltYXJ5IjoidHJ1ZSIsImRhdGVDcmVhdGVkIjoiMTcxNjIyMjkyMjk2MiJ9XSwidG9rZW5fdXNlIjoiaWQiLCJhdXRoX3RpbWUiOjE3MTYyMjI5MjcsIm5hbWUiOiJBQkhBWSBLdW1hciIsImV4cCI6MTcxNjIyNjUyOSwiaWF0IjoxNzE2MjIyOTI5LCJlbWFpbCI6ImFrbmcwNEBnbWFpbC5jb20ifQ.Ktl9pJPDky2ZGd0xPBpm8sM-UfHSLiyFCHgtnWlvOalTD0mpzo1jDrbXix-nDymZ_DFrf1YpnqpBOsp9kIw5EJiTP3ewG2h59cduyx2AT6orUvBvCnJGOLZk4O8iwrytp9aNPLMZ4ZlDIT-U5I7HfBS1I7F94h_9FF08aMHbGe_GQWK30QjN5JjuCIZSmOb5PLCZlq-uk_44kHla0GlxyYG0BYRBQk15UtTyZhkalPYe9uu_rQyk2V_5mZAVMNifWG6pG2XoPyNWJhnNXAD52L1tO_QGUxudx-82VOz44iK8IAME_6lm9VAiAS5gQl3yfKmN_fJdqK5tNiuhIcNuiQ"
+    ,"User-Agent": "Thunder Client (https://www.thunderclient.com)",
   };
 
   try {
@@ -78,13 +77,13 @@ const start = async (requests) => {
  }
  catch(e){
     console.log("this is error");
- }
+ }  
    for(let j=0;j<94;j++){
     for (let i = 0; i < REQUESTS; i++) {
         await run();
         await new Promise((resolve) => setTimeout(resolve, INTERVAL));
       }
-       latitude +=0.5 
+       latitude -=0.5 
       await fs.writeFile("latitude.txt",(latitude).toString());
       
       longitude=-180;

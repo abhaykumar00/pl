@@ -1,0 +1,1585 @@
+[
+  {
+    "access": 1,
+    "address": "Jirón Samanco 320, Nuevo Chimbote 02710, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 328300,
+    "latitude": -9.12286,
+    "longitude": -78.533833,
+    "name": "Hotel Maresta",
+    "stations": [
+      {
+        "id": 771251,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261577,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771252,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261578,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328300"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Dutra, 3434 - Olaria, Porto Velho - RO, 76801-222",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 484370,
+    "latitude": -8.759115,
+    "longitude": -63.90694360000001,
+    "name": "Estação de recarga para veículos elétricos público Wallbox",
+    "stations": [
+      {
+        "id": 1243526,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3157637,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484370"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Jorge Teixeira, 1473 - São Cristóvão, Porto Velho - RO, 76804-017, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604990,
+    "latitude": -8.756973593855491,
+    "longitude": -63.88669550691439,
+    "name": "BMW Munique",
+    "stations": [
+      {
+        "id": 1583022,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3527362,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604990"
+  },
+  {
+    "access": 1,
+    "address": "Sítio Laurinho, s/n, Praia do Patacho, Porto de Pedras-AL",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 531723,
+    "latitude": -9.186251640319824,
+    "longitude": -35.30381774902344,
+    "name": "Pousada Reserva Do Patacho",
+    "stations": [
+      {
+        "id": 1373243,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3175445,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/531723"
+  },
+  {
+    "access": 1,
+    "address": "XQFC+82 - Maragogi, AL, 57955-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 539329,
+    "latitude": -9.026875876019217,
+    "longitude": -35.22881861557397,
+    "name": "Salinas do Maragogi Resort",
+    "stations": [
+      {
+        "id": 1394646,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3212217,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/539329"
+  },
+  {
+    "access": 1,
+    "address": ".",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 461867,
+    "latitude": -8.959685,
+    "longitude": 32.099945,
+    "name": ". (Coming Soon)",
+    "stations": [
+      {
+        "id": 1150607,
+        "outlets": [
+          {
+            "connector": 25,
+            "id": 2887413,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/461867"
+  },
+  {
+    "access": 1,
+    "address": "56XH+FXX, Benoa, South Kuta, Badung Regency, Bali, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 480971,
+    "latitude": -8.801121943046159,
+    "longitude": 115.23017898201941,
+    "name": "SPKLU BNI CREA NUSA DUA",
+    "stations": [
+      {
+        "id": 1233485,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2953636,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/480971"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Kw. Garuda Wisnu Kencana, Ungasan, Kec. Kuta Sel., Kabupaten Bandung, Bali",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 521056,
+    "latitude": -8.80886098162895,
+    "longitude": 115.16644704524981,
+    "name": "GWK Festival Park",
+    "stations": [
+      {
+        "id": 1342478,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3128218,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521056"
+  },
+  {
+    "access": 1,
+    "address": "56C7+QP, Benoa, South Kuta, Badung Regency, Bali, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 583573,
+    "latitude": -8.828242164070636,
+    "longitude": 115.21409846842289,
+    "name": "SPKLU PLN The Apurva Kempinski Bali",
+    "stations": [
+      {
+        "id": 1516989,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3427142,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3427368,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517120,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427359,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517121,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427360,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517122,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427361,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517124,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427363,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517125,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427364,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517126,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427365,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517127,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427366,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517128,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3427367,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1517129,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3427369,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3427370,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583573"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Bypass Ngurah Rai Kabupaten Badung Bali Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 509123,
+    "latitude": -8.790147482832078,
+    "longitude": 115.2114782882466,
+    "name": "SPKLU Bank Mandiri Nusa Dua",
+    "stations": [
+      {
+        "id": 1312211,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3078564,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3252544,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3252545,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/509123"
+  },
+  {
+    "access": 1,
+    "address": "Prolong. Av. Reina 119, Casma 02661, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 328298,
+    "latitude": -9.473116,
+    "longitude": -78.308995,
+    "name": "SENATI Casma District",
+    "stations": [
+      {
+        "id": 771246,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261570,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771247,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261571,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328298"
+  },
+  {
+    "access": 1,
+    "address": "Rod BR 203, 11, São José, Petrolina",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 463938,
+    "latitude": -9.397007725783748,
+    "longitude": -40.481097569700914,
+    "name": "Hotel Novo Centro",
+    "stations": [
+      {
+        "id": 1180410,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2874967,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/463938"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Tancredo Neves, 1049 - Centro, Petrolina - PE, 56306-410, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585757,
+    "latitude": -9.395830392939136,
+    "longitude": -40.49428436379136,
+    "name": "Hotel Ibis Petrolina",
+    "stations": [
+      {
+        "id": 1522996,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3436548,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585757"
+  },
+  {
+    "access": 1,
+    "address": "Vizinho a Catedral de Petrolina ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 613442,
+    "latitude": -9.398294988427159,
+    "longitude": -40.500796548747374,
+    "name": "Estacionamento Central",
+    "stations": [
+      {
+        "id": 1609572,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3569435,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/613442"
+  },
+  {
+    "access": 1,
+    "address": "Av. Ananias Fernandes dos Santos, 12 Canindé ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 605313,
+    "latitude": -9.665709260381252,
+    "longitude": -37.79352980101547,
+    "name": "Volvo Posto Canindé",
+    "stations": [
+      {
+        "id": 1583949,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3588087,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1617707,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3588088,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/605313"
+  },
+  {
+    "access": 1,
+    "address": "96HW+43 Piranhas, AL, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 511342,
+    "latitude": -9.622212502692296,
+    "longitude": -37.75476565000001,
+    "name": "Hotel Pedra do Sino",
+    "stations": [
+      {
+        "id": 1317988,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087918,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511342"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Castelo Branco, 60, Delmiro Gouveia - AL, 57480-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 511343,
+    "latitude": -9.383237502624178,
+    "longitude": -37.996765599999996,
+    "name": "Shopping da Vila",
+    "score": 5.2,
+    "stations": [
+      {
+        "id": 1317989,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087920,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1329999,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3107166,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511343"
+  },
+  {
+    "access": 1,
+    "address": "Av Landulfo Alves S/N",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 579181,
+    "latitude": -9.401304193975152,
+    "longitude": -38.220732829792986,
+    "name": "Posto Avenida",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1503701,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3406786,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3406787,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/579181"
+  },
+  {
+    "access": 1,
+    "address": "R. José Martiniano Vasco, 70 - Centro, Piranhas - AL, 57460-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 588389,
+    "latitude": -9.626260836504349,
+    "longitude": -37.75640219449997,
+    "name": "Pousada Porto De Piranhas",
+    "stations": [
+      {
+        "id": 1529329,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3446718,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/588389"
+  },
+  {
+    "access": 1,
+    "address": "R. C, 33, Olho d'Água das Flores - AL, 57442-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 569010,
+    "latitude": -9.541819888030073,
+    "longitude": -37.28708032518625,
+    "name": "Super Connect Telecom",
+    "stations": [
+      {
+        "id": 1474300,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3357564,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/569010"
+  },
+  {
+    "access": 1,
+    "address": "Olho d’Água das Flores",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 596814,
+    "latitude": -9.541921799999999,
+    "longitude": -37.2869634,
+    "name": "provedor super Connect Telecom",
+    "stations": [
+      {
+        "id": 1553824,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3486188,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3486189,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596814"
+  },
+  {
+    "access": 1,
+    "address": "R. Expedicionário Brasileiro, 145a - Centro, Arapiraca - AL, 57300-550, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 371089,
+    "latitude": -9.747965,
+    "longitude": -36.664933,
+    "name": "Ibis Hotel Arapiraca",
+    "stations": [
+      {
+        "id": 890732,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2913392,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 890733,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2913393,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 890734,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2913394,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/371089"
+  },
+  {
+    "access": 1,
+    "address": "R. Prof. Domingos Rodrigues, 23 - Capiata, Arapiraca - AL, 57311-556, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 471635,
+    "latitude": -9.749455543553143,
+    "longitude": -36.66004999394952,
+    "name": "Carregador Público Via G",
+    "score": 2.4,
+    "stations": [
+      {
+        "id": 1206284,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2913911,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471635"
+  },
+  {
+    "access": 1,
+    "address": "Av. Deputada Ceci Cunha - Brasília - Arapiraca - AL - 57212-675",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 471901,
+    "latitude": -9.748546600341797,
+    "longitude": -36.64824295043945,
+    "name": "Supermercado São Luiz",
+    "score": 8.6,
+    "stations": [
+      {
+        "id": 1206946,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2914807,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1435242,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3296083,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/471901"
+  },
+  {
+    "access": 1,
+    "address": "BR-101, km75 - Br 101, Rio Largo - AL, 57100-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/YR.png",
+    "icon_type": "YR",
+    "id": 341803,
+    "latitude": -9.409068369782487,
+    "longitude": -35.83994005886077,
+    "name": "Posto Pichilau",
+    "score": 8.8,
+    "stations": [
+      {
+        "id": 808210,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2309639,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2309640,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2309641,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341803"
+  },
+  {
+    "access": 1,
+    "address": "Av. Rubéns Canúto, s/n - chã do pilar, Pilar - AL, 57150-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 542157,
+    "latitude": -9.591137763682418,
+    "longitude": -35.947614190429675,
+    "name": "Posto Châ do Pilar",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1402314,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3229421,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542157"
+  },
+  {
+    "access": 1,
+    "address": "AL-101 Norte 417, Casa 03 Povoado do Marceneiro, Passo de Camaragibe - AL, 57930-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476761,
+    "latitude": -9.303384986105806,
+    "longitude": -35.40165326079819,
+    "name": "Casa Milagres OKA 19 - AirBNB",
+    "stations": [
+      {
+        "id": 1220388,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2935719,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476761"
+  },
+  {
+    "access": 1,
+    "address": "R. Milton de Oliveira Santos, 585 - Riacho Doce, Maceió - AL, 57039-320, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 620371,
+    "latitude": -9.57466912652939,
+    "longitude": -35.657295025885105,
+    "name": "Wanderson Vieira (BYD)",
+    "stations": [
+      {
+        "id": 1628305,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3611048,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620371"
+  },
+  {
+    "access": 1,
+    "address": "Av. Comendador Gustavo Paiva - Mangabeiras, Maceió - AL, 57031-530",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 594625,
+    "latitude": -9.6464605,
+    "longitude": -35.714468,
+    "name": "BR Super Carga - Carajas Maceió - Mangabeiras",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 1547395,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3475617,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3475621,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/594625"
+  },
+  {
+    "access": 1,
+    "address": "Rua Dezesseis de Setembro 198 - Levada, CEP:57017-020 - Maceió Alagoas ",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 511287,
+    "latitude": -9.663330600000002,
+    "longitude": -35.7448484,
+    "name": "Stenio Filho (Coming Soon)",
+    "stations": [
+      {
+        "id": 1317848,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3087742,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/511287"
+  },
+  {
+    "access": 1,
+    "address": "Av. Comendador Gustavo Paiva, 5945, Maceió/AL CEP 57038-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 335340,
+    "latitude": -9.627479,
+    "longitude": -35.698939,
+    "name": "Estação de carregamento Porsche - Parque Shopping Maceió",
+    "score": 7.9,
+    "stations": [
+      {
+        "id": 790233,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2286361,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 790234,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2286362,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/335340"
+  },
+  {
+    "access": 1,
+    "address": "Rua Pedro Américo, 111",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584776,
+    "latitude": -9.660240179593245,
+    "longitude": -35.72254507547335,
+    "name": "+ IPEI",
+    "stations": [
+      {
+        "id": 1520183,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3432357,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584776"
+  },
+  {
+    "access": 1,
+    "address": "AL-101, 953 - Pajuçara, Maceió - AL, 57030-170, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 500790,
+    "latitude": -9.666181802704813,
+    "longitude": -35.71177739999999,
+    "name": "Hotel Brisa Suítes",
+    "stations": [
+      {
+        "id": 1291575,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3042977,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500790"
+  },
+  {
+    "access": 1,
+    "address": "Rua Marechal Mascarenhas de Moraes, 20, Praia de Lagoa da Anta, Maceió-AL",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574571,
+    "latitude": -9.633691957893786,
+    "longitude": -35.697658174660496,
+    "name": "Hotel Reymar Express",
+    "stations": [
+      {
+        "id": 1489696,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3383740,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574571"
+  },
+  {
+    "access": 1,
+    "address": "avenida doutor Júlio Marques luz 1953",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 567568,
+    "latitude": -9.6535307,
+    "longitude": -35.71681969999999,
+    "name": "L M CAR SERVICE",
+    "stations": [
+      {
+        "id": 1471037,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3352198,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3352199,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/567568"
+  },
+  {
+    "access": 1,
+    "address": "Av. Comendador Gustavo Paiva, 4175 - Cruz das Almas, Maceió - AL, 57038-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 345106,
+    "latitude": -9.640833,
+    "longitude": -35.707896,
+    "name": "Nikai Nissan Maceió",
+    "stations": [
+      {
+        "id": 817720,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2936122,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/345106"
+  },
+  {
+    "access": 1,
+    "address": "Rua Cincinato pinto 345",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 542090,
+    "latitude": -9.661476135253906,
+    "longitude": -35.74079513549805,
+    "name": "Estacionamento Tropical",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1616780,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3586261,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542090"
+  },
+  {
+    "access": 1,
+    "address": "R. Elaine Lima, 40 - Gruta de Lourdes, Maceió - AL, 57052-700, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 365013,
+    "latitude": -9.620472,
+    "longitude": -35.736588,
+    "name": "Servmed",
+    "stations": [
+      {
+        "id": 872441,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2405361,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 872442,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2405362,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/365013"
+  },
+  {
+    "access": 1,
+    "address": "R. 56 Cd Aldebaran Omega, 8 - Jardim Petrópolis, Maceió - AL, 57080-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 601282,
+    "latitude": -9.593505713342845,
+    "longitude": -35.73371211174146,
+    "name": "Bruno Pessoa (Coming Soon)",
+    "stations": [
+      {
+        "id": 1569059,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3508007,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601282"
+  },
+  {
+    "access": 1,
+    "address": "Av. Comendador Gustavo Paiva, 1449 - Mangabeiras, Maceió - AL, 57031-530, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 486567,
+    "latitude": -9.645599519894613,
+    "longitude": -35.71389114804348,
+    "name": "Assaí Atacadista",
+    "score": 3.9,
+    "stations": [
+      {
+        "id": 1248415,
+        "network_id": 1665,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2979394,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/486567"
+  },
+  {
+    "access": 1,
+    "address": "Av. Brigadeiro Eduardo Gomes de Brito, 546 - Cruz das Almas, Maceió - AL, 57038-230, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 621001,
+    "latitude": -9.6392875,
+    "longitude": -35.6987766,
+    "name": "Hitz Lagoa da Anta",
+    "stations": [
+      {
+        "id": 1630164,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3614855,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3614856,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/621001"
+  },
+  {
+    "access": 1,
+    "address": "Corredor Vera Arruda - Av. Eng. Paulo Brandão Nogueira, S/N - LJ 11 - Jatiúca, Maceió - AL, 57036-550, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 384125,
+    "latitude": -9.647351885541745,
+    "longitude": -35.705196271163935,
+    "name": "Eletroposto Equatorial",
+    "score": 5.8,
+    "stations": [
+      {
+        "id": 923468,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3586659,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1416635,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3586660,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/384125"
+  },
+  {
+    "access": 1,
+    "address": "Av. Comendador Gustavo Paiva, 2990 - Mangabeiras, Maceió - AL, 57032-901, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 307322,
+    "latitude": -9.647868,
+    "longitude": -35.715584,
+    "name": "Maceió Shopping",
+    "score": 4.6,
+    "stations": [
+      {
+        "id": 713671,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2154599,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 713672,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2154600,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 857455,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2384071,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/307322"
+  },
+  {
+    "access": 1,
+    "address": "AL-101, 936 - Cruz das Almas, Maceió - AL, 57038, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 488670,
+    "latitude": -9.627257147543977,
+    "longitude": -35.69726499820512,
+    "name": "Tokyo Sushi Bar",
+    "stations": [
+      {
+        "id": 1254945,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2989960,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/488670"
+  },
+  {
+    "access": 1,
+    "address": "parque shopping",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574583,
+    "latitude": -9.627973614942753,
+    "longitude": -35.700208868627016,
+    "name": "carregador bmw parque shopping",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1489768,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3383825,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574583"
+  },
+  {
+    "access": 1,
+    "address": "Av. Fernandes Lima 3595",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 613445,
+    "latitude": -9.6165361,
+    "longitude": -35.7397723,
+    "name": "Massagueirinha Gruta",
+    "stations": [
+      {
+        "id": 1609722,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3569596,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/613445"
+  },
+  {
+    "access": 1,
+    "address": "parque shopping ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 574677,
+    "latitude": -9.628036408459918,
+    "longitude": -35.700071945336596,
+    "name": "carregador bmw parque shopping",
+    "stations": [
+      {
+        "id": 1490093,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3384303,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1490094,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3384304,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/574677"
+  },
+  {
+    "access": 1,
+    "address": "R. 56 Cd Aldebaran Omega, 8 - Jardim Petrópolis, Maceió - AL, 57080-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601323,
+    "latitude": -9.593508071274954,
+    "longitude": -35.73369557041276,
+    "name": "Bruno Pessoa",
+    "stations": [
+      {
+        "id": 1569176,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3508204,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3508205,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601323"
+  }
+]

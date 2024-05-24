@@ -1,0 +1,90 @@
+[
+  {
+    "access": 1,
+    "address": "CWVH+X4 Santa Tereza de Goiás - State of Goiás, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 575915,
+    "latitude": -13.555030701455662,
+    "longitude": -49.072155626844484,
+    "name": "BSO09 - Ecovias do Araguaia",
+    "stations": [
+      {
+        "id": 1493619,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3391312,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/575915"
+  },
+  {
+    "access": 1,
+    "address": "R. Guanabara, 53 - Bom Jesus da Lapa, BA, 47600-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533678,
+    "latitude": -13.255137041178957,
+    "longitude": -43.41707839305401,
+    "name": "Hotel Conceito",
+    "stations": [
+      {
+        "id": 1378457,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3183348,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1378458,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3183349,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533678"
+  },
+  {
+    "access": 1,
+    "address": "Rua comendador Madureira, 72 - centro - Valença BA",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 610362,
+    "latitude": -13.370628,
+    "longitude": -39.0707761,
+    "name": "Estacionamento Fonseca",
+    "stations": [
+      {
+        "id": 1601280,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3554110,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610362"
+  }
+]

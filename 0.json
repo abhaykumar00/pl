@@ -1,0 +1,1075 @@
+[
+  {
+    "access": 1,
+    "address": "Makerere Hill Rd, Kampala, Uganda",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 60187,
+    "latitude": 0.327989,
+    "longitude": 32.567411,
+    "name": "University of Makerere",
+    "stations": [
+      {
+        "id": 82686,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 181962,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 2152368,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/60187"
+  },
+  {
+    "access": 1,
+    "address": "Av. Quito Km 2 1/2 y, C. Satelite, Santo Domingo, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537839,
+    "latitude": -0.24685209957851575,
+    "longitude": -79.1523043404442,
+    "name": "Induauto Chevrolet Santo Domingo",
+    "stations": [
+      {
+        "id": 1390413,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3203954,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537839"
+  },
+  {
+    "access": 1,
+    "address": "Av. El Inca Oe1-128 entre Avs. De la Prensa y, Av. 10 de Agosto, Quito 170104, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 497992,
+    "latitude": -0.16083577014063943,
+    "longitude": -78.48686993122101,
+    "name": "BMC MOTORS",
+    "stations": [
+      {
+        "id": 1283433,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3271544,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/497992"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mariana de Jesús y 10 de Agosto",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 268803,
+    "latitude": -0.188728,
+    "longitude": -78.491704,
+    "name": "Empresa Eléctrica Quito EEQ",
+    "stations": [
+      {
+        "id": 592247,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1638738,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 592248,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1638739,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 592249,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1638740,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268803"
+  },
+  {
+    "access": 1,
+    "address": "Conector Alpachaca S/N",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268957,
+    "latitude": -0.125123,
+    "longitude": -78.361149,
+    "name": "Estacionamiento Aeropuerto UIO",
+    "stations": [
+      {
+        "id": 592542,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639958,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268957"
+  },
+  {
+    "access": 1,
+    "address": "Av. Eloy Alfaro y N75",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268946,
+    "latitude": -0.100343,
+    "longitude": -78.469606,
+    "name": "Estacionamiento 1 Terminal Carcelén",
+    "stations": [
+      {
+        "id": 592528,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639848,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268946"
+  },
+  {
+    "access": 1,
+    "address": "E28C y Av. María Angélica Idrobo",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268932,
+    "latitude": -0.199184,
+    "longitude": -78.436298,
+    "name": "Centro Comercial Paseo San Francisco",
+    "stations": [
+      {
+        "id": 592501,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639750,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268932"
+  },
+  {
+    "access": 1,
+    "address": "Av. 24 de Mayo y Guayaquil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268939,
+    "latitude": -0.224939,
+    "longitude": -78.514336,
+    "name": "Estacionamiento La Ronda",
+    "stations": [
+      {
+        "id": 592512,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268939"
+  },
+  {
+    "access": 1,
+    "address": "Av. Amazonas y Holguín",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268943,
+    "latitude": -0.146098,
+    "longitude": -78.489459,
+    "name": "Estacionamiento A Parque Bicentenario",
+    "stations": [
+      {
+        "id": 592519,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639839,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268943"
+  },
+  {
+    "access": 1,
+    "address": "RGQ7+5QH, Quito 170513, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 572556,
+    "latitude": -0.1622295074610105,
+    "longitude": -78.48564215004444,
+    "name": "Electrolinera Terpel",
+    "stations": [
+      {
+        "id": 1484224,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3374984,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/572556"
+  },
+  {
+    "access": 1,
+    "address": "Av. Naciones Unidas y Av. América",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268949,
+    "latitude": -0.174721,
+    "longitude": -78.492309,
+    "name": "Plaza de las Américas",
+    "stations": [
+      {
+        "id": 592531,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639851,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268949"
+  },
+  {
+    "access": 1,
+    "address": "QHW4+4HP, Quito 170902, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 347689,
+    "latitude": -0.204451,
+    "longitude": -78.443373,
+    "name": "Aneta Cumbaya Drivers Academy",
+    "stations": [
+      {
+        "id": 825875,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2333037,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 825876,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2333038,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/347689"
+  },
+  {
+    "access": 1,
+    "address": "Av Naciones Unidas y Av Shyris ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 497621,
+    "latitude": -0.1764696281579937,
+    "longitude": -78.4794670343399,
+    "name": "Quicentro",
+    "stations": [
+      {
+        "id": 1282668,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3029523,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/497621"
+  },
+  {
+    "access": 1,
+    "address": "Juan Pío Montúfar y JJ Olmedo",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268940,
+    "latitude": -0.220288,
+    "longitude": -78.508712,
+    "name": "Estacionamiento Montúfar 1",
+    "stations": [
+      {
+        "id": 592513,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639832,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268940"
+  },
+  {
+    "access": 1,
+    "address": "AV. 10 de Agosto N45-266 Y Amazonas",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537832,
+    "latitude": -0.15590071099541639,
+    "longitude": -78.48466621496912,
+    "name": "Automotores Continental Labrador -  Chevrolet",
+    "stations": [
+      {
+        "id": 1390404,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3203939,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537832"
+  },
+  {
+    "access": 1,
+    "address": "Guayaquil y Francisco de Caldas",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268942,
+    "latitude": -0.217084,
+    "longitude": -78.505902,
+    "name": "Estacionamiento San Blas",
+    "stations": [
+      {
+        "id": 592517,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639837,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268942"
+  },
+  {
+    "access": 1,
+    "address": "Av. Interoceánica  y Calle del Establo",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537831,
+    "latitude": -0.19663231470331954,
+    "longitude": -78.44163696704092,
+    "name": "Automotores Continental Cumbayá - Chevrolet",
+    "stations": [
+      {
+        "id": 1390403,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3203938,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537831"
+  },
+  {
+    "access": 1,
+    "address": "Mejía y Sebastián de Benalcázar",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268941,
+    "latitude": -0.218132,
+    "longitude": -78.511625,
+    "name": "Estacionamiento Cadisán",
+    "stations": [
+      {
+        "id": 592516,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639836,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268941"
+  },
+  {
+    "access": 1,
+    "address": "Av. Eloy Alfaro y Juan Severino",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268938,
+    "latitude": -0.189449,
+    "longitude": -78.484165,
+    "name": "Parqueo #8 Parque La Carolina",
+    "stations": [
+      {
+        "id": 592511,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639829,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268938"
+  },
+  {
+    "access": 1,
+    "address": "Av. Amazonas y Mariana de Jesús",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268948,
+    "latitude": -0.189344,
+    "longitude": -78.487563,
+    "name": "Mall El Jardín",
+    "stations": [
+      {
+        "id": 592530,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639850,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268948"
+  },
+  {
+    "access": 1,
+    "address": "RGPQ+RG3, Av. Simón Bolívar, Quito 170124, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 526389,
+    "latitude": -0.16292151460106405,
+    "longitude": -78.46127361059189,
+    "name": "Produbanco Parqueadero Clientes",
+    "stations": [
+      {
+        "id": 1357338,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3151412,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/526389"
+  },
+  {
+    "access": 1,
+    "address": "R. Leopoldo Machado, 1981 - Centro, Macapá - AP, 68900-067, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 476848,
+    "latitude": 0.0342260003,
+    "longitude": -51.0620727539,
+    "name": "Dubai Macapa",
+    "stations": [
+      {
+        "id": 1220655,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2936113,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/476848"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Sultan Abdurrahman No.72, Akcaya, Kec. Pontianak Sel., Kota Pontianak, Kalimantan Barat 78116, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 588119,
+    "latitude": -0.0383571,
+    "longitude": 109.3300059,
+    "name": "Hotel Maestro Pontianak",
+    "stations": [
+      {
+        "id": 1528752,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3445696,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/588119"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Jenderal Ahmad Yani No.89, Bangka Belitung Laut, Kec. Pontianak Tenggara, Kota Pontianak, Kalimantan Barat 78112, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 588121,
+    "latitude": -0.0529958,
+    "longitude": 109.3466517,
+    "name": "Hotel Mercure Pontianak",
+    "stations": [
+      {
+        "id": 1528754,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3445698,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/588121"
+  },
+  {
+    "access": 1,
+    "address": "4HM6+M48, Bunut, Kapuas, Sanggau Regency, West Kalimantan 78561, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 588122,
+    "latitude": 0.1343906,
+    "longitude": 110.5608309,
+    "name": "PLN SPKLU Sanggau",
+    "stations": [
+      {
+        "id": 1528755,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3445699,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3445700,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3445701,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3445702,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/588122"
+  },
+  {
+    "access": 1,
+    "address": "7M4G+PJ5, Puerto Ayora",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 331413,
+    "latitude": -0.74304,
+    "longitude": -90.323075,
+    "name": "Consejo de Gobierno Galápagos - Puerto Ayora",
+    "stations": [
+      {
+        "id": 779828,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2272901,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/331413"
+  },
+  {
+    "access": 1,
+    "address": "Av. Charles Darwin, Puerto Ayora",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 331414,
+    "latitude": -0.74691,
+    "longitude": -90.312759,
+    "name": "Capitanía de Isla Santa Cruz",
+    "stations": [
+      {
+        "id": 779829,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2272902,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/331414"
+  },
+  {
+    "access": 1,
+    "address": "Av. Chone 241, Santo Domingo, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 348639,
+    "latitude": -0.254822,
+    "longitude": -79.17952,
+    "name": "Megamodelauto",
+    "stations": [
+      {
+        "id": 828389,
+        "outlets": [
+          {
+            "connector": 12,
+            "id": 2345167,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/348639"
+  },
+  {
+    "access": 1,
+    "address": "Av. Morán Valverde, frente a Todohogar Quicentro Sur",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 268934,
+    "latitude": -0.284149,
+    "longitude": -78.542717,
+    "name": "Empresa Eléctrica Quito EEQ - Agencia Turubamba",
+    "stations": [
+      {
+        "id": 592505,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 1639779,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 592506,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 1639780,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 592507,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 1639781,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268934"
+  },
+  {
+    "access": 1,
+    "address": "PG4V+QP5, Quito, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 466937,
+    "latitude": -0.292858,
+    "longitude": -78.455647,
+    "name": "Supermaxi Plaza San Gabriel",
+    "stations": [
+      {
+        "id": 1188937,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2886602,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1188938,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2886603,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1188939,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2886604,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1188940,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2886605,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/466937"
+  },
+  {
+    "access": 1,
+    "address": "28 de Agosto 1380, Quito, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 488284,
+    "latitude": -0.2943761733935187,
+    "longitude": -78.40007029473782,
+    "name": "S2-20",
+    "stations": [
+      {
+        "id": 1253007,
+        "outlets": [
+          {
+            "connector": 5,
+            "id": 2986959,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1253008,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2986960,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1253009,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2986961,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1253010,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2986962,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1253011,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2986963,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/488284"
+  },
+  {
+    "access": 1,
+    "address": "Av. Mariscal Sucre",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268947,
+    "latitude": -0.295166,
+    "longitude": -78.557476,
+    "name": "Estacionamiento 1 Terminal Quitumbe",
+    "stations": [
+      {
+        "id": 592529,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639849,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268947"
+  },
+  {
+    "access": 1,
+    "address": "MGRX+MQ2, Quito, Ecuador",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 593548,
+    "latitude": -0.3082855051801887,
+    "longitude": -78.45054373621143,
+    "name": "Kia point of charge at Megamaxi",
+    "stations": [
+      {
+        "id": 1544187,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3470743,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/593548"
+  },
+  {
+    "access": 1,
+    "address": "Av. Rumichaca Ñan y Matilde Álvarez",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 268952,
+    "latitude": -0.286687,
+    "longitude": -78.549693,
+    "name": "Estacionamiento Parque Carolo-Las Cuadras",
+    "stations": [
+      {
+        "id": 592534,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 1639875,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/268952"
+  },
+  {
+    "access": 1,
+    "address": "Av. Ilaló y Rio Curaray",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537844,
+    "latitude": -0.2949590862828611,
+    "longitude": -78.45117776913015,
+    "name": "EcuaAuto - Chevrolet - Valle de los Chillos",
+    "stations": [
+      {
+        "id": 1390418,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3203964,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537844"
+  },
+  {
+    "access": 1,
+    "address": "Av. Beira Mar, 26 - Centro, Salinópolis - PA, 68721-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 590191,
+    "latitude": -0.6125146825566062,
+    "longitude": -47.35873192548752,
+    "name": "Hotel Salinópolis 91-99111-7212",
+    "stations": [
+      {
+        "id": 1534729,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3455237,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/590191"
+  }
+]

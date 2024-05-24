@@ -1,0 +1,5062 @@
+[
+  {
+    "access": 1,
+    "address": "Andrés Avelino Cáceres 222, Chiclayo 14008, Perú",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 328303,
+    "latitude": -6.77819,
+    "longitude": -79.833518,
+    "name": "Mall Real Plaza",
+    "stations": [
+      {
+        "id": 771257,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261583,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 771258,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261584,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328303"
+  },
+  {
+    "access": 1,
+    "address": "Rua mangabeira- Novo Progresso -PA-cep 68.193-000, Novo Progresso - PA, 68193-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 563792,
+    "latitude": -7.052904916092737,
+    "longitude": -55.40871665551799,
+    "name": "TAPAJÓS PALACE HOTEL",
+    "stations": [
+      {
+        "id": 1461485,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3336794,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/563792"
+  },
+  {
+    "access": 1,
+    "address": "Av. Dr. José Ribamar Pachêco, 156 - Cancela, Floriano - PI, 64800-000",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 478855,
+    "latitude": -6.7742803317607345,
+    "longitude": -43.00958804652446,
+    "name": "BR Super Carga - Hotel Rio Parnaíba",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1226623,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 2951050,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1231478,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 2951051,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1488001,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3381025,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1488002,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3381026,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478855"
+  },
+  {
+    "access": 1,
+    "address": "Rodovia Transamazonica, 1507, Oeiras, Piauí",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 600345,
+    "latitude": -7.005968294783065,
+    "longitude": -42.11991101503372,
+    "name": "Hotel Marcos Plaza",
+    "stations": [
+      {
+        "id": 1566422,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3504150,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/600345"
+  },
+  {
+    "access": 1,
+    "address": "Av. Senador Helvídio Nunes, 879 - Boa Sorte, Picos - PI, 64607-085",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 589529,
+    "latitude": -7.079651045075038,
+    "longitude": -41.45959005568937,
+    "name": "BR Super Carga - Entre Rios Hotel",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1532729,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3452061,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589529"
+  },
+  {
+    "access": 1,
+    "address": "Av. Senador Helvídio Nunes, 879 - Boa Sorte, Picos - PI, 64607-085",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 499824,
+    "latitude": -7.0796917,
+    "longitude": -41.4596394,
+    "name": "Entre Rios Hotel",
+    "stations": [
+      {
+        "id": 1289041,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3038968,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1289042,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3038969,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/499824"
+  },
+  {
+    "access": 1,
+    "address": "Av. Padre Cícero, 4288, Loja B, São José, Juazeiro do Norte, CE, CEP 63024-010",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 555246,
+    "latitude": -7.226755100000001,
+    "longitude": -39.3452248,
+    "name": "Renault | Terra Santa Comércio de Veículos Ltda",
+    "stations": [
+      {
+        "id": 1437941,
+        "network_id": 1718,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3299978,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/555246"
+  },
+  {
+    "access": 1,
+    "address": "R. Raimundo N Gomes, 238 - Bela Vista, Sousa - PB, 58806-710, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 457611,
+    "latitude": -6.77841,
+    "longitude": -38.240227,
+    "name": "Volvo Posto Chabocão",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1106587,
+        "network_id": 1377,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2772511,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1607328,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3564294,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1607329,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3564295,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/457611"
+  },
+  {
+    "access": 1,
+    "address": "Av. João Bôsco M. de Souza, 95 - Gato Preto, Sousa - PB, 58802-340, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 500612,
+    "latitude": -6.766393926025835,
+    "longitude": -38.21781624108553,
+    "name": "Arena Beach",
+    "stations": [
+      {
+        "id": 1291002,
+        "network_id": 1414,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3042096,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500612"
+  },
+  {
+    "access": 1,
+    "address": "Rua Cel.Miguel Sátiro, 27 - Centro, Patos - PB, 58700-510, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 527978,
+    "latitude": -7.0292614375163005,
+    "longitude": -37.27571010999132,
+    "name": "Restaurante Ladouro",
+    "stations": [
+      {
+        "id": 1361779,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3158381,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/527978"
+  },
+  {
+    "access": 1,
+    "address": "R. Horácio Nóbrega, 347 - Belo Horizonte, Patos - PB",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581931,
+    "latitude": -7.0220319,
+    "longitude": -37.2785635,
+    "name": "Patos Shopping",
+    "stations": [
+      {
+        "id": 1512098,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3583357,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581931"
+  },
+  {
+    "access": 1,
+    "address": "Patos Shopping ",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 593308,
+    "latitude": -7.021854135746776,
+    "longitude": -37.27849235666232,
+    "name": "Patos Shopping",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1543442,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3469705,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/593308"
+  },
+  {
+    "access": 1,
+    "address": "BR-230, 313 - Conj. Jardim Planalto, São Mamede - PB, 58625-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 598557,
+    "latitude": -6.937096899999999,
+    "longitude": -37.0942058,
+    "name": "BR Super Carga - Restaurante Carreteiro",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1559252,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3494284,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/598557"
+  },
+  {
+    "access": 1,
+    "address": "R. Santos Dumont, 311 - Conj. Jardim Planalto, São Mamede - PB, 58625-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 470207,
+    "latitude": -6.937065,
+    "longitude": -37.094506,
+    "name": "Restaurante Ramal",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1202312,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3462580,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1539092,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3462581,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/470207"
+  },
+  {
+    "access": 1,
+    "address": "BR-230, 2968 - Soledade, PB, 58155-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456378,
+    "latitude": -7.064843,
+    "longitude": -36.352002,
+    "name": "Churrascaria e Lanchonete Dois Irmãos",
+    "stations": [
+      {
+        "id": 1102997,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2767831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456378"
+  },
+  {
+    "access": 1,
+    "address": "Br. 230, Juazeirinho - State of Paraíba, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 507141,
+    "latitude": -7.069149021103578,
+    "longitude": -36.59035675463428,
+    "name": "Bar e Restaurante da Janete",
+    "stations": [
+      {
+        "id": 1306794,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3069830,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/507141"
+  },
+  {
+    "access": 1,
+    "address": "Av. Jorn. Assis Chateaubriand, 2060 - Distrito Industrial, Campina Grande - PB, 58410-062, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 617498,
+    "latitude": -7.2463466,
+    "longitude": -35.8875817,
+    "name": "BR Super Carga - Pagelar",
+    "stations": [
+      {
+        "id": 1620242,
+        "network_id": 1734,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3592614,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617498"
+  },
+  {
+    "access": 1,
+    "address": "Estrada sem nome - Campina Grande, PB, 58408, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 461954,
+    "latitude": -7.237722,
+    "longitude": -35.862383,
+    "name": "Garden Hotel",
+    "score": 7,
+    "stations": [
+      {
+        "id": 1150805,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2821499,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/461954"
+  },
+  {
+    "access": 1,
+    "address": "R. Luis Travassos de Moura, 90 - Cruzeiro, Campina Grande - PB, 58415-350, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 410963,
+    "latitude": -7.246145,
+    "longitude": -35.898294,
+    "name": "Pagelar (Montadora)",
+    "stations": [
+      {
+        "id": 991679,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591783,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991680,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591784,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991681,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591785,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991682,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591786,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991683,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591787,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991684,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591788,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1414002,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3257286,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1414003,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3257287,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/410963"
+  },
+  {
+    "access": 1,
+    "address": "R. Quebra Quilos, 99 - Centro, Campina Grande - PB, 58400-208, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 410966,
+    "latitude": -7.220908,
+    "longitude": -35.875893,
+    "name": "Pagelar (Centro)",
+    "stations": [
+      {
+        "id": 991698,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591808,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991699,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591809,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991700,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591810,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991701,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591811,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991702,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591812,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991703,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591813,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1336075,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3117602,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1341864,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3127227,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/410966"
+  },
+  {
+    "access": 1,
+    "address": "R. José Bernardino, 97 - Vila Cabral, Campina Grande - PB, 58408-000",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521748,
+    "latitude": -7.237598052016713,
+    "longitude": -35.86750010000001,
+    "name": "Complexo Heron Marinho Andrade",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1344684,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3131477,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3131478,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521748"
+  },
+  {
+    "access": 1,
+    "address": "R. Pref. Antônio Luiz Coutinho, 2060 - Tambor, Campina Grande - PB, 58414-285, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 597899,
+    "latitude": -7.246402450801049,
+    "longitude": -35.88815409690142,
+    "name": "Pagelar (Distribuidora) II",
+    "stations": [
+      {
+        "id": 1557152,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3491264,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1557153,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3491265,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1557154,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3491266,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1557155,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3491267,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1557156,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3491268,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/597899"
+  },
+  {
+    "access": 1,
+    "address": "Av. Jorn. Assis Chateaubriand, 2060 - Liberdade, Campina Grande - PB, 58414-060, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 410964,
+    "latitude": -7.246383,
+    "longitude": -35.88758,
+    "name": "Pagelar (Distribuidora)",
+    "stations": [
+      {
+        "id": 991691,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591795,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991692,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591796,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991693,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591797,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991694,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591798,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991695,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591799,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991696,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591800,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1341861,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3127223,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1341862,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3127224,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/410964"
+  },
+  {
+    "access": 1,
+    "address": "Bairro Hidelbrando Matias",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581807,
+    "latitude": -6.854745577884653,
+    "longitude": -35.47700749144637,
+    "name": "Hidelbrando Matias",
+    "stations": [
+      {
+        "id": 1511805,
+        "network_id": 1406,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3419079,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 2,
+            "id": 3419080,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581807"
+  },
+  {
+    "access": 1,
+    "address": "R. Luiz Porpino da Silva, 183 - Areia Branco, Guarabira - PB, 58200-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 589658,
+    "latitude": -6.86486853198305,
+    "longitude": -35.495577327449695,
+    "name": "Carregador Osmar de Aquino",
+    "stations": [
+      {
+        "id": 1533096,
+        "network_id": 1406,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3452591,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589658"
+  },
+  {
+    "access": 1,
+    "address": "R. Industrial Luís Carlos Crispim Pímentel, 483-619 - Costa e Silva, João Pessoa - PB  ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 341802,
+    "latitude": -7.173182,
+    "longitude": -34.897903,
+    "name": "Posto Pichilau (Corredor Verde Neoenergia)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 808209,
+        "network_id": 1775,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2309636,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2309637,
+            "kilowatts": 50,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2309638,
+            "kilowatts": 43,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/341802"
+  },
+  {
+    "access": 1,
+    "address": "Av. Cabo Branco, 5160 - Cabo Branco, João Pessoa - PB, 58045-010, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 310535,
+    "latitude": -7.145877,
+    "longitude": -34.80432,
+    "name": "Gulliver Mar Restaurante",
+    "stations": [
+      {
+        "id": 722639,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2167865,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/310535"
+  },
+  {
+    "access": 1,
+    "address": "R. Dep. Odon Bezerra, 184 - Tambiá, João Pessoa - PB, 58020-500, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 357444,
+    "latitude": -7.116383,
+    "longitude": -34.879856,
+    "name": "Shopping Tambiá",
+    "score": 10,
+    "stations": [
+      {
+        "id": 852337,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2376829,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 882183,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2418447,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/357444"
+  },
+  {
+    "access": 1,
+    "address": "Rua Alvin Schimelpheng 131 Condomínio Residencial Parque Verde ",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 581036,
+    "latitude": -7.097243362207326,
+    "longitude": -34.84747777688579,
+    "name": "Condomínio residencial Parque Verde (Coming Soon)",
+    "stations": [
+      {
+        "id": 1509509,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3511014,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581036"
+  },
+  {
+    "access": 1,
+    "address": "Av. Hilton Souto Maior, S/N, Mangabeira, João Pessoa/PB",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 365184,
+    "latitude": -7.161813,
+    "longitude": -34.830713,
+    "name": "Mangabeira Shopping",
+    "score": 8,
+    "stations": [
+      {
+        "id": 872942,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2406015,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/365184"
+  },
+  {
+    "access": 1,
+    "address": "Rua Prefeito Joaquim Gonçalves de Assis, 50 - Jardim Oceania, João Pessoa - PB, 58037-645",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 604967,
+    "latitude": -7.075883748597294,
+    "longitude": -34.832656537652916,
+    "name": "Ville des Plantes",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1582951,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3527277,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/604967"
+  },
+  {
+    "access": 1,
+    "address": "Rua Edson Falconi de Melo, nº. 555, Aeroclube, João Pessoa/PB",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 316715,
+    "latitude": -7.087673,
+    "longitude": -34.847542,
+    "name": "Ferreira Costa Home Center João Pessoa",
+    "score": 8.2,
+    "stations": [
+      {
+        "id": 739038,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2218700,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 835515,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2354777,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/316715"
+  },
+  {
+    "access": 1,
+    "address": "Rua Poeta Targino Teixeira, 251, Altiplano, João Pessoa/PB",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 365524,
+    "latitude": -7.130475,
+    "longitude": -34.826167,
+    "name": "Pátio Altiplano Shopping",
+    "score": 4.8,
+    "stations": [
+      {
+        "id": 874022,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2407271,
+            "kilowatts": 6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1413019,
+        "network_id": 1273,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3255244,
+            "kilowatts": 6,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/365524"
+  },
+  {
+    "access": 1,
+    "address": "rua Arnaud dos Anjos Brandão, 1171",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 596739,
+    "latitude": -7.151701927185059,
+    "longitude": -34.81973648071289,
+    "name": "Viva Energia Solar",
+    "stations": [
+      {
+        "id": 1553596,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3485826,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3485827,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/596739"
+  },
+  {
+    "access": 1,
+    "address": "R. Horácio Trajano de Oliveira, 772 - Cristo Redentor, João Pessoa - PB, 58070-450, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 618666,
+    "latitude": -7.159256157918837,
+    "longitude": -34.87156667850722,
+    "name": "Reinova Energia Inteligente",
+    "stations": [
+      {
+        "id": 1623766,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3600812,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/618666"
+  },
+  {
+    "access": 1,
+    "address": "Av. Pres. Epitácio Pessoa, N 3020 - Tambauzinho, João Pessoa - PB, 58042-006, Brazil",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 326519,
+    "latitude": -7.119865,
+    "longitude": -34.84315,
+    "name": "Audi Center João Pessoa",
+    "score": 7,
+    "stations": [
+      {
+        "id": 766106,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3301584,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3460708,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/326519"
+  },
+  {
+    "access": 1,
+    "address": "Av. Ingá, 92, Manaíra, João Pessoa",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 350627,
+    "latitude": -7.104953,
+    "longitude": -34.830379,
+    "name": "LS Hotel / Adega Restaurante",
+    "score": 6.9,
+    "stations": [
+      {
+        "id": 834592,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2353576,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 835169,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2354356,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/350627"
+  },
+  {
+    "access": 1,
+    "address": "Rua aviador Mário Vieira de Melo, 1500",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 619895,
+    "latitude": -7.106892743946842,
+    "longitude": -34.84352413810814,
+    "name": "BYD Parvi João Pessoa",
+    "stations": [
+      {
+        "id": 1627107,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3610195,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/619895"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Flávio Ribeiro Coutinho, 115 - Manaíra, João Pessoa - PB, 58037-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 310534,
+    "latitude": -7.097585,
+    "longitude": -34.833307,
+    "name": "Mag Shopping",
+    "score": 7.4,
+    "stations": [
+      {
+        "id": 722638,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2167864,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/310534"
+  },
+  {
+    "access": 1,
+    "address": "R. da Aurora, 235 - Miramar, João Pessoa - PB, 58043-270, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 500415,
+    "latitude": -7.121600399410475,
+    "longitude": -34.831716790795326,
+    "name": "Holandas PRIME",
+    "stations": [
+      {
+        "id": 1290479,
+        "network_id": 1272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3041321,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500415"
+  },
+  {
+    "access": 1,
+    "address": "R. Antônio Rabelo Júnior, 161 - Miramar, João Pessoa - PB, 58032-090, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 500323,
+    "latitude": -7.118205955248535,
+    "longitude": -34.837214313447475,
+    "name": "Eco Business Center",
+    "score": 4.9,
+    "stations": [
+      {
+        "id": 1290207,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3040836,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1290208,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 3040837,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/500323"
+  },
+  {
+    "access": 1,
+    "address": "Av. Piaui 623- Estados, João Pessoa - PB, 58030-330, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 595298,
+    "latitude": -7.114173044812733,
+    "longitude": -34.853891618549824,
+    "name": "Intense Body Center",
+    "stations": [
+      {
+        "id": 1549077,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3478396,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/595298"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gen. Edson Ramalho, 277 - Manaíra, João Pessoa - PB, CEP 58038-100",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 456898,
+    "latitude": -7.108878,
+    "longitude": -34.827462,
+    "name": "Un277",
+    "score": 8,
+    "stations": [
+      {
+        "id": 1104587,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2769981,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1537976,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3460733,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/456898"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gov. Flávio Ribeiro Coutinho, 220a - Manaíra, João Pessoa - PB, 58037-900, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 368636,
+    "latitude": -7.098869,
+    "longitude": -34.844975,
+    "name": "Manaíra Shopping",
+    "score": 1.8,
+    "stations": [
+      {
+        "id": 892745,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2431898,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 892746,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2431899,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/368636"
+  },
+  {
+    "access": 1,
+    "address": "Rua Hortência Helena Amorim Brito, 13008",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 537637,
+    "latitude": -7.081687738381732,
+    "longitude": -34.84812170420065,
+    "name": "CasaTudo BR",
+    "score": 2.8,
+    "stations": [
+      {
+        "id": 1389976,
+        "network_id": 1651,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3203120,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537637"
+  },
+  {
+    "access": 1,
+    "address": "Av. Epitacio Pessoa, 1817, Bairro dos Estados",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 405830,
+    "latitude": -7.119464,
+    "longitude": -34.854268,
+    "name": "Sicredi Evolução Epitácio Pessoa",
+    "stations": [
+      {
+        "id": 978225,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2571024,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/405830"
+  },
+  {
+    "access": 1,
+    "address": "Av. Gen. Edson Ramalho, 1131 - Manaíra, João Pessoa - PB, 58038-100",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 551199,
+    "latitude": -7.1001401,
+    "longitude": -34.8343728,
+    "name": "Hotel Manaíra",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1426618,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3282543,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/551199"
+  },
+  {
+    "access": 1,
+    "address": "Av. Espírito Santo, 929 - Estados, João Pessoa - PB, 58030-110, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 620085,
+    "latitude": -7.113465782090129,
+    "longitude": -34.85241885747089,
+    "name": "DNA Mercado",
+    "stations": [
+      {
+        "id": 1627501,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3609323,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620085"
+  },
+  {
+    "access": 1,
+    "address": "R. Dep. José Mariz, 738 - Tambauzinho, João Pessoa - PB, 58042-020",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 521749,
+    "latitude": -7.120429243285074,
+    "longitude": -34.84414715,
+    "name": "Construtora Mashia",
+    "stations": [
+      {
+        "id": 1344685,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3131479,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/521749"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Pojok Indah, Cibadak, Java-Occidentale‎ 43351, Indonésie",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 101549,
+    "latitude": -6.891802,
+    "longitude": 106.782892,
+    "name": "Tok",
+    "stations": [
+      {
+        "id": 170280,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 391417,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/101549"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Nasional III No.2, Muka, Kec. Cianjur, Kabupaten Cianjur, Jawa Barat 43215, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 469959,
+    "latitude": -6.809809,
+    "longitude": 107.149847,
+    "name": "Hyundai Cianjur",
+    "stations": [
+      {
+        "id": 1201303,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2907053,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 10,
+            "id": 2907054,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/469959"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Samsi No. 32, Kota Sukabumi, Java-Occidentale‎ 43116, Indonésie",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 101550,
+    "latitude": -6.919266,
+    "longitude": 106.940193,
+    "name": "Villa",
+    "stations": [
+      {
+        "id": 170281,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 391418,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/101550"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Raya Karang Tengah 427, Cibadak, Sukabumi",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585520,
+    "latitude": -6.896682966638286,
+    "longitude": 106.8192416626318,
+    "name": "PLN UPT Cibadak",
+    "stations": [
+      {
+        "id": 1522536,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3435797,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585520"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Cikapundung Timur No.3, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 518173,
+    "latitude": -6.920137664142752,
+    "longitude": 107.609350271523,
+    "name": "SPKLU PLN Braga Heritage",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1335425,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3116556,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3116557,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3116558,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/518173"
+  },
+  {
+    "access": 1,
+    "address": "4FM7+6W9, Jl. Parahyangan Raya, Kertajaya, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 603334,
+    "latitude": -6.866899714243204,
+    "longitude": 107.46479978783225,
+    "name": "SPKLU Kota Baru Parahyangan",
+    "stations": [
+      {
+        "id": 1576914,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3518786,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3518787,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3518788,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/603334"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Soekarno Hatta No.678, Cipamokolan, Kec. Rancasari, Kota Bandung, Jawa Barat 40292, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 617261,
+    "latitude": -6.9385405624495995,
+    "longitude": 107.67595431914359,
+    "name": "SPKLU PLN BYD  Arista",
+    "stations": [
+      {
+        "id": 1619652,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3591425,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3591426,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617261"
+  },
+  {
+    "access": 1,
+    "address": "Jalan Tol Purbaleunyi Km 125, Rest Area 125, Cibeber, Cimahi Selatan, Cibeber, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40531, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 615557,
+    "latitude": -6.885620083451317,
+    "longitude": 107.5202182869304,
+    "name": "SPKLU PLN Rest Area 125 B Cipularang",
+    "stations": [
+      {
+        "id": 1614964,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3581823,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3581824,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/615557"
+  },
+  {
+    "access": 1,
+    "address": "4JMR+7QG, Mekarsaluyu, Cimenyan, Bandung Regency, West Java, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 593954,
+    "latitude": -6.866424425305184,
+    "longitude": 107.64178816786863,
+    "name": "InterContinental Dago - Porsche AC Charger",
+    "stations": [
+      {
+        "id": 1545414,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3472545,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1545415,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3472546,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/593954"
+  },
+  {
+    "access": 1,
+    "address": "4HCW+9W8, Jl. Sukaasih, Gegerkalong, Kec. Sukasari, Kota Bandung, Jawa Barat 40141, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 573220,
+    "latitude": -6.879071197517136,
+    "longitude": 107.59731654077768,
+    "name": "PLN Bandung Utara",
+    "stations": [
+      {
+        "id": 1486060,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3378027,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1486061,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3378028,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1486062,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3378029,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1486063,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3378030,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1486064,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3378031,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573220"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Soekarno Hatta No.441, Ciseureuh, Kec. Regol, Kota Bandung, Jawa Barat 40255, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 518426,
+    "latitude": -6.94872654290449,
+    "longitude": 107.61166870594025,
+    "name": "SPKLU PLN UP3 BANDUNG",
+    "stations": [
+      {
+        "id": 1336076,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3117603,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3117604,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3117605,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/518426"
+  },
+  {
+    "access": 1,
+    "address": "4CCR+W4, Cikande, Batujajar, West Bandung Regency, West Java 40561, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 617073,
+    "latitude": -6.878073274611947,
+    "longitude": 107.44106244295835,
+    "name": "Spklu CASION",
+    "stations": [
+      {
+        "id": 1619106,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3590470,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/617073"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Ir. H. Juanda No.33, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 585974,
+    "latitude": -6.904273879943025,
+    "longitude": 107.61058408766985,
+    "name": "Dayagreen Courtyard By Marriott Hotel Dago",
+    "stations": [
+      {
+        "id": 1523541,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437441,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585974"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Sukajadi No.182, Cipedes, Kec. Sukajadi, Kota Bandung, Jawa Barat 40161, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 585973,
+    "latitude": -6.88482003142171,
+    "longitude": 107.59679015725851,
+    "name": "DayaGreen Zen Spa Sukajadi (Coming Soon)",
+    "stations": [
+      {
+        "id": 1523540,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437440,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/585973"
+  },
+  {
+    "access": 1,
+    "address": "3JM6+3QP, Jl. Lembong, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 544437,
+    "latitude": -6.917375255044537,
+    "longitude": 107.61195800711033,
+    "name": "DAYA GREEN CROWNE PLAZA BANDUNG",
+    "stations": [
+      {
+        "id": 1408694,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3244347,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3244348,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/544437"
+  },
+  {
+    "access": 1,
+    "address": "XX8P+54M, Jl. Nasional III, Limbangan Timur, Kec. Balubur Limbangan, Kabupaten Garut, Jawa Barat 44186, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542571,
+    "latitude": -7.034512029922391,
+    "longitude": 107.98531108354595,
+    "name": "SPKLU PLN KP Limbangan",
+    "stations": [
+      {
+        "id": 1403610,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3232174,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232175,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542571"
+  },
+  {
+    "access": 1,
+    "address": "5W68+WPC, Jl. Prabu Gajah Agung, Situ, Kec. Sumedang Utara, Kabupaten Sumedang, Jawa Barat 45621, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 573091,
+    "latitude": -6.837691923515309,
+    "longitude": 107.91675221174955,
+    "name": "PLN Sumedang",
+    "stations": [
+      {
+        "id": 1485747,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3377535,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1485748,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3377536,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1485749,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3377537,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573091"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Kabupaten Garut No.15, Paminggir, Kec. Garut Kota, Kabupaten Garut, Jawa Barat 44118, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 609357,
+    "latitude": -7.217084534955843,
+    "longitude": 107.90158439802984,
+    "name": "SPKLU Pendopo Garut",
+    "stations": [
+      {
+        "id": 1598433,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3549371,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3549372,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609357"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Otista No.229, Sukagalih, Kec. Tarogong Kidul, Kabupaten Garut, Jawa Barat 44151, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 616133,
+    "latitude": -7.194506162920661,
+    "longitude": 107.88647074252367,
+    "name": "SPKLU PLN ULP GARUT KOTA",
+    "stations": [
+      {
+        "id": 1616386,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3585416,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3585417,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1616387,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3585418,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/616133"
+  },
+  {
+    "access": 1,
+    "address": "6HC8+QVC, Setupatok, Mundu, Cirebon, West Java 45173, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 413445,
+    "latitude": -6.778061,
+    "longitude": 108.567197,
+    "name": "SPKLU Rest Area KM 208 B",
+    "stations": [
+      {
+        "id": 998465,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2602412,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2602413,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/413445"
+  },
+  {
+    "access": 1,
+    "address": "6HF6+WV4, Rest Area KM 207, Setupatok, Kec. Mundu, Kabupaten Cirebon, Jawa Barat 45173, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 413373,
+    "latitude": -6.775281,
+    "longitude": 108.562172,
+    "name": "SPKLU Rest Area KM 207A Ruas Palikanci",
+    "stations": [
+      {
+        "id": 998287,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2602193,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2602389,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/413373"
+  },
+  {
+    "access": 1,
+    "address": "Rest Area Tol Kanci - Pejagan KM 229 B, Jatirenggang, Kec. Pabuaran, Kabupaten Cirebon, Jawa Barat 45188, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 517234,
+    "latitude": -6.885145566919501,
+    "longitude": 108.70743356645107,
+    "name": "SPKLU Rest Area KM 229B (Arah Jakarta)",
+    "score": 9.3,
+    "stations": [
+      {
+        "id": 1333351,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3112737,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3112738,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1333352,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3112739,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/517234"
+  },
+  {
+    "access": 1,
+    "address": "Rest area KM 228A, Jatirenggang, Kec. Pabuaran, Kabupaten Cirebon, Jawa Barat 45188, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 515521,
+    "latitude": -6.881422532588478,
+    "longitude": 108.7031802535057,
+    "name": "SPKLU Rest Area KM 228A Ruas Kanci - Pejagan (Arah Timur)",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1329067,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3105531,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3105537,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1329068,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3105538,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515521"
+  },
+  {
+    "access": 1,
+    "address": "249Q+WV9, Mingkrik, Pakembaran, Kec. Slawi, Kabupaten Tegal, Jawa Tengah 52411, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583008,
+    "latitude": -6.980230891409588,
+    "longitude": 109.13976530539685,
+    "name": "SPKLU PLN Slawi",
+    "stations": [
+      {
+        "id": 1515047,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3424114,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 10,
+            "id": 3424115,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583008"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Tol Semarang - Batang No.379a, Plelen Lor, Plelen, Kec. Gringsing, Kabupaten Batang, Jawa Tengah 51281, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 484364,
+    "latitude": -6.95754235598651,
+    "longitude": 110.01481633633375,
+    "name": "SPKLU Rest Area KM 379A (Arah Timur)",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1329061,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3105520,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232193,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1403626,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3232194,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1403627,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3232195,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484364"
+  },
+  {
+    "access": 1,
+    "address": "2483+6GH, Jatirejo, Wungurejo, Kec. Ringinarum, Kabupaten Kendal, Jawa Tengah 51356, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 484365,
+    "latitude": -6.984673679344473,
+    "longitude": 110.10362226516008,
+    "name": "SPKLU Rest Area KM 389B (Arah Jakarta)",
+    "stations": [
+      {
+        "id": 1243386,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2971377,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1243387,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2971378,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1610343,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3570842,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3570843,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484365"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Sultan Agung No.86, Wonotingal, Kec. Candisari, Kota Semarang, Jawa Tengah 50252, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 514334,
+    "latitude": -7.009129400000001,
+    "longitude": 110.4165291,
+    "name": "Hotel Padma Semarang",
+    "stations": [
+      {
+        "id": 1325691,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3099886,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/514334"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Singosari Raya No.4, Wonodri, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50242, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533540,
+    "latitude": -7.000311456133886,
+    "longitude": 110.42752549052238,
+    "name": "Daya Green  Hotel Radja",
+    "stations": [
+      {
+        "id": 1378148,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3182871,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533540"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Ki Mangunsarkoro No.15, Karangkidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50136, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 581050,
+    "latitude": -6.990091102953818,
+    "longitude": 110.42904060333967,
+    "name": "Daya green Ventura taman Kuliner",
+    "stations": [
+      {
+        "id": 1509533,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3415587,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/581050"
+  },
+  {
+    "access": 1,
+    "address": "2CHC+72R, Pandansari, Semarang Tengah, Semarang City, Central Java, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 609189,
+    "latitude": -6.971622211525606,
+    "longitude": 110.42027013755359,
+    "name": "SPKLU Queen City Mall",
+    "stations": [
+      {
+        "id": 1597860,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3548504,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1597861,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3548505,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1597862,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3548506,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609189"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pemuda No.148, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 522724,
+    "latitude": -6.983734218025552,
+    "longitude": 110.41389919817448,
+    "name": "SPKLU Balaikota Semarang",
+    "stations": [
+      {
+        "id": 1347516,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136060,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1347517,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3136061,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/522724"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pemuda No.93, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 582236,
+    "latitude": -6.977387563288063,
+    "longitude": 110.41618276387453,
+    "name": "PLN UP3 Semarang",
+    "stations": [
+      {
+        "id": 1512880,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3420773,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3420774,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513385,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3421535,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3421536,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582236"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Ahmad Yani No.143, Pleburan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50241, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 582417,
+    "latitude": -6.991546032734171,
+    "longitude": 110.4252265021205,
+    "name": "Hyundai EV Charging Station Kofihauz",
+    "stations": [
+      {
+        "id": 1513389,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3421546,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582417"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pemuda No.123, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 582415,
+    "latitude": -6.978695438459466,
+    "longitude": 110.41447352617979,
+    "name": "Hotel Novotel Semarang",
+    "stations": [
+      {
+        "id": 1513387,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3421543,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582415"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Gajahmada No.123, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 582413,
+    "latitude": -6.986851438600922,
+    "longitude": 110.42186167091131,
+    "name": "Hotel Tentrem Semarang",
+    "stations": [
+      {
+        "id": 1513382,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3421524,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513383,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3421525,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/582413"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Semarang - Yogyakarta No.37, Karangrejo, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50231, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 423540,
+    "latitude": -7.030407,
+    "longitude": 110.417917,
+    "name": "PLN Distribusi Jateng dan DIY",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1020853,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2641494,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2641495,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2641496,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/423540"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Semarang - Yogyakarta No.37, Karangrejo, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50231, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 423539,
+    "latitude": -7.030407,
+    "longitude": 110.417917,
+    "name": "SPKLU PLN UID Jateng & DIY",
+    "stations": [
+      {
+        "id": 1020852,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2641491,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2641492,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2641493,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/423539"
+  },
+  {
+    "access": 1,
+    "address": "Urbanizacion la Perla, Manzana m, Lote S/N, Pacasmayo 13811, Peru",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 328302,
+    "latitude": -7.4075,
+    "longitude": -79.577736,
+    "name": "Hotel el Faro",
+    "stations": [
+      {
+        "id": 771255,
+        "network_id": 1337,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2261581,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/328302"
+  },
+  {
+    "access": 1,
+    "address": "Av. Corinto Matos, 707 - 759, Marcolândia - PI, 64685-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 478241,
+    "latitude": -7.444999800000012,
+    "longitude": -40.66161039999991,
+    "name": "Pousada Ângelo",
+    "stations": [
+      {
+        "id": 1224842,
+        "network_id": 1146,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2941843,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/478241"
+  },
+  {
+    "access": 1,
+    "address": "Rua arrojado lisboa",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 589760,
+    "latitude": -7.734898987303375,
+    "longitude": -37.99425165804664,
+    "name": "Sigcell (Coming Soon)",
+    "stations": [
+      {
+        "id": 1533497,
+        "network_id": 1637,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3453180,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1533498,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3453182,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/589760"
+  },
+  {
+    "access": 1,
+    "address": "BR-230, 5635 - Santa Terezinha, Massaranduba - PB, 58449-000, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 410967,
+    "latitude": -7.253048,
+    "longitude": -35.833461,
+    "name": "Pagelar (Depósito I)",
+    "stations": [
+      {
+        "id": 991708,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591818,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991709,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591819,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 991710,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591820,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1343961,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3130601,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1343962,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3130602,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/410967"
+  },
+  {
+    "access": 1,
+    "address": "R. Carmelita Silva Araújo, 860 - Três Irmãs, Campina Grande - PB, 58423-500, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 410968,
+    "latitude": -7.253555,
+    "longitude": -35.921686,
+    "name": "Pagelar (Depósito II)",
+    "stations": [
+      {
+        "id": 991713,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 2591826,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1321209,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3092720,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1321210,
+        "outlets": [
+          {
+            "connector": 1,
+            "id": 3092721,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1343959,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3130599,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1343960,
+        "outlets": [
+          {
+            "connector": 11,
+            "id": 3130600,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/410968"
+  },
+  {
+    "access": 1,
+    "address": "Rua Maria Gomes Carneiro, 9 - Tambor, Campina Grande - PB, 58414-495, Brasil",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583144,
+    "latitude": -7.251100043757911,
+    "longitude": -35.887624360620975,
+    "name": "eletro Farias",
+    "stations": [
+      {
+        "id": 1515421,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3424674,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583144"
+  },
+  {
+    "access": 1,
+    "address": "R. José Leitão de Melo, 558, Macaparana - PE, 55865-000, Brazil",
+    "icon": "https://assets.plugshare.com/icons/GR.png",
+    "icon_type": "GR",
+    "id": 413081,
+    "latitude": -7.556289,
+    "longitude": -35.444424,
+    "name": "Pirauá Energia Renovável (Coming Soon)",
+    "stations": [
+      {
+        "id": 997601,
+        "outlets": [
+          {
+            "connector": 15,
+            "id": 3101322,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/413081"
+  },
+  {
+    "access": 1,
+    "address": "Raya Pangandaraan No.285, Babakan, Kec. Pangandaran, Kab. Pangandaran, Jawa Barat 46396, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 519094,
+    "latitude": -7.683938789406501,
+    "longitude": 108.65783751010895,
+    "name": "SPKLU PLN ULP PANGANDARAN",
+    "stations": [
+      {
+        "id": 1337444,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3119832,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/519094"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Kapten Jamhur No.97, Mekarsari, Kec. Banjar, Kota Banjar, Jawa Barat 46321, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 568976,
+    "latitude": -7.371423647622995,
+    "longitude": 108.53585936129093,
+    "name": "SPKLU PLN ULP Banjar",
+    "stations": [
+      {
+        "id": 1474210,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3357350,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3357351,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3357352,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/568976"
+  },
+  {
+    "access": 1,
+    "address": "No., Jl. Jend. Sudirman No.864, Sokayasa, Purwokerto Wetan, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53147, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 525012,
+    "latitude": -7.432089799999999,
+    "longitude": 109.2580048,
+    "name": "SPKLU PLN ULP Purwokerto Kota",
+    "stations": [
+      {
+        "id": 1354241,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3146195,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1354242,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3146196,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3146197,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/525012"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Jend. Sudirman No.113, Purbalingga, Purbalingga Lor, Kec. Purbalingga, Kabupaten Purbalingga, Jawa Tengah 53316",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 576273,
+    "latitude": -7.389611566785722,
+    "longitude": 109.36526657548227,
+    "name": "PLN",
+    "stations": [
+      {
+        "id": 1494614,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3393424,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/576273"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Gerilya Timur No.52, Karanganyar, Purwokerto Kidul, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 576530,
+    "latitude": -7.437744273103728,
+    "longitude": 109.25812903855395,
+    "name": "Hyundai Dealer",
+    "stations": [
+      {
+        "id": 1495502,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3394707,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3394708,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/576530"
+  },
+  {
+    "access": 1,
+    "address": "G6PF+3R6, Wates, Magelang Utara, Magelang City, Central Java 51253, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 568639,
+    "latitude": -7.464732346904501,
+    "longitude": 110.22441890090704,
+    "name": "PLN ULP Magelang KOTA",
+    "stations": [
+      {
+        "id": 1473538,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3356240,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1473539,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3356241,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1473540,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3356242,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/568639"
+  },
+  {
+    "access": 1,
+    "address": "MGFJ+6HV, Baok, Ujung-Ujung, Kec. Pabelan, Kabupaten Semarang, Jawa Tengah 50771, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 517198,
+    "latitude": -7.326943533069388,
+    "longitude": 110.5313454195857,
+    "name": "SPKLU Astra Otopower Rest Area 456 B",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1333261,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3112607,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3112608,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3112609,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1333262,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3112610,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/517198"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Kenanga Jl. Widaran No.1c, Surowedana, Pulisen, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah 57316, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 545340,
+    "latitude": -7.531741954803283,
+    "longitude": 110.59399191500896,
+    "name": "SPKLU PLN ULP BOYOLALI",
+    "stations": [
+      {
+        "id": 1410999,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3249930,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/545340"
+  },
+  {
+    "access": 1,
+    "address": "HCX3+9Q2, Jalan Magelang, Ngablak, Kopeng, Ngablak, Magelang, Kabupaten Magelang, Jawa Tengah 56194, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 524333,
+    "latitude": -7.402572631757739,
+    "longitude": 110.4043897613883,
+    "name": "Sunset Falls Resto",
+    "stations": [
+      {
+        "id": 1352799,
+        "network_id": 1266,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3143703,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/524333"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Perintis Kemerdekaan No.3a, Peraksangkal, Jonggrangan, Kec. Klaten Utara, Kabupaten Klaten, Jawa Tengah 57435, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 543431,
+    "latitude": -7.6892237729652795,
+    "longitude": 110.62279265373945,
+    "name": "SPKLU PLN UP3 Klaten",
+    "stations": [
+      {
+        "id": 1406045,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3238422,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1406078,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3238475,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/543431"
+  },
+  {
+    "access": 1,
+    "address": "MGFJ+7V4, Jl. Tol Semarang - Solo, Baok, Ujung-Ujung, Kec. Pabelan, Kabupaten Semarang, Jawa Tengah 50771, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 609372,
+    "latitude": -7.326886879119445,
+    "longitude": 110.53227170283117,
+    "name": "SPKLU Rest Area 456A",
+    "stations": [
+      {
+        "id": 1598476,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3549457,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3549458,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3549459,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/609372"
+  },
+  {
+    "access": 1,
+    "address": ".",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 428336,
+    "latitude": -7.489901580132978,
+    "longitude": 111.21396493166685,
+    "name": ".",
+    "stations": [
+      {
+        "id": 1040698,
+        "outlets": [
+          {
+            "connector": 14,
+            "id": 3089493,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/428336"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Slamet Riyadi No.468, Purwosari, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57142, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 479601,
+    "latitude": -7.562630994473605,
+    "longitude": 110.79827584326269,
+    "name": "SPKLU PLN UP3 Surakarta",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1229148,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2947894,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 3,
+            "id": 3120459,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3120462,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1337815,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3120461,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3163705,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1406084,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3238482,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/479601"
+  },
+  {
+    "access": 1,
+    "address": "GW99+RP3, Dusun III, Karang Malang, Kec. Masaran, Kabupaten Sragen, Jawa Tengah 57282, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 413442,
+    "latitude": -7.480447,
+    "longitude": 110.919176,
+    "name": "SPKLU Rest Area KM 519 A",
+    "score": 9,
+    "stations": [
+      {
+        "id": 998443,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2602386,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2602387,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/413442"
+  },
+  {
+    "access": 1,
+    "address": "Rest Area KM 519B, Jl. Tol Solo – Ngawi Jl. Raya Ngawi - Solo, Dusun II, Karang Malang, Kec. Masaran, Kabupaten Sragen, Jawa Tengah, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 413443,
+    "latitude": -7.480479,
+    "longitude": 110.92034,
+    "name": "SPKLU Rest Area KM 519 B",
+    "score": 9,
+    "stations": [
+      {
+        "id": 998444,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 2602390,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2602391,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/413443"
+  },
+  {
+    "access": 1,
+    "address": "Jl. MT Haryono No.168, Kejuron, Kec. Taman, Kota Madiun, Jawa Timur 63132, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 601018,
+    "latitude": -7.634386466618488,
+    "longitude": 111.5327662602067,
+    "name": "PLN Madiun",
+    "stations": [
+      {
+        "id": 1568156,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3506697,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1568159,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3506701,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3506702,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601018"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Mayjen Sungkono No.27 A, Nambangan Kidul, Kec. Manguharjo, Kota Madiun, Jawa Timur 63129, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601019,
+    "latitude": -7.6392058477639315,
+    "longitude": 111.51469722390175,
+    "name": "Hyundai Madiun",
+    "stations": [
+      {
+        "id": 1568162,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3506706,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1568163,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3506707,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601019"
+  },
+  {
+    "access": 1,
+    "address": "94X2+P6V, Jl. Panglima Sudirman, Baron, Kec. Baron, Kabupaten Nganjuk, Jawa Timur 64394, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 577209,
+    "latitude": -7.600643961747711,
+    "longitude": 112.10053291171789,
+    "name": "SPKLU PLN Rayon Kertosono",
+    "stations": [
+      {
+        "id": 1497237,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3397998,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/577209"
+  },
+  {
+    "access": 1,
+    "address": "Jl. DR. Soetomo No.56, Payaman, Kec. Nganjuk, Kabupaten Nganjuk, Jawa Timur 64418, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584616,
+    "latitude": -7.604881485876467,
+    "longitude": 111.89705114811659,
+    "name": "SPLU PLN NGANJUK",
+    "stations": [
+      {
+        "id": 1519901,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3431874,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584616"
+  },
+  {
+    "access": 1,
+    "address": "Rest Area Perhutani KM 627, Pepe, Pajaran, Kec. Saradan, Kabupaten Madiun, Jawa Timur 63155, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 484361,
+    "latitude": -7.547035063618773,
+    "longitude": 111.75828941166401,
+    "name": "SPKLU Rest Area KM 626A",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1243368,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2971355,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1243369,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2971356,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2971357,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1243370,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2971358,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2971359,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484361"
+  },
+  {
+    "access": 1,
+    "address": "FQ24+FRF, Pepe, Pajaran, Kec. Saradan, Kabupaten Madiun, Jawa Timur 63155, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 484362,
+    "latitude": -7.54887041655993,
+    "longitude": 111.75717830657959,
+    "name": "SPKLU Rest Area KM 626B",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1243371,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2971360,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1243372,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2971361,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2971362,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1243373,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2971363,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2971364,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/484362"
+  },
+  {
+    "access": 1,
+    "address": "G876+VFM, Sawah, Kedung Mlati, Kec. Kesamben, Kabupaten Jombang, Jawa Timur 61484, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 519280,
+    "latitude": -7.485297601128661,
+    "longitude": 112.31097299605608,
+    "name": "SPKLU Astra Otopower Rest Area KM 695A",
+    "score": 10,
+    "stations": [
+      {
+        "id": 1337932,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3120640,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3120641,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3120642,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/519280"
+  },
+  {
+    "access": 1,
+    "address": "7P49+J7F, Area Kebun, Sumbersuko, Kec. Purwosari, Pasuruan, Jawa Timur 67162, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 620767,
+    "latitude": -7.743413144396711,
+    "longitude": 112.71851018071175,
+    "name": "SPKLU Rest Area 66A",
+    "stations": [
+      {
+        "id": 1629475,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3613498,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3613499,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1629476,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3613500,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3613501,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1629477,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3613502,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1629478,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3613503,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/620767"
+  },
+  {
+    "access": 1,
+    "address": "8MXQ+W77, Petung Sari, Petungasri, Kec. Pandaan, Pasuruan, Jawa Timur 67156, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 583559,
+    "latitude": -7.65021315951774,
+    "longitude": 112.6881666854024,
+    "name": "PLN Pandaan",
+    "stations": [
+      {
+        "id": 1516957,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3427108,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/583559"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Pacet No.10, Kembang Sore, Petak, Kec. Pacet, Kabupaten Mojokerto, Jawa Timur 61374, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584580,
+    "latitude": -7.657644471231011,
+    "longitude": 112.5369705632329,
+    "name": "SPLU PLN PACET",
+    "stations": [
+      {
+        "id": 1519839,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3431764,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584580"
+  },
+  {
+    "access": 1,
+    "address": "JHF3+M89, Jl. Tol Surabaya - Mojokerto, Utara, Pasinan Lemahputih, Kec. Wringinanom, Kabupaten Gresik, Jawa Timur 61176, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 610180,
+    "latitude": -7.375275370670028,
+    "longitude": 112.55326632410288,
+    "name": "SPKLU Rest Area 726B",
+    "stations": [
+      {
+        "id": 1600692,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3553173,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3553174,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1600693,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3553175,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/610180"
+  },
+  {
+    "access": 1,
+    "address": "Jl. R.A Basuni No.15, Sooko, Kec. Sooko, Kabupaten Mojokerto, Jawa Timur 61361, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 573542,
+    "latitude": -7.494152821236849,
+    "longitude": 112.4248605966568,
+    "name": "SPKLU PLN UP3 Mojokerto",
+    "stations": [
+      {
+        "id": 1487072,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3379530,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3379531,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1487073,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3379532,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/573542"
+  },
+  {
+    "access": 1,
+    "address": "PJ7X+G2F, Telaga Utama Road, Sambikerep, Kec. Sambikerep, Kota SBY, Jawa Timur 60217, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 515727,
+    "latitude": -7.286177112596015,
+    "longitude": 112.6474829390645,
+    "name": "SPKLU PLN Ayam Goreng Gringging Lombok",
+    "stations": [
+      {
+        "id": 1329532,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3106333,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3106334,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 3106335,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/515727"
+  },
+  {
+    "access": 1,
+    "address": "8J3J+F99, Semeru, Prigen, Kec. Prigen, Pasuruan, Jawa Timur 67157, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 601841,
+    "latitude": -7.696454717323286,
+    "longitude": 112.63100109994411,
+    "name": "SPLU PLN PRIGEN",
+    "stations": [
+      {
+        "id": 1570637,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3510492,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1570638,
+        "outlets": [
+          {
+            "connector": 10,
+            "id": 3510493,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/601841"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Ketintang Baru No. 11 ",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 420015,
+    "latitude": -7.318533,
+    "longitude": 112.727334,
+    "name": "PJB Surabaya",
+    "stations": [
+      {
+        "id": 1013491,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2629831,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2629832,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1013492,
+        "outlets": [
+          {
+            "connector": 2,
+            "id": 2629833,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1013493,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 2629834,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/420015"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Ahmad Yani No.288, Dukuh Menanggal, Kec. Gayungan, Kota SBY, Jawa Timur 60234, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 513978,
+    "latitude": -7.345261702185092,
+    "longitude": 112.72876024246216,
+    "name": "City Of Tomorrow",
+    "stations": [
+      {
+        "id": 1324727,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098440,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513978"
+  },
+  {
+    "access": 1,
+    "address": "Lantai 1 No.102, WTC SBY, Jl. Pemuda No.27-31, Embong Kaliasin, Kec. Genteng, Kota SBY, Jawa Timur 60271, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 419975,
+    "latitude": -7.262696,
+    "longitude": 112.74811,
+    "name": "SPKLU PLN WTC Surabaya",
+    "stations": [
+      {
+        "id": 1013359,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 2629675,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 2629676,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 7,
+            "id": 2629677,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/419975"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Dr. Soetomo No.42, DR. Soetomo, Kec. Tegalsari, Surabaya, Jawa Timur 60264, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 537339,
+    "latitude": -7.281396078097875,
+    "longitude": 112.7399755641818,
+    "name": "SPKLU PLN ULP Embong Wungu",
+    "stations": [
+      {
+        "id": 1389200,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3201074,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3201075,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/537339"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Diponegoro No.33a, Darmo, Kec. Wonokromo, Surabaya, Jawa Timur 60241, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 533538,
+    "latitude": -7.293017335352851,
+    "longitude": 112.73735739290714,
+    "name": "Daya Green Hotel Pop Diponegoro",
+    "stations": [
+      {
+        "id": 1523543,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3437443,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/533538"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Ahmad Yani No.53 B, Rw2, Sidokumpul, Kec. Sidoarjo, Kabupaten Sidoarjo, Jawa Timur 61212, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 598261,
+    "latitude": -7.450079711174878,
+    "longitude": 112.71821949630976,
+    "name": "PLN UP3 SIDOARJO",
+    "stations": [
+      {
+        "id": 1558263,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3492861,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/598261"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Tidar No.5, Sawahan, Kec. Sawahan, Surabaya, Jawa Timur 60251, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584567,
+    "latitude": -7.25836086151472,
+    "longitude": 112.73221727460623,
+    "name": "Maxone HOTEL Tidar Surabaya Starvo",
+    "stations": [
+      {
+        "id": 1519807,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3431685,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584567"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Raya Gubeng No.98, Gubeng, Kec. Gubeng, Kota SBY, Jawa Timur 60281, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 513976,
+    "latitude": -7.27238660287825,
+    "longitude": 112.74783041328192,
+    "name": "Hotel santika Gubeng",
+    "stations": [
+      {
+        "id": 1324724,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3098437,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/513976"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Niaga Gapura No.FG-19, Lidah Kulon, Kec. Lakarsantri, Surabaya, Jawa Timur 60213, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584618,
+    "latitude": -7.29163220533149,
+    "longitude": 112.65445534139872,
+    "name": "Citraland G-walk Surabaya",
+    "stations": [
+      {
+        "id": 1519906,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3431881,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1519907,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3431882,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584618"
+  },
+  {
+    "access": 1,
+    "address": "JGCW+G8R, Utara, Sumengko, Kec. Wringinanom, Kabupaten Gresik, Jawa Timur 61176, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 613208,
+    "latitude": -7.378613726783206,
+    "longitude": 112.54562929235146,
+    "name": "KM 725A Rest Area",
+    "stations": [
+      {
+        "id": 1609057,
+        "outlets": [
+          {
+            "connector": 3,
+            "id": 3568420,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3568421,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/613208"
+  },
+  {
+    "access": 1,
+    "address": "8VXX+4XJ, Jl. Panglima Sudirman, Purworejo, Kec. Purworejo, Kota Pasuruan, Jawa Timur 67115, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 520621,
+    "latitude": -7.652359759910016,
+    "longitude": 112.89996162056923,
+    "name": "SPKLU PLN UP3 PASURUAN",
+    "stations": [
+      {
+        "id": 1341271,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3126154,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3126155,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1341272,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3126156,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/520621"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Dr. Sutomo No.60, Tisnonegaran, Kec. Kanigaran, Kota Probolinggo, Jawa Timur 67211, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542573,
+    "latitude": -7.749897613000506,
+    "longitude": 113.21725707920233,
+    "name": "SPKLU PLN ULP Probolinggo",
+    "stations": [
+      {
+        "id": 1403636,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3232204,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232205,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542573"
+  },
+  {
+    "access": 1,
+    "address": "Jl. Dharmahusada No.189, Mojo, Kec. Gubeng, Surabaya, Jawa Timur 60285, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 584569,
+    "latitude": -7.267314411600119,
+    "longitude": 112.7711770310998,
+    "name": "Maxone HOTEL Dharmahusada SURABAYA STARVO",
+    "stations": [
+      {
+        "id": 1519810,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3431688,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/584569"
+  },
+  {
+    "access": 1,
+    "address": "7JGC+C5Q, Krajan, Banyuglugur, Kec. Banyuglugur, Kabupaten Situbondo, Jawa Timur 68359, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/G.png",
+    "icon_type": "G",
+    "id": 547565,
+    "latitude": -7.723877057651704,
+    "longitude": 113.62069429190255,
+    "name": "SPKLU REST AREA UTAMA RAYA",
+    "stations": [
+      {
+        "id": 1417545,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3264393,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/547565"
+  },
+  {
+    "access": 1,
+    "address": "7XQW+3QF, Jl. Cemp., Krajan Barat, Sumber Kolak, Kec. Panarukan, Kabupaten Situbondo, Jawa Timur 68351, Indonesia",
+    "icon": "https://assets.plugshare.com/icons/Y.png",
+    "icon_type": "Y",
+    "id": 542574,
+    "latitude": -7.712317122032304,
+    "longitude": 113.99693208748043,
+    "name": "SPKLU PLN UP3 Situbondo",
+    "score": 9,
+    "stations": [
+      {
+        "id": 1403637,
+        "outlets": [
+          {
+            "connector": 13,
+            "id": 3232207,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          },
+          {
+            "connector": 13,
+            "id": 3232208,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      },
+      {
+        "id": 1513850,
+        "outlets": [
+          {
+            "connector": 7,
+            "id": 3422306,
+            "kilowatts": null,
+            "power": 0,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "url": "http://api.plugshare.com/view/location/542574"
+  }
+]
